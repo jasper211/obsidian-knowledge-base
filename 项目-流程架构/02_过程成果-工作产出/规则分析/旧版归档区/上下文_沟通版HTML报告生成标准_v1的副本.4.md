@@ -1,0 +1,556 @@
+---
+type: 项目笔记
+source: 02_过程成果-工作产出/规则分析/旧版归档区
+synced: 2026-06-15
+tags: [项目]
+---
+
+# 沟通版HTML报告生成标准
+## EFA系列第一层产出 · 沟通版报告规范
+> 版本：v1.4 | 制定日期：2026-05-19 | 修订日期：2026-05-25
+> v1.3→v1.4变更：新增价值节点视角的4类HTML渲染规范（Gate状态摘要卡/价值节点链路卡/板块3.5熔断节点区块/关联节点标签），配合SKILL v1.1同步更新
+> 适用：所有域的第一层产出（佣金域 / HR域 / 财务域 / 其他）
+> v1.0→v1.1变更：①流程插入Jasper确认节点 ②沟通版MD由按需改为必须 ③8板块全部固定
+> v1.1→v1.2变更：①新增P0渲染消歧义规则（规则A）②新增.plain禁止附加class规则（规则B）③执行终端自检清单同步更新
+
+---
+
+## 一、标准流程（4步，不可跳步）
+
+```
+Step 1：Kimi 产出第一层MD草稿
+        ↓  文件名：EFAxxx_第一层产出_四标签+规则空白地图_Vx.x.md
+        ↓
+Step 2：Claude 读取MD → 产出沟通版MD草稿
+        ↓  文件名：EFAxxx_沟通版报告草稿_Vx.x.md
+        ↓  内容：8板块全量文字内容（含所有通俗说法）
+        ↓  交付方式：上传给Jasper审阅
+        ↓
+Step 3：Jasper 审阅沟通版MD草稿
+        ↓  ① 语言表达是否准确（技术内容无误、通俗说法无歧义）
+        ↓  ② 8个板块内容是否完整
+        ↓  ③ 可直接批注修改意见，或指令"确认，渲染HTML"
+        ↓
+Step 4：Jasper 确认后 → Claude 将沟通版MD渲染为HTML
+           文件名：EFAxxx_沟通版报告_Vx.x.html
+           内容：与确认后的MD完全一致，不新增内容
+```
+
+**关键约束**：
+- Step 4 的 HTML 内容必须与 Step 3 Jasper 确认的 MD 完全一致，不允许在渲染阶段新增或修改内容
+- Step 2 的沟通版 MD 必须产出，不可跳过直接产出 HTML
+- Step 3 未经 Jasper 确认，不得进入 Step 4
+
+---
+
+## 二、沟通版MD草稿规范（Step 2 产出物）
+
+**文件命名**：`EFAxxx_沟通版报告草稿_Vx.x.md`
+
+**必须包含8个板块**，顺序固定：
+
+```
+# [域名]数据规则分析报告 · 沟通版草稿
+> EFAxxx Vx.x | 日期 | 适用对象：[实际岗位列表]
+
+---
+[报告导言：3-4句，说明这份报告在看什么、发现了什么、下一步是什么]
+
+## 板块1：执行摘要
+## 板块2：数据链全景
+## 板块3：集群风险（无内容时写"本次分析未发现集群风险"）
+## 板块4：P0规则空白
+## 板块5：P1规则空白
+## 板块6：P2规则空白（可合并为表格）
+## 板块7：质检修订记录（无修订时写"本版无质检修订"）
+## 板块8：下一步访谈安排
+```
+
+**MD草稿交付要求**：
+- 每个板块完整，不得留空或写"待补充"
+- 集群风险板块：无论是否存在集群风险，都必须有内容（有则列明，无则说明）
+- 修订板块：无论是否存在修订，都必须有内容（有则列明，无则说明）
+- 通俗说法已按规则写入每条P0/P1/配置表
+
+---
+
+## 三、HTML固定板块结构（Step 4，8板块全部固定）
+
+### 板块1 · 执行摘要
+**内容**：4大指标卡（规则空白总数/P0/P1/P2）+ 4小指标卡（已确认/高风险字段/反向建表/分析表数）
+**每张指标卡必须有**：
+- 大数字（metric-val）
+- 技术标签（metric-label）
+- 通俗子标题（metric-plain）：1句白话说明这个数字是什么意思
+
+**价值节点视角时的Gate状态摘要卡（v1.4新增）**：
+
+当MD草稿板块1含「价值节点Gate状态一览」时，用以下CSS类渲染（紧接4小指标卡之后，独立一行）：
+
+```html
+<!-- Gate状态摘要行，3列固定 -->
+<div class="gate-summary">
+  <div class="gate-card gate-pass">
+    <div class="gate-val">X</div>
+    <div class="gate-label">通过节点（🟢+🟡）</div>
+    <div class="gate-plain">已进入规则分析，本报告覆盖范围</div>
+  </div>
+  <div class="gate-card gate-fuse">
+    <div class="gate-val">X</div>
+    <div class="gate-label">熔断节点（🔴）</div>
+    <div class="gate-plain">当前无法进入规则分析，需优先补建</div>
+  </div>
+  <div class="gate-card gate-p0">
+    <div class="gate-val">X</div>
+    <div class="gate-label">P0规范化节点（🟡）</div>
+    <div class="gate-plain">通过但有改善项，规则空白地图已标注</div>
+  </div>
+</div>
+```
+
+CSS类定义（加入`:root`变量区和`<style>`块）：
+```css
+.gate-summary {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 12px 0;
+}
+.gate-card {
+  border-radius: 10px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+}
+.gate-val {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+}
+.gate-label {
+  font-size: 12px;
+  margin-top: 6px;
+  color: var(--text2);
+}
+.gate-plain {
+  font-size: 11px;
+  margin-top: 4px;
+  font-style: italic;
+  color: var(--text3);
+}
+.gate-pass { background: var(--confirmed-bg); }
+.gate-pass .gate-val { color: var(--confirmed); }
+.gate-fuse { background: var(--p0-bg); }
+.gate-fuse .gate-val { color: var(--p0); }
+.gate-p0 { background: var(--p1-bg); }
+.gate-p0 .gate-val { color: var(--p1); }
+```
+
+### 板块2 · 数据链全景
+**内容**：按实际数据链顺序排列所有分析表 + 配置表/参数表网格
+**每个链路节点必须有**：表名（中文+英文）/ P级标注 / 表类型标签 / 通俗一句话
+**每张配置表卡片必须有**：技术风险标签 / 通俗说法方块 / 风险后果一句话
+
+**价值节点视角时的链路渲染（v1.4新增）**：
+
+当MD草稿板块2使用价值节点双层结构时，每个VN-PAY节点用以下CSS类渲染：
+
+```html
+<!-- 价值节点卡，替代原chain-box -->
+<div class="vn-card vn-p0">  <!-- 🟡P0规范化用vn-p0，🟢通过用vn-pass -->
+  <div class="vn-header">
+    <span class="vn-id">VN-PAY-XX</span>
+    <span class="vn-name">节点名称</span>
+    <span class="vn-status">🟡 P0规范化</span>
+  </div>
+  <div class="vn-gate">
+    Gate①挂数：<span class="gate-tag pass">PASS</span>
+    Gate②落地：<span class="gate-tag partial">PARTIAL</span>
+    Gate③追溯：<span class="gate-tag partial">PARTIAL</span>
+  </div>
+  <div class="vn-flow">
+    <span class="vn-from">起点A：[输入描述]</span>
+    <span class="vn-arrow">→</span>
+    <span class="vn-to">终点Z：[输出描述]</span>
+  </div>
+  <div class="vn-meta">
+    生产方：[姓名] ｜ 消费方：[下游] ｜ 频次：[月×N]
+  </div>
+  <div class="vn-tables">
+    涉及表：[表名1（通俗一句话）] ← <span class="risk-tag p0">★P0</span>
+  </div>
+</div>
+
+<!-- 熔断节点待补建链路（精简卡，引导至板块3.5）-->
+<div class="vn-fuse-hint">
+  ⚠️ 另有X个熔断节点，当前无法进入规则分析 → 详见板块3.5
+</div>
+```
+
+CSS类定义（加入`<style>`块）：
+```css
+.vn-card {
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  padding: 14px 16px;
+  margin-bottom: 10px;
+}
+.vn-p0 { background: var(--p1-bg); border-left: 4px solid var(--p1); }
+.vn-pass { background: var(--confirmed-bg); border-left: 4px solid var(--confirmed); }
+.vn-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+.vn-id { font-size: 11px; font-weight: 700; color: var(--text3); }
+.vn-name { font-size: 13px; font-weight: 600; flex: 1; }
+.vn-status { font-size: 11px; }
+.vn-gate { font-size: 11px; color: var(--text2); margin-bottom: 6px; }
+.gate-tag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 1px 6px;
+  border-radius: 4px;
+  margin: 0 3px;
+}
+.gate-tag.pass { background: var(--confirmed-bg); color: var(--confirmed); }
+.gate-tag.partial { background: var(--p1-bg); color: var(--p1-text); }
+.gate-tag.fail { background: var(--p0-bg); color: var(--p0-text); }
+.vn-flow { font-size: 12px; margin-bottom: 6px; }
+.vn-from, .vn-to { color: var(--text2); }
+.vn-arrow { color: var(--text3); margin: 0 6px; }
+.vn-meta { font-size: 11px; color: var(--text3); margin-bottom: 6px; }
+.vn-tables { font-size: 12px; color: var(--text2); }
+.risk-tag { font-size: 10px; font-weight: 700; padding: 1px 5px; border-radius: 3px; }
+.risk-tag.p0 { background: var(--p0); color: white; }
+.risk-tag.p1 { background: var(--p1); color: white; }
+.vn-fuse-hint {
+  background: var(--p0-bg);
+  border: 1px dashed var(--p0-border);
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 12px;
+  color: var(--p0-text);
+  margin-top: 12px;
+  text-align: center;
+}
+```
+
+### 板块3 · 集群风险
+**无论是否有集群风险，本板块必须存在。**
+- 有集群风险：展示集群横幅（.spof-banner），每张表一行，格式：`[风险标签] [表名] — [风险描述] + [通俗比喻]`；底部固定关联 SPOF 结构性风险说明
+- 无集群风险：展示绿色说明框，文字：「本次分析未发现集群风险（同一岗位归口P0级空白<2条）」
+
+### 板块3.5 · 熔断节点·优先补建清单（价值节点视角时必须存在，v1.4新增）
+
+**无论熔断节点数量多少，价值节点视角时本板块必须存在。**
+- 有熔断节点：展示熔断横幅（`.fuse-banner`），每个节点一行
+- 无熔断节点：展示绿色说明框，文字：「本次分析无熔断节点，全部价值节点均已通过Gate验证」
+
+**有熔断节点时的渲染**：
+
+```html
+<div class="fuse-banner">
+  <div class="fuse-title">
+    ⛔ X个环节Gate验证失败——比P0更紧迫，需要优先补建
+  </div>
+  <table class="fuse-table">
+    <thead>
+      <tr>
+        <th>节点ID</th>
+        <th>价值节点</th>
+        <th>当前核心缺口</th>
+        <th>熔断原因</th>
+        <th>裁定责任人</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="fuse-id">VN-PAY-XX</td>
+        <td>[节点名]</td>
+        <td>[缺口一句话]</td>
+        <td>[Gate失败类型]</td>
+        <td>[责任人]</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="plain">
+    <div class="plain-label">通俗说法</div>
+    [≤3句话通俗比喻]
+  </div>
+</div>
+```
+
+CSS类定义（加入`<style>`块）：
+```css
+.fuse-banner {
+  background: var(--p0-bg);
+  border: 2px solid var(--p0-border);
+  border-radius: 10px;
+  padding: 18px 22px;
+}
+.fuse-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--p0-text);
+  margin-bottom: 14px;
+}
+.fuse-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12.5px;
+  background: var(--surface);
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 12px;
+}
+.fuse-table th {
+  background: rgba(226,75,74,.1);
+  padding: 8px 12px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--p0-text);
+  border-bottom: 1px solid rgba(226,75,74,.12);
+}
+.fuse-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(226,75,74,.08);
+  color: var(--p0-text);
+  vertical-align: top;
+}
+.fuse-table tr:last-child td { border-bottom: none; }
+.fuse-id { font-weight: 700; white-space: nowrap; }
+```
+
+**自检项（加入执行终端自检清单八b）**：
+- [ ] 价值节点视角时，板块3.5存在（有熔断节点用.fuse-banner，无熔断节点用绿色说明框）
+- [ ] 熔断节点表格列数=5列（节点ID/价值节点/核心缺口/熔断原因/裁定责任人）
+- [ ] .fuse-banner和.spof-banner视觉可区分（fuse用虚实边框，spof用纯实线边框）
+
+### 板块4 · P0规则空白
+**内容**：全量P0条目，双列网格布局
+**每条必须有**：编号 / 技术标题（含字段名） / 空白类型标签 / 五问+D维度标签 / 调研状态标签 / 通俗说法方块
+
+**【规则A · P0条目渲染消歧义规则】**（终端测试中发现的歧义点，v1.2新增）
+- MD中若出现「P0-001 + P0-002」双编号合并描述，渲染为**1张** `.risk-card`，`rc-id` 写「P0-001 + P0-002」
+- P0总 `.risk-card` 数 = MD中P0独立展示块数（不等于P0编号总数）
+- 例：MD有8个P0编号但写成5个独立描述块 → 渲染5张卡，每张卡的rc-id标注所含编号
+- **禁止**：把MD中明确合并的双编号块拆成2张独立卡（会造成内容重复）
+- **禁止**：把MD中独立的单编号块合并（会造成内容丢失）
+
+**价值节点视角时的关联节点标签（v1.4新增）**：
+
+当P0/P1条目含「关联节点」字段时，在`.rc-meta`标签组中新增关联节点标签，CSS类`.tag-vn`：
+
+```html
+<!-- 在rc-meta中，其他标签之前 -->
+<span class="tag-vn">VN-PAY-XX · 节点名称</span>
+```
+
+CSS类定义：
+```css
+.tag-vn {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: var(--blue-bg);
+  color: var(--blue-text);
+  font-weight: 500;
+}
+```
+
+P1条目（`.p1-tags`）同样新增`.tag-vn`标签，位置：标签组第一个标签（在空白类型标签之前）。
+
+### 板块5 · P1规则空白
+**内容**：逐条展开，单列列表
+**每条必须有**：编号 / 技术标题 / 标签组（空白类型/归口岗位/调研状态） / 通俗说法方块
+
+### 板块6 · P2规则空白
+**内容**：表格汇总，4列固定
+**列定义**：编号 / 技术术语 / 通俗说法 / 归口岗位
+
+**价值节点视角时的P2表格（v1.4新增，5列）**：
+
+当MD草稿板块6使用5列格式（含关联节点列）时，`.p2-table`保持原有样式，列顺序：
+
+| 编号 | 关联节点 | 技术术语 | 通俗说法 | 归口岗位 |
+
+「关联节点」列内容用`.tag-vn`行内标签渲染（与P0/P1保持一致）。
+
+### 板块7 · 质检修订记录
+**无论是否有修订，本板块必须存在。**
+- 有修订：每条修订用编号徽章 + 修订前后对比 + 通俗说明修订意义
+- 无修订：展示说明框，文字：「本版无质检修订（V1.0直接通过）」
+
+### 板块8 · 下一步访谈安排
+**内容**：实际访谈岗位卡片（每岗位：问题组数/预计时长/重点话题）
+**固定说明语**（每次必须出现，不可修改）：
+> "不是来审查，是来帮大家建共同标准——把脑子里的规则说出来，我们帮你记录成文档，以后新人接手有据可查，遇到争议也有规则可依。"
+
+---
+
+## 四、通俗说法写作规则（固定，5条）
+
+**格式**（HTML中）：
+```html
+<div class="plain">
+  <div class="plain-label">通俗说法</div>
+  [内容，≤3句话，每句≤30字]
+</div>
+```
+
+**【规则B · .plain禁止附加class】**（终端测试中发现的歧义点，v1.2新增）
+- 通俗说法方块只允许 `class="plain"`，不允许任何附加class
+- ✅ 正确：`class="plain"`
+- ❌ 错误：`class="plain p1-plain"` / `class="plain config-plain"` / `class="plain spof-plain"`
+- 理由：附加class未在CSS中定义，在复杂样式场景会引发优先级冲突；且破坏跨板块样式一致性
+
+**规则1 · 比喻锚定**：必须用受访者日常接触的场景类比
+- ✅ 账本 / 开关 / 价目表 / 地图 / 控制面板 / 手写账本vs系统
+- ❌ 数据库 / ETL管道 / API接口 / 配置文件
+
+**规则2 · 风险后果前置**：格式为「如果[操作/情况]，会[后果]」
+- ✅ "如果路由设置错了，大批保单会用错牌照出单，这是直接的合规风险"
+- ❌ "路由规则存在三权合一风险，建议引入独立复核机制"
+
+**规则3 · 字段名保留但降权**：字段名放括号或灰色小字，不作主句主语
+- ✅ "有效期到了之后，`is_active`（是否有效开关）没有自动关掉，出单还是会用到失效的牌照"
+- ❌ "`is_active` 字段未与 `effective_to` 联动导致授权状态失效"
+
+**规则4 · 长度限制**：每条通俗说法 ≤ 3句话
+
+**规则5 · 已确认空白用确定语气**：🔴已确认的空白不用"可能"
+- ✅ "访谈中已确认：这张表现在没有人在主动维护"
+- ❌ "可能存在责任人挂名但实际不维护的情况"
+
+---
+
+## 五、CSS设计规范（固定，不可随意修改）
+
+### 颜色系统
+```css
+--bg: #F7F6F2;
+--surface: #FFFFFF;
+--surface2: #F1EFE8;
+--text: #2C2C2A;
+--text2: #5F5E5A;
+--text3: #888780;
+--p0: #E24B4A; --p0-bg: #FCEBEB; --p0-text: #791F1F; --p0-border: #F09595;
+--p1: #BA7517; --p1-bg: #FAEEDA; --p1-text: #633806; --p1-border: #EF9F27;
+--p2: #3B6D11; --p2-bg: #EAF3DE; --p2-text: #27500A;
+--confirmed: #0F6E56; --confirmed-bg: #E1F5EE;
+--blue: #185FA5; --blue-bg: #E6F1FB; --blue-text: #0C447C;
+--plain-bg: #F9F8F5;
+```
+
+### 必须保留的CSS类（语义不可变）
+| 类名 | 用途 | 可否修改样式 |
+|---|---|---|
+| `.plain` | 通俗说法方块 | 仅可调整间距，颜色/边框不可变 |
+| `.plain-label` | 通俗说法标题 | 不可修改 |
+| `.metric-plain` | 指标卡通俗子标题 | 可调字号，颜色不可变 |
+| `.risk-card` | P0/P1风险卡 | 4px左边框不可去掉 |
+| `.spof-banner` | 集群风险横幅 | 红色背景不可变 |
+| `.chain-box` | 数据链节点 | 可调尺寸 |
+| `.config-card` | 配置表卡片 | 可调布局 |
+| `.p2-table` | P2汇总表格 | 可调样式 |
+
+### 不可修改的布局规则
+- 最大宽度：`max-width: 1020px`
+- 正文字号：`font-size: 14px`，行高：`line-height: 1.7`
+- 指标网格：`grid-template-columns: repeat(4,1fr)`
+- P0网格：`grid-template-columns: 1fr 1fr`（双列）
+- P1列表：单列，每条含通俗说法方块
+- P2：`<table>` 格式，4列固定
+
+---
+
+## 六、文件命名规范
+
+| 文件 | 命名规则 | 示例 |
+|---|---|---|
+| 沟通版MD草稿 | `EFAxxx_沟通版报告草稿_Vx.x.md` | EFA005_沟通版报告草稿_V1.0.md |
+| 沟通版HTML（终版） | `EFAxxx_沟通版报告_Vx.x.html` | EFA005_沟通版报告_V1.0.html |
+
+**版本号规则**：
+- `V1.0`：对应第一层MD最终版（含质检修订）的首次沟通版
+- `V1.1`：Jasper在Step 3提出修改意见后的修订版（MD和HTML同步升版）
+- `V2.0`：技术底稿发生重大结构变更时，沟通版同步升主版本
+
+---
+
+## 七、跨领域适配说明
+
+本规范为通用模板，以下内容须按领域适配，其余保持原样：
+
+| 适配项 | 说明 |
+|---|---|
+| 数据链描述 | 根据实际业务流程重写（佣金域/产品域/财务域链路不同） |
+| 集群风险主体 | 按实际归口岗位填写，不强制"MOMO集群"命名 |
+| 通俗比喻选材 | 贴近该域的日常语言（财务域用"对账/报销单"，产品域用"上架/下架"） |
+| 访谈岗位 | 按实际归口分配，不强制三岗位 |
+| SPOF关联说明 | 仅在存在集群风险时引用Masaki教训，不强制出现 |
+
+---
+
+## 八、Claude执行质检清单（Step 2 产出沟通版MD前自检）
+
+- [ ] 读取的技术MD是Jasper确认的最终版（非草稿）
+- [ ] 8个板块全部存在，无一缺失
+- [ ] 板块3（集群风险）：有内容 或 有"本次无"说明
+- [ ] 板块7（修订记录）：有内容 或 有"本版无修订"说明
+- [ ] 所有P0/P1条目有通俗说法（≤3句，无IT比喻）
+- [ ] 数据链每个节点有通俗一句话
+- [ ] 板块8下一步含固定说明语
+- [ ] 文件命名正确（草稿标注"草稿"，终版去掉"草稿"）
+- [ ] MD草稿已交Jasper审阅，等待确认后再产出HTML
+
+---
+
+## 八b、执行终端自检清单（Step 4 渲染HTML前，Kimi/Qoder/其他终端自检）
+
+- [ ] HTML包含8个 `<div class="section">`，顺序与MD板块一致
+- [ ] P0 `.risk-card` 数量 = MD中P0独立描述块数（非P0编号总数）——规则A
+- [ ] P0每张卡的 `rc-id` 标注与MD一致（含双编号写法如「P0-001 + P0-002」）
+- [ ] 所有 `.plain` 方块只写 `class="plain"`，无任何附加class——规则B
+- [ ] P1全部16条（或实际条数）均有 `.plain` 方块
+- [ ] P0全部条目均有 `.plain` 方块
+- [ ] 配置表卡片（`.config-card`）均有 `.plain` 方块
+- [ ] P2以 `.p2-table` 表格呈现，4列（编号/技术术语/通俗说法/归口岗位）
+- [ ] 板块3集群风险使用 `.spof-banner` 红色背景框（有集群风险时）
+- [ ] 板块7修订记录各条有对应颜色徽章（i1红/i2橙/i3蓝）
+- [ ] 板块8含固定说明语（原文照搬，不可修改）
+- [ ] 17个CSS颜色变量全部定义，数值与规范一致
+- [ ] 布局规则：max-width 1020px / font-size 14px / line-height 1.7 全部符合
+- [ ] HTML文字内容与输入MD完全一致，无新增无删减
+- [ ] 回传声明附在文件末尾注释或footer中：「已执行自检清单15项，HTML文字内容与输入MD完全一致，无新增无删减。」
+
+**价值节点视角时的额外检查项（v1.4新增，有VN-PAY编号时必须执行）**：
+- [ ] 板块1含`.gate-summary`（3列Gate状态摘要卡）
+- [ ] 板块2每个通过节点使用`.vn-card`（而非原`.chain-box`）
+- [ ] 板块2末尾含`.vn-fuse-hint`提示框（有熔断节点时）
+- [ ] 板块3.5存在且使用`.fuse-banner`（有熔断节点时）
+- [ ] 所有P0/P1条目的`.rc-meta`/`.p1-tags`含`.tag-vn`标签
+- [ ] P2表格为5列（含关联节点列）
+- [ ] `.fuse-banner`与`.spof-banner`样式可视觉区分
+
+---
+
+## 九、版本记录
+
+| 版本 | 日期 | 变更说明 |
+|---|---|---|
+| v1.0 | 2026-05-19 | 初版建立，首次应用于EFA005 |
+| v1.1 | 2026-05-19 | ①流程插入Jasper确认节点（Step 3） ②沟通版MD由按需改为必须产出 ③集群风险+修订板块由按需改为固定8板块之一 |
+| v1.2 | 2026-05-19 | ①新增规则A（P0渲染消歧义：risk-card数=MD独立描述块数，非编号总数）②新增规则B（.plain禁止附加class）③新增执行终端自检清单（八b，15项）——均来自EFA005终端测试实测发现 |
+| v1.3 | 2026-05-20 | 文件重命名（去除「EFA系列」前缀，改为通用命名）；适用范围说明更新为全域通用；内容规范无变更 |
+| v1.4 | 2026-05-25 | 新增价值节点视角的4类HTML渲染规范：①Gate状态摘要卡（.gate-summary/.gate-card）②价值节点链路卡（.vn-card/.gate-tag）③板块3.5熔断节点区块（.fuse-banner/.fuse-table）④关联节点标签（.tag-vn）。配合SKILL v1.1同步更新；执行终端自检清单新增7项价值节点视角检查 |
+
+---
+
+*规范制定：Claude（规划层）| 授权：Jasper*
+*首次应用：EFA005_沟通版报告_V1.0.html（佣金域）
+验证案例：HR001_沟通版报告_V1.0.html（HR域）/ FIN001_沟通版报告_V1.0.html（财务域）
+终端测试：EFA005_沟通版报告_V1.1.html（规则A/B验证产出）*

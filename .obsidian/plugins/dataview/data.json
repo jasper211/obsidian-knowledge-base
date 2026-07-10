@@ -1,0 +1,11 @@
+{
+  "renderNullAs": "\\-",
+  "taskCompletionTracking": false,
+  "taskCompletionText": "completion",
+  "warnOnEmptyResult": true,
+  "refreshEnabled": true,
+  "refreshInterval": 2500,
+  "defaultDateFormat": "YYYY-MM-DD",
+  "defaultDateTimeFormat": "YYYY-MM-DD HH:mm",
+  "enableSqlite": false
+}

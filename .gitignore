@@ -1,0 +1,25 @@
+# Obsidian workspace files (change too frequently, no knowledge value)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Obsidian trash
+.trash/
+
+# Obsidian sync internal cache
+.obsidian/sync.json
+.obsidian/cache
+
+# Node modules (if any scripts exist)
+node_modules/
+
+# Logs
+*.log

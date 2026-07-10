@@ -1,0 +1,8 @@
+{
+  "smart_connections_embed_model": "TaylorAI/bge-micro-v2",
+  "smart_connections_chat_model": "disabled",
+  "smart_connections_force_new_embeddings": false,
+  "smart_connections_auto_embed": true,
+  "installed_at": 1781490912939,
+  "last_version": "4.5.3"
+}
