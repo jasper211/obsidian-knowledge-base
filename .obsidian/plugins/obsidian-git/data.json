@@ -1,0 +1,19 @@
+{
+  "autoSaveInterval": 10,
+  "autoPullInterval": 10,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "disableNotifications": false,
+  "listChangedFilesInMessageBody": true,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "syncMethod": "merge",
+  "customMessageOnAutoBackup": true,
+  "autoBackupAfterFileChange": true,
+  "commitMessage": "obsidian-auto: {{numFiles}} files | {{date}}",
+  "commitMessageOnAutoBackup": "obsidian-auto-backup: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoCommitMessage": "obsidian-auto: {{numFiles}} files | {{date}}"
+}

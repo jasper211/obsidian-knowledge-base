@@ -23,3 +23,7 @@ node_modules/
 
 # Logs
 *.log
+
+# Smart Connections runtime logs (change every session)
+.smart-env/event_logs/
+.sync_log

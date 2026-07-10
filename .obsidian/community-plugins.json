@@ -1,5 +1,6 @@
 [
   "dataview",
   "templater-obsidian",
-  "smart-connections"
+  "smart-connections",
+  "obsidian-git"
 ]
