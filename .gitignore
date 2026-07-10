@@ -27,3 +27,9 @@ node_modules/
 # Smart Connections runtime logs (change every session)
 .smart-env/event_logs/
 .sync_log
+
+# Obsidian plugin: graph view cache
+.obsidian/graph.json
+
+# Smart Connections: multi-window session logs
+.smart-env/multi/
