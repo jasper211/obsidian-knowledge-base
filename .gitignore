@@ -24,12 +24,11 @@ node_modules/
 # Logs
 *.log
 
-# Smart Connections runtime logs (change every session)
-.smart-env/event_logs/
+# Smart Connections: 整个目录都是插件本地生成的缓存/嵌入模型文件（非笔记内容），
+# 2026-07-16 实测 443MB/8355个文件，是导致 iCloud 同步"卡在上传"的元凶，
+# 插件下次运行会自动重新生成，不需要进git也不需要进iCloud同步
+.smart-env/
 .sync_log
 
 # Obsidian plugin: graph view cache
 .obsidian/graph.json
-
-# Smart Connections: multi-window session logs
-.smart-env/multi/
