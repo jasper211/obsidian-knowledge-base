@@ -32,3 +32,6 @@ node_modules/
 
 # Obsidian plugin: graph view cache
 .obsidian/graph.json
+
+# Obsidian Git plugin: 终端交互捕获文件（SSH host key确认提示等运行时噪音，非凭证本身）
+.obsidian/plugins/obsidian-git/.git_credentials_input

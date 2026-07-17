@@ -1,0 +1,21 @@
+---
+type: concept_atom
+concept_type: 规则
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/全域/全域_价值节点信号提取基线_v1.0.md
+authority_layer: 02_草稿
+confidence: UNSTATED
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+extracted_at: 2026-07-16T16:46:51
+---
+
+# VN-IBRD-01行动项
+
+VN-IBRD-01（合作伙伴尽调记录）需明确尽调完成后的合作路径判断规则（9付/UNIVIN），并指定对接人。
+
+## 关联概念
+
+- [[VN-IBRD-01]]

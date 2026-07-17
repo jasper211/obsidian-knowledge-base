@@ -1,0 +1,21 @@
+---
+type: concept_atom
+concept_type: 决策
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/EA_P0/访谈问题清单_EA_P0_v4.1.md
+authority_layer: 02_草稿
+confidence: UNSTATED
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类(已归入非正式簇)
+entity_ref: CLUSTER-D域边界确认
+extracted_at: 2026-07-17T03:21:40
+---
+
+# D域MGA独立
+
+MGA（机构合作）业务与经代业务是两套独立业务，无业务环节重叠，应保持完全独立分类，不并入I域。
+
+## 关联概念
+
+- [[I域经代业务边界]]

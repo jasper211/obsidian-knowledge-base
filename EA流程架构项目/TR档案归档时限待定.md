@@ -1,0 +1,21 @@
+---
+type: concept_atom
+concept_type: 规则
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-HRD-01_TR招聘入职确认_v0.1.md
+authority_layer: 02_草稿
+confidence: UNSTATED
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类(已归入非正式簇)
+entity_ref: CLUSTER-TR入职档案模板缺失
+extracted_at: 2026-07-16T19:19:11
+---
+
+# TR档案归档时限待定
+
+入职材料需在入职后多少工作日内完成归档，目前未规定，需补充。
+
+## 关联概念
+
+- [[TR入职档案模板缺失]]

@@ -1,0 +1,29 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/PAY域_价值节点信号提取基线_v1.0.md
+authority_layer: 02_草稿
+confidence: UNSTATED
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类(已归入非正式簇)
+entity_ref: CLUSTER-PAY域价值节点
+extracted_at: 2026-07-16T18:25:55
+---
+
+# PAY域节点编码规则
+
+PAY域（财务支付板块）所有价值节点编码前缀统一为VN-PAY，涵盖佣金、服务结算、权益兑现、银行活动、报销、体系外资金等财务闭环。
+
+## 关联概念
+
+- [[VN-PAY-01]]
+- [[VN-PAY-02]]
+- [[VN-PAY-03]]
+- [[VN-PAY-04]]
+- [[VN-PAY-05]]
+- [[VN-PAY-06]]
+- [[VN-PAY-07]]
+- [[VN-PAY-08]]
+- [[VN-PAY-09]]
