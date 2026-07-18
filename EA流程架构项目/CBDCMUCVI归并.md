@@ -19,3 +19,7 @@ Mark于2026-04-11裁定将CBD/CMU/CVI三个L3归并至COM，但dim_process尚未
 ## 关联概念
 
 - [[L3-COM佣金蓝图V1.0]]
+
+## 所属枢纽
+
+- [[L3-COM]]

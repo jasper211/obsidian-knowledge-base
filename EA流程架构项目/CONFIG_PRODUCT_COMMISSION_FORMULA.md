@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T20:29:48
 
 - [[Fact_Commission_Rate]]
 - [[DIM_COMMISSION_RATE]]
+
+## 所属枢纽
+
+- [[L3-COM]]

@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T13:06:00
 
 - [[L3-CDA]]
 - [[validate_kb.py]]
+
+## 所属枢纽
+
+- [[L3-CDA]]

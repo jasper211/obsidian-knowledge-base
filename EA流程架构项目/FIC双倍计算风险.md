@@ -20,3 +20,7 @@ L3-COM全局风险R-COM-06：Commission plan与license call组合不唯一，导
 
 - [[市场佣金表(月)]]
 - [[VN-PAY-01]]
+
+## 所属枢纽
+
+- [[L3-COM]]

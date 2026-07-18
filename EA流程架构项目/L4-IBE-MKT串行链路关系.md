@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T13:09:13
 - [[L4-IBE-MKT-01]]
 - [[L4-IBE-MKT-02]]
 - [[L4-IBE-MKT-03]]
+
+## 所属枢纽
+
+- [[L3-IBE]]

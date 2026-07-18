@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T13:12:14
 - [[L3-IBE]]
 - [[L4-IBE-CAP]]
 - [[L4-IBE-REUSE]]
+
+## 所属枢纽
+
+- [[L3-IBE]]

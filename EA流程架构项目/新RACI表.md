@@ -21,3 +21,7 @@ Agent化后各L4的RACI：原执行人变为Skill（部分暂缺），Human gate
 - [[RACI]]
 - [[Human gate]]
 - [[Skill]]
+
+## 所属枢纽
+
+- [[L3-COM]]

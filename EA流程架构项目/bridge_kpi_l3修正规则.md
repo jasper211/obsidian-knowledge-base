@@ -20,3 +20,13 @@ bridge_kpi_l3映射修正需遵循业务域归属验证：T07/T08去掉L3-COM佣
 
 - [[L3映射]]
 - [[Domain Dictionary]]
+
+## 所属枢纽
+
+- [[L3-COM]]
+- [[L3-CRR]]
+- [[L3-IRR]]
+- [[L3-RCM]]
+- [[L3-RSD]]
+- [[L3-RSJD]]
+- [[L3-UCR]]

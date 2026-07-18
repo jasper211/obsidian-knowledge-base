@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T20:29:36
 
 - [[数据表就绪度评估]]
 - [[CONFIG_PRODUCT_COMMISSION_FORMULA]]
+
+## 所属枢纽
+
+- [[L3-COM]]

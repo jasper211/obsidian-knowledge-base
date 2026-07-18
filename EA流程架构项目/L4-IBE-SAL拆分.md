@@ -22,3 +22,7 @@ extracted_at: 2026-07-16T12:55:50
 - [[L4-IBE-SAL-01]]
 - [[L4-IBE-SAL-02]]
 - [[L4-IBE-SAL-03]]
+
+## 所属枢纽
+
+- [[L3-IBE]]

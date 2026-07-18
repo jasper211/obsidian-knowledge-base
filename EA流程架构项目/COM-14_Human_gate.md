@@ -21,3 +21,7 @@ COM-14（付款执行）为Human gate，不可自动化。不做Skill，资金�
 - [[COM-14]]
 - [[Human gate]]
 - [[重塑原则P2]]
+
+## 所属枢纽
+
+- [[L3-COM]]

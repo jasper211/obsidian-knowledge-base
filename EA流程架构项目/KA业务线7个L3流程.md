@@ -20,3 +20,13 @@ KA业务线包含7个L3流程：L3-KAEC（获取KA资源）、L3-KAET（KA评估
 
 - [[L1-L5层级体系]]
 - [[KA业务线生命周期]]
+
+## 所属枢纽
+
+- [[L3-KAEC]]
+- [[L3-KAEM]]
+- [[L3-KAET]]
+- [[L3-KAGA]]
+- [[L3-KAOE]]
+- [[L3-KAOP]]
+- [[L3-KASC]]
