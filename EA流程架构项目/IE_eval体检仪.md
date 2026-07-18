@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-11
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-eval154KPI
+entity_type: 非正式主题
+entity_ref: KPI治理
 extracted_at: 2026-07-16T12:06:10
 ---
 
@@ -21,3 +21,7 @@ IE eval作为体检仪，照出EA侧三个缺口：能力问题覆盖不全（82
 - [[能力问题覆盖不全]]
 - [[KPI供给侧提升]]
 - [[154 KPI对齐]]
+
+## 所属枢纽
+
+- [[KPI治理]]

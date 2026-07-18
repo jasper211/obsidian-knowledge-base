@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-范式转换：从SOP到Skill
+entity_type: 非正式主题
+entity_ref: SOP管理
 extracted_at: 2026-07-16T13:13:24
 ---
 
@@ -20,3 +20,7 @@ SOP需满足：形式标准（步骤时间可控、逻辑有序，主观词汇�
 
 - [[SOP标准文档]]
 - [[If-Then规则]]
+
+## 所属枢纽
+
+- [[SOP管理]]

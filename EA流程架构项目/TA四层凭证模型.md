@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-05
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L4层
+entity_type: 非正式主题
+entity_ref: 企业架构分层
 extracted_at: 2026-07-16T12:01:03
 ---
 
@@ -20,3 +20,7 @@ TA 凭证体系分为四层：L1 资金溯源层（证明钱从哪里来，如�
 
 - [[TA8件套]]
 - [[TA业务链路]]
+
+## 所属枢纽
+
+- [[企业架构分层]]

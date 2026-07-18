@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-RACI自动冲突检测
+entity_type: 非正式主题
+entity_ref: RACI冲突处理
 extracted_at: 2026-07-16T12:14:00
 ---
 
@@ -20,3 +20,7 @@ RACI材料已产出280条记录，但存在13处冲突（多A、无A/R、跨文�
 
 - [[RACI]]
 - [[组织设计链路]]
+
+## 所属枢纽
+
+- [[RACI冲突处理]]

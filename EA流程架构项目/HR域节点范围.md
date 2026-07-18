@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-HR域覆盖范围
+entity_type: 非正式主题
+entity_ref: HR域范围
 extracted_at: 2026-07-16T18:42:46
 ---
 
@@ -20,3 +20,7 @@ HR域（人力资源板块）包含14个价值节点，编码前缀为VN-HR/VN-H
 
 - [[价值节点]]
 - [[HR域节点清单]]
+
+## 所属枢纽
+
+- [[HR域范围]]

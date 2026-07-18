@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-建立保司PDF格式对照表
+entity_type: 非正式主题
+entity_ref: 保司PDF对照表
 extracted_at: 2026-07-16T20:51:26
 ---
 
@@ -20,3 +20,7 @@ P1级补建项：编制《13+保司PDF格式特征对照表》，含表头特征
 
 - [[佣金录入岗]]
 - [[佣金按保司原文提取]]
+
+## 所属枢纽
+
+- [[保司PDF对照表]]

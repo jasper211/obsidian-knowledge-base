@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-22
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-交付物frontmatter补全
+entity_type: 非正式主题
+entity_ref: frontmatter补全
 extracted_at: 2026-07-16T11:19:21
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T11:19:21
 
 - [[03层治理规范]]
 - [[frontmatter]]
+
+## 所属枢纽
+
+- [[frontmatter补全]]

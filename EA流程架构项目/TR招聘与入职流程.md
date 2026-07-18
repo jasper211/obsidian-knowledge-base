@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TR招聘需求发起
+entity_type: 非正式主题
+entity_ref: 招聘需求发起
 extracted_at: 2026-07-17T00:43:23
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-17T00:43:23
 ## 关联概念
 
 - [[TR培训交付机制]]
+
+## 所属枢纽
+
+- [[招聘需求发起]]

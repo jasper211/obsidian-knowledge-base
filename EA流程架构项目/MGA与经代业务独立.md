@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-D域边界确认
+entity_type: 非正式主题
+entity_ref: MGA域边界
 extracted_at: 2026-07-17T03:21:40
 ---
 
@@ -19,3 +19,7 @@ MGA（机构合作）业务与经代业务是两套独立业务，无业务环�
 ## 关联概念
 
 - [[I域经代业务边界]]
+
+## 所属枢纽
+
+- [[MGA域边界]]

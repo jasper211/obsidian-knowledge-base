@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-09_归口部门裁定
+entity_type: 非正式主题
+entity_ref: 归口部门裁定_VN-PAY-09_归口部门裁定
 extracted_at: 2026-07-16T17:30:43
 ---
 
@@ -20,3 +20,7 @@ Mark需裁定37.2M体系外资金流的归口部门，推荐归财务部门，Ca
 
 - [[VN-PAY-09]]
 - [[fact_offsystem_flow]]
+
+## 所属枢纽
+
+- [[归口部门裁定_VN-PAY-09_归口部门裁定]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-AML查询+风险三级评估规则
+entity_type: 非正式主题
+entity_ref: AML风险评估
 extracted_at: 2026-07-16T21:18:39
 ---
 
@@ -20,3 +20,7 @@ AML风险评估采用高、中、低三档评级，CO基于查册报告、DD For
 
 - [[DD查册SOP缺失]]
 - [[DD Form执行]]
+
+## 所属枢纽
+
+- [[AML风险评估]]

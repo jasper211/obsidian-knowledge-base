@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-05
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-CP1超额达标
+entity_type: 非正式主题
+entity_ref: CP1超额达标_CP1超额达标
 extracted_at: 2026-07-16T12:15:07
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:15:07
 
 - [[sf_029 Phase1→2]]
 - [[SOP计量]]
+
+## 所属枢纽
+
+- [[CP1超额达标]]

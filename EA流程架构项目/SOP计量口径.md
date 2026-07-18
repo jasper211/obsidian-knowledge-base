@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SOP计量口径定义
+entity_type: 非正式主题
+entity_ref: SOP计量口径_SOP计量口径定义
 extracted_at: 2026-07-16T12:15:26
 ---
 
@@ -19,3 +19,7 @@ SOP计量口径为：完成第二层访谈+规则回填=1条SOP。用于跟踪CP
 ## 关联概念
 
 - [[CP2目标50/92]]
+
+## 所属枢纽
+
+- [[SOP计量口径_SOP计量口径定义]]

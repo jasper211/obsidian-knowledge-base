@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-HR-G023成长路径不足
+entity_type: 非正式主题
+entity_ref: 成长路径不足
 extracted_at: 2026-07-16T22:48:30
 ---
 
@@ -20,3 +20,7 @@ VN-HR-08（员工成长路径方案）仅TR岗位有雏形，其他岗位推广�
 
 - [[VN-HR-08]]
 - [[组织架构稳定]]
+
+## 所属枢纽
+
+- [[成长路径不足]]

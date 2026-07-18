@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-02
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-T02口径异议
+entity_type: 非正式主题
+entity_ref: 口径异议裁定
 extracted_at: 2026-07-17T04:16:49
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-17T04:16:49
 
 - [[T02机构周新接洽激活数]]
 - [[T09签单转化率]]
+
+## 所属枢纽
+
+- [[口径异议裁定]]

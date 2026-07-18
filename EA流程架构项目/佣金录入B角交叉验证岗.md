@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-独立校验岗待招聘
+entity_type: 非正式主题
+entity_ref: 交叉验证岗招聘
 extracted_at: 2026-07-16T20:50:09
 ---
 
@@ -20,3 +20,7 @@ P0级补建项：为佣金录入岗（刘敏然）配置B角，实施四眼原�
 
 - [[佣金录入岗]]
 - [[人工全量交叉检查]]
+
+## 所属枢纽
+
+- [[交叉验证岗招聘]]

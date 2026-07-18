@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-单点风险
+entity_type: 非正式主题
+entity_ref: 单点风险_单点风险
 extracted_at: 2026-07-17T02:19:46
 ---
 
@@ -21,3 +21,7 @@ VN-PAY-07（银行权益活动费对账单）的生产方仅一人（服务台�
 - [[活动费应收]]
 - [[活动费实收]]
 - [[活动凭证包]]
+
+## 所属枢纽
+
+- [[单点风险]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-设计者+验证者
+entity_type: 非正式主题
+entity_ref: 设计者+验证者_设计者+验证者
 extracted_at: 2026-07-16T15:23:57
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T15:23:57
 
 - [[判断型经验]]
 - [[系统性偏差]]
+
+## 所属枢纽
+
+- [[设计者+验证者]]

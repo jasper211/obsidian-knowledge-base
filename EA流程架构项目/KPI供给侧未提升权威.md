@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-13
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KPI供给侧提升
+entity_type: 非正式主题
+entity_ref: KPI供给侧提升_KPI供给侧提升
 extracted_at: 2026-07-16T11:57:06
 ---
 
@@ -21,3 +21,7 @@ EA的03权威层没有任何dim_kpi、企业KPI目录或真KPI文档。KPI供给
 - [[SSOT层]]
 - [[草稿层]]
 - [[能力问题全集v2.0]]
+
+## 所属枢纽
+
+- [[KPI供给侧提升]]

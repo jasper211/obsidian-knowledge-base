@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-内部候选叙事晋升规则
+entity_type: 非正式主题
+entity_ref: Gate规则与验证
 extracted_at: 2026-07-16T11:38:01
 ---
 
@@ -20,3 +20,7 @@ staging_status有6种：ready_for_staging（Gate全PASS，可进EE/IE staging）
 
 - [[Gate字段来源]]
 - [[待办事项]]
+
+## 所属枢纽
+
+- [[Gate规则与验证]]

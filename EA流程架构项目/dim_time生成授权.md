@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-时间维度表待生成
+entity_type: 非正式主题
+entity_ref: 时间维度表问题
 extracted_at: 2026-07-16T13:52:23
 ---
 
@@ -20,3 +20,7 @@ Carrie被授权自行编写并执行dim_time生成脚本，目标范围2024-01-0
 
 - [[dim_time]]
 - [[fact_card字典V2.0]]
+
+## 所属枢纽
+
+- [[时间维度表问题]]

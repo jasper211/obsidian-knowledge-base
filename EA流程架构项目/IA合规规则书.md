@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-IA合规规则
+entity_type: 非正式主题
+entity_ref: IA合规规则_IA合规规则
 extracted_at: 2026-07-16T22:45:18
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T22:45:18
 
 - [[VN-PAY-04熔断原因]]
 - [[合规负责人归属建议]]
+
+## 所属枢纽
+
+- [[IA合规规则]]

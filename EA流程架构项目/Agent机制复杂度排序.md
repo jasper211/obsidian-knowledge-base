@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-权益服务执行机制最简单
+entity_type: 非正式主题
+entity_ref: 权益服务执行机制
 extracted_at: 2026-07-16T15:42:47
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T15:42:47
 - [[银行账户管理Agent]]
 - [[佣金全链路管理Agent]]
 - [[权益服务执行Agent]]
+
+## 所属枢纽
+
+- [[权益服务执行机制]]

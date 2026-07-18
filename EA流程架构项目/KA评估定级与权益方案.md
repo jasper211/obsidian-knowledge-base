@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-02
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA权益差异化逻辑
+entity_type: 非正式主题
+entity_ref: KA权益方案
 extracted_at: 2026-07-17T01:12:44
 ---
 
@@ -19,3 +19,7 @@ KA权益方案由Speaker 1洽谈制定。个人KA采用固定标准权益包；�
 ## 关联概念
 
 - [[KA信息记录与分配]]
+
+## 所属枢纽
+
+- [[KA权益方案]]

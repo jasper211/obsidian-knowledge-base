@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-28
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-访谈问题清单累积式版本
+entity_type: 非正式主题
+entity_ref: 访谈问题清单
 extracted_at: 2026-07-16T12:04:54
 ---
 
@@ -20,3 +20,7 @@ Gap闭环访谈规范SKILL-INT-002 v1.0全新建立，覆盖Gap分级、多轮�
 
 - [[Gap闭环工程]]
 - [[方法论v2.4升级]]
+
+## 所属枢纽
+
+- [[访谈问题清单]]

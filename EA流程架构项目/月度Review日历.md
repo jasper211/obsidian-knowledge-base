@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-月度Review日历
+entity_type: 非正式主题
+entity_ref: 月度Review日历_月度Review日历
 extracted_at: 2026-07-16T12:42:36
 ---
 
@@ -19,4 +19,13 @@ M4项目每月最后一个周五召开1小时月度Review会议（Teresa+Mark+�
 ## 关联概念
 
 - [[周度项目管理节奏]]
+- [[里程碑复盘会]]
+
+## 所属枢纽
+
+- [[月度Review日历]]
+
+## 关联原子（同话题聚类）
+
+- [[月度Review日历]]
 - [[里程碑复盘会]]

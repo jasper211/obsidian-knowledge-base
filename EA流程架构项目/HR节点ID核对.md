@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-13
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-01编码冲突根因
+entity_type: 非正式主题
+entity_ref: HR节点编码冲突
 extracted_at: 2026-07-16T11:54:51
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T11:54:51
 
 - [[能力问题v2.0补齐]]
 - [[D1价值节点清单]]
+
+## 所属枢纽
+
+- [[HR节点编码冲突]]

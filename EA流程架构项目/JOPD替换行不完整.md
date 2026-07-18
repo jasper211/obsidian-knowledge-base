@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-THBOB-01合并入VN-JOPD-01
+entity_type: 非正式主题
+entity_ref: THBOB合并JOPD
 extracted_at: 2026-07-16T12:11:41
 ---
 
@@ -19,3 +19,7 @@ JOPD替换行在完成简短访谈或回填之前仍不完整。如果THBOB未�
 ## 关联概念
 
 - [[VN-THBOB-01合并至VN-JOPD-01]]
+
+## 所属枢纽
+
+- [[THBOB合并JOPD]]

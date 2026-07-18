@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-EEIE接入原则
+entity_type: 非正式主题
+entity_ref: EEIE接入原则_EEIE接入原则
 extracted_at: 2026-07-16T12:08:55
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:08:55
 
 - [[Staging层接入策略]]
 - [[接入级别]]
+
+## 所属枢纽
+
+- [[EEIE接入原则]]

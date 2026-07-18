@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SSOT定义
+entity_type: 非正式主题
+entity_ref: SSOT与SPOF
 extracted_at: 2026-07-16T12:52:00
 ---
 
@@ -20,3 +20,7 @@ SSOT（Single Source of Truth）即唯一真实数据源，通过构建唯一真
 
 - [[SPOF定义]]
 - [[经验机构化]]
+
+## 所属枢纽
+
+- [[SSOT与SPOF]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-GTM-A战略合作执行路径
+entity_type: 非正式主题
+entity_ref: GTM执行路径
 extracted_at: 2026-07-16T12:47:30
 ---
 
@@ -21,3 +21,7 @@ GTM-D模式分三个阶段：伙伴协调（W1-W4，识别可借力合作伙伴�
 - [[GTM-D]]
 - [[合作伙伴]]
 - [[间接渠道]]
+
+## 所属枢纽
+
+- [[GTM执行路径]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-04
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L4交付物桥接表
+entity_type: 非正式主题
+entity_ref: L4桥接表
 extracted_at: 2026-07-16T12:04:35
 ---
 
@@ -19,3 +19,7 @@ L4桥接表的条目数量应以DIM_PROCESS数据库按l3_domain IN ('KA','佣�
 ## 关联概念
 
 - [[L4桥接表V1.0完成]]
+
+## 所属枢纽
+
+- [[L4桥接表]]

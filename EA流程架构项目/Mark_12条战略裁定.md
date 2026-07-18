@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-05
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T12:05:26
 ---
 
@@ -19,3 +19,7 @@ Jasper 35条边界复核中，Mark需完成12条战略/KPI链路裁定（涉及E
 ## 关联概念
 
 - [[半价值型桥接阻塞]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

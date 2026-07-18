@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-缺L4的deliverable_key处理
+entity_type: 非正式主题
+entity_ref: dim_deliverable缺L4
 extracted_at: 2026-07-16T13:52:25
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T13:52:25
 - [[dim_deliverable]]
 - [[deliverable_key]]
 - [[fact_card]]
+
+## 所属枢纽
+
+- [[dim_deliverable缺L4]]

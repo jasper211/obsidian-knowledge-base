@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T12:13:35
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T12:13:35
 ## 关联概念
 
 - [[PAY域与M4-W10对齐]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

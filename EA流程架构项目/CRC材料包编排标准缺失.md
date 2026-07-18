@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-CRC材料包未标准化
+entity_type: 非正式主题
+entity_ref: CRC材料包问题
 extracted_at: 2026-07-17T02:05:25
 ---
 
@@ -21,3 +21,7 @@ CRC材料包的编排标准缺失（无检查清单/资料完整性校验/版本
 - [[VN-ASD-01]]
 - [[投诉记录断点]]
 - [[处理结论断点]]
+
+## 所属枢纽
+
+- [[CRC材料包问题]]

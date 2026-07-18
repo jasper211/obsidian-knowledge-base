@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-09
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-价值节点信号分类
+entity_type: 非正式主题
+entity_ref: 信号分类体系
 extracted_at: 2026-07-16T11:51:52
 ---
 
@@ -20,3 +20,7 @@ experience-engine v2.1 的 entry 分为 4 类：A 原理库（103条，Mark 底�
 
 - [[entry 7段结构]]
 - [[双轨架构 V3/V3.1]]
+
+## 所属枢纽
+
+- [[信号分类体系]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-eval154KPI
+entity_type: 非正式主题
+entity_ref: KPI治理
 extracted_at: 2026-07-16T12:14:11
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:14:11
 
 - [[KPI crosswalk]]
 - [[编号撞车解决]]
+
+## 所属枢纽
+
+- [[KPI治理]]

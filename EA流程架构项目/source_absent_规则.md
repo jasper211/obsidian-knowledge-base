@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-指标口径登记
+entity_type: 非正式主题
+entity_ref: 指标口径登记_指标口径登记
 extracted_at: 2026-07-16T12:02:53
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:02:53
 
 - [[TOB-EVD-008 性质]]
 - [[指标口径冻结]]
+
+## 所属枢纽
+
+- [[指标口径登记]]

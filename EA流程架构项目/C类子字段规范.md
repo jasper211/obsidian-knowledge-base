@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-C类子字段规范
+entity_type: 非正式主题
+entity_ref: 子字段规范
 extracted_at: 2026-07-16T12:13:05
 ---
 
@@ -20,3 +20,7 @@ C类信号子字段包括：action_description（行动描述）、action_owner�
 
 - [[C类信号]]
 - [[三层递进提取法]]
+
+## 所属枢纽
+
+- [[子字段规范]]

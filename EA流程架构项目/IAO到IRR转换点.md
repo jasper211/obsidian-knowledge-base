@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-待确认事项
+entity_type: 非正式主题
+entity_ref: IRR相关事项
 extracted_at: 2026-07-16T16:19:07
 ---
 
@@ -20,3 +20,7 @@ IAO到IRR之间的转换点是“意向确认为正式合作”。一旦一家�
 
 - [[IAO阶段内部流程]]
 - [[IRR阶段内部流程]]
+
+## 所属枢纽
+
+- [[IRR相关事项]]

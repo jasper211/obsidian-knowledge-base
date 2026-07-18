@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-05熔断原因
+entity_type: 非正式主题
+entity_ref: 熔断原因
 extracted_at: 2026-07-16T15:02:11
 ---
 
@@ -20,3 +20,7 @@ VN-HR-06（岗位编制方案）熔断，因为无量化编制管理体系，编
 
 - [[VN-HR-06]]
 - [[岗位编制]]
+
+## 所属枢纽
+
+- [[熔断原因]]

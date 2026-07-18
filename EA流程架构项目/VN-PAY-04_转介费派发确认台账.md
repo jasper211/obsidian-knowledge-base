@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-01
+entity_type: 非正式主题
+entity_ref: 财务流程与凭证
 extracted_at: 2026-07-16T18:26:31
 ---
 
@@ -20,3 +20,7 @@ VN-PAY-04节点：基于Mark签核的应派清单，执行实际的银行转介�
 
 - [[应派清单三件套]]
 - [[IA合规硬指标]]
+
+## 所属枢纽
+
+- [[财务流程与凭证]]

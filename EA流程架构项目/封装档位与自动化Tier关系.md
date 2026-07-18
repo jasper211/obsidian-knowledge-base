@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-封装档位与自动化Tier互补
+entity_type: 非正式主题
+entity_ref: 封装与自动化Tier
 extracted_at: 2026-07-16T15:57:59
 ---
 
@@ -21,3 +21,7 @@ A/B/C/F封装档位回答动作性质上能否封装成Skill（产出格式/规�
 - [[Skill生成前提]]
 - [[物理执行排除]]
 - [[资金安全强制人工]]
+
+## 所属枢纽
+
+- [[封装与自动化Tier]]

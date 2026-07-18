@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-04-28
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-API优先
+entity_type: 非正式主题
+entity_ref: API优先_API优先
 extracted_at: 2026-07-16T12:49:47
 ---
 
@@ -20,3 +20,7 @@ experience-engine 采用 REST + JSON API 协议，业务项目通过 API 调用�
 
 - [[经验机构化系统]]
 - [[insurance-analytics-v2集成]]
+
+## 所属枢纽
+
+- [[API优先]]

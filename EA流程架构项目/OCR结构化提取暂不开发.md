@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-OCR结构化提取投入决策
+entity_type: 非正式主题
+entity_ref: OCR提取决策
 extracted_at: 2026-07-17T01:43:32
 ---
 
@@ -20,3 +20,7 @@ OCR结构化提取功能暂不投入开发，格式变化应对机制尚未建�
 
 - [[OCR]]
 - [[PDF格式]]
+
+## 所属枢纽
+
+- [[OCR提取决策]]

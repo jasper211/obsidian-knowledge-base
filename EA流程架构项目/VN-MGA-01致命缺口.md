@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-05熔断原因
+entity_type: 非正式主题
+entity_ref: 熔断原因
 extracted_at: 2026-07-16T16:49:03
 ---
 
@@ -20,3 +20,7 @@ VN-MGA-03因Gate②落地仅部分通过、验收标准不明确，导致Gate①
 
 - [[联合运营域]]
 - [[熔断]]
+
+## 所属枢纽
+
+- [[熔断原因]]

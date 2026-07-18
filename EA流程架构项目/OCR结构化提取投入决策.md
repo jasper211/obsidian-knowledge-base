@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-OCR结构化提取投入决策
+entity_type: 非正式主题
+entity_ref: OCR提取决策
 extracted_at: 2026-07-16T20:42:42
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T20:42:42
 ## 关联概念
 
 - [[建立保司PDF格式对照表]]
+
+## 所属枢纽
+
+- [[OCR提取决策]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-dim_vn价值节点口径待确认
+entity_type: 非正式主题
+entity_ref: 口径不一致
 extracted_at: 2026-07-16T19:08:26
 ---
 
@@ -20,3 +20,7 @@ dim_vn价值节点总数在数据库查询中为92条（含已废弃3条和多�
 
 - [[价值节点]]
 - [[Gate×Agent化矩阵]]
+
+## 所属枢纽
+
+- [[口径不一致]]

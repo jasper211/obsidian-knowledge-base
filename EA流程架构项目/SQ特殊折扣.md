@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SQ特殊折扣
+entity_type: 非正式主题
+entity_ref: 特殊折扣
 extracted_at: 2026-07-16T12:37:37
 ---
 
@@ -19,3 +19,7 @@ Special Quote，保司针对储蓄分红产品（如永明sungift）提供的特
 ## 关联概念
 
 - [[保司佣金结构调整]]
+
+## 所属枢纽
+
+- [[特殊折扣]]

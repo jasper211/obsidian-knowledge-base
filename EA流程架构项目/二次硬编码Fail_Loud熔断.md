@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-二次硬编码Fail_Loud误伤风险
+entity_type: 非正式主题
+entity_ref: 二次硬编码Fail_Loud_二次硬编码Fail_Loud误伤风险
 extracted_at: 2026-07-16T12:52:00
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:52:00
 
 - [[SSOT定义]]
 - [[架构CI Fail Loud]]
+
+## 所属枢纽
+
+- [[二次硬编码Fail_Loud_二次硬编码Fail_Loud误伤风险]]

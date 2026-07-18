@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-PAY域信号提取基线更新
+entity_type: 非正式主题
+entity_ref: PAY域基线更新
 extracted_at: 2026-07-16T15:26:45
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T15:26:45
 - [[流程蓝图]]
 - [[价值节点清单]]
 - [[信号提取基线]]
+
+## 所属枢纽
+
+- [[PAY域基线更新]]

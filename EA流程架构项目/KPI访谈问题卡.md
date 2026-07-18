@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-执行区
+entity_type: 非正式主题
+entity_ref: 访谈卡片结构
 extracted_at: 2026-07-16T12:08:39
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T12:08:39
 ## 关联概念
 
 - [[真KPI数据源建设]]
+
+## 所属枢纽
+
+- [[访谈卡片结构]]

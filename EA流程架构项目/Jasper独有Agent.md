@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Agent资产沉淀
+entity_type: 非正式主题
+entity_ref: Agent资产沉淀_Agent资产沉淀
 extracted_at: 2026-07-16T16:04:00
 ---
 
@@ -21,3 +21,7 @@ Jasper执行机制中多出的2个Agent（任务管控与执行反馈Agent、持
 - [[任务管控与执行反馈Agent]]
 - [[持续监控优化Agent]]
 - [[L1/VS层]]
+
+## 所属枢纽
+
+- [[Agent资产沉淀]]

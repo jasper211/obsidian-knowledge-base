@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Phase1_10x效率杠杆
+entity_type: 非正式主题
+entity_ref: 10x效率杠杆
 extracted_at: 2026-07-16T12:46:31
 ---
 
@@ -20,3 +20,7 @@ Phase 1 实际耗时约 6 小时，完成预估 67 小时的工作量，杠杆�
 
 - [[Phase 1 产出]]
 - [[经验机构化项目]]
+
+## 所属枢纽
+
+- [[10x效率杠杆]]

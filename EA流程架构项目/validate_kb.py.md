@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-核心校验脚本崩溃
+entity_type: 非正式主题
+entity_ref: 校验脚本崩溃
 extracted_at: 2026-07-16T12:10:45
 ---
 
@@ -20,3 +20,7 @@ validate_kb.py脚本实测崩溃，后续检查没有执行，导致治理自动
 
 - [[治理审计结论]]
 - [[P5恢复治理自动化]]
+
+## 所属枢纽
+
+- [[校验脚本崩溃]]

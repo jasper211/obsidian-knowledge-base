@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-T04_TR字段全空
+entity_type: 非正式主题
+entity_ref: TR字段缺失
 extracted_at: 2026-07-17T03:44:37
 ---
 
@@ -20,3 +20,7 @@ T04（理财师首单陪跑五动作完成率）依赖的fact_policy.tr_emp_id�
 
 - [[fact_policy]]
 - [[T04]]
+
+## 所属枢纽
+
+- [[TR字段缺失]]

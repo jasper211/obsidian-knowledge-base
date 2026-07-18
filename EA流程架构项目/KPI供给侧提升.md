@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KPI供给侧提升
+entity_type: 非正式主题
+entity_ref: KPI供给侧提升_KPI供给侧提升
 extracted_at: 2026-07-16T11:37:54
 ---
 
@@ -20,3 +20,15 @@ KPI供给侧从02层草稿提升至03层权威，需新增分层字段（kpi_lev
 
 - [[03层交付物]]
 - [[权威数据]]
+
+## 所属枢纽
+
+- [[KPI供给侧提升]]
+
+## 关联原子（同话题聚类）
+
+- [[KPI供给侧02→03提升]]
+- [[KPI供给侧提升]]
+- [[KPI供给侧未提升权威]]
+- [[eval需求权威但供给草稿]]
+- [[治理提升流程]]

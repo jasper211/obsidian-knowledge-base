@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-13
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-promotion_manifest检查项
+entity_type: 非正式主题
+entity_ref: 生产写入风险
 extracted_at: 2026-07-16T11:54:12
 ---
 
@@ -19,3 +19,7 @@ staging材料未经P0确认就进入生产口径可能导致错误，promotion m
 ## 关联概念
 
 - [[Production Blocker]]
+
+## 所属枢纽
+
+- [[生产写入风险]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA-G001无标准化培训
+entity_type: 非正式主题
+entity_ref: KA管理问题
 extracted_at: 2026-07-16T22:34:22
 ---
 
@@ -20,3 +20,7 @@ KA评估定级记录（VN-KAET-01）完全缺失，三Gate全FAIL，当前依赖
 
 - [[熔断节点补建清单]]
 - [[C类行动项]]
+
+## 所属枢纽
+
+- [[KA管理问题]]

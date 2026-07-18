@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-05
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-AI协作规范v0.5
+entity_type: 非正式主题
+entity_ref: AI协作规范
 extracted_at: 2026-07-16T12:13:26
 ---
 
@@ -21,3 +21,7 @@ Mark任务协同规则v0.5是一份433行、7节的B层资产，定义了双数�
 - [[B→A涌现证据包]]
 - [[AI协作规范v0.5]]
 - [[双数据库路径映射]]
+
+## 所属枢纽
+
+- [[AI协作规范]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-spec骨架补全
+entity_type: 非正式主题
+entity_ref: spec骨架补全_spec骨架补全
 extracted_at: 2026-07-16T12:44:31
 ---
 
@@ -20,3 +20,7 @@ spec需要建立分层/分主题/分类别的骨架，并优先补全关键缺�
 
 - [[治理母 schema]]
 - [[gate registry]]
+
+## 所属枢纽
+
+- [[spec骨架补全]]

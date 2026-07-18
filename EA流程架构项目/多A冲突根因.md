@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-无A无R冲突根因
+entity_type: 非正式主题
+entity_ref: 冲突根因
 extracted_at: 2026-07-16T13:05:57
 ---
 
@@ -20,3 +20,7 @@ KA矩阵将R与A合并写为'R/A'，导致同一行出现2个含A的角色，共
 
 - [[RACI矩阵]]
 - [[R/A合写]]
+
+## 所属枢纽
+
+- [[冲突根因]]

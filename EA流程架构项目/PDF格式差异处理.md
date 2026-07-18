@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-源头PDF录入字段映射
+entity_type: 非正式主题
+entity_ref: PDF数据录入映射
 extracted_at: 2026-07-17T01:40:54
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-17T01:40:54
 
 - [[佣金率检查]]
 - [[PDF格式对照表]]
+
+## 所属枢纽
+
+- [[PDF数据录入映射]]

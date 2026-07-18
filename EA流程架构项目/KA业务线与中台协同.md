@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-双层架构
+entity_type: 非正式主题
+entity_ref: 中台架构与协同
 extracted_at: 2026-07-16T12:56:41
 ---
 
@@ -20,3 +20,7 @@ KA业务线与RW权益中台在战略层（负责人↔规划经理）、战术�
 
 - [[KA业务线岗位设置]]
 - [[RW权益中台四大板块]]
+
+## 所属枢纽
+
+- [[中台架构与协同]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-范式转换：从SOP到Skill
+entity_type: 非正式主题
+entity_ref: SOP管理
 extracted_at: 2026-07-16T12:51:41
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:51:41
 
 - [[mp_085]]
 - [[SSOT是SPOF防御物理武器]]
+
+## 所属枢纽
+
+- [[SOP管理]]

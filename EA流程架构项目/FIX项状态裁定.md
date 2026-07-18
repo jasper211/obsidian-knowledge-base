@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T13:14:04
 ---
 
@@ -20,3 +20,7 @@ M1对5个FIX项进行了状态裁定：FIX-02（补画流程图）标记为已�
 
 - [[M2启动条件]]
 - [[旧框架废弃]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

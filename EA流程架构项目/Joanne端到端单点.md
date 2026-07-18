@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-单点风险
+entity_type: 非正式主题
+entity_ref: 单点风险_单点风险
 extracted_at: 2026-07-16T18:14:21
 ---
 
@@ -22,3 +22,7 @@ Joanne作为PAY-07唯一责任人，覆盖活动费应收→实收→凭证归�
 - [[活动费实收]]
 - [[活动凭证包]]
 - [[VN-PAY-07]]
+
+## 所属枢纽
+
+- [[单点风险]]

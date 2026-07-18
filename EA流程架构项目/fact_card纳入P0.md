@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FCT_事实表P0P1范围
+entity_type: 非正式主题
+entity_ref: FCT表P0范围
 extracted_at: 2026-07-16T12:14:59
 ---
 
@@ -20,3 +20,7 @@ process_analytics.fact_card 纳入 P0 范围，P0 修正为 4 张表：FCT_POLIC
 
 - [[P0范围定义]]
 - [[fact_card灌数方案]]
+
+## 所属枢纽
+
+- [[FCT表P0范围]]

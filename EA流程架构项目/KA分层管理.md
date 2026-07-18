@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA-G001无标准化培训
+entity_type: 非正式主题
+entity_ref: KA管理问题
 extracted_at: 2026-07-16T12:41:42
 ---
 
@@ -20,3 +20,7 @@ KA分层管理结果未明确完成定义，Owner（Carry）不在场，无法�
 
 - [[KA管理]]
 - [[分层]]
+
+## 所属枢纽
+
+- [[KA管理问题]]

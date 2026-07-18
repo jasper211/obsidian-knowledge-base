@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-A4版本管理Agent
+entity_type: 非正式主题
+entity_ref: 版本管理Agent
 extracted_at: 2026-07-16T11:51:05
 ---
 
@@ -19,3 +19,7 @@ A4是版本管理Agent，未启动。包含3个Skill：JD版本差异提取、�
 ## 关联概念
 
 - [[A3增量更新感知Agent]]
+
+## 所属枢纽
+
+- [[版本管理Agent]]

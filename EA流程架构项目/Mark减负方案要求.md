@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T11:19:07
 ---
 
@@ -20,3 +20,7 @@ M3必须产出Mark减负方案，将集中在Mark身上的Human+Hybrid L4拆解�
 
 - [[核心肉身介入点]]
 - [[M3成功标准]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

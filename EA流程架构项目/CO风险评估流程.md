@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-AML查询+风险三级评估规则
+entity_type: 非正式主题
+entity_ref: AML风险评估
 extracted_at: 2026-07-16T22:20:00
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T22:20:00
 ## 关联概念
 
 - [[尽职调查执行记录]]
+
+## 所属枢纽
+
+- [[AML风险评估]]

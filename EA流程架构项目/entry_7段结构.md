@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-09
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-经验引用粒度升级
+entity_type: 非正式主题
+entity_ref: 经验引用结构
 extracted_at: 2026-07-16T11:51:52
 ---
 
@@ -20,3 +20,7 @@ experience-engine v2.1 的 entry 数据结构包含 7 段：a business_framework
 
 - [[11元数据]]
 - [[A/B/C/D 4类基线]]
+
+## 所属枢纽
+
+- [[经验引用结构]]

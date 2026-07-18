@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-01
+entity_type: 非正式主题
+entity_ref: 财务流程与凭证
 extracted_at: 2026-07-16T12:02:55
 ---
 
@@ -19,3 +19,7 @@ EA 权威数据中 VN-PAY-05 节点状态为部分通过，备注存在费用核
 ## 关联概念
 
 - [[EA口径对齐]]
+
+## 所属枢纽
+
+- [[财务流程与凭证]]

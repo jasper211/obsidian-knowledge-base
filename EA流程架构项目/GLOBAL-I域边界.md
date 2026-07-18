@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-GLOBAL-I域边界
+entity_type: 非正式主题
+entity_ref: I域边界决策
 extracted_at: 2026-07-17T03:03:06
 ---
 
@@ -20,3 +20,7 @@ I域（经代业务）应吸收ASD、RSJD、HRD、IBRD、NG、RCM、JOPD、THBOB
 
 - [[D域独立]]
 - [[域边界确认]]
+
+## 所属枢纽
+
+- [[I域边界决策]]

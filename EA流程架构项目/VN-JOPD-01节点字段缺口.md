@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-JOPD-01字段待补
+entity_type: 非正式主题
+entity_ref: 字段补齐
 extracted_at: 2026-07-16T12:08:07
 ---
 
@@ -20,3 +20,7 @@ VN-THBOB-01在draft中建议合并到VN-JOPD-01，但VN-JOPD-01作为替代节�
 
 - [[hold节点owner决策]]
 - [[证据路径不足]]
+
+## 所属枢纽
+
+- [[字段补齐]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-范式转换：从SOP到Skill
+entity_type: 非正式主题
+entity_ref: SOP管理
 extracted_at: 2026-07-16T13:13:10
 ---
 
@@ -20,3 +20,7 @@ P1节点SOP初稿需提交AI评分，评分<75分者T+1工作日内完成修订�
 
 - [[P1节点SOP]]
 - [[SOP完成率]]
+
+## 所属枢纽
+
+- [[SOP管理]]

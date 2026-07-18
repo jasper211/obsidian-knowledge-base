@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-GLOBAL-I域边界
+entity_type: 非正式主题
+entity_ref: I域边界决策
 extracted_at: 2026-07-16T12:10:55
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:10:55
 
 - [[domain dictionary]]
 - [[T1 reviewed draft]]
+
+## 所属枢纽
+
+- [[I域边界决策]]

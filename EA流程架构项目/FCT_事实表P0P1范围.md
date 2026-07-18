@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FCT_事实表P0P1范围
+entity_type: 非正式主题
+entity_ref: FCT表P0范围
 extracted_at: 2026-07-16T12:39:31
 ---
 
@@ -19,3 +19,7 @@ P0包括FCT_POLICY、FCT_COMMISSION、FCT_SALES_ACTIVITY三张表，覆盖17/32 
 ## 关联概念
 
 - [[FCT_事实表]]
+
+## 所属枢纽
+
+- [[FCT表P0范围]]

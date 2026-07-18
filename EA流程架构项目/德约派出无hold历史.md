@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-德约多层分润代派规则
+entity_type: 非正式主题
+entity_ref: 德约分润代派
 extracted_at: 2026-07-17T01:50:54
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-17T01:50:54
 
 - [[超过100%派发限制标注]]
 - [[德约派出适用类型责任边界]]
+
+## 所属枢纽
+
+- [[德约分润代派]]

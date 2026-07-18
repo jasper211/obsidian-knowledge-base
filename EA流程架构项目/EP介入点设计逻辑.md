@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-30
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-EP关键介入点
+entity_type: 非正式主题
+entity_ref: EP介入点
 extracted_at: 2026-07-16T12:08:24
 ---
 
@@ -19,3 +19,7 @@ M3提出以'企业介入点'为组织颗粒度的设计框架，若Mark确认采
 ## 关联概念
 
 - [[发布基准选择]]
+
+## 所属枢纽
+
+- [[EP介入点]]

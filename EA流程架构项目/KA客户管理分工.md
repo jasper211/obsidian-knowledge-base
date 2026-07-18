@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA客户管理分工
+entity_type: 非正式主题
+entity_ref: KA客户管理
 extracted_at: 2026-07-17T00:20:34
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-17T00:20:34
 
 - [[KA评估定级]]
 - [[牌照管理]]
+
+## 所属枢纽
+
+- [[KA客户管理]]

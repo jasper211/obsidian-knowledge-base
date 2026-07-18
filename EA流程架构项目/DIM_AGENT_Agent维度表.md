@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-dim_process.agentifiability字段不可信
+entity_type: 非正式主题
+entity_ref: Agent维度表问题
 extracted_at: 2026-07-16T11:45:18
 ---
 
@@ -20,3 +20,7 @@ DIM_AGENT是Agent维度表，记录Agent的编码、名称、处理模式（Auto
 
 - [[FACT_CARD事实表]]
 - [[Agent化6维评分]]
+
+## 所属枢纽
+
+- [[Agent维度表问题]]

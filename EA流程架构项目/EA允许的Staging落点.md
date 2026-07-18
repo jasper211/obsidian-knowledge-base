@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-EA内容不可直接写入EEIE_production
+entity_type: 非正式主题
+entity_ref: EA内容冻结与写入
 extracted_at: 2026-07-16T12:03:46
 ---
 
@@ -21,3 +21,7 @@ EA各对象仅允许写入指定的staging或pending表：D1入ea_value_node_sta
 - [[Staging表]]
 - [[Candidate状态]]
 - [[Pending状态]]
+
+## 所属枢纽
+
+- [[EA内容冻结与写入]]

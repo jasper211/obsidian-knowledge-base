@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-交付经理全生命周期管理规则
+entity_type: 非正式主题
+entity_ref: 交付经理职责
 extracted_at: 2026-07-16T19:43:49
 ---
 
@@ -19,3 +19,7 @@ TR（销售支持）仅在交付经理排期满负荷时执行签单动作，不
 ## 关联概念
 
 - [[交付经理唯一Owner原则]]
+
+## 所属枢纽
+
+- [[交付经理职责]]

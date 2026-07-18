@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-合规法务触发条件
+entity_type: 非正式主题
+entity_ref: 合规触发条件
 extracted_at: 2026-07-16T11:54:41
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T11:54:41
 ## 关联概念
 
 - [[供应商准入SLA确认模板]]
+
+## 所属枢纽
+
+- [[合规触发条件]]

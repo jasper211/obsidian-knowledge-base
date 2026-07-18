@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-续保账单状态归并规则
+entity_type: 非正式主题
+entity_ref: 续保账单状态归并
 extracted_at: 2026-07-16T13:52:26
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T13:52:26
 - [[execution_status]]
 - [[FACT_POLICY]]
 - [[fact_card字典V2.0]]
+
+## 所属枢纽
+
+- [[续保账单状态归并]]

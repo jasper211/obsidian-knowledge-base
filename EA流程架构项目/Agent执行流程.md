@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Agent资产沉淀
+entity_type: 非正式主题
+entity_ref: Agent资产沉淀_Agent资产沉淀
 extracted_at: 2026-07-16T12:48:50
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T12:48:50
 - [[BaseAgent]]
 - [[validate方法]]
 - [[告警机制]]
+
+## 所属枢纽
+
+- [[Agent资产沉淀]]

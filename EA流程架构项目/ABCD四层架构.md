@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-04-28
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L4层
+entity_type: 非正式主题
+entity_ref: 企业架构分层
 extracted_at: 2026-07-16T12:49:46
 ---
 
@@ -20,3 +20,7 @@ Mark 经验的分类体系：A 思维体系库（L0-L1 原则/框架）、B 机�
 
 - [[经验机构化系统]]
 - [[EA知识库]]
+
+## 所属枢纽
+
+- [[企业架构分层]]

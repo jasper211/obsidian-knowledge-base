@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-30
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TR入职档案模板缺失
+entity_type: 非正式主题
+entity_ref: TR入职培训
 extracted_at: 2026-07-16T12:08:26
 ---
 
@@ -19,3 +19,7 @@ TR团队材料涉及发展机制和人才流失风险，需确认其在未来组
 ## 关联概念
 
 - [[敏感内容发布边界]]
+
+## 所属枢纽
+
+- [[TR入职培训]]

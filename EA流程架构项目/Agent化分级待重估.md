@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-dim_process.agentifiability字段不可信
+entity_type: 非正式主题
+entity_ref: Agent维度表问题
 extracted_at: 2026-07-16T15:19:54
 ---
 
@@ -20,3 +20,7 @@ dim_process.agentifiability（D1-D6评分）与dim_agent.agent_type对同一L4�
 
 - [[分流矩阵]]
 - [[数据驱动人机分流]]
+
+## 所属枢纽
+
+- [[Agent维度表问题]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-建立ETL需求到上线SOP
+entity_type: 非正式主题
+entity_ref: ETL需求到上线SOP_建立ETL需求到上线SOP
 extracted_at: 2026-07-17T00:52:38
 ---
 
@@ -20,3 +20,7 @@ ETL脚本修改需提出需求并与工程师沟通，修改后佣金率可能�
 
 - [[佣金准入表切换]]
 - [[佣金计算公式]]
+
+## 所属枢纽
+
+- [[ETL需求到上线SOP_建立ETL需求到上线SOP]]

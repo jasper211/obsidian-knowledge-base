@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-DD_Form回收时效规则
+entity_type: 非正式主题
+entity_ref: DD表单管理
 extracted_at: 2026-07-17T00:57:25
 ---
 
@@ -20,3 +20,7 @@ DD Form发出后若三方迟迟不签，线索挂起；挂起超一季度无进�
 
 - [[DD Form状态]]
 - [[线索管理]]
+
+## 所属枢纽
+
+- [[DD表单管理]]

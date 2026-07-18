@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-PAY域信号提取基线更新
+entity_type: 非正式主题
+entity_ref: PAY域基线更新
 extracted_at: 2026-07-16T12:13:04
 ---
 
@@ -19,3 +19,7 @@ PAY域9个节点已有完整基线v1.9，本次全域信号提取任务不重做
 ## 关联概念
 
 - [[全域价值节点信号提取基线]]
+
+## 所属枢纽
+
+- [[PAY域基线更新]]

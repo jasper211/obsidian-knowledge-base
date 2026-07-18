@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-01
+entity_type: 非正式主题
+entity_ref: 财务流程与凭证
 extracted_at: 2026-07-16T18:26:22
 ---
 
@@ -20,3 +20,7 @@ VN-PAY-03节点：基于实收对账确认数据，结合协议约定的分润�
 
 - [[佣金实收确认表]]
 - [[转介费派发确认台账]]
+
+## 所属枢纽
+
+- [[财务流程与凭证]]

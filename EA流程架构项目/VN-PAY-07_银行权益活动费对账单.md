@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-01
+entity_type: 非正式主题
+entity_ref: 财务流程与凭证
 extracted_at: 2026-07-16T18:26:58
 ---
 
@@ -19,3 +19,7 @@ VN-PAY-07节点：根据银行合作协议和活动执行记录，归集银行�
 ## 关联概念
 
 （暂无）
+
+## 所属枢纽
+
+- [[财务流程与凭证]]

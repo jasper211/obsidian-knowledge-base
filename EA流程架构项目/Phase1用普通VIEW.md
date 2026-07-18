@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-第一期产出清单
+entity_type: 非正式主题
+entity_ref: 项目阶段与交付
 extracted_at: 2026-07-16T12:46:44
 ---
 
@@ -19,3 +19,7 @@ P1 四张表行量小于 3,000，实时 JOIN 毫秒级，因此 Phase 1 使用�
 ## 关联概念
 
 （暂无）
+
+## 所属枢纽
+
+- [[项目阶段与交付]]

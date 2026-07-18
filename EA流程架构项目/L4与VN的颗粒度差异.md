@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L4与VN的颗粒度差异
+entity_type: 非正式主题
+entity_ref: 覆盖差异
 extracted_at: 2026-07-16T15:20:18
 ---
 
@@ -19,3 +19,7 @@ dim_vn_l4_bridge表覆盖86个VN中的82个(95%)，但只覆盖368条L4中的142
 ## 关联概念
 
 - [[价值节点]]
+
+## 所属枢纽
+
+- [[覆盖差异]]

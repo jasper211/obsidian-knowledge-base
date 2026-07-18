@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-01绩效评定方案
+entity_type: 非正式主题
+entity_ref: 绩效评定方案
 extracted_at: 2026-07-16T15:01:36
 ---
 
@@ -20,3 +20,7 @@ VN-HR-01（中后台内勤绩效评定）原描述'方案未建立'不准确，�
 
 - [[VN-HR-01]]
 - [[绩效评定]]
+
+## 所属枢纽
+
+- [[绩效评定方案]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-11
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-真KPI目标值阈值设定（非正式，同批次内相似度聚类）
+entity_type: 非正式主题
+entity_ref: 真KPI管理（非正式，同批次内相似度聚类）
 extracted_at: 2026-07-16T12:06:12
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T12:06:12
 ## 关联概念
 
 - [[KPI供给侧02→03提升]]
+
+## 所属枢纽
+
+- [[真KPI管理]]

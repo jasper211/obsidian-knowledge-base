@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TR入职档案模板缺失
+entity_type: 非正式主题
+entity_ref: TR入职培训
 extracted_at: 2026-07-16T19:19:21
 ---
 
@@ -19,3 +19,7 @@ TR入职档案的存放路径需参考VN-HR-03合同归档规则，但尚未明�
 ## 关联概念
 
 - [[TR档案归档时限待定]]
+
+## 所属枢纽
+
+- [[TR入职培训]]

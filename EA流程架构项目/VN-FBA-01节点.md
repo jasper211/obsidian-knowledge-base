@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-FBA-01节点
+entity_type: 非正式主题
+entity_ref: VN节点列表
 extracted_at: 2026-07-16T18:35:15
 ---
 
@@ -20,3 +20,7 @@ VN-FBA-01（月度/季度经营分析报告）属理财师业务分析域，L3�
 
 - [[FA域边界]]
 - [[价值节点]]
+
+## 所属枢纽
+
+- [[VN节点列表]]

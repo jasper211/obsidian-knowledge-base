@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-11
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KPI_crosswalk
+entity_type: 非正式主题
+entity_ref: KPI_crosswalk_KPI_crosswalk
 extracted_at: 2026-07-16T12:06:13
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T12:06:13
 ## 关联概念
 
 - [[154 KPI未对齐]]
+
+## 所属枢纽
+
+- [[KPI_crosswalk]]

@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SLA时限提取规则
+entity_type: 非正式主题
+entity_ref: SLA时限管理
 extracted_at: 2026-07-16T11:45:20
 ---
 
@@ -20,3 +20,7 @@ DIM_PROCESS.sla_hours从L3协同框架.txt中提取，须注明来源段落。�
 
 - [[DIM_PROCESS维度表]]
 - [[sla_hours字段]]
+
+## 所属枢纽
+
+- [[SLA时限管理]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-BAM-01行动项
+entity_type: 非正式主题
+entity_ref: 行动项
 extracted_at: 2026-07-16T16:47:08
 ---
 
@@ -19,3 +19,7 @@ VN-CFM-01（现金流管理报告包）需建立现金流预测报告定稿归�
 ## 关联概念
 
 - [[VN-CFM-01]]
+
+## 所属枢纽
+
+- [[行动项]]

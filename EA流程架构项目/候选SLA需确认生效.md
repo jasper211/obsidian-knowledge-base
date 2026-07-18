@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-异常分级标准
+entity_type: 非正式主题
+entity_ref: SLA规则
 extracted_at: 2026-07-16T11:56:37
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T11:56:37
 ## 关联概念
 
 - [[出行定制服务]]
+
+## 所属枢纽
+
+- [[SLA规则]]

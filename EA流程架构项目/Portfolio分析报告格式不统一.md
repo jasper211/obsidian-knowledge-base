@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-多保司横向对比框架待建立
+entity_type: 非正式主题
+entity_ref: 横向对比框架缺失
 extracted_at: 2026-07-17T02:31:29
 ---
 
@@ -20,3 +20,7 @@ Portfolio分析报告（VN-INS-05）的多保司横向对比分析标准化框�
 
 - [[Portfolio分析报告]]
 - [[VN-INS-05]]
+
+## 所属枢纽
+
+- [[横向对比框架缺失]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-13
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-首轮工作包BOOT-04
+entity_type: 非正式主题
+entity_ref: 首轮工作包
 extracted_at: 2026-07-16T11:54:10
 ---
 
@@ -20,3 +20,7 @@ BOOT-02为P0确认材料复核，目标核对P0会议材料是否仍可直接使
 
 - [[BOOT-01]]
 - [[P0确认材料]]
+
+## 所属枢纽
+
+- [[首轮工作包]]

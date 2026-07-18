@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-岗位族粒度组织维度
+entity_type: 非正式主题
+entity_ref: 组织维度
 extracted_at: 2026-07-16T11:45:18
 ---
 
@@ -20,3 +20,7 @@ DIM_ORG是组织维度表，粒度为岗位级（同一岗位族内可有多个�
 
 - [[FACT_CARD事实表]]
 - [[岗位族编码]]
+
+## 所属枢纽
+
+- [[组织维度]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T11:56:26
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T11:56:26
 - [[分类双轴]]
 - [[实体类型锁定]]
 - [[分级三判据]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

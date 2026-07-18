@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-双层架构
+entity_type: 非正式主题
+entity_ref: 中台架构与协同
 extracted_at: 2026-07-16T12:56:37
 ---
 
@@ -23,3 +23,7 @@ RW权益中台包含权益规划板块（战略设计层）、权益产品板块
 - [[权益产品经理]]
 - [[权益交付经理]]
 - [[权益运营经理]]
+
+## 所属枢纽
+
+- [[中台架构与协同]]

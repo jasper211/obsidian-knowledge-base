@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-27
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-CP1超额达标
+entity_type: 非正式主题
+entity_ref: CP1超额达标_CP1超额达标
 extracted_at: 2026-07-16T12:08:00
 ---
 
@@ -20,3 +20,7 @@ CP1验收目标为：访谈至少完成蔡依娜或JorJor一人，规则回填�
 
 - [[规则回填覆盖率]]
 - [[sf_029 Phase1→2硬门控]]
+
+## 所属枢纽
+
+- [[CP1超额达标]]

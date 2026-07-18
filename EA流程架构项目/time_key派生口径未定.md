@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-28
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-time_key派生口径
+entity_type: 非正式主题
+entity_ref: time_key派生口径_time_key派生口径
 extracted_at: 2026-07-16T12:07:22
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T12:07:22
 - [[time_key]]
 - [[start_date]]
 - [[dim_time表]]
+
+## 所属枢纽
+
+- [[time_key派生口径]]

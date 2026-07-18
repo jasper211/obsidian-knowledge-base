@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FA域熔断节点修正
+entity_type: 非正式主题
+entity_ref: 熔断节点处理_FA域熔断节点修正
 extracted_at: 2026-07-16T22:33:03
 ---
 
@@ -19,3 +19,7 @@ FA域6个节点（VN-FOB-02等）、KA域2个节点（VN-KASC-01等）、PARTNER
 ## 关联概念
 
 - [[熔断节点错放返工]]
+
+## 所属枢纽
+
+- [[熔断节点处理_FA域熔断节点修正]]

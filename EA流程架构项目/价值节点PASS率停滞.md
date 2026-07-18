@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-价值节点PASS率停滞
+entity_type: 非正式主题
+entity_ref: 价值节点Gate状态
 extracted_at: 2026-07-16T15:18:44
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T15:18:44
 ## 关联概念
 
 - [[dim_vn价值节点86个]]
+
+## 所属枢纽
+
+- [[价值节点Gate状态]]

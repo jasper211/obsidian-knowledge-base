@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-BAM-01行动项
+entity_type: 非正式主题
+entity_ref: 行动项
 extracted_at: 2026-07-16T16:47:00
 ---
 
@@ -19,3 +19,7 @@ VN-BAM-01（银行账户全生命周期管理资产包）需建立账户全生�
 ## 关联概念
 
 - [[VN-BAM-01]]
+
+## 所属枢纽
+
+- [[行动项]]

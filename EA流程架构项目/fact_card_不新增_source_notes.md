@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-fact_card_不新增_source_notes
+entity_type: 非正式主题
+entity_ref: fact_card溯源
 extracted_at: 2026-07-16T12:13:50
 ---
 
@@ -19,3 +19,7 @@ Phase 1 不在 fact_card 中新增 source_notes 字段，因为 entry_by + data_
 ## 关联概念
 
 - [[fact_card]]
+
+## 所属枢纽
+
+- [[fact_card溯源]]

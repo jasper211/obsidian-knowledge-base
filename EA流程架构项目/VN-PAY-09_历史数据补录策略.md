@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-体系外资金流补建
+entity_type: 非正式主题
+entity_ref: 体系外资金流补建_体系外资金流补建
 extracted_at: 2026-07-16T17:50:43
 ---
 
@@ -20,3 +20,7 @@ VN-PAY-09的37.2M HKD历史资金流推荐补录近12个月，12个月前的数�
 
 - [[VN-PAY-09补建行动]]
 - [[fact_offsystem_flow表]]
+
+## 所属枢纽
+
+- [[体系外资金流补建]]

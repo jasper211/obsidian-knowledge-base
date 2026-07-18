@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-EQ-03行动项
+entity_type: 非正式主题
+entity_ref: VN-EQ行动项
 extracted_at: 2026-07-16T16:45:36
 ---
 
@@ -19,3 +19,7 @@ VN-EQ-09（权益上市推广素材）需建立标准化上市推广素材模板
 ## 关联概念
 
 - [[VN-EQ-09]]
+
+## 所属枢纽
+
+- [[VN-EQ行动项]]

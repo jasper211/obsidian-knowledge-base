@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-让步×Tier差异化
+entity_type: 非正式主题
+entity_ref: Tier差异化
 extracted_at: 2026-07-16T12:42:55
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T12:42:55
 ## 关联概念
 
 - [[保司Tier分级]]
+
+## 所属枢纽
+
+- [[Tier差异化]]

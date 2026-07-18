@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-三层递进暂停
+entity_type: 非正式主题
+entity_ref: IBRD三层递进_三层递进暂停
 extracted_at: 2026-07-16T21:38:04
 ---
 
@@ -21,3 +21,7 @@ Gate重新验证报告是用于评估补建文档是否满足挂数、落地、�
 - [[三层递进Phase 0]]
 - [[补建三件套]]
 - [[Gate验证框架]]
+
+## 所属枢纽
+
+- [[IBRD三层递进_三层递进暂停]]

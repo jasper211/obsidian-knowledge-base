@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-03
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-日报MD框架
+entity_type: 非正式主题
+entity_ref: MD框架
 extracted_at: 2026-07-16T11:52:12
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T11:52:12
 
 - [[日报MD框架]]
 - [[非任务反馈MD框架]]
+
+## 所属枢纽
+
+- [[MD框架]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-COM-03位置修正
+entity_type: 非正式主题
+entity_ref: 佣金位置修正
 extracted_at: 2026-07-16T16:27:39
 ---
 
@@ -20,3 +20,7 @@ v0.2修正：COM-03（佣金整合与外发）原误列在前置子链末尾，�
 
 - [[交接分派结构]]
 - [[流程蓝图差异登记]]
+
+## 所属枢纽
+
+- [[佣金位置修正]]

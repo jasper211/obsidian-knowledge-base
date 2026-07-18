@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FCT_事实表P0P1范围
+entity_type: 非正式主题
+entity_ref: FCT表P0范围
 extracted_at: 2026-07-16T11:54:35
 ---
 
@@ -19,3 +19,7 @@ FCT_事实表按优先级分三批建设：P0（3张）覆盖53% KPI，P1（+4�
 ## 关联概念
 
 - [[FCT_事实表]]
+
+## 所属枢纽
+
+- [[FCT表P0范围]]

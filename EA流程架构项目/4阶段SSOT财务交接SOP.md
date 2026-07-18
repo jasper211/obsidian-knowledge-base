@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-财务中台4阶段SSOT交接
+entity_type: 非正式主题
+entity_ref: SSOT财务交接
 extracted_at: 2026-07-16T12:51:42
 ---
 
@@ -20,3 +20,7 @@ Masaki实证应用的交接流程：STAGE 01物理级信息提取（四人联合
 
 - [[四人联合访谈]]
 - [[三权物理分离]]
+
+## 所属枢纽
+
+- [[SSOT财务交接]]

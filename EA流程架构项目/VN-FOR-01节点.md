@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-FBA-01节点
+entity_type: 非正式主题
+entity_ref: VN节点列表
 extracted_at: 2026-07-16T18:35:55
 ---
 
@@ -20,3 +20,7 @@ VN-FOR-01（首单陪跑记录）属理财师运营支持域，L3流程'理财�
 
 - [[FA域边界]]
 - [[价值节点]]
+
+## 所属枢纽
+
+- [[VN节点列表]]

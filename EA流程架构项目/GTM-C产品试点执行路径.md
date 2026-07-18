@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-GTM-A战略合作执行路径
+entity_type: 非正式主题
+entity_ref: GTM执行路径
 extracted_at: 2026-07-16T12:47:29
 ---
 
@@ -21,3 +21,7 @@ GTM-C模式分三个阶段：快速验证（W1-W4，选定1~2个SKU、最小化�
 - [[GTM-C]]
 - [[SKU]]
 - [[试点验证]]
+
+## 所属枢纽
+
+- [[GTM执行路径]]

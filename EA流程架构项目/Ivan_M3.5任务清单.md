@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-M4风险R5过渡路径阻断
+entity_type: 非正式主题
+entity_ref: M3-M4过渡路径
 extracted_at: 2026-07-16T11:17:13
 ---
 
@@ -20,3 +20,7 @@ M3首份面向非Mark的HR执行文档，包含8项任务：现状盘点、能�
 
 - [[HR基线数据模板]]
 - [[过渡路径]]
+
+## 所属枢纽
+
+- [[M3-M4过渡路径]]

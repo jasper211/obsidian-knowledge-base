@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-长尾合并Agent自动化差异大
+entity_type: 非正式主题
+entity_ref: 长尾合并Agent_长尾合并Agent自动化差异大
 extracted_at: 2026-07-16T19:07:40
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T19:07:40
 
 - [[候选Agent目录]]
 - [[长尾Agent]]
+
+## 所属枢纽
+
+- [[长尾合并Agent_长尾合并Agent自动化差异大]]

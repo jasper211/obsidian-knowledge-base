@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-签核流程电子化
+entity_type: 非正式主题
+entity_ref: 签核流程电子化_签核流程电子化
 extracted_at: 2026-07-16T18:10:39
 ---
 
@@ -19,3 +19,7 @@ VN-PAY-03的Mark签核流程需电子化，当前可能为纸质/邮件，属于
 ## 关联概念
 
 - [[VN-PAY-03]]
+
+## 所属枢纽
+
+- [[签核流程电子化]]

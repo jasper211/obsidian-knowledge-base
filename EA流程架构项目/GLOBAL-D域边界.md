@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-GLOBAL-D域边界
+entity_type: 非正式主题
+entity_ref: D域独立
 extracted_at: 2026-07-17T03:03:23
 ---
 
@@ -20,3 +20,7 @@ D域（机构合作/MGA）应保持独立，不并入I域，推荐值为keep_D_i
 
 - [[I域吸收经代子域]]
 - [[域边界确认]]
+
+## 所属枢纽
+
+- [[D域独立]]

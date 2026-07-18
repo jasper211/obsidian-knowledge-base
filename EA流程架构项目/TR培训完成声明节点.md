@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-绩效方案节点
+entity_type: 非正式主题
+entity_ref: 人力资源节点
 extracted_at: 2026-07-16T19:48:48
 ---
 
@@ -21,3 +21,7 @@ VN-HRD-02节点是TR（培训生）完成入职及业务培训后，需产出培
 - [[HRBP]]
 - [[培训签到表]]
 - [[培训合规时数]]
+
+## 所属枢纽
+
+- [[人力资源节点]]

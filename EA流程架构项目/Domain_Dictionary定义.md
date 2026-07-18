@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-02
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Domain_Dictionary
+entity_type: 非正式主题
+entity_ref: 领域字典
 extracted_at: 2026-07-16T12:09:42
 ---
 
@@ -20,3 +20,7 @@ Domain Dictionary是EA项目交付物，包含12个业务域，每个域有业�
 
 - [[bridge_kpi_l3修正规则]]
 - [[Canonical Value Node Registry]]
+
+## 所属枢纽
+
+- [[领域字典]]

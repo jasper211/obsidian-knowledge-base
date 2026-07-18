@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-28
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-时间维度表待生成
+entity_type: 非正式主题
+entity_ref: 时间维度表问题
 extracted_at: 2026-07-16T12:07:20
 ---
 
@@ -21,3 +21,7 @@ fact_card 的 time_key 强制外键引用 dim_time，但实测 dim_time 表为�
 - [[dim_time表]]
 - [[fact_card表]]
 - [[外键约束]]
+
+## 所属枢纽
+
+- [[时间维度表问题]]

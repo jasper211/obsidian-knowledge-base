@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-推荐直属首销FIC比例规则
+entity_type: 非正式主题
+entity_ref: 推荐直属首销FIC
 extracted_at: 2026-07-17T02:15:04
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-17T02:15:04
 ## 关联概念
 
 - [[应派给销售员]]
+
+## 所属枢纽
+
+- [[推荐直属首销FIC]]

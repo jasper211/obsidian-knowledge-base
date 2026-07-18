@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-04-17
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-范式转换：从SOP到Skill
+entity_type: 非正式主题
+entity_ref: SOP管理
 extracted_at: 2026-07-16T12:46:14
 ---
 
@@ -20,3 +20,7 @@ SOP需定义从创建、审批、发布到迭代的标准流程，形成生命�
 
 - [[L3价值节点]]
 - [[SOP生命周期规范V0]]
+
+## 所属枢纽
+
+- [[SOP管理]]

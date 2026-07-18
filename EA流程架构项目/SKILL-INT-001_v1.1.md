@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-01
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-访谈问题清单累积式版本
+entity_type: 非正式主题
+entity_ref: 访谈问题清单
 extracted_at: 2026-07-16T12:11:34
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T12:11:34
 ## 关联概念
 
 - [[教训库LE-C-012]]
+
+## 所属枢纽
+
+- [[访谈问题清单]]

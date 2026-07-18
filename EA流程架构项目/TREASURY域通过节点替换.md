@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FA域熔断节点修正
+entity_type: 非正式主题
+entity_ref: 熔断节点处理_FA域熔断节点修正
 extracted_at: 2026-07-16T15:31:25
 ---
 
@@ -20,3 +20,7 @@ TREASURY域Section A整体替换：删除BAM-01/CFM-01的四标签分析，改�
 
 - [[Section B熔断节点补建]]
 - [[Section A四标签分析]]
+
+## 所属枢纽
+
+- [[熔断节点处理_FA域熔断节点修正]]

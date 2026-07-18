@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-DD_Form回收时效规则
+entity_type: 非正式主题
+entity_ref: DD表单管理
 extracted_at: 2026-07-16T22:19:31
 ---
 
@@ -19,3 +19,7 @@ DD Form从发出到回收一般需要3-5个工作日，原因：表单较复杂�
 ## 关联概念
 
 - [[转介信息标准模板]]
+
+## 所属枢纽
+
+- [[DD表单管理]]

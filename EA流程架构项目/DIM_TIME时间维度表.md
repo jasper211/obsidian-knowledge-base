@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-时间维度表待生成
+entity_type: 非正式主题
+entity_ref: 时间维度表问题
 extracted_at: 2026-07-16T11:45:18
 ---
 
@@ -19,3 +19,7 @@ DIM_TIME是时间维度表，由脚本自动生成，覆盖2024-01-01至2027-12-
 ## 关联概念
 
 - [[FACT_CARD事实表]]
+
+## 所属枢纽
+
+- [[时间维度表问题]]

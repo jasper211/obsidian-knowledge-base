@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-05熔断原因
+entity_type: 非正式主题
+entity_ref: 熔断原因
 extracted_at: 2026-07-16T22:00:33
 ---
 
@@ -20,3 +20,7 @@ VN-IBRD-01（合作伙伴尽调记录）在V3.14中为P0熔断状态，但Gate�
 
 - [[VN-IBRD-01]]
 - [[Gate重新验证报告]]
+
+## 所属枢纽
+
+- [[熔断原因]]

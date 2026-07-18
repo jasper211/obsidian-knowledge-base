@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-流程维度SCD_Type2
+entity_type: 非正式主题
+entity_ref: 流程维度SCD
 extracted_at: 2026-07-16T11:45:18
 ---
 
@@ -20,3 +20,7 @@ DIM_PROCESS是流程维度表，覆盖L1至L5完整层级，包含Agent化6维�
 
 - [[FACT_CARD事实表]]
 - [[Agent化6维评分]]
+
+## 所属枢纽
+
+- [[流程维度SCD]]

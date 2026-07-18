@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-IA合规规则
+entity_type: 非正式主题
+entity_ref: IA合规规则_IA合规规则
 extracted_at: 2026-07-16T22:39:37
 ---
 
@@ -20,3 +20,19 @@ IA合规规则包括非持牌占比≤50%和同行支付≤88%两项硬指标，
 
 - [[VN-PAY-04熔断]]
 - [[COM-14]]
+
+## 所属枢纽
+
+- [[IA合规规则]]
+
+## 关联原子（同话题聚类）
+
+- [[IA合规SPOF风险]]
+- [[IA合规规则]]
+- [[IA合规规则书]]
+- [[IA合规规则代码化]]
+- [[IA规则代码化]]
+- [[VN-PAY-04_IA合规规则代码化]]
+- [[VN-PAY-04_IA合规负责人裁定]]
+- [[VN-PAY-04致命缺口]]
+- [[同行支付]]

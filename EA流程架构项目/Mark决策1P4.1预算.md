@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T11:18:52
 ---
 
@@ -20,3 +20,7 @@ Mark需批准P4.1方案A（内部为主，预算≤100万HKD，Carrie负责）�
 
 - [[P4.1预算]]
 - [[M4.1基础设施]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

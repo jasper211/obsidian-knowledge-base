@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-07-13
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-eval154KPI
+entity_type: 非正式主题
+entity_ref: KPI治理
 extracted_at: 2026-07-16T11:57:41
 ---
 
@@ -20,3 +20,7 @@ EA 按 Parmenter「关键少数」哲学设计 dim_kpi，仅包含 32 个现有 
 
 - [[dim_kpi归属EA]]
 - [[eval154KPI]]
+
+## 所属枢纽
+
+- [[KPI治理]]

@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-ROI保守情景
+entity_type: 非正式主题
+entity_ref: ROI估算
 extracted_at: 2026-07-16T11:17:14
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T11:17:14
 
 - [[P4.1基础设施]]
 - [[Auto L4]]
+
+## 所属枢纽
+
+- [[ROI估算]]

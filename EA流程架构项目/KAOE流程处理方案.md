@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-01
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-赋能-陪跑需求无缝流转机制
+entity_type: 非正式主题
+entity_ref: KA赋能流程
 extracted_at: 2026-07-16T12:06:30
 ---
 
@@ -20,3 +20,7 @@ KAOE（陪跑与转化）流程因服务已取消而完全缺失，需Mark裁定
 
 - [[KAOE陪跑与转化]]
 - [[A-01裁定]]
+
+## 所属枢纽
+
+- [[KA赋能流程]]

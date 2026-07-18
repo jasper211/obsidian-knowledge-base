@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SPOF定义
+entity_type: 非正式主题
+entity_ref: SPOF定义_SPOF定义
 extracted_at: 2026-07-16T12:52:00
 ---
 
@@ -20,3 +20,12 @@ SPOF（Single Point of Failure）即单点失效，指任一关键节点（员�
 
 - [[SSOT定义]]
 - [[三角结构重构]]
+
+## 所属枢纽
+
+- [[SPOF定义]]
+
+## 关联原子（同话题聚类）
+
+- [[SPOF定义]]
+- [[SPOF是战略级危机]]

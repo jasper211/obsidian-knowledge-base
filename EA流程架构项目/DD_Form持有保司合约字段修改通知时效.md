@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-DD_Form回收时效规则
+entity_type: 非正式主题
+entity_ref: DD表单管理
 extracted_at: 2026-07-16T21:20:24
 ---
 
@@ -19,3 +19,7 @@ DD Form计划新增字段「持有其他保司合约」，由Terresa负责修改
 ## 关联概念
 
 - [[DD Form执行]]
+
+## 所属枢纽
+
+- [[DD表单管理]]

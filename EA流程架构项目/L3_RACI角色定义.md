@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-RACI是组织架构部分
+entity_type: 非正式主题
+entity_ref: RACI角色_RACI是组织架构部分
 extracted_at: 2026-07-16T13:09:42
 ---
 
@@ -21,3 +21,7 @@ R（Responsible）为主执行方，拥有最多价值节点，是流程成果�
 - [[RACI矩阵]]
 - [[跨部门L3]]
 - [[Owner]]
+
+## 所属枢纽
+
+- [[RACI角色_RACI是组织架构部分]]

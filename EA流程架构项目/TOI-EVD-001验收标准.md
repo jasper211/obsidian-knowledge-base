@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TOI-EVD-001验收标准
+entity_type: 非正式主题
+entity_ref: 凭证与验收标准
 extracted_at: 2026-07-16T19:21:19
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T19:21:19
 - [[保司价值证明叙事台账]]
 - [[数据来源与外发Gate台账]]
 - [[文件状态规则]]
+
+## 所属枢纽
+
+- [[凭证与验收标准]]

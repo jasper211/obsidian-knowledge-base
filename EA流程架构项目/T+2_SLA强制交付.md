@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-第一期产出清单
+entity_type: 非正式主题
+entity_ref: 项目阶段与交付
 extracted_at: 2026-07-16T12:52:58
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T12:52:58
 - [[15分钟方案生成]]
 - [[知识闭环]]
 - [[mp_086]]
+
+## 所属枢纽
+
+- [[项目阶段与交付]]

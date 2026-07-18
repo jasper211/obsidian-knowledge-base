@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T13:12:30
 ---
 
@@ -20,3 +20,7 @@ Mark是全链路7个审核/锁定节点的唯一裁定方，一旦Mark排期紧�
 
 - [[产品部门全链路]]
 - [[PGU定义锁定]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

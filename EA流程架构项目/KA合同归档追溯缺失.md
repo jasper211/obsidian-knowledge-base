@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA-G001无标准化培训
+entity_type: 非正式主题
+entity_ref: KA管理问题
 extracted_at: 2026-07-16T22:35:18
 ---
 
@@ -20,3 +20,7 @@ KA合同/协议签署版（VN-KASC-01）因合同归档数据散落、无统一�
 
 - [[熔断节点补建清单]]
 - [[C类行动项]]
+
+## 所属枢纽
+
+- [[KA管理问题]]

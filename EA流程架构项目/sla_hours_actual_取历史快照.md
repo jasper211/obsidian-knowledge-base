@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-sla_hours_actual复制时机
+entity_type: 非正式主题
+entity_ref: sla_hours_actual复制
 extracted_at: 2026-07-16T12:13:49
 ---
 
@@ -20,3 +20,7 @@ fact_card 的 sla_hours_actual 字段在 DIM_PROCESS 版本更新时不随之变
 
 - [[fact_card]]
 - [[dim_process]]
+
+## 所属枢纽
+
+- [[sla_hours_actual复制]]

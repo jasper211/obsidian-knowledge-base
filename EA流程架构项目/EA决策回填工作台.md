@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-回填后同步流程
+entity_type: 非正式主题
+entity_ref: 决策回填流程
 extracted_at: 2026-07-16T12:04:18
 ---
 
@@ -23,3 +23,7 @@ EA决策回填工作台是一个包含84行记录的工作表，用于跟踪和�
 - [[保留节点决策]]
 - [[域内标准化]]
 - [[合成T1字段填充]]
+
+## 所属枢纽
+
+- [[决策回填流程]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-不追究偶发违规
+entity_type: 非正式主题
+entity_ref: 自首机制_不追究偶发违规
 extracted_at: 2026-07-16T12:52:08
 ---
 
@@ -20,3 +20,7 @@ SOP的终极效果不是拦住违规，而是让违规可被察觉并披露。Ag
 
 - [[自以为的机理]]
 - [[边界信息完整性owner缺位]]
+
+## 所属枢纽
+
+- [[自首机制_不追究偶发违规]]

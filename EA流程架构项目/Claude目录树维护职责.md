@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-27
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Claude职责边界
+entity_type: 非正式主题
+entity_ref: Claude职责边界_Claude职责边界
 extracted_at: 2026-07-16T11:53:29
 ---
 
@@ -20,3 +20,7 @@ Claude在每个里程碑（CP）完成后主动提示是否需要归档旧文件
 
 - [[三层目录上限]]
 - [[归档规则]]
+
+## 所属枢纽
+
+- [[Claude职责边界]]

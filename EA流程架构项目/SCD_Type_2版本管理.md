@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-流程维度SCD_Type2
+entity_type: 非正式主题
+entity_ref: 流程维度SCD
 extracted_at: 2026-07-16T11:41:39
 ---
 
@@ -20,3 +20,7 @@ DIM_PROCESS维度表采用SCD Type 2策略管理L4定义的历史版本。每次
 
 - [[DIM_PROCESS维度表]]
 - [[L4活动]]
+
+## 所属枢纽
+
+- [[流程维度SCD]]

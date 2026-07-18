@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-01
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA-G001无标准化培训
+entity_type: 非正式主题
+entity_ref: KA管理问题
 extracted_at: 2026-07-16T12:06:31
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:06:31
 
 - [[KAOP上架准备]]
 - [[B-03裁定]]
+
+## 所属枢纽
+
+- [[KA管理问题]]

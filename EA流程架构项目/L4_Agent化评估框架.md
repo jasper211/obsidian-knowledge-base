@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L3-UCR归口待确认
+entity_type: 非正式主题
+entity_ref: L4_Agent化评估_L3-UCR归口待确认
 extracted_at: 2026-07-16T11:16:44
 ---
 
@@ -20,3 +20,7 @@ M2中建立的6维度评估框架，用于对每条L4进行Agent化分级。结�
 
 - [[AI时代L4颗粒度无上限]]
 - [[不要用human-centric思维评估AI架构]]
+
+## 所属枢纽
+
+- [[L4_Agent化评估_L3-UCR归口待确认]]

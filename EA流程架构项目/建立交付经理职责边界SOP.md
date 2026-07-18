@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA与同行交付经理经验不可互替规则
+entity_type: 非正式主题
+entity_ref: 交付经理职责_KA与同行交付经理经验不可互替规则
 extracted_at: 2026-07-16T21:10:23
 ---
 
@@ -20,3 +20,7 @@ HR更新交付经理JD和能力模型（含全生命周期管理、KA/同行区�
 
 - [[交付经理全生命周期管理]]
 - [[KA与同行交付经理经验不可互替]]
+
+## 所属枢纽
+
+- [[交付经理职责_KA与同行交付经理经验不可互替规则]]

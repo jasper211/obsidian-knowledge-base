@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Skill生成前提
+entity_type: 非正式主题
+entity_ref: Skill生成前提_Skill生成前提
 extracted_at: 2026-07-16T15:57:11
 ---
 
@@ -20,3 +20,7 @@ A/B/C/F分档判断动作性质上是否适合封装（设计层面），与1.4�
 
 - [[Skill生成前提]]
 - [[判断类动作例外]]
+
+## 所属枢纽
+
+- [[Skill生成前提]]

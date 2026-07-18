@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-记录日期校验
+entity_type: 非正式主题
+entity_ref: 记录日期校验_记录日期校验
 extracted_at: 2026-07-16T11:45:22
 ---
 
@@ -19,3 +19,7 @@ FACT_CARD各字段有严格校验规则，例如：record_date不能早于2026-0
 ## 关联概念
 
 - [[FACT_CARD事实表]]
+
+## 所属枢纽
+
+- [[记录日期校验]]

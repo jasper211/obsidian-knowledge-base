@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-预算从430万降至80~100万
+entity_type: 非正式主题
+entity_ref: 预算大幅削减
 extracted_at: 2026-07-16T13:14:32
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T13:14:32
 
 - [[方案C混合]]
 - [[预算分配]]
+
+## 所属枢纽
+
+- [[预算大幅削减]]

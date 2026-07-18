@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-01
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA业绩数据底座缺失
+entity_type: 非正式主题
+entity_ref: KA业绩数据问题
 extracted_at: 2026-07-16T12:06:31
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T12:06:31
 - [[KAGA业绩跟踪]]
 - [[B-05裁定]]
 - [[B-06裁定]]
+
+## 所属枢纽
+
+- [[KA业绩数据问题]]

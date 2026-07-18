@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-时间维度表待生成
+entity_type: 非正式主题
+entity_ref: 时间维度表问题
 extracted_at: 2026-07-16T12:13:47
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T12:13:47
 ## 关联概念
 
 - [[dim_time]]
+
+## 所属枢纽
+
+- [[时间维度表问题]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-02
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA权益差异化逻辑
+entity_type: 非正式主题
+entity_ref: KA权益方案
 extracted_at: 2026-07-16T12:14:43
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:14:43
 
 - [[KAET]]
 - [[MoMo统谈]]
+
+## 所属枢纽
+
+- [[KA权益方案]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-组织架构SSOT缺失
+entity_type: 非正式主题
+entity_ref: 组织架构SSOT缺失_组织架构SSOT缺失
 extracted_at: 2026-07-16T12:09:34
 ---
 
@@ -20,3 +20,12 @@ extracted_at: 2026-07-16T12:09:34
 
 - [[组织架构主表]]
 - [[EP介入点组织设计]]
+
+## 所属枢纽
+
+- [[组织架构SSOT缺失]]
+
+## 关联原子（同话题聚类）
+
+- [[dim_org组织架构]]
+- [[组织架构SSOT缺失]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-内部候选叙事晋升规则
+entity_type: 非正式主题
+entity_ref: Gate规则与验证
 extracted_at: 2026-07-16T11:58:55
 ---
 
@@ -24,3 +24,7 @@ Gate确认矩阵定义了六个Gate（法务、合规、财务/Roy、运营owner
 - [[运营Gate]]
 - [[机构接口人Gate]]
 - [[MARK Gate]]
+
+## 所属枢纽
+
+- [[Gate规则与验证]]

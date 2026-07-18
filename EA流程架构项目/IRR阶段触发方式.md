@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-待确认事项
+entity_type: 非正式主题
+entity_ref: IRR相关事项
 extracted_at: 2026-07-16T16:19:44
 ---
 
@@ -20,3 +20,7 @@ IRR部分：续约周期临近时触发预警（比如到期前N个月），具�
 
 - [[IRR阶段触发方式]]
 - [[IAO调度无固定节奏]]
+
+## 所属枢纽
+
+- [[IRR相关事项]]

@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-第一期产出清单
+entity_type: 非正式主题
+entity_ref: 项目阶段与交付
 extracted_at: 2026-07-16T11:15:29
 ---
 
@@ -20,3 +20,7 @@ EA知识库质量门定义文件，包含4个阶段的通过标准：Phase 1要�
 
 - [[验证后才能声明完成]]
 - [[单任务深度优先]]
+
+## 所属枢纽
+
+- [[项目阶段与交付]]

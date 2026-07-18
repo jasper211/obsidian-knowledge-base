@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Uniwin总佣高10%计算基准规则
+entity_type: 非正式主题
+entity_ref: Uniwin佣金计算
 extracted_at: 2026-07-16T21:27:17
 ---
 
@@ -19,3 +19,7 @@ Uniwin高10%的计算比较口径需商务部门确认，当前依赖菲菲/MOMO
 ## 关联概念
 
 （暂无）
+
+## 所属枢纽
+
+- [[Uniwin佣金计算]]

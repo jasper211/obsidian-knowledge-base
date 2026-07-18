@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-05熔断原因
+entity_type: 非正式主题
+entity_ref: 熔断原因
 extracted_at: 2026-07-16T22:44:08
 ---
 
@@ -20,3 +20,7 @@ VN-PAY-06（理财师综合应派计算清单）为P0熔断节点，Gate①FAIL�
 
 - [[dim_agreement_param维度表]]
 - [[FPG-05归属建议]]
+
+## 所属枢纽
+
+- [[熔断原因]]

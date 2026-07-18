@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-减负率59%
+entity_type: 非正式主题
+entity_ref: Mark减负_减负率59%
 extracted_at: 2026-07-16T11:45:20
 ---
 
@@ -20,3 +20,7 @@ Mark减负清单V0.3将Mark保留的决策项从29条缩减至11条。保留项�
 
 - [[DIM_ORG维度表]]
 - [[mark_retained字段]]
+
+## 所属枢纽
+
+- [[Mark减负_减负率59%]]

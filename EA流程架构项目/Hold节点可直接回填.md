@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-已删除型节点处理
+entity_type: 非正式主题
+entity_ref: 节点处理
 extracted_at: 2026-07-17T03:19:20
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-17T03:19:20
 
 - [[D1详情卡]]
 - [[Hold节点]]
+
+## 所属枢纽
+
+- [[节点处理]]

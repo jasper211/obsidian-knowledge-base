@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-范式转换：从SOP到Skill
+entity_type: 非正式主题
+entity_ref: SOP管理
 extracted_at: 2026-07-16T12:40:19
 ---
 
@@ -21,3 +21,7 @@ K的画像需做成三维图（非Excel表），并形成标准生产流程（SO
 - [[K画像]]
 - [[SOP]]
 - [[AI工具]]
+
+## 所属枢纽
+
+- [[SOP管理]]

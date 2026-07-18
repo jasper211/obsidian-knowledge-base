@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SOP计量口径定义
+entity_type: 非正式主题
+entity_ref: SOP计量口径_SOP计量口径定义
 extracted_at: 2026-07-16T12:15:00
 ---
 
@@ -20,3 +20,7 @@ CP1 的 SOP 计量标准：32 条基线指第一层规则提取已完成的 L4 �
 
 - [[SOP基线]]
 - [[CP1计量标准]]
+
+## 所属枢纽
+
+- [[SOP计量口径_SOP计量口径定义]]

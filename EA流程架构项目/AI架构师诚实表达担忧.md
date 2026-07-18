@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L4爆炸是AI组织化基础
+entity_type: 非正式主题
+entity_ref: L4爆炸与AI组织化
 extracted_at: 2026-07-16T11:16:43
 ---
 
@@ -20,3 +20,7 @@ AI架构师必须诚实说出担忧，即使可能挨批评。M2结尾AI担心L4
 
 - [[L4 Agent化评估框架]]
 - [[不要用human-centric思维评估AI架构]]
+
+## 所属枢纽
+
+- [[L4爆炸与AI组织化]]

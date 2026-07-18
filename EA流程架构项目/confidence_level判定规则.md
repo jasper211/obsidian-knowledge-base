@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-内部候选叙事晋升规则
+entity_type: 非正式主题
+entity_ref: Gate规则与验证
 extracted_at: 2026-07-16T12:38:52
 ---
 
@@ -20,3 +20,7 @@ confidence_level根据字段完整性和量化程度判定：4字段完整+量�
 
 - [[元数据字段]]
 - [[信号类型]]
+
+## 所属枢纽
+
+- [[Gate规则与验证]]

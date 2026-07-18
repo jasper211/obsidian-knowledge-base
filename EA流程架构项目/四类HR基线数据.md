@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-四类HR基线数据
+entity_type: 非正式主题
+entity_ref: HR基线数据
 extracted_at: 2026-07-16T13:15:57
 ---
 
@@ -22,3 +22,7 @@ HR基线数据分为四类：类型1在编人员总数与分布（脱敏）、�
 - [[编制对照表]]
 - [[现岗职责清单]]
 - [[薪资结构概览]]
+
+## 所属枢纽
+
+- [[HR基线数据]]

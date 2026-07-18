@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-IBRD-01单点风险中等
+entity_type: 非正式主题
+entity_ref: VN-IBRD-01风险
 extracted_at: 2026-07-16T18:53:03
 ---
 
@@ -19,3 +19,7 @@ VN-IBRD-01（合作伙伴尽调记录）的实际尽调聚焦于牌照状态、�
 ## 关联概念
 
 - [[VN-IBRD-01熔断状态]]
+
+## 所属枢纽
+
+- [[VN-IBRD-01风险]]

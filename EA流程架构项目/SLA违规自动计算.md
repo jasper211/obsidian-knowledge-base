@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SLA时限提取规则
+entity_type: 非正式主题
+entity_ref: SLA时限管理
 extracted_at: 2026-07-16T12:34:44
 ---
 
@@ -19,3 +19,7 @@ FACT_CARD 的 sla_breach_flag 为 GENERATED ALWAYS AS (duration_hours > sla_hour
 ## 关联概念
 
 - [[FACT_CARD]]
+
+## 所属枢纽
+
+- [[SLA时限管理]]

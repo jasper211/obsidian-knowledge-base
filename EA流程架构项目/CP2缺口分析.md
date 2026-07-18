@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-01
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-CP2目标差1条
+entity_type: 非正式主题
+entity_ref: CP2目标差距
 extracted_at: 2026-07-16T12:11:35
 ---
 
@@ -19,3 +19,7 @@ CP2截止6-05，线3 SOP计量目标50/92，当前42/92，差8条。关键路径
 ## 关联概念
 
 - [[FIN财务付款域]]
+
+## 所属枢纽
+
+- [[CP2目标差距]]

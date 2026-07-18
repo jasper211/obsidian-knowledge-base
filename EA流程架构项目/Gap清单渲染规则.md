@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Gap清单渲染规则
+entity_type: 非正式主题
+entity_ref: Gap清单渲染
 extracted_at: 2026-07-16T21:04:48
 ---
 
@@ -19,3 +19,7 @@ KA域的Gap清单由CSV文件自动渲染生成，不手动编辑；如需更新
 ## 关联概念
 
 - [[KA域Gap清单]]
+
+## 所属枢纽
+
+- [[Gap清单渲染]]

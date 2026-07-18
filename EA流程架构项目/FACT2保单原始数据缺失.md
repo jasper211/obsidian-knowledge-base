@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-04-15
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-源头PDF录入字段映射
+entity_type: 非正式主题
+entity_ref: PDF数据录入映射
 extracted_at: 2026-07-16T12:40:06
 ---
 
@@ -19,3 +19,7 @@ etl/fact/source_data/目前存放的是佣金来源文件，而非保单原始�
 ## 关联概念
 
 - [[业绩链Agent管线]]
+
+## 所属枢纽
+
+- [[PDF数据录入映射]]

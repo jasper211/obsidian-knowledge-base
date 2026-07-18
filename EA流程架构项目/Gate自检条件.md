@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-内部候选叙事晋升规则
+entity_type: 非正式主题
+entity_ref: Gate规则与验证
 extracted_at: 2026-07-16T22:31:48
 ---
 
@@ -20,3 +20,7 @@ Gate校验前需满足：录音已上传且路径填入；交付物实际完成�
 
 - [[Gate校验]]
 - [[录音SSOT机制]]
+
+## 所属枢纽
+
+- [[Gate规则与验证]]

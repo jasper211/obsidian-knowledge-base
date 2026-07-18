@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-A1数据修复补全Agent
+entity_type: 非正式主题
+entity_ref: A1_Agent
 extracted_at: 2026-07-16T11:51:04
 ---
 
@@ -21,3 +21,7 @@ A1是数据修复补全Agent，当前部分能力已验证（Phase 1-3），核�
 - [[A2缺口感知报告生成Agent]]
 - [[A3增量更新感知Agent]]
 - [[A4版本管理Agent]]
+
+## 所属枢纽
+
+- [[A1_Agent]]

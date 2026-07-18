@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-录音SSOT机制
+entity_type: 非正式主题
+entity_ref: 录音SSOT机制_录音SSOT机制
 extracted_at: 2026-07-16T22:53:01
 ---
 
@@ -20,3 +20,15 @@ extracted_at: 2026-07-16T22:53:01
 
 - [[任务闭环机制]]
 - [[交付物上传模版]]
+
+## 所属枢纽
+
+- [[录音SSOT机制]]
+
+## 关联原子（同话题聚类）
+
+- [[交付物完成后再录音]]
+- [[交付负责人职责]]
+- [[任务闭环机制]]
+- [[录音SSOT机制]]
+- [[录音口述提纲]]

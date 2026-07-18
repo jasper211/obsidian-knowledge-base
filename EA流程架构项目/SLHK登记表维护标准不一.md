@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SLHK同行登记表建议新建
+entity_type: 非正式主题
+entity_ref: SLHK同行登记表_SLHK同行登记表建议新建
 extracted_at: 2026-07-16T22:10:40
 ---
 
@@ -20,3 +20,7 @@ SLHK同行登记表由MOMO、菲菲、Mark三人共用，用于记录所有接�
 
 - [[合约跟进表]]
 - [[信息验证]]
+
+## 所属枢纽
+
+- [[SLHK同行登记表_SLHK同行登记表建议新建]]

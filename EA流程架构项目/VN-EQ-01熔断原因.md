@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-05熔断原因
+entity_type: 非正式主题
+entity_ref: 熔断原因
 extracted_at: 2026-07-16T19:00:34
 ---
 
@@ -21,3 +21,7 @@ VN-EQ-09（权益上市推广素材）因Gate①挂数FAIL、Gate②落地FAIL�
 - [[熔断节点]]
 - [[VN-EQ-09]]
 - [[三重Gate]]
+
+## 所属枢纽
+
+- [[熔断原因]]

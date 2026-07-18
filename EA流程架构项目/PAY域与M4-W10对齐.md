@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FA域熔断节点修正
+entity_type: 非正式主题
+entity_ref: 熔断节点处理_FA域熔断节点修正
 extracted_at: 2026-07-16T12:13:35
 ---
 
@@ -19,3 +19,7 @@ PAY域4个熔断节点（VN-PAY-04/06/08/09）的建设与M4-W10规则识别操�
 ## 关联概念
 
 - [[行动唯一权威源]]
+
+## 所属枢纽
+
+- [[熔断节点处理_FA域熔断节点修正]]

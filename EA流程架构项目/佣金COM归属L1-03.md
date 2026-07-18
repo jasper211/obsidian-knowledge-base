@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-COM-03位置修正
+entity_type: 非正式主题
+entity_ref: 佣金位置修正
 extracted_at: 2026-07-16T12:59:58
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:59:58
 
 - [[L1-03运营反馈与路由决策]]
 - [[路算分离]]
+
+## 所属枢纽
+
+- [[佣金位置修正]]

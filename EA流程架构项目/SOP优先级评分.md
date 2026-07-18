@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-范式转换：从SOP到Skill
+entity_type: 非正式主题
+entity_ref: SOP管理
 extracted_at: 2026-07-16T13:56:53
 ---
 
@@ -19,3 +19,7 @@ SOP优先级按关联KPI权重评分：P1（权重≥30%）、P2（15-29%）、P
 ## 关联概念
 
 - [[P1高优先节点]]
+
+## 所属枢纽
+
+- [[SOP管理]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TR背调异常处理缺失
+entity_type: 非正式主题
+entity_ref: 背调异常处理
 extracted_at: 2026-07-17T01:59:43
 ---
 
@@ -19,3 +19,7 @@ VN-HRD-01的交付物「背景调查报告」中负面调查结论的处置流�
 ## 关联概念
 
 - [[VN-HRD-01]]
+
+## 所属枢纽
+
+- [[背调异常处理]]

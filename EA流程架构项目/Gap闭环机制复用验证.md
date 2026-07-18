@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-04
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Gap闭环机制复用验证
+entity_type: 非正式主题
+entity_ref: 方法论迭代验证
 extracted_at: 2026-07-16T12:09:24
 ---
 
@@ -20,3 +20,7 @@ Chaya的Gap回复、蔡依娜W1的Gap闭环、刘敏然W2的Gap闭环，三条�
 
 - [[sf_028]]
 - [[Gap闭环]]
+
+## 所属枢纽
+
+- [[方法论迭代验证]]

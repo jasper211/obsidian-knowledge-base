@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-协议参数中心化
+entity_type: 非正式主题
+entity_ref: 协议参数中心化_协议参数中心化
 extracted_at: 2026-07-16T18:11:34
 ---
 
@@ -19,3 +19,7 @@ VN-PAY-06需建立dim_agreement_param维度表（理财师ID×协议类型×参�
 ## 关联概念
 
 - [[VN-PAY-06]]
+
+## 所属枢纽
+
+- [[协议参数中心化]]

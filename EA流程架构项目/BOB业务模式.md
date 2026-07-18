@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-BOB业务场景
+entity_type: 非正式主题
+entity_ref: BOB业务
 extracted_at: 2026-07-16T12:38:22
 ---
 
@@ -20,3 +20,7 @@ Broker to Broker模式，即经纪行之间的合作，预计未来6-12个月占
 
 - [[转介业务变化]]
 - [[经纪行合作]]
+
+## 所属枢纽
+
+- [[BOB业务]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-第一期产出清单
+entity_type: 非正式主题
+entity_ref: 项目阶段与交付
 extracted_at: 2026-07-16T12:46:36
 ---
 
@@ -20,3 +20,7 @@ Phase 1 实际产出 117 个 entry（A 47、B 23、C 34、D 13），25 条跨层
 
 - [[四层架构]]
 - [[双轨锁定策略]]
+
+## 所属枢纽
+
+- [[项目阶段与交付]]

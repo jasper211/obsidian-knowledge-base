@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L4爆炸是AI组织化基础
+entity_type: 非正式主题
+entity_ref: L4爆炸与AI组织化
 extracted_at: 2026-07-16T11:15:54
 ---
 
@@ -20,3 +20,7 @@ Mark指出L4爆炸在AI组织化语境下不是问题而是好事。L4颗粒度�
 
 - [[L4]]
 - [[M4 AI组织化]]
+
+## 所属枢纽
+
+- [[L4爆炸与AI组织化]]

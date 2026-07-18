@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L3-UCR归口待确认
+entity_type: 非正式主题
+entity_ref: L4_Agent化评估_L3-UCR归口待确认
 extracted_at: 2026-07-16T11:57:25
 ---
 
@@ -19,3 +19,7 @@ L4工作单元的Agent化程度评级：Auto（可完全Agent执行，人仅监�
 ## 关联概念
 
 - [[L4工作单元]]
+
+## 所属枢纽
+
+- [[L4_Agent化评估_L3-UCR归口待确认]]

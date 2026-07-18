@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-外部系统数据接口
+entity_type: 非正式主题
+entity_ref: 外部数据接口
 extracted_at: 2026-07-16T23:29:16
 ---
 
@@ -20,3 +20,7 @@ INVOICE对账单数据来自NGM、Apass、服务订单系统等体系外系统�
 
 - [[INVOICE对账单]]
 - [[服务台账管理岗]]
+
+## 所属枢纽
+
+- [[外部数据接口]]

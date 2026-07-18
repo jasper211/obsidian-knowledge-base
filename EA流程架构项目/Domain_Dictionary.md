@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Domain_Dictionary
+entity_type: 非正式主题
+entity_ref: 领域字典
 extracted_at: 2026-07-16T12:07:43
 ---
 
@@ -19,3 +19,7 @@ Domain Dictionary是领域字典草稿，覆盖A-I域及专项域，输出为CSV
 ## 关联概念
 
 - [[Canonical Value Node Registry]]
+
+## 所属枢纽
+
+- [[领域字典]]

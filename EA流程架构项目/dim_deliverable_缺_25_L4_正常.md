@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-缺L4的deliverable_key处理
+entity_type: 非正式主题
+entity_ref: dim_deliverable缺L4
 extracted_at: 2026-07-16T12:13:48
 ---
 
@@ -21,3 +21,7 @@ dim_process 有 425 个 L4，但 dim_deliverable 只有 400 行，缺失 25 个 
 - [[dim_deliverable]]
 - [[dim_process]]
 - [[fact_card]]
+
+## 所属枢纽
+
+- [[dim_deliverable缺L4]]

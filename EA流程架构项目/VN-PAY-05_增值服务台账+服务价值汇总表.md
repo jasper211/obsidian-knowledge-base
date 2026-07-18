@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-05
+entity_type: 非正式主题
+entity_ref: 结算单与台账
 extracted_at: 2026-07-16T18:22:49
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T18:22:49
 ## 关联概念
 
 - [[VN-PAY-06]]
+
+## 所属枢纽
+
+- [[结算单与台账]]

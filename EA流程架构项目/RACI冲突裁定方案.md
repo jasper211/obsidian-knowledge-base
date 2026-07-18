@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-RACI自动冲突检测
+entity_type: 非正式主题
+entity_ref: RACI冲突处理
 extracted_at: 2026-07-16T13:05:56
 ---
 
@@ -22,3 +22,7 @@ extracted_at: 2026-07-16T13:05:56
 - [[L3编码注册表]]
 - [[协同框架]]
 - [[岗位方案]]
+
+## 所属枢纽
+
+- [[RACI冲突处理]]

@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T11:18:53
 ---
 
@@ -20,3 +20,7 @@ Mark需在M4启动后4周内完成至少2次规则化会议（每次2.5h），�
 
 - [[规则化会议]]
 - [[规则引擎]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

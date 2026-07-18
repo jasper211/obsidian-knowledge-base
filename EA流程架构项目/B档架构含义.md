@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Agent资产沉淀
+entity_type: 非正式主题
+entity_ref: Agent资产沉淀_Agent资产沉淀
 extracted_at: 2026-07-16T15:57:16
 ---
 
@@ -20,3 +20,7 @@ B档'需人工终审'不是能力不足暂时用人顶替，而是架构设计�
 
 - [[生成器评估器分离]]
 - [[Agent分类维度B]]
+
+## 所属枢纽
+
+- [[Agent资产沉淀]]

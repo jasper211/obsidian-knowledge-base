@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-28
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FACT_POLICY到l4_code映射缺失
+entity_type: 非正式主题
+entity_ref: 映射缺失与规则
 extracted_at: 2026-07-16T12:07:21
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T12:07:21
 - [[FACT_POLICY表]]
 - [[dim_process表]]
 - [[l4_code]]
+
+## 所属枢纽
+
+- [[映射缺失与规则]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-execution_status映射规则待产出
+entity_type: 非正式主题
+entity_ref: 映射规则待产出
 extracted_at: 2026-07-16T12:07:52
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T12:07:52
 - [[execution_status]]
 - [[FACT_POLICY]]
 - [[赵琦]]
+
+## 所属枢纽
+
+- [[映射规则待产出]]

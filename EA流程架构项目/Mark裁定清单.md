@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-裁定事项五块结构
+entity_type: 非正式主题
+entity_ref: 裁定事项管理
 extracted_at: 2026-07-16T11:39:06
 ---
 
@@ -20,3 +20,7 @@ Mark裁定清单是Terresa应交付的独立文档，将6项B类裁定独立成�
 
 - [[四件套交付物]]
 - [[L3-L1架构重构方案]]
+
+## 所属枢纽
+
+- [[裁定事项管理]]

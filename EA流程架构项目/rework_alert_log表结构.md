@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-rework_alert_log_触发器
+entity_type: 非正式主题
+entity_ref: 返工预警表
 extracted_at: 2026-07-16T13:52:25
 ---
 
@@ -21,3 +21,7 @@ rework_alert_log表包含alert_id（主键）、card_id（引用fact_card）、a
 - [[fact_card]]
 - [[trg_rework_alert]]
 - [[rework_count]]
+
+## 所属枢纽
+
+- [[返工预警表]]

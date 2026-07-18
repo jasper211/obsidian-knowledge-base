@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-2025人效基线数据
+entity_type: 非正式主题
+entity_ref: 人效基线数据
 extracted_at: 2026-07-16T11:17:16
 ---
 
@@ -20,3 +20,7 @@ HR提供的'3年人工明细透视表'在岗位与组织数据上严重不足：
 
 - [[HR基线数据模板]]
 - [[M3北极星锁定]]
+
+## 所属枢纽
+
+- [[人效基线数据]]

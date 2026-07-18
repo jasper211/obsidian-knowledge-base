@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Ivan的四项加速权
+entity_type: 非正式主题
+entity_ref: Ivan的权利
 extracted_at: 2026-07-16T13:20:27
 ---
 
@@ -22,3 +22,7 @@ Ivan拥有五项拒绝权以保护自身不被M3压力绑架：拒绝1-数据不
 - [[培训预算]]
 - [[沟通方案]]
 - [[法务合规]]
+
+## 所属枢纽
+
+- [[Ivan的权利]]

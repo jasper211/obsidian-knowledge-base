@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TOI-EVD-001验收标准
+entity_type: 非正式主题
+entity_ref: 凭证与验收标准
 extracted_at: 2026-07-16T11:55:01
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T11:55:01
 
 - [[禁用词清洗]]
 - [[培训完成凭证清单]]
+
+## 所属枢纽
+
+- [[凭证与验收标准]]

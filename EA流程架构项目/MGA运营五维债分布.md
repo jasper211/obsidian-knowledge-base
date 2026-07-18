@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-MGA运营五维债分布
+entity_type: 非正式主题
+entity_ref: MGA运营五维债
 extracted_at: 2026-07-16T12:11:06
 ---
 
@@ -23,3 +23,7 @@ MGA运营三个核心环节（应派核算、佣金制表、财务付款）的90
 - [[技术债]]
 - [[数据债]]
 - [[认知债]]
+
+## 所属枢纽
+
+- [[MGA运营五维债]]

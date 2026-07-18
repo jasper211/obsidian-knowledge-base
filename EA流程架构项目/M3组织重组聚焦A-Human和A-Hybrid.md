@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-M3最大风险R1
+entity_type: 非正式主题
+entity_ref: M3风险与组织
 extracted_at: 2026-07-16T11:15:54
 ---
 
@@ -21,3 +21,7 @@ M3组织重组只关注A-Human和A-Hybrid的L4（约120条），用于决定肉�
 - [[Agent化分级规则]]
 - [[M3组织重组]]
 - [[M4 AI组织化]]
+
+## 所属枢纽
+
+- [[M3风险与组织]]

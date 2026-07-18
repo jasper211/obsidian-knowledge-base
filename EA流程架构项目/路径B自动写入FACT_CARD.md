@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FACT_CARD字段数据来源
+entity_type: 非正式主题
+entity_ref: FACT_CARD字段
 extracted_at: 2026-07-16T11:50:22
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T11:50:22
 
 - [[CONFIG_PROCESS_EVENT_TRIGGER]]
 - [[FACT_CARD字段自动化]]
+
+## 所属枢纽
+
+- [[FACT_CARD字段]]

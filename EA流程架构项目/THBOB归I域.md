@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-THBOB-01合并入VN-JOPD-01
+entity_type: 非正式主题
+entity_ref: THBOB合并JOPD
 extracted_at: 2026-07-17T03:25:21
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-17T03:25:21
 
 - [[I域经代业务边界]]
 - [[THBOB独立保留]]
+
+## 所属枢纽
+
+- [[THBOB合并JOPD]]

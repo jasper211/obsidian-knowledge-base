@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-cross-field约束与默认值冲突
+entity_type: 非正式主题
+entity_ref: cross-field约束例外
 extracted_at: 2026-07-16T13:52:28
 ---
 
@@ -22,3 +22,7 @@ extracted_at: 2026-07-16T13:52:28
 - [[agent_assist_flag]]
 - [[end_date]]
 - [[execution_status]]
+
+## 所属枢纽
+
+- [[cross-field约束例外]]

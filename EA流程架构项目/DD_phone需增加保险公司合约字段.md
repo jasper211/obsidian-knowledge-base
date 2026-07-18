@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-DD_Form回收时效规则
+entity_type: 非正式主题
+entity_ref: DD表单管理
 extracted_at: 2026-07-17T01:45:41
 ---
 
@@ -20,3 +20,7 @@ DD phone中应增加一栏询问同行有哪些保险公司的合约，以便了
 
 - [[DD phone字段]]
 - [[同行合约信息]]
+
+## 所属枢纽
+
+- [[DD表单管理]]

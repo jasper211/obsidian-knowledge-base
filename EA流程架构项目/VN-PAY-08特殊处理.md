@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-01
+entity_type: 非正式主题
+entity_ref: 财务流程与凭证
 extracted_at: 2026-07-16T23:42:25
 ---
 
@@ -19,3 +19,7 @@ VN-PAY-08当前无指派受访人，但不能跳过。至少产出1张现状确�
 ## 关联概念
 
 - [[Section B返工要求]]
+
+## 所属枢纽
+
+- [[财务流程与凭证]]

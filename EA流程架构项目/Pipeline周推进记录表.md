@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-T01数据基础缺失
+entity_type: 非正式主题
+entity_ref: 数据基础缺失
 extracted_at: 2026-07-17T03:51:28
 ---
 
@@ -20,3 +20,7 @@ T01任务需要交付的Pipeline周推进记录表包含字段：保司名称、
 
 - [[Pipeline阶段分档]]
 - [[数据源缺失]]
+
+## 所属枢纽
+
+- [[数据基础缺失]]

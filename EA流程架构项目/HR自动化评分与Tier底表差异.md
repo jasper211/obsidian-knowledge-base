@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-两阶段Tier分级方法论
+entity_type: 非正式主题
+entity_ref: Tier分级方法论
 extracted_at: 2026-07-16T19:08:11
 ---
 
@@ -20,3 +20,7 @@ HR的368条自动化评分（Auto33/Hybrid13/Aug116/Human206）与Tier底表结�
 
 - [[Tier底表]]
 - [[自动化评分]]
+
+## 所属枢纽
+
+- [[Tier分级方法论]]

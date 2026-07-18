@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-T03_KPI定义
+entity_type: 非正式主题
+entity_ref: KPI定义
 extracted_at: 2026-07-17T03:52:42
 ---
 
@@ -20,3 +20,7 @@ T03 KA赋能动作完成率是Mark裁定的11个真KPI之一，计算公式为�
 
 - [[标准赋能动作清单]]
 - [[分母界定方案]]
+
+## 所属枢纽
+
+- [[KPI定义]]

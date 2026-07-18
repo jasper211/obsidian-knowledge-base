@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FA域熔断节点修正
+entity_type: 非正式主题
+entity_ref: 熔断节点处理_FA域熔断节点修正
 extracted_at: 2026-07-16T22:51:14
 ---
 
@@ -23,3 +23,7 @@ VN-CFM-01是现金流管理报告包价值节点，P0强制熔断，三Gate全�
 - [[致命缺口]]
 - [[补建行动路径]]
 - [[达标标准]]
+
+## 所属枢纽
+
+- [[熔断节点处理_FA域熔断节点修正]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-历史违规记录查询
+entity_type: 非正式主题
+entity_ref: 历史违规查询
 extracted_at: 2026-07-17T01:46:47
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-17T01:46:47
 
 - [[AML查询]]
 - [[历史违规记录]]
+
+## 所属枢纽
+
+- [[历史违规查询]]

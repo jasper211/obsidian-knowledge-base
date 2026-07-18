@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Hold_rows_excluded_from_staging
+entity_type: 非正式主题
+entity_ref: Hold排除
 extracted_at: 2026-07-16T12:06:39
 ---
 
@@ -20,3 +20,7 @@ Registry 中 canonical_status=hold 的行被有意排除在 staging 输出之外
 
 - [[Staging build output policy]]
 - [[Hold decision table]]
+
+## 所属枢纽
+
+- [[Hold排除]]

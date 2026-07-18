@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-外勤激励分配标准待书面化
+entity_type: 非正式主题
+entity_ref: 激励薪酬管理
 extracted_at: 2026-07-16T12:41:46
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:41:46
 
 - [[激励政策]]
 - [[分发机制]]
+
+## 所属枢纽
+
+- [[激励薪酬管理]]

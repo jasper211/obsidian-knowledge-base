@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-会议成果归档与跟踪
+entity_type: 非正式主题
+entity_ref: 会议成果归档与跟踪_会议成果归档与跟踪
 extracted_at: 2026-07-16T13:52:47
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T13:52:47
 ## 关联概念
 
 - [[每日工作标准机制]]
+
+## 所属枢纽
+
+- [[会议成果归档与跟踪]]

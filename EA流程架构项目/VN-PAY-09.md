@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-09
+entity_type: 非正式主题
+entity_ref: 体系外资金对账
 extracted_at: 2026-07-16T23:31:39
 ---
 
@@ -19,3 +19,7 @@ NGM、Apass、宿安、天领四条体系外资金流（约37.2M HKD）在BP V2�
 ## 关联概念
 
 - [[NGM/Apass数据接口现状]]
+
+## 所属枢纽
+
+- [[体系外资金对账]]

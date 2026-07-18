@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-熔断判定权威源
+entity_type: 非正式主题
+entity_ref: 熔断判定
 extracted_at: 2026-07-16T23:25:02
 ---
 
@@ -23,3 +23,7 @@ extracted_at: 2026-07-16T23:25:02
 - [[VN-HR-06]]
 - [[VN-HR-07]]
 - [[VN-HR-09]]
+
+## 所属枢纽
+
+- [[熔断判定]]

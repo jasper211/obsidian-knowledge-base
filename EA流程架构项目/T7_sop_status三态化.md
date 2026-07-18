@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-T19_SOP进度看板
+entity_type: 非正式主题
+entity_ref: SOP进度看板_T19_SOP进度看板
 extracted_at: 2026-07-17T02:33:37
 ---
 
@@ -20,3 +20,7 @@ v2.2将T7的sop_status改为三态：未生成、已进入SOP草稿、已解决�
 
 - [[SOP为规则GAP整合终点]]
 - [[T19 SOP进度看板]]
+
+## 所属枢纽
+
+- [[SOP进度看板_T19_SOP进度看板]]

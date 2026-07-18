@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-财务SPOF短期不可完全修复
+entity_type: 非正式主题
+entity_ref: 财务SPOF风险
 extracted_at: 2026-07-16T12:51:43
 ---
 
@@ -20,3 +20,7 @@ Masaki离职暴露的财务SPOF短期不可完全修复，因为Chaya已就位�
 
 - [[财务SPOF三重失控诊断]]
 - [[三角财务团队]]
+
+## 所属枢纽
+
+- [[财务SPOF风险]]

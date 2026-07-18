@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-01
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-三层递进暂停
+entity_type: 非正式主题
+entity_ref: IBRD三层递进_三层递进暂停
 extracted_at: 2026-07-16T12:35:31
 ---
 
@@ -20,3 +20,7 @@ VN-IBRD-01补建前Gate②落地为PARTIAL（分散记录），Gate③追溯为F
 
 - [[IBRD三件套补建]]
 - [[三层递进主链路]]
+
+## 所属枢纽
+
+- [[IBRD三层递进_三层递进暂停]]

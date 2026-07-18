@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-协议参数中心化
+entity_type: 非正式主题
+entity_ref: 协议参数中心化_协议参数中心化
 extracted_at: 2026-07-16T22:45:46
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T22:45:46
 
 - [[VN-PAY-06熔断原因]]
 - [[FPG-05归属建议]]
+
+## 所属枢纽
+
+- [[协议参数中心化]]

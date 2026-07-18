@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-第一期产出清单
+entity_type: 非正式主题
+entity_ref: 项目阶段与交付
 extracted_at: 2026-07-16T13:14:21
 ---
 
@@ -19,3 +19,7 @@ Phase 1（2026 H2）退出标准：7族核心岗位全部到位且在岗≥1个�
 ## 关联概念
 
 - [[过渡路径北极星]]
+
+## 所属枢纽
+
+- [[项目阶段与交付]]

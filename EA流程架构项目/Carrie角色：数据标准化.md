@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Carrie角色：数据标准化
+entity_type: 非正式主题
+entity_ref: 数据标准化
 extracted_at: 2026-07-16T11:52:41
 ---
 
@@ -21,3 +21,7 @@ Carrie是糖葫芦第一颗珠子，聚焦M0数据管道与dim表质量保障、
 - [[Carrie]]
 - [[M0数据标准化]]
 - [[dim表]]
+
+## 所属枢纽
+
+- [[数据标准化]]

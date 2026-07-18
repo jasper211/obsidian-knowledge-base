@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-M4_Agent协作
+entity_type: 非正式主题
+entity_ref: M4_Agent协作_M4_Agent协作
 extracted_at: 2026-07-16T13:16:41
 ---
 
@@ -20,3 +20,12 @@ M4时保司交付将成为'肉身+N个agent'前沿案例，使用保司情报、
 
 - [[保司交付定义]]
 - [[M4组织化]]
+
+## 所属枢纽
+
+- [[M4_Agent协作]]
+
+## 关联原子（同话题聚类）
+
+- [[M4_Agent协作]]
+- [[M4_Agent协作前瞻]]

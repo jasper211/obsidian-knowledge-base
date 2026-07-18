@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-IA合规规则
+entity_type: 非正式主题
+entity_ref: IA合规规则_IA合规规则
 extracted_at: 2026-07-16T18:05:39
 ---
 
@@ -19,3 +19,7 @@ VN-PAY-04的IA合规校验（非持牌占比≤50%、同行支付≤88%）纯手
 ## 关联概念
 
 - [[VN-PAY-04]]
+
+## 所属枢纽
+
+- [[IA合规规则]]

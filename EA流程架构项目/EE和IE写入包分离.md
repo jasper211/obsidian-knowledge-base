@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-EA内容不可直接写入EEIE_production
+entity_type: 非正式主题
+entity_ref: EA内容冻结与写入
 extracted_at: 2026-07-16T12:06:54
 ---
 
@@ -19,3 +19,7 @@ EE和IE写入包不能混成一个表。EE包含value node/asset/fact/evidence�
 ## 关联概念
 
 - [[EE/IE写入包生成]]
+
+## 所属枢纽
+
+- [[EA内容冻结与写入]]

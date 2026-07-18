@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-陪跑反馈即时流转机制
+entity_type: 非正式主题
+entity_ref: 绩效关联机制
 extracted_at: 2026-07-16T11:57:26
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T11:57:26
 ## 关联概念
 
 - [[岗位绩效指标]]
+
+## 所属枢纽
+
+- [[绩效关联机制]]

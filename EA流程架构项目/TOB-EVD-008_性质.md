@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TOI匿名汇总价值证明SOP
+entity_type: 非正式主题
+entity_ref: 匿名汇总价值证明
 extracted_at: 2026-07-16T12:02:53
 ---
 
@@ -20,3 +20,7 @@ TOB-EVD-008 当前是“TOI匿名汇总价值证明的内部框架与缺口确�
 
 - [[source_absent]]
 - [[正式匿名汇总报表源]]
+
+## 所属枢纽
+
+- [[匿名汇总价值证明]]

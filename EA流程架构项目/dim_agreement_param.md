@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-协议参数中心化
+entity_type: 非正式主题
+entity_ref: 协议参数中心化_协议参数中心化
 extracted_at: 2026-07-16T22:39:27
 ---
 
@@ -20,3 +20,7 @@ dim_agreement_param是VN-PAY-06节点需新建的维度表，用于中心化存�
 
 - [[VN-PAY-06熔断]]
 - [[FPG-05]]
+
+## 所属枢纽
+
+- [[协议参数中心化]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FCT_PRODUCT拆两张
+entity_type: 非正式主题
+entity_ref: 拆表操作
 extracted_at: 2026-07-16T12:46:44
 ---
 
@@ -19,3 +19,7 @@ FCT_PRODUCT 表拆分为 FCT_PRODUCT_id 和 FCT_PRODUCT_sku 两张视图，因�
 ## 关联概念
 
 - [[FCT_CHANNEL拆两张]]
+
+## 所属枢纽
+
+- [[拆表操作]]

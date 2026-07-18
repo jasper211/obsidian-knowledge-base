@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-MGA-02致命缺口
+entity_type: 非正式主题
+entity_ref: 致命缺口_VN-MGA-02致命缺口
 extracted_at: 2026-07-16T16:43:34
 ---
 
@@ -20,3 +20,7 @@ VN-MGA-02（联合运营框架方案）的《定制化内容方案设计》无�
 
 - [[VN-MGA-02]]
 - [[熔断节点]]
+
+## 所属枢纽
+
+- [[致命缺口_VN-MGA-02致命缺口]]

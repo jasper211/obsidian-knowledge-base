@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-IClub机构激励权益方案
+entity_type: 非正式主题
+entity_ref: iClub权益方案
 extracted_at: 2026-07-16T12:41:41
 ---
 
@@ -20,3 +20,7 @@ iClub当前的IS（银行系）无法提供培训类服务，导致权益无人�
 
 - [[iClub权益]]
 - [[交付团队]]
+
+## 所属枢纽
+
+- [[iClub权益方案]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-EP关键介入点
+entity_type: 非正式主题
+entity_ref: EP介入点
 extracted_at: 2026-07-16T12:12:37
 ---
 
@@ -20,3 +20,7 @@ EP（Engagement Point）是业务中必须有人介入、判断、推进、裁�
 
 - [[岗位族]]
 - [[RACI职责矩阵]]
+
+## 所属枢纽
+
+- [[EP介入点]]

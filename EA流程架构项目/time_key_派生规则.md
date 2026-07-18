@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-time_key派生口径
+entity_type: 非正式主题
+entity_ref: time_key派生口径_time_key派生口径
 extracted_at: 2026-07-16T12:13:49
 ---
 
@@ -20,3 +20,7 @@ fact_card 的 time_key 按以下优先级派生：1) 使用 start_date 转换；
 
 - [[fact_card]]
 - [[dim_time]]
+
+## 所属枢纽
+
+- [[time_key派生口径]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-P3_hold与P4.1并行启动
+entity_type: 待聚类
+entity_ref: （无）
 extracted_at: 2026-07-16T13:16:13
 ---
 

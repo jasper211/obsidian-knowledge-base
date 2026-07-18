@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-工作不可脱离KPI
+entity_type: 非正式主题
+entity_ref: KPI管理
 extracted_at: 2026-07-16T12:50:08
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:50:08
 
 - [[唯一工作框架]]
 - [[KPI]]
+
+## 所属枢纽
+
+- [[KPI管理]]

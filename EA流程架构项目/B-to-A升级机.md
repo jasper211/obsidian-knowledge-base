@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-B-to-A升级机失效风险
+entity_type: 非正式主题
+entity_ref: B-to-A升级机失效
 extracted_at: 2026-07-16T12:53:37
 ---
 
@@ -22,3 +22,7 @@ extracted_at: 2026-07-16T12:53:37
 - [[12项指标稳态]]
 - [[§36涌现警报]]
 - [[Cross Join]]
+
+## 所属枢纽
+
+- [[B-to-A升级机失效]]

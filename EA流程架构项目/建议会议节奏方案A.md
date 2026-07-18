@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-M3.3规则化会议排期
+entity_type: 非正式主题
+entity_ref: 规则化会议
 extracted_at: 2026-07-16T13:14:54
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T13:14:54
 
 - [[规则化会议分组]]
 - [[EP-063让步边界保密分级]]
+
+## 所属枢纽
+
+- [[规则化会议]]

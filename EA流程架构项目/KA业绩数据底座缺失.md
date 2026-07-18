@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA业绩数据底座缺失
+entity_type: 非正式主题
+entity_ref: KA业绩数据问题
 extracted_at: 2026-07-16T15:44:50
 ---
 
@@ -20,3 +20,7 @@ KAGA-01/02备注指出KA业绩数据分散在个人系统（签单系统个人�
 
 - [[KAGA-01]]
 - [[KAGA-02]]
+
+## 所属枢纽
+
+- [[KA业绩数据问题]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-减负率59%
+entity_type: 非正式主题
+entity_ref: Mark减负_减负率59%
 extracted_at: 2026-07-16T13:18:42
 ---
 
@@ -21,3 +21,7 @@ Mark直接承担29条核心介入点，估算每月需116~464小时（0.7~2.9 FT
 - [[Mark减负方案]]
 - [[战略决策]]
 - [[情感仪式]]
+
+## 所属枢纽
+
+- [[Mark减负_减负率59%]]

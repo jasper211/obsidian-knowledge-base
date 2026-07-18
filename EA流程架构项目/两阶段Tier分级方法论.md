@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-两阶段Tier分级方法论
+entity_type: 非正式主题
+entity_ref: Tier分级方法论
 extracted_at: 2026-07-16T15:24:58
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T15:24:58
 
 - [[物理执行类]]
 - [[资金安全强制人工关卡]]
+
+## 所属枢纽
+
+- [[Tier分级方法论]]

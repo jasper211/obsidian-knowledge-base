@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Agent资产沉淀
+entity_type: 非正式主题
+entity_ref: Agent资产沉淀_Agent资产沉淀
 extracted_at: 2026-07-16T11:39:42
 ---
 
@@ -19,3 +19,7 @@ V5归纳出8大类Agent能力组合：NLP生成+模板填充+格式转换、流�
 ## 关联概念
 
 - [[能力技术栈映射]]
+
+## 所属枢纽
+
+- [[Agent资产沉淀]]

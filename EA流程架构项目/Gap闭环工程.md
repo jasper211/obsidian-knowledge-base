@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-28
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Gap闭环工程
+entity_type: 非正式主题
+entity_ref: Gap闭环工程_Gap闭环工程
 extracted_at: 2026-07-16T12:04:53
 ---
 
@@ -21,3 +21,12 @@ Gap闭环工程是指通过二次访谈、评估、回填等步骤，将规则�
 - [[无Gap规则清单]]
 - [[二次访谈]]
 - [[规则回填]]
+
+## 所属枢纽
+
+- [[Gap闭环工程]]
+
+## 关联原子（同话题聚类）
+
+- [[Gap闭环工程]]
+- [[无Gap规则清单]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Section_B熔断节点补建
+entity_type: 非正式主题
+entity_ref: 熔断节点补建_Section_B熔断节点补建
 extracted_at: 2026-07-16T15:30:43
 ---
 
@@ -20,3 +20,7 @@ Section B是规则空白地图中针对熔断节点的补建清单，直接引�
 
 - [[熔断判定唯一规则]]
 - [[四标签分析]]
+
+## 所属枢纽
+
+- [[熔断节点补建_Section_B熔断节点补建]]

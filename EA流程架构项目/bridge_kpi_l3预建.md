@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-bridge_kpi_l3预建
+entity_type: 非正式主题
+entity_ref: 桥表KPI预建
 extracted_at: 2026-07-17T03:41:09
 ---
 
@@ -20,3 +20,7 @@ bridge_kpi_l3桥表是S3启动的前提，Jasper与Terresa并行预建，S2数�
 
 - [[来源数据表字段]]
 - [[S2→S3交棒条件]]
+
+## 所属枢纽
+
+- [[桥表KPI预建]]

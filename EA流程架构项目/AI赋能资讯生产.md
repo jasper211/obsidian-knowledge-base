@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-AI赋能资讯生产
+entity_type: 非正式主题
+entity_ref: AI赋能资讯生产_AI赋能资讯生产
 extracted_at: 2026-07-16T12:47:46
 ---
 
@@ -20,3 +20,12 @@ extracted_at: 2026-07-16T12:47:46
 
 - [[资讯工具服务]]
 - [[交付经理建立标准]]
+
+## 所属枢纽
+
+- [[AI赋能资讯生产]]
+
+## 关联原子（同话题聚类）
+
+- [[AI工具打破资讯生产门槛]]
+- [[AI赋能资讯生产]]

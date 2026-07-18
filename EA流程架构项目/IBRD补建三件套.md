@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-01
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-合作伙伴复盘归I域
+entity_type: 待聚类
+entity_ref: （无）
 extracted_at: 2026-07-16T12:11:33
 ---
 

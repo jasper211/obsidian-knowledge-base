@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-02
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-系统故障导致人工操作
+entity_type: 非正式主题
+entity_ref: 系统故障与权益
 extracted_at: 2026-07-17T01:14:13
 ---
 
@@ -19,3 +19,7 @@ Lavis系统存在严重bug，导致权益兑现流程无法正常使用，权益
 ## 关联概念
 
 - [[签约流程改为有单再签]]
+
+## 所属枢纽
+
+- [[系统故障与权益]]

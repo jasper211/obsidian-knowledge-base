@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-22
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-交付物frontmatter补全
+entity_type: 非正式主题
+entity_ref: frontmatter补全
 extracted_at: 2026-07-16T12:05:36
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:05:36
 
 - [[L3数量演进溯源]]
 - [[L4行数演进溯源]]
+
+## 所属枢纽
+
+- [[frontmatter补全]]

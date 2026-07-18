@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-M2启动checklist
+entity_type: 非正式主题
+entity_ref: M2启动检查
 extracted_at: 2026-07-16T13:10:47
 ---
 
@@ -21,3 +21,7 @@ M2启动前必须确认：M1全部裁定锁定、M1复盘完成、CLAUDE.md生�
 - [[M1锁定]]
 - [[validate_kb.py]]
 - [[L3注册表]]
+
+## 所属枢纽
+
+- [[M2启动检查]]

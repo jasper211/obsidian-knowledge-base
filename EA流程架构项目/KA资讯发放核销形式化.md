@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA-G002核销形式化
+entity_type: 非正式主题
+entity_ref: 核销形式化
 extracted_at: 2026-07-16T22:35:05
 ---
 
@@ -20,3 +20,7 @@ KA资讯发放核销记录（VN-KAEM-02）因核销形式化（收到即算）�
 
 - [[熔断节点补建清单]]
 - [[C类行动项]]
+
+## 所属枢纽
+
+- [[核销形式化]]

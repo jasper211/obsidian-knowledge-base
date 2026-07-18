@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FA域熔断节点修正
+entity_type: 非正式主题
+entity_ref: 熔断节点处理_FA域熔断节点修正
 extracted_at: 2026-07-17T02:01:46
 ---
 
@@ -23,3 +23,7 @@ PARTNER域（机构合作板块）经熔断判定后，5个节点通过Gate进�
 - [[VN-RSJD-03]]
 - [[VN-ASD-01]]
 - [[VN-ASD-02]]
+
+## 所属枢纽
+
+- [[熔断节点处理_FA域熔断节点修正]]

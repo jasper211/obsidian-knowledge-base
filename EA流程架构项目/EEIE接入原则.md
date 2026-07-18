@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-EEIE接入原则
+entity_type: 非正式主题
+entity_ref: EEIE接入原则_EEIE接入原则
 extracted_at: 2026-07-16T12:10:40
 ---
 
@@ -20,3 +20,12 @@ EA内容接入EE/IE需遵循五条原则：1)不直接入主干，需通过接�
 
 - [[staging表]]
 - [[Canonical Value Node Registry]]
+
+## 所属枢纽
+
+- [[EEIE接入原则]]
+
+## 关联原子（同话题聚类）
+
+- [[EEIE接入分级策略]]
+- [[EEIE接入原则]]

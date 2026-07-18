@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-M3最大风险R1
+entity_type: 非正式主题
+entity_ref: M3风险与组织
 extracted_at: 2026-07-16T13:15:58
 ---
 
@@ -20,3 +20,7 @@ M3各阶段依赖不同HR数据：M3.1介入点聚类依赖类型3，M3.2岗位J
 
 - [[M3组织重组]]
 - [[四类HR基线数据]]
+
+## 所属枢纽
+
+- [[M3风险与组织]]

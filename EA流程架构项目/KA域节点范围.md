@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-FA域熔断节点修正
+entity_type: 非正式主题
+entity_ref: 熔断节点处理_FA域熔断节点修正
 extracted_at: 2026-07-16T18:33:28
 ---
 
@@ -20,3 +20,7 @@ KA域包含6个价值节点：VN-KAEM-01、VN-KAEM-02、VN-KAET-01、VN-KAGA-01�
 
 - [[价值节点]]
 - [[KA域]]
+
+## 所属枢纽
+
+- [[熔断节点处理_FA域熔断节点修正]]

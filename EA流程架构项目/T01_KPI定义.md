@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-T01数据基础缺失
+entity_type: 非正式主题
+entity_ref: 数据基础缺失
 extracted_at: 2026-07-17T03:50:15
 ---
 
@@ -20,3 +20,7 @@ T01 保司Pipeline周推进数是一个绝对数量指标，计算公式为：�
 
 - [[Pipeline阶段分档]]
 - [[保司接洽跟踪记录]]
+
+## 所属枢纽
+
+- [[数据基础缺失]]

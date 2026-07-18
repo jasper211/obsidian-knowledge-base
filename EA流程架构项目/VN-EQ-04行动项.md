@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-EQ-03行动项
+entity_type: 非正式主题
+entity_ref: VN-EQ行动项
 extracted_at: 2026-07-16T16:44:28
 ---
 
@@ -19,3 +19,7 @@ VN-EQ-04（终版权益规划方案）需明确终版方案对外交付标准，
 ## 关联概念
 
 - [[VN-EQ-04]]
+
+## 所属枢纽
+
+- [[VN-EQ行动项]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-绩效方案节点
+entity_type: 非正式主题
+entity_ref: 人力资源节点
 extracted_at: 2026-07-16T18:45:35
 ---
 
@@ -20,3 +20,7 @@ VN-HRD-02 TR培训完成声明，属于机构TR人力资源体系交付E2E，起
 
 - [[HR域价值节点]]
 - [[TR培训完成]]
+
+## 所属枢纽
+
+- [[人力资源节点]]

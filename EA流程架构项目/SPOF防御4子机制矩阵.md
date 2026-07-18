@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-7大极致防御机制AND关系
+entity_type: 非正式主题
+entity_ref: 防御机制
 extracted_at: 2026-07-16T12:52:02
 ---
 
@@ -20,3 +20,7 @@ SPOF防御由四个子机制构成立体工程：mp_085（整体框架，7大极
 
 - [[SSOT是SPOF防御物理武器]]
 - [[三角结构重构]]
+
+## 所属枢纽
+
+- [[防御机制]]

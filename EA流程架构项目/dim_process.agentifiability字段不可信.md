@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-dim_process.agentifiability字段不可信
+entity_type: 非正式主题
+entity_ref: Agent维度表问题
 extracted_at: 2026-07-16T15:24:50
 ---
 
@@ -21,3 +21,7 @@ dim_process.agentifiability字段（368条100%覆盖）并非真实的D1-D6打�
 - [[Tier分级]]
 - [[M3.1介入类型]]
 - [[v5六维打分]]
+
+## 所属枢纽
+
+- [[Agent维度表问题]]

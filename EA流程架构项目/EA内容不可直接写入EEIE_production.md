@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-EA内容不可直接写入EEIE_production
+entity_type: 非正式主题
+entity_ref: EA内容冻结与写入
 extracted_at: 2026-07-16T12:08:07
 ---
 
@@ -20,3 +20,7 @@ EA当前材料具备进入staging的基础，但不能直接写入EE/IE producti
 
 - [[P0确认访谈]]
 - [[promotion manifest]]
+
+## 所属枢纽
+
+- [[EA内容冻结与写入]]

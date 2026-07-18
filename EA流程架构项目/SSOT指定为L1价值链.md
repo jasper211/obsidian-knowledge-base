@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SSOT指定为L1价值链
+entity_type: 非正式主题
+entity_ref: 能力管理
 extracted_at: 2026-07-16T12:15:45
 ---
 
@@ -21,3 +21,7 @@ EA业务能力的SSOT被指定为B（L1价值链，共5条），而非价值流�
 - [[L1价值链]]
 - [[价值流]]
 - [[业务能力地图]]
+
+## 所属枢纽
+
+- [[能力管理]]

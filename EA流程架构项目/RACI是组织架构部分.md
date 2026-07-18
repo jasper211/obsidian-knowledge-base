@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-RACI是组织架构部分
+entity_type: 非正式主题
+entity_ref: RACI角色_RACI是组织架构部分
 extracted_at: 2026-07-16T12:05:05
 ---
 
@@ -20,3 +20,7 @@ RACI职责矩阵被视为未来组织架构的一部分，而非附属材料，�
 
 - [[RACI]]
 - [[组织架构]]
+
+## 所属枢纽
+
+- [[RACI角色_RACI是组织架构部分]]

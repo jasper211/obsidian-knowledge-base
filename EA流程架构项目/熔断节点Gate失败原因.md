@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-05熔断原因
+entity_type: 非正式主题
+entity_ref: 熔断原因
 extracted_at: 2026-07-16T22:43:50
 ---
 
@@ -20,3 +20,7 @@ VN-PAY-04（转介费派发确认台账）为P0强制熔断节点，三Gate全FA
 
 - [[IA合规规则书]]
 - [[合规负责人归属建议]]
+
+## 所属枢纽
+
+- [[熔断原因]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-D域边界确认
+entity_type: 非正式主题
+entity_ref: MGA域边界
 extracted_at: 2026-07-17T02:55:46
 ---
 
@@ -20,3 +20,7 @@ MGA业务与经贷业务保持独立分类，当前未识别需合并或交叉�
 
 - [[经贷业务]]
 - [[MGA]]
+
+## 所属枢纽
+
+- [[MGA域边界]]

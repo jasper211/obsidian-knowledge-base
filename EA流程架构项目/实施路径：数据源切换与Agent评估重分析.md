@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-实施路径：数据源切换与Agent评估重分析
+entity_type: 非正式主题
+entity_ref: 实施路径任务
 extracted_at: 2026-07-16T15:06:11
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T15:06:11
 
 - [[数据源切换]]
 - [[Agent评估层数据暂不采信]]
+
+## 所属枢纽
+
+- [[实施路径任务]]

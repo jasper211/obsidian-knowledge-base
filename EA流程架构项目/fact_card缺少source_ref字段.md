@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-28
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-fact_card_不新增_source_notes
+entity_type: 非正式主题
+entity_ref: fact_card溯源
 extracted_at: 2026-07-16T12:07:24
 ---
 
@@ -21,3 +21,7 @@ DIM_PROCESS有source_notes用于溯源，但fact_card没有。Phase 1批量灌�
 - [[source_ref]]
 - [[fact_card表]]
 - [[batch_id]]
+
+## 所属枢纽
+
+- [[fact_card溯源]]

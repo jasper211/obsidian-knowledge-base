@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-范式转换：从SOP到Skill
+entity_type: 非正式主题
+entity_ref: SOP管理
 extracted_at: 2026-07-16T12:03:30
 ---
 
@@ -21,3 +21,7 @@ SOP-001（IA硬指标校验）和SOP-002（应派单审批流）是方法论验�
 - [[sf_010]]
 - [[SOP]]
 - [[Aug分级]]
+
+## 所属枢纽
+
+- [[SOP管理]]

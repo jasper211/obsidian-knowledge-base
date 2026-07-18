@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TR入职档案模板缺失
+entity_type: 非正式主题
+entity_ref: TR入职培训
 extracted_at: 2026-07-17T00:05:08
 ---
 
@@ -20,3 +20,7 @@ TR岗招聘由业务部门提需求，HR评估后招聘，入职后业务部门�
 
 - [[员工成长路径缺失]]
 - [[AI岗编制评估]]
+
+## 所属枢纽
+
+- [[TR入职培训]]

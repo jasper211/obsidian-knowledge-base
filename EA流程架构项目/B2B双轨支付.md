@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-九富vsUniwin适用场景规则
+entity_type: 非正式主题
+entity_ref: 双路径渠道
 extracted_at: 2026-07-16T12:41:04
 ---
 
@@ -19,3 +19,7 @@ B2B渠道支付必须采用双轨制：经纪行直接与底层理财师签约�
 ## 关联概念
 
 - [[穿透式签约]]
+
+## 所属枢纽
+
+- [[双路径渠道]]

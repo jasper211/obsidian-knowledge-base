@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-四类HR基线数据
+entity_type: 非正式主题
+entity_ref: HR基线数据
 extracted_at: 2026-07-16T13:15:56
 ---
 
@@ -20,3 +20,7 @@ M3组织重组期需要HR基线数据作为输入，包括在编人员、编制�
 
 - [[过渡路径]]
 - [[M3组织重组]]
+
+## 所属枢纽
+
+- [[HR基线数据]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-T03_KPI定义
+entity_type: 非正式主题
+entity_ref: KPI定义
 extracted_at: 2026-07-17T04:01:26
 ---
 
@@ -19,3 +19,7 @@ T11 KPI计算公式为：已处置流失预警数 ÷ 触发流失预警总数。
 ## 关联概念
 
 - [[T11任务性质升级]]
+
+## 所属枢纽
+
+- [[KPI定义]]

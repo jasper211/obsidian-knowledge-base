@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-价值节点定义
+entity_type: 非正式主题
+entity_ref: 价值流定义
 extracted_at: 2026-07-16T12:15:45
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T12:15:45
 - [[价值流]]
 - [[L1价值链]]
 - [[交叉映射]]
+
+## 所属枢纽
+
+- [[价值流定义]]

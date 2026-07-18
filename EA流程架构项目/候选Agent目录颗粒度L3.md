@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L3-UCR归口待确认
+entity_type: 非正式主题
+entity_ref: L4_Agent化评估_L3-UCR归口待确认
 extracted_at: 2026-07-16T15:57:28
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T15:57:28
 
 - [[Agent颗粒度锚点VN或L3]]
 - [[候选Agent目录]]
+
+## 所属枢纽
+
+- [[L4_Agent化评估_L3-UCR归口待确认]]

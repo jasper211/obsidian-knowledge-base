@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-月度佣金表版本锁定
+entity_type: 非正式主题
+entity_ref: 佣金管理
 extracted_at: 2026-07-17T01:41:24
 ---
 
@@ -21,3 +21,7 @@ PI（首年佣金）与LPI（续年佣金）的区分规则没有系统化清单
 - [[PI]]
 - [[LPI]]
 - [[产品经理]]
+
+## 所属枢纽
+
+- [[佣金管理]]

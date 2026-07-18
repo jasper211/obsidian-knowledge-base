@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-P4.1时间表
+entity_type: 非正式主题
+entity_ref: M4P4.1时间表
 extracted_at: 2026-07-16T11:16:21
 ---
 
@@ -19,3 +19,7 @@ M4.1基础设施选型（规则引擎/数据管道/告警）需至少3个技术�
 ## 关联概念
 
 （暂无）
+
+## 所属枢纽
+
+- [[M4P4.1时间表]]

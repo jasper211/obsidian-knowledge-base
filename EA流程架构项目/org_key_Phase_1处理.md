@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-org_key_Phase_1处理
+entity_type: 非正式主题
+entity_ref: org_key处理
 extracted_at: 2026-07-16T13:52:27
 ---
 
@@ -21,3 +21,7 @@ Phase 1中org_key全部NULL，等GAP-01完成后统一补映射。理由：dim_o
 - [[org_key]]
 - [[dim_org]]
 - [[fact_card]]
+
+## 所属枢纽
+
+- [[org_key处理]]

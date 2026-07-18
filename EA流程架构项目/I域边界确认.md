@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-I域边界确认
+entity_type: 非正式主题
+entity_ref: 经代业务域边界
 extracted_at: 2026-07-17T03:36:24
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-17T03:36:24
 ## 关联概念
 
 - [[VNHRD流程变更]]
+
+## 所属枢纽
+
+- [[经代业务域边界]]

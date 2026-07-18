@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-让步×Tier差异化
+entity_type: 非正式主题
+entity_ref: Tier差异化
 extracted_at: 2026-07-16T12:50:49
 ---
 
@@ -20,3 +20,7 @@ T1保司佣金弹性为黄区上限×1.5倍（最高+7.5%），首年保底上�
 
 - [[保司Tier分级]]
 - [[合同让步边界]]
+
+## 所属枢纽
+
+- [[Tier差异化]]

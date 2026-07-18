@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-05行动项
+entity_type: 非正式主题
+entity_ref: VN-HR-05
 extracted_at: 2026-07-16T22:48:10
 ---
 
@@ -20,3 +20,7 @@ VN-HR-05（人力资源诊断与改善建议报告）的根本阻塞是缺乏年
 
 - [[VN-HR-05]]
 - [[Mark裁定项]]
+
+## 所属枢纽
+
+- [[VN-HR-05]]

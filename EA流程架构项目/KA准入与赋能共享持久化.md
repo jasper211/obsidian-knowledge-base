@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA准入与赋能共享持久化
+entity_type: 非正式主题
+entity_ref: KA准入持久化
 extracted_at: 2026-07-16T16:29:05
 ---
 
@@ -20,3 +20,7 @@ KA赋能运维Agent与KA准入Agent是明确的上下游关系：一个KA完成�
 
 - [[KA准入Agent]]
 - [[KA赋能运维Agent身份]]
+
+## 所属枢纽
+
+- [[KA准入持久化]]

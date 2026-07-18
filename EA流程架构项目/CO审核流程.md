@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-AML查询+风险三级评估规则
+entity_type: 非正式主题
+entity_ref: AML风险评估
 extracted_at: 2026-07-16T22:10:27
 ---
 
@@ -20,3 +20,7 @@ CO审核流程：DD Form完成后，CO进行AML检查，出具风险评估表（
 
 - [[风险等级判断]]
 - [[合规红线]]
+
+## 所属枢纽
+
+- [[AML风险评估]]

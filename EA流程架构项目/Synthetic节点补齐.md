@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Synthetic_T1_nodes_completion
+entity_type: 非正式主题
+entity_ref: Synthetic节点补齐_Synthetic_T1_nodes_completion
 extracted_at: 2026-07-16T12:05:17
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:05:17
 
 - [[T1 Staging]]
 - [[P0决策确认]]
+
+## 所属枢纽
+
+- [[Synthetic节点补齐_Synthetic_T1_nodes_completion]]

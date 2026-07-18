@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-06_FPG-05归属裁定
+entity_type: 非正式主题
+entity_ref: FPG-05归属
 extracted_at: 2026-07-16T17:48:55
 ---
 
@@ -20,3 +20,7 @@ FPG-05（协议参数中心化）的Owner归属需Mark裁定。推荐由应派�
 
 - [[VN-PAY-06补建行动]]
 - [[dim_agreement_param维度表]]
+
+## 所属枢纽
+
+- [[FPG-05归属]]

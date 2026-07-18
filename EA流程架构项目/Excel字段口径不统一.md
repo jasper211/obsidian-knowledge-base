@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Excel字段口径不统一
+entity_type: 非正式主题
+entity_ref: 字段口径统一
 extracted_at: 2026-07-16T11:39:06
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T11:39:06
 ## 关联概念
 
 - [[修正版L4清单]]
+
+## 所属枢纽
+
+- [[字段口径统一]]

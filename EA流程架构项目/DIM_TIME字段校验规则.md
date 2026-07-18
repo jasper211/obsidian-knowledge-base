@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-流程维度SCD_Type2
+entity_type: 非正式主题
+entity_ref: 流程维度SCD
 extracted_at: 2026-07-16T11:45:23
 ---
 
@@ -19,3 +19,7 @@ DIM_TIME各字段有严格校验规则，例如：time_key格式为YYYYMMDD 8位
 ## 关联概念
 
 - [[DIM_TIME维度表]]
+
+## 所属枢纽
+
+- [[流程维度SCD]]

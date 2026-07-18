@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Mark三类偏差
+entity_type: 非正式主题
+entity_ref: 偏差分类
 extracted_at: 2026-07-16T12:54:28
 ---
 
@@ -20,3 +20,7 @@ Claude在协作中常见的四类偏差：过度礼貌（迎合而非真实判�
 
 - [[Mark三类偏差]]
 - [[偏差库]]
+
+## 所属枢纽
+
+- [[偏差分类]]

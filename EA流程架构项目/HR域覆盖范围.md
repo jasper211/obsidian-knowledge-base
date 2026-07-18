@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-HR域覆盖范围
+entity_type: 非正式主题
+entity_ref: HR域范围
 extracted_at: 2026-07-16T15:01:07
 ---
 
@@ -20,3 +20,7 @@ HR域（人力资源管理域）覆盖公司绩效管理、人员档案、招募
 
 - [[HR域T1节点]]
 - [[HRD域]]
+
+## 所属枢纽
+
+- [[HR域范围]]

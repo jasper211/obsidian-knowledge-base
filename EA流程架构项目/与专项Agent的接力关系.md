@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-一次性项目档案
+entity_type: 非正式主题
+entity_ref: 一次性项目档案_一次性项目档案
 extracted_at: 2026-07-16T16:25:13
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T16:25:13
 
 - [[联合运营专项Agent]]
 - [[联合运营项目交付Agent]]
+
+## 所属枢纽
+
+- [[一次性项目档案]]

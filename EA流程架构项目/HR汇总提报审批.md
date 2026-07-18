@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-部门负责人打分分配
+entity_type: 非正式主题
+entity_ref: 绩效流程
 extracted_at: 2026-07-16T19:17:54
 ---
 
@@ -19,3 +19,7 @@ HR（Fiona）将各部门最终方案汇总后提报Mark审批，审批通过后
 ## 关联概念
 
 - [[部门负责人打分分配]]
+
+## 所属枢纽
+
+- [[绩效流程]]

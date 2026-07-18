@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-中台产品Owner潜力
+entity_type: 非正式主题
+entity_ref: 中台Owner潜力
 extracted_at: 2026-07-16T13:09:44
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T13:09:44
 - [[L3合并]]
 - [[Owner]]
 - [[中台-业务支持]]
+
+## 所属枢纽
+
+- [[中台Owner潜力]]

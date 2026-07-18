@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-C类子字段规范
+entity_type: 非正式主题
+entity_ref: 子字段规范
 extracted_at: 2026-07-16T12:13:04
 ---
 
@@ -19,3 +19,7 @@ A类信号子字段包括：rule_trigger（触发条件）、rule_action（执�
 ## 关联概念
 
 - [[A类信号严格定义]]
+
+## 所属枢纽
+
+- [[子字段规范]]

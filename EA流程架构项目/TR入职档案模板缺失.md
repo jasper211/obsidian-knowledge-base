@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-TR入职档案模板缺失
+entity_type: 非正式主题
+entity_ref: TR入职培训
 extracted_at: 2026-07-16T19:18:29
 ---
 
@@ -20,3 +20,7 @@ TR入职档案缺少标准模板，当前收集材料不统一。需裁定TR入�
 
 - [[TR招聘入职确认]]
 - [[入职材料收集]]
+
+## 所属枢纽
+
+- [[TR入职培训]]

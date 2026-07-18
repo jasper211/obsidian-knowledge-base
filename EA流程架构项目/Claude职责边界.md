@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-27
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Claude职责边界
+entity_type: 非正式主题
+entity_ref: Claude职责边界_Claude职责边界
 extracted_at: 2026-07-16T11:53:26
 ---
 
@@ -20,3 +20,12 @@ Claude在Mark任务协同中的职责包括：任务MD解读与结构化分析�
 
 - [[六阶段协同闭环]]
 - [[Phase E执行与回执质检]]
+
+## 所属枢纽
+
+- [[Claude职责边界]]
+
+## 关联原子（同话题聚类）
+
+- [[Claude目录树维护职责]]
+- [[Claude职责边界]]

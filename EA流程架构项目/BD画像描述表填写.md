@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-画像描述表为诊断工具
+entity_type: 非正式主题
+entity_ref: 画像描述表_画像描述表为诊断工具
 extracted_at: 2026-07-17T00:21:28
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-17T00:21:28
 
 - [[合作方画像]]
 - [[KA评估定级]]
+
+## 所属枢纽
+
+- [[画像描述表_画像描述表为诊断工具]]

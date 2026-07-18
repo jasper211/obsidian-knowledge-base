@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-KA权益差异化逻辑
+entity_type: 非正式主题
+entity_ref: KA权益方案
 extracted_at: 2026-07-16T12:41:41
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:41:41
 
 - [[KA业务]]
 - [[激励权益]]
+
+## 所属枢纽
+
+- [[KA权益方案]]

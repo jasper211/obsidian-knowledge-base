@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-层间写入规则
+entity_type: 非正式主题
+entity_ref: 层间写入规则_层间写入规则
 extracted_at: 2026-07-16T12:04:42
 ---
 
@@ -22,3 +22,7 @@ EA项目治理框架以02层（过程成果）和03层（发布成果）为核�
 - [[03层发布成果]]
 - [[01层静态源材料]]
 - [[08层任务态文档]]
+
+## 所属枢纽
+
+- [[层间写入规则]]

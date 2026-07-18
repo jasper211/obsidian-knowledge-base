@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-价值节点信号分类
+entity_type: 非正式主题
+entity_ref: 信号分类体系
 extracted_at: 2026-07-16T12:13:03
 ---
 
@@ -21,3 +21,7 @@ A类信号必须满足五字段（rule_trigger、rule_action、rule_standard、r
 - [[三层递进提取法]]
 - [[B类信号]]
 - [[C类信号]]
+
+## 所属枢纽
+
+- [[信号分类体系]]

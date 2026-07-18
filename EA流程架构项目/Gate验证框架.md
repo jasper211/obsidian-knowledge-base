@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-内部候选叙事晋升规则
+entity_type: 非正式主题
+entity_ref: Gate规则与验证
 extracted_at: 2026-07-16T21:38:31
 ---
 
@@ -20,3 +20,7 @@ Gate验证框架包含三个维度：Gate①挂数（≥1个量化KPI关联）�
 
 - [[Gate重新验证报告]]
 - [[补建完成回路规则]]
+
+## 所属枢纽
+
+- [[Gate规则与验证]]

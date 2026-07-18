@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-应派分润比例管理
+entity_type: 非正式主题
+entity_ref: 理财师权益分润
 extracted_at: 2026-07-16T22:53:39
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T22:53:39
 
 - [[VN-PAY-06]]
 - [[dim_agreement_param]]
+
+## 所属枢纽
+
+- [[理财师权益分润]]

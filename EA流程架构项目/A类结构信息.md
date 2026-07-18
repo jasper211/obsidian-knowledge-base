@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-价值节点信号分类
+entity_type: 非正式主题
+entity_ref: 信号分类体系
 extracted_at: 2026-07-16T18:36:57
 ---
 
@@ -19,3 +19,7 @@ A类信号为数据表已记录的确定性结构信息，不依赖访谈。FA�
 ## 关联概念
 
 - [[FA域无访谈覆盖]]
+
+## 所属枢纽
+
+- [[信号分类体系]]

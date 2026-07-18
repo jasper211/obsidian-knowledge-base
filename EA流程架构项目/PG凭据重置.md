@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-22
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-PG凭据重置
+entity_type: 非正式主题
+entity_ref: PG凭据重置_PG凭据重置
 extracted_at: 2026-07-16T11:50:49
 ---
 
@@ -20,3 +20,12 @@ PG数据库密码必须重置为占位符'__REDACTED_REQUIRES_RESET__'，并清�
 
 - [[密码清理]]
 - [[Git历史清理]]
+
+## 所属枢纽
+
+- [[PG凭据重置]]
+
+## 关联原子（同话题聚类）
+
+- [[PG凭据重置]]
+- [[明文密码清理]]

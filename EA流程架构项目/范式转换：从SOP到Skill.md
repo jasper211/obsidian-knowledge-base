@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-范式转换：从SOP到Skill
+entity_type: 非正式主题
+entity_ref: SOP管理
 extracted_at: 2026-07-16T15:04:27
 ---
 
@@ -20,3 +20,7 @@ Mark质疑的核心是：当前规则分析仍停留在'为人服务的SOP梳理
 
 - [[Agent/Skill驱动组织重构]]
 - [[人机分流方法论]]
+
+## 所属枢纽
+
+- [[SOP管理]]

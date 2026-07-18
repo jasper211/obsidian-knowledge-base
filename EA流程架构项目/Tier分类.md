@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-两阶段Tier分级方法论
+entity_type: 非正式主题
+entity_ref: Tier分级方法论
 extracted_at: 2026-07-16T15:43:30
 ---
 
@@ -20,3 +20,7 @@ L4的自动化程度分类：Auto（自动）、Aug（增强，需人工介入�
 
 - [[阈值修正]]
 - [[D1-D6评分]]
+
+## 所属枢纽
+
+- [[Tier分级方法论]]

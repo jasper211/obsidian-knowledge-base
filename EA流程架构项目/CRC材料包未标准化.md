@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-CRC材料包未标准化
+entity_type: 非正式主题
+entity_ref: CRC材料包问题
 extracted_at: 2026-07-16T21:30:17
 ---
 
@@ -19,3 +19,7 @@ CRC材料包组成与触发条件未标准化，决议记录格式不统一。
 ## 关联概念
 
 （暂无）
+
+## 所属枢纽
+
+- [[CRC材料包问题]]

@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-04-17
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-agg_market_commission_tier_rate
+entity_type: 非正式主题
+entity_ref: 佣金费率模板
 extracted_at: 2026-07-16T12:46:15
 ---
 
@@ -20,3 +20,7 @@ Metabase v2工具箱覆盖5个业务场景：伙伴佣金查询、产品费率�
 
 - [[Metabase BI看板]]
 - [[业务查询工具箱]]
+
+## 所属枢纽
+
+- [[佣金费率模板]]

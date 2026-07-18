@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-05-26
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L4交付物桥接表
+entity_type: 非正式主题
+entity_ref: L4桥接表
 extracted_at: 2026-07-16T12:15:01
 ---
 
@@ -20,3 +20,7 @@ Terresa 的 KA 线桥接表在 W1 内先给 Jasper 30 条，只需提供各 L4 �
 
 - [[KA线桥接表]]
 - [[Jasper分析启动]]
+
+## 所属枢纽
+
+- [[L4桥接表]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-PAY-01
+entity_type: 非正式主题
+entity_ref: 财务流程与凭证
 extracted_at: 2026-07-16T18:12:29
 ---
 
@@ -19,3 +19,7 @@ VN-PAY-09的KPI未定义，需定义体系外资金覆盖率、对账完整度�
 ## 关联概念
 
 - [[VN-PAY-09]]
+
+## 所属枢纽
+
+- [[财务流程与凭证]]

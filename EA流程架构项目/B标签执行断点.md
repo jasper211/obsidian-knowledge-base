@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Section_B熔断节点补建
+entity_type: 非正式主题
+entity_ref: 熔断节点补建_Section_B熔断节点补建
 extracted_at: 2026-07-16T21:12:13
 ---
 
@@ -21,3 +21,7 @@ B标签·执行断点指当前执行中存在的断点或缺失，共8条，优�
 - [[制度标准空白]]
 - [[流程空白]]
 - [[三层递进暂停]]
+
+## 所属枢纽
+
+- [[熔断节点补建_Section_B熔断节点补建]]

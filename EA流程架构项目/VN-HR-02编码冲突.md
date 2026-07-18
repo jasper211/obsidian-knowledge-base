@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-VN-HR-01编码冲突根因
+entity_type: 非正式主题
+entity_ref: HR节点编码冲突
 extracted_at: 2026-07-17T03:22:36
 ---
 
@@ -20,3 +20,7 @@ VN-HR-02（人力资源管理方案）因编码重复使用而误标删除，其
 
 - [[VN-HR-01误标删除]]
 - [[HRD独立L3]]
+
+## 所属枢纽
+
+- [[HR节点编码冲突]]

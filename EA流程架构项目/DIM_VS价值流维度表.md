@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-流程维度SCD_Type2
+entity_type: 非正式主题
+entity_ref: 流程维度SCD
 extracted_at: 2026-07-16T11:45:18
 ---
 
@@ -20,3 +20,7 @@ DIM_VS是价值流维度表，每行对应一个价值流（VS）的一个价值
 
 - [[FACT_CARD事实表]]
 - [[DIM_PROCESS维度表]]
+
+## 所属枢纽
+
+- [[流程维度SCD]]

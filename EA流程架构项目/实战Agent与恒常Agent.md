@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Agent资产沉淀
+entity_type: 非正式主题
+entity_ref: Agent资产沉淀_Agent资产沉淀
 extracted_at: 2026-07-16T11:52:56
 ---
 
@@ -21,3 +21,7 @@ Agent分为两类：实战阶段性Agent（A0-A4）用于数据底座建设期�
 - [[A1 Agent]]
 - [[B-RPT Agent]]
 - [[B-GRP Agent]]
+
+## 所属枢纽
+
+- [[Agent资产沉淀]]

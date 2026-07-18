@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-01
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-合同倒签原因
+entity_type: 非正式主题
+entity_ref: 合同倒签
 extracted_at: 2026-07-16T12:06:30
 ---
 
@@ -20,3 +20,7 @@ KA转介合同采用后置策略（先约单再签合同），导致大量KA签�
 
 - [[KASC转介合同]]
 - [[B-04裁定]]
+
+## 所属枢纽
+
+- [[合同倒签]]

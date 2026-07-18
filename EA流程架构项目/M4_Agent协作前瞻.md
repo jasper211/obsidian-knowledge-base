@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-M4_Agent协作
+entity_type: 非正式主题
+entity_ref: M4_Agent协作_M4_Agent协作
 extracted_at: 2026-07-16T13:18:32
 ---
 
@@ -20,3 +20,7 @@ M4时保司战略官将成为肉身+N个agent的前沿案例，可管理5~10个a
 
 - [[保司战略官定义]]
 - [[M4组织化]]
+
+## 所属枢纽
+
+- [[M4_Agent协作]]

@@ -7,8 +7,8 @@ authority_layer: 08_任务跟进
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 2026-06-29
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-EEIE_staging晋升裁定权限
+entity_type: 非正式主题
+entity_ref: 晋升裁定权限
 extracted_at: 2026-07-16T12:09:04
 ---
 
@@ -21,3 +21,7 @@ EA内容先进staging，晋升production truth需有人拍板。需Mark裁定由
 - [[staging]]
 - [[production truth]]
 - [[晋升门控]]
+
+## 所属枢纽
+
+- [[晋升裁定权限]]

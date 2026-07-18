@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-agg_market_commission_tier_rate
+entity_type: 非正式主题
+entity_ref: 佣金费率模板
 extracted_at: 2026-07-16T12:43:25
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T12:43:25
 
 - [[业务查询优先Layer3]]
 - [[三层费率数据]]
+
+## 所属枢纽
+
+- [[佣金费率模板]]

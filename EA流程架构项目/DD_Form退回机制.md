@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-合约跟进放弃标准
+entity_type: 非正式主题
+entity_ref: 退回关闭机制
 extracted_at: 2026-07-17T01:46:32
 ---
 
@@ -20,3 +20,7 @@ DD phone一般不会退回，只会少签。若退回后合作方长期不提交
 
 - [[DD phone流程]]
 - [[合作意向确认]]
+
+## 所属枢纽
+
+- [[退回关闭机制]]

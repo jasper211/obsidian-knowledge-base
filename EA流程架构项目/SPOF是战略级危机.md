@@ -7,8 +7,8 @@ authority_layer: 01_原始
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-SPOF定义
+entity_type: 非正式主题
+entity_ref: SPOF定义_SPOF定义
 extracted_at: 2026-07-16T12:50:22
 ---
 
@@ -20,3 +20,7 @@ SPOF（单点失效）不是操作问题，而是组织战略级危机，涉及�
 
 - [[SSOT防御SPOF]]
 - [[7大极致防御机制]]
+
+## 所属枢纽
+
+- [[SPOF定义]]

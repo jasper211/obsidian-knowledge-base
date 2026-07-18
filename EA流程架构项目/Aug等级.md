@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-Agent资产沉淀
+entity_type: 非正式主题
+entity_ref: Agent资产沉淀_Agent资产沉淀
 extracted_at: 2026-07-16T11:15:42
 ---
 
@@ -22,3 +22,7 @@ Agent主导完成主体分析，人在关键节点审批。典型特征：评估
 - [[Auto]]
 - [[Hybrid]]
 - [[Human]]
+
+## 所属枢纽
+
+- [[Agent资产沉淀]]

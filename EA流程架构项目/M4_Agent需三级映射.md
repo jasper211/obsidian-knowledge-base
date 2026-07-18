@@ -7,8 +7,8 @@ authority_layer: 00_治理
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类(已归入非正式簇)
-entity_ref: CLUSTER-L3-UCR归口待确认
+entity_type: 非正式主题
+entity_ref: L4_Agent化评估_L3-UCR归口待确认
 extracted_at: 2026-07-16T11:16:21
 ---
 
@@ -19,3 +19,7 @@ M4启动前需完成L4→岗位族→具体人员的三级映射，确保每条A
 ## 关联概念
 
 - [[分叉决策模式]]
+
+## 所属枢纽
+
+- [[L4_Agent化评估_L3-UCR归口待确认]]
