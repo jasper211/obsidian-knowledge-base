@@ -1,0 +1,16 @@
+---
+type: concept_atom
+concept_type: 经验教训
+project: Jasper AI协同经验引擎
+source: 05_Agent库/草稿/三大主Agent体系架构_v1.2.md
+extracted_at: 2026-07-20T12:22:29
+---
+
+# PTA真实数据验证经验
+
+PTA v2.8.2首次用真实EA项目和Rw权益项目（40条跟踪项、402个文件）验证，发现并修复5个合成测试未测出的bug：daily_sensing指纹去重失效、进度统计算出负数、blocker字符串误判、项目根目录探测不递归、同名台账文件选错版本。结论：合成fixture能验证逻辑正确性，但只有真实数据的“脏”（重名文件、BOM、自然语言字段）才能验证工具在真实世界的鲁棒性。
+
+## 关联概念
+
+- [[PTA]]
+- [[集成测试]]
