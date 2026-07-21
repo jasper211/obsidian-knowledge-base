@@ -13,3 +13,7 @@ config.json是Agent的大脑，包含agent_id、name、version、status、descri
 ## 关联概念
 
 - [[Agent组成部分]]
+
+
+---
+⚠️ **待复核**：源文档「05_Agent库/草稿/Agent搭建SOP_v1.1.md」已被删除（标记时间：2026-07-21T02:00:44）

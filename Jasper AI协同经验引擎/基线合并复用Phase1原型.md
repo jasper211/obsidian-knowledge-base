@@ -15,3 +15,7 @@ VNW 的基线合并阶段（S04）可直接复用 Phase1 已验证的 ManualBase
 - [[基线合并]]
 - [[ManualBaselineParser]]
 - [[BaselineMerger]]
+
+
+---
+⚠️ **待复核**：源文档「05_Agent库/草稿/VNW/VNW现状诊断与推进计划_20260720.md」已更新，此原子未出现在最新提炼结果中（标记时间：2026-07-21T02:00:44）

@@ -15,3 +15,7 @@ PTA与Obsidian巡检Agent（OB）采用client-service划分：OB拥有知识图�
 - [[PTA]]
 - [[Obsidian巡检Agent]]
 - [[知识图谱]]
+
+
+---
+⚠️ **待复核**：源文档「05_Agent库/草稿/三大主Agent体系架构_v1.2.md」已被删除（标记时间：2026-07-21T02:00:44）
