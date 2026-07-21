@@ -1,0 +1,15 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/T1_nodes_全域_v2.0.csv
+extracted_at: 2026-07-21T03:45:28
+---
+
+# VN-HR-03 绩效方案
+
+节点VN-HR-03产出《绩效方案》，按岗位/板块下发，物理形式为Excel/Word，属于HR人力领域下的战略目标与绩效体系建立流程。该节点Gate部分通过，保留待补全。
+
+## 关联概念
+
+- [[SPE-03 绩效管理机制]]

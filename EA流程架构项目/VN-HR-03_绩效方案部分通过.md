@@ -1,0 +1,15 @@
+---
+type: concept_atom
+concept_type: 决策
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/能力问题全集_v2.2.csv
+extracted_at: 2026-07-21T01:27:03
+---
+
+# VN-HR-03 绩效方案部分通过
+
+价值节点 VN-HR-03（绩效方案）在Gate①挂数、Gate②落地、Gate③追溯以及属性①业务定位、属性②价值属性、属性③物理对应、属性④数据验证共七项检查中均为PARTIAL状态，优先级P1，未触发熔断。该节点不适用VS、S2B2A、stage，属于L1-01，L3-SPE。
+
+## 关联概念
+
+- [[L3-SPE]]

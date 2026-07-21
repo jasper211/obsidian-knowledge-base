@@ -2,22 +2,17 @@
 type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
-source: 01_原始材料-外部导入/M-05_分析与决策报告/PROJECT_PLAN.md
-authority_layer: 01_原始
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
-extracted_at: 2026-07-16T13:10:29
+source: 02_过程成果-工作产出/校验与上下文/上下文_项目协作规范与启动文档_合集.md
+extracted_at: 2026-07-20T22:43:11
 ---
 
 # EA知识库定位
 
-EA知识库是CLAUDE_V2七大域40个机制的底层操作系统，为D4中台与数据域、D6组织与人才域等提供流程定义、RACI矩阵、SOP挂载等基础支撑，不是孤立的文档整理项目。
+EA知识库是CLAUDE_V2七大域40个机制的底层操作系统，为D4中台与数据和D6组织与人才提供模块定义、流程穿透、AI工作流标准化和SOP挂载。它不是孤立的文档整理项目，而是AI组织化的基础设施。
 
 ## 关联概念
 
-- [[CLAUDE_V2七大域]]
-- [[L3-L5流程穿透]]
-- [[RACI矩阵]]
+- [[CLAUDE_V2体系]]
+- [[AI组织化]]
+- [[D4中台与数据]]
+- [[D6组织与人才]]

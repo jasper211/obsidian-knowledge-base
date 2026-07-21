@@ -2,26 +2,15 @@
 type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
-source: 08_任务与跟进/任务状态/Terresa日报_线2执行情况_M4-W11_20260601.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-06-01
-entity_type: 非正式主题
-entity_ref: KA业绩数据问题
-extracted_at: 2026-07-16T12:06:31
+source: 02_过程成果-工作产出/L3流程库/流程蓝图_L3-KAGA_KA业绩跟踪与运维_V1.1.md
+extracted_at: 2026-07-21T06:49:00
 ---
 
-# KA业绩孤岛问题
+# KA业绩跟踪无统一负责人
 
-无统一KA业绩总表，签单系统按人隔离，WPS联动表已停用，业绩跟踪统管归属不清。需明确业务条线负责人统管KA业绩，厘清条线负责人、交付经理、TR三方职责边界，并恢复/重建业绩跟踪机制。
+当前KA业绩跟踪无统一负责人，交付经理无法获取全量业绩视图，签单系统按人隔离，转单后数据不可见，WPS联动表已停用。待裁定B-05建议由业务条线负责人统管KA业绩数据。
 
 ## 关联概念
 
-- [[KAGA业绩跟踪]]
-- [[B-05裁定]]
-- [[B-06裁定]]
-
-## 所属枢纽
-
-- [[KA业绩数据问题]]
+- [[签单系统按人隔离]]
+- [[交付经理与TR职责重叠]]

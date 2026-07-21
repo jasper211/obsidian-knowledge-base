@@ -1,0 +1,17 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/流程库状态监控表_L3成熟度跟踪_V3.10.xlsx / MGA
+extracted_at: 2026-07-20T17:04:04
+---
+
+# L3-CPM流程持续监控与优化闭环管理
+
+L3-CPM（流程持续监控与优化闭环管理）属于MGA业务域，包含5个L4，归属VS-2。其V0框架（KN1-KN5）已有但待评审。价值节点VN-CPM-01和VN-CPM-02已确认并同步D1/D2/D3。L3-CPM Agent已合并至L1-03。D1-D4已产出，蓝图V1.0已生成。调研状态为部分完成。
+
+## 关联概念
+
+- [[VN-CPM-01]]
+- [[VN-CPM-02]]
+- [[L1-03]]

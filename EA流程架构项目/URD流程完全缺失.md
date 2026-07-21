@@ -1,21 +1,16 @@
 ---
 type: concept_atom
-concept_type: 经验教训
+concept_type: 规则
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/04_规则与GAP产出/Gap清单_PARTNER_v1.0.md
-authority_layer: 02_草稿
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
-extracted_at: 2026-07-16T21:33:07
+source: 02_过程成果-工作产出/L3流程库/交付物_同行需求判定_D2_L4偏差分析报告_20260624.md
+extracted_at: 2026-07-21T07:31:18
 ---
 
 # URD流程完全缺失
 
-流程完全缺失，处于概念阶段。
+L3-URD流程在dim_process中有定义（5个L4），但实际流程完全缺失：无客户画像标准、无产品化方案、无需求诊断模板、无触发条件定义，处于概念阶段。需先完成产品定义与客户画像，再决定是否纳入流程库。
 
 ## 关联概念
 
-（暂无）
+- [[L3-URD]]
+- [[联合运营]]

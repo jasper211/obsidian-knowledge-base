@@ -1,26 +1,20 @@
 ---
 type: concept_atom
-concept_type: 规则
+concept_type: 决策
 project: EA流程架构项目
-source: 08_任务与跟进/任务状态/Terresa日报_线2执行情况_M4-W10_20260529.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-05-29
-entity_type: L3流程
-entity_ref: L3-IBRD,L4-IBRD-04
-extracted_at: 2026-07-16T12:15:54
+source: 02_过程成果-工作产出/L3流程库/交付物_同行需求判定_D3_L3架构重构方案_20260624.md
+extracted_at: 2026-07-21T08:24:14
 ---
 
-# IBRD虚设L4删除
+# IBRD删除业务目标量化
 
-L3-IBRD合作伙伴需求分析与诊断中，虚设的L4-IBRD-04“业务目标量化”被删除，替换为实际执行的L4-IBRD-04“牌照核查与保司确认”，确保蓝图反映真实操作。
+删除L4-IBRD-04“业务目标量化”及交付物《业务目标量化》，因为该L4为Agent推导，实际调研中菲菲未执行任何APE预测、渠道规模、转化率等量化分析。
 
 ## 关联概念
 
-- [[L3-IBRD]]
-- [[L4交付物]]
+- [[IBRD牌照核查标准化]]
+- [[IBRD尽调模板化]]
 
-## 所属枢纽
 
-- [[L3-IBRD]]
+---
+⚠️ **待复核**：源文档「02_过程成果-工作产出/L3流程库/流程蓝图_L3-IBRD_合作伙伴需求分析与诊断_V1.0.md」已被删除（标记时间：2026-07-20T21:47:22）

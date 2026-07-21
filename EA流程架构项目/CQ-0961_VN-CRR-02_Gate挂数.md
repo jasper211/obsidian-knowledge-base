@@ -1,0 +1,15 @@
+---
+type: concept_atom
+concept_type: 规则
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/能力问题全集_v2.2.csv
+extracted_at: 2026-07-21T02:05:12
+---
+
+# CQ-0992 VN-CPM-02 Gate追溯
+
+价值节点VN-CPM-02（优化闭环执行包）的Gate追溯检查结果为FAIL，表示该节点不具备100%回传到L3+原始凭证。
+
+## 关联概念
+
+- [[VN-CPM-02 优化闭环执行包]]

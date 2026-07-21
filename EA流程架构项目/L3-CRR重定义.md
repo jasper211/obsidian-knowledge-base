@@ -2,25 +2,17 @@
 type: concept_atom
 concept_type: 决策
 project: EA流程架构项目
-source: 08_任务与跟进/任务状态/EA项目执行日报_20260630_Terresa.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-06-30
-entity_type: L3流程
-entity_ref: L3-CRR
-extracted_at: 2026-07-16T12:08:33
+source: 02_过程成果-工作产出/L3流程库/_archive/流程蓝图_L3-CRR_合作伙伴续约管理_V1.0.md
+extracted_at: 2026-07-20T21:27:13
 ---
 
 # L3-CRR重定义
 
-L3-CRR对象从原定义（企业客户）重新定义为'合作伙伴续约管理'，覆盖理财师、KA、同行经代三类合作伙伴。
+L3-CRR原归属MGA域，定义为'客户关系深化与续约决策'，对象为保司客户。2026-06-30访谈后重定义：对象改为三类合作伙伴（天领理财师/KA机构/同行经代），归属域改为经代业务域。
 
 ## 关联概念
 
-- [[T11新能力建设项]]
-- [[续约规则]]
-
-## 所属枢纽
-
-- [[L3-CRR]]
+- [[合作伙伴续约管理]]
+- [[天领理财师]]
+- [[KA机构]]
+- [[同行经代]]

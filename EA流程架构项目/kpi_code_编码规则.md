@@ -1,0 +1,16 @@
+---
+type: concept_atom
+concept_type: 规则
+project: EA流程架构项目
+source: 02_过程成果-工作产出/KPI穿透/KPI供给侧_154对齐_执行报告_v1.md
+extracted_at: 2026-07-20T21:45:23
+---
+
+# kpi_code 编码规则
+
+154价值节点KPI的kpi_code采用VN-{业务域简称}-{NNN}格式，如VN-PAY-001，与dim_kpi的43个kpi_code无冲突。
+
+## 关联概念
+
+- [[KPI registry]]
+- [[dim_kpi]]

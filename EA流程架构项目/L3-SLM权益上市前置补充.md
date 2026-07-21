@@ -1,29 +1,22 @@
 ---
 type: concept_atom
-concept_type: 决策
+concept_type: 背景说明
 project: EA流程架构项目
-source: 01_原始材料-外部导入/M-05_分析与决策报告/M2裁定记录.md
-authority_layer: 01_原始
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: L3流程
-entity_ref: L3-SLM,L4-SLM-00a,L4-SLM-00b,L4-SLM-00c
-extracted_at: 2026-07-16T13:12:16
+source: 02_过程成果-工作产出/L3流程库/流程蓝图_L3-SLM_权益上市推广_V1.0.md
+extracted_at: 2026-07-21T07:59:10
 ---
 
-# L3-SLM权益上市前置补充
+# L3-SLM L4清单
 
-在L3-SLM（权益上市推广）中新增3个前置L4：权益定价与成本核算、法务与合规审查前置、跨部门联动沟通。最终结构为3前置L4 + 5原L4 = 8 L4。
+L3-SLM流程包含8个L4子流程：权益定价与成本核算、法务与合规审查前置、跨部门联动沟通、上市前准备与内部发布、目标受益方触达与告知、首批试点与验证、灰度放量与全量发布、上市效果评估与复盘。所有L4均为待开展状态。
 
 ## 关联概念
 
-- [[L3-SLM]]
-- [[L4-SLM-00a]]
-- [[L4-SLM-00b]]
-- [[L4-SLM-00c]]
-
-## 所属枢纽
-
-- [[L3-SLM]]
-- [[L4-SLM-00b]]
+- [[L4-SLM-01]]
+- [[L4-SLM-02]]
+- [[L4-SLM-03]]
+- [[L4-SLM-04]]
+- [[L4-SLM-05]]
+- [[L4-SLM-06]]
+- [[L4-SLM-07]]
+- [[L4-SLM-08]]

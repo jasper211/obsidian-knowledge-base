@@ -2,25 +2,16 @@
 type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
-source: 01_原始材料-外部导入/M-05_分析与决策报告/CLAUDE.md
-authority_layer: 01_原始
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: L4_Agent化评估_L3-UCR归口待确认
-extracted_at: 2026-07-16T13:13:49
+source: 02_过程成果-工作产出/校验与上下文/上下文_项目协作规范与启动文档_合集.md
+extracted_at: 2026-07-20T22:43:18
 ---
 
 # L4 Agent化评估原则
 
-每个L4必须评估其Agent化潜力，分4档：Auto（可完全agent化，人监督）——M4 P0先建；Aug（agent主导+人审批）——M4 P1同步建；Hybrid（人主导+agent辅助）——M4 P2辅助建；Human（必须人工，agent不介入）——保留人工。核心原则：L4颗粒度越细越好，反对human-centric思维，L4爆炸不是问题而是AI组织化的基础设施。任何新L4必须填agentifiability字段。
+每个L4必须评估其Agent化潜力，分4档：Auto（可完全agent化，人监督）、Aug（agent主导+人审批）、Hybrid（人主导+agent辅助）、Human（必须人工，agent不介入）。核心原则是L4颗粒度越细越好，每个颗粒对应一个agent边界，反对human-centric思维。任何新L4必须填agentifiability字段。
 
 ## 关联概念
 
 - [[L4唯一物理交付物原则]]
-- [[Mark战略愿景]]
-
-## 所属枢纽
-
-- [[L4_Agent化评估_L3-UCR归口待确认]]
+- [[AI组织化]]
+- [[L4 Agent化评估]]

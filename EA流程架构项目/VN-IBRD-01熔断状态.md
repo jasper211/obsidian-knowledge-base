@@ -1,25 +1,19 @@
 ---
 type: concept_atom
-concept_type: 背景说明
+concept_type: 决策
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/延展_同行经代NBRD/IBRD001_第一层产出_四标签+规则空白地图_V1.md
-authority_layer: 02_草稿
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: 熔断原因
-extracted_at: 2026-07-16T22:01:01
+source: 03_发布成果-交付物/权威数据/能力问题全集_v2.2.csv
+extracted_at: 2026-07-21T01:32:06
 ---
 
-# VN-URD-01熔断仅参考
+# VN-URD-01 联合运营需求诊断报告未通过
 
-VN-URD-01（联合运营需求诊断报告）为P1熔断节点，三Gate全FAIL，流程完全缺失，概念阶段。属URD域，仅作参考，需先完成产品定义与客户画像。
+价值节点 VN-URD-01（联合运营需求诊断报告）在Gate①挂数、Gate②落地、Gate③追溯以及属性①业务定位、属性②价值属性、属性③物理对应、属性④数据验证共七项检查中均未通过（FAIL），优先级为P1熔断，需裁定。
 
 ## 关联概念
 
-- [[VN-URD-01]]
-
-## 所属枢纽
-
-- [[熔断原因]]
+- [[VS-2 机构合作伙伴旅程]]
+- [[B平台]]
+- [[VS2-S1 接触与需求诊断]]
+- [[L1-02]]
+- [[L3-URD]]

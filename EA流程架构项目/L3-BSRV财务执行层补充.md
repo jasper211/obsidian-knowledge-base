@@ -1,26 +1,17 @@
 ---
 type: concept_atom
-concept_type: 决策
+concept_type: 定义
 project: EA流程架构项目
-source: 03_发布成果-交付物/治理规范/D4_Mark裁定清单_V1.0.md
-authority_layer: 03_已锁定
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: L3流程
-entity_ref: L3-BSRV,L3-SSVA,L4-BSRV-03
-extracted_at: 2026-07-16T11:41:13
+source: 02_过程成果-工作产出/L3流程库/流程蓝图_L3-BSRV_经代机构结算与日常运营评估_V1.0.md
+extracted_at: 2026-07-21T06:34:01
 ---
 
-# L3-BSRV财务执行层补充
+# BSRV流程定义
 
-L3-BSRV（经代机构结算与日常运营评估）的财务执行层补充：推荐方案A，即在L3-BSRV内新增L4-BSRV-03（经代机构付款执行），因为经代机构结算有独立业务逻辑。
+L3-BSRV（经代机构结算与日常运营评估）覆盖经代业务中机构合作伙伴的两个核心职能：日常运营协同（L4-BSRV-01）和结算核对与评估（L4-BSRV-02）。前者为过程活动，无标准化物理交付物；后者按5类费用类型对账核实，确认后触发中台对应结算流程执行付款。
 
 ## 关联概念
 
-- [[L3-BSRV]]
-- [[L3-SSVA]]
-
-## 所属枢纽
-
-- [[L3-SSVA]]
+- [[L4-BSRV-01]]
+- [[L4-BSRV-02]]
+- [[机构结算核对台账]]

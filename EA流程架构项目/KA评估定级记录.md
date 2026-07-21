@@ -2,21 +2,22 @@
 type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/KA域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_草稿
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
-extracted_at: 2026-07-16T18:47:39
+source: 02_过程成果-工作产出/校验与上下文/过程日志_vn_sheets_preview.txt
+extracted_at: 2026-07-20T23:09:31
 ---
 
 # KA评估定级记录
 
-节点VN-KAET-01，属于KA评估定级E2E流程。起点为KA线索接入，终点为评估定级记录归档并制定资源分配策略。当前无定级体系，完全依赖交付经理个人经验，物理形态为Excel模板或Human记录。熔断状态为熔断。
+《KA评估定级记录》是L3-KAET（KA评估定级）的关键输出物，包含KA背景信息、资质核查、潜力判断和定级结论。当前无定级体系，仅“推进/暂缓”两态，依赖交付经理个人经验。
 
 ## 关联概念
 
-- [[KA域价值节点]]
-- [[KA评估定级记录熔断原因]]
+- [[VN-KAET-01]]
+- [[L3-KAET]]
+
+---
+⚠️ **待校准**：源文档「02_过程成果-工作产出/校验与上下文/_tmp_check_candidates.txt」提炼出内容差异较大的新版本（语义相似度0.78，低于0.8阈值），新旧内容未自动合并，需人工判断保留哪个/如何合并（标记时间：2026-07-21T00:38:13）。
+
+### 候选新内容（来自「02_过程成果-工作产出/校验与上下文/_tmp_check_candidates.txt」）
+
+VN-KAET-01 是KA评估定级记录，其KPI包括评估覆盖率、定级准确率和资源分配效率，优先级为P1（候选），裁定等级为FAIL。

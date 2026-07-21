@@ -1,0 +1,15 @@
+---
+type: concept_atom
+concept_type: 决策
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/D1_价值节点清单_V3.44.xlsx / ★标准化变更日志
+extracted_at: 2026-07-21T00:36:11
+---
+
+# 变更日志: Sheet5重构
+
+将Sheet5从多section混合格式重构为统一二维表，并智能拆分Gate状态、原因、优先级。
+
+## 关联概念
+
+（暂无）

@@ -1,0 +1,15 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/T1_nodes_全域_v2.0.csv
+extracted_at: 2026-07-21T03:43:08
+---
+
+# VN-EQ-10 理财师分级清单
+
+理财师分级清单是EQ权益流程中的价值节点，物理形态为理财师分级清单（系统导出/Excel），子产品为理财师分级清单。起点为业绩数据+分级规则，终点为理财师分级清单[公示版]。关联L4流程L4-EO-01，锚定M2/M6，KPI为分级准确率、公示申诉率。Gate评估为PARTIAL，决策为include，状态hold_partial。
+
+## 关联概念
+
+- [[L4-EO-01 业绩数据与分级规则引擎]]

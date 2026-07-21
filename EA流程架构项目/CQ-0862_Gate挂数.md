@@ -1,0 +1,15 @@
+---
+type: concept_atom
+concept_type: 决策
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/能力问题全集_v2.2.csv
+extracted_at: 2026-07-21T01:47:04
+---
+
+# CQ-0864 Gate追溯
+
+价值节点VN-RCM-01（渠道信用评估报告）的Gate追溯问题状态为PASS，优先级P1，entity、vs、s2b2a字段均为待补充。
+
+## 关联概念
+
+- [[VN-RCM-01渠道信用评估报告]]

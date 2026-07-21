@@ -1,25 +1,16 @@
 ---
 type: concept_atom
-concept_type: 规则
+concept_type: 决策
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/KA域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_草稿
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: 熔断原因
-extracted_at: 2026-07-16T18:48:46
+source: 03_发布成果-交付物/权威数据/能力问题全集_v2.2.csv
+extracted_at: 2026-07-21T01:41:41
 ---
 
-# KA合同签署版熔断原因
+# VN-KAGA-01 KA业绩汇总
 
-VN-KASC-01原判定非熔断，但Sheet3综合判定已修正为熔断，因为Gate③追溯FAIL（无追溯基础、数据散落），Gate②落地仅PARTIAL（物理产物部分存在但非标准化）。
+价值节点VN-KAGA-01（KA业绩汇总）在Gate①挂数、Gate②落地、Gate③追溯、属性①业务定位、属性②价值属性、属性③物理对应、属性④数据验证共7项检查中全部失败，表明该节点无法挂接量化KPI、无机器可读产出物、无法回溯到原始输入、未锚定战略闭环、无法表述商业价值、非物理存在且机器可读、无真实数据跑通。该节点属于VS-3 KA上架旅程、B/A平台、阶段VS3-S7持续运营与优化、L1-02、L3-KAGA，优先级P1。
 
 ## 关联概念
 
-- [[KA合同签署版]]
-
-## 所属枢纽
-
-- [[熔断原因]]
+- [[VS-3 KA上架旅程]]
+- [[L3-KAGA]]

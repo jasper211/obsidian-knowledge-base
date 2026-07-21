@@ -1,25 +1,16 @@
 ---
 type: concept_atom
-concept_type: 经验教训
+concept_type: 定义
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/访谈问题清单/PAY_第二层_访谈问题清单_v1.1.md
-authority_layer: 02_草稿
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: 体系外资金对账
-extracted_at: 2026-07-16T23:31:39
+source: 02_过程成果-工作产出/校验与上下文/过程日志_sheet2_layout.txt
+extracted_at: 2026-07-21T00:15:36
 ---
 
-# NGM→Apass→宿安→天领体系外对账表熔断
+# VN-PAY-09
 
-NGM、Apass、宿安、天领四条体系外资金流（约37.2M HKD）在BP V2中完全不可见，无流程、数据表、KPI，属于P0强制熔断。补建需先裁定归口部门，再建fact表和L3/L4流程。
+NGM→Apass→宿安→天领体系外对账表，属于体系外资金对账E2E(空缺L3)闭环。物理形态为⚠ 完全缺失·零物理产物，L4组成为未建(BP V2完全遗漏)。
 
 ## 关联概念
 
-- [[NGM/Apass数据接口现状]]
-
-## 所属枢纽
-
-- [[体系外资金对账]]
+- [[VN节点]]
+- [[PAY域]]

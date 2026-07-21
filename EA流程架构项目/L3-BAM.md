@@ -1,22 +1,17 @@
 ---
-type: entity_hub
-entity_type: L3流程
-entity_ref: L3-BAM
+type: concept_atom
+concept_type: 定义
 project: EA流程架构项目
-atom_count: 6
-generated_at: 2026-07-18
-generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
+source: 02_过程成果-工作产出/校验与上下文/过程日志_bam_cfm_blueprints_extract_20260626#过程文件.txt
+extracted_at: 2026-07-20T22:39:18
 ---
 
-# L3-BAM
+# L3-BAM流程定义
 
-实体枢纽节点，由entity_ref精确匹配自动生成，收录6个知识原子。
+L3-BAM（银行账户基础设施管理）是资金管理端到端价值流下的一个L3流程，管理公司所有银行账户的全生命周期，包括开户、U盾管理、对账单获取、账户变更、年检、盘点、注销和档案归档。当前管辖33+个银行账户，跨多个法律主体。
 
-## 关联原子
+## 关联概念
 
-- [[L3-BAM基础设施缺陷]]
-- [[L3流程定义]]
-- [[SSOT财务项目附加产出]]
-- [[VN-PAY-07]]
-- [[资金管理P0熔断]]
-- [[资金管理待裁定汇总]]
+- [[L3-CFM流程定义]]
+- [[U盾管理P0熔断]]
+- [[对账单管理P0熔断]]

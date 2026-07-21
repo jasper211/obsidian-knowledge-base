@@ -1,0 +1,15 @@
+---
+type: concept_atom
+concept_type: 规则
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/能力问题全集_v2.2.csv
+extracted_at: 2026-07-21T02:02:05
+---
+
+# CQ-0954 VN-CRR-01 Gate追溯
+
+价值节点VN-CRR-01（合作伙伴到期审核记录）的Gate追溯检查结果为PARTIAL，表示该节点在回传到L3+原始凭证方面存在部分缺失，需进一步裁定。
+
+## 关联概念
+
+- [[VN-CRR-01 合作伙伴到期审核记录]]

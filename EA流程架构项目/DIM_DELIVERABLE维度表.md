@@ -2,25 +2,15 @@
 type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
-source: 08_任务与跟进/项目规划/规划分析_流程小组任务计划_M4_V2.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: 流程维度SCD
-extracted_at: 2026-07-16T12:00:46
+source: 02_过程成果-工作产出/数据库/TMPL_流程数据库FACT_Card_V1_架构知识库.md
+extracted_at: 2026-07-21T00:57:21
 ---
 
-# DIM_DELIVERABLE维度表
+# DIM_DELIVERABLE交付物维度
 
-存储L4物理交付物类型，字段包括deliverable_type（合同/报告/数据表/凭证等）、deliverable_category（文档/系统记录/签字文件）、l4_code、vs_code，支持按交付物维度分析流程效率。
+DIM_DELIVERABLE遵循L4唯一物理交付物原则，每个L4对应一个物理交付物，一行记录。包含deliverable_name、deliverable_type（报告/合同/凭证等）、deliverable_category（文档/签约文件/数字产物/决策产物）、l4_code（1:1关系）、l3_code、vs_code、agentifiability。
 
 ## 关联概念
 
-- [[维度表]]
-- [[L4交付物]]
-
-## 所属枢纽
-
-- [[流程维度SCD]]
+- [[L4唯一物理交付物原则]]
+- [[FACT_CARD事实表]]

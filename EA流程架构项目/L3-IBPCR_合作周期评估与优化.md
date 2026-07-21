@@ -1,0 +1,16 @@
+---
+type: concept_atom
+concept_type: 决策
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/流程库状态监控表_L3成熟度跟踪_V3.10.xlsx / 经代业务
+extracted_at: 2026-07-20T17:17:41
+---
+
+# L3-IBPCR 合作周期评估与优化（已废弃）
+
+L3-IBPCR（合作周期评估与优化）原属经代业务域，已废弃并并入L3-IBRD。包含2个L4流程。备注：2026-06-24：原L4-IBPCR-01作为L4-IBRD-09纳入IBRD；L4-IBPCR-02拆分。
+
+## 关联概念
+
+- [[L3-IBRD]]
+- [[L4-IBRD-09]]

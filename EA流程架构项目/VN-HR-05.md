@@ -1,19 +1,16 @@
 ---
-type: entity_hub
-entity_type: 非正式主题
-entity_ref: VN-HR-05
+type: concept_atom
+concept_type: 定义
 project: EA流程架构项目
-atom_count: 2
-generated_at: 2026-07-18
-generated_by: embedding聚类(threshold=0.72) + LLM内容连贯性判断
-coherence_reason: 两个原子标题均指向同一编号VN-HR-05，分别描述根本阻塞和行动项，属于同一业务话题。
+source: 02_过程成果-工作产出/校验与上下文/过程日志_sheet2_layout.txt
+extracted_at: 2026-07-21T00:16:00
 ---
 
 # VN-HR-05
 
-非正式主题枢纽，2个原子经LLM判断内容连贯后自动生成。
+人力资源诊断与改善建议报告，属于人力分析与决策支持流程E2E闭环。物理形态为Word/PPT报告·docx/pptx，L4组成为HRA-07。
 
-## 关联原子
+## 关联概念
 
-- [[VN-HR-05根本阻塞]]
-- [[VN-HR-05行动项]]
+- [[VN节点]]
+- [[HR域]]

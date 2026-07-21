@@ -1,28 +1,17 @@
 ---
-type: entity_hub
-entity_type: L3流程
-entity_ref: L3-SVC
+type: concept_atom
+concept_type: 定义
 project: EA流程架构项目
-atom_count: 12
-generated_at: 2026-07-18
-generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
+source: 02_过程成果-工作产出/校验与上下文/过程日志_monitor_l3_sheet_locations.txt
+extracted_at: 2026-07-20T23:46:57
 ---
 
 # L3-SVC
 
-实体枢纽节点，由entity_ref精确匹配自动生成，收录12个知识原子。
+L3-SVC 是一个流程或模块，出现在权益工作表中，位于 R29 单元格。
 
-## 关联原子
+## 关联概念
 
-- [[EA口径对齐]]
-- [[EVD-006证据链要求]]
-- [[L3-CFRM材料状态]]
-- [[L3-ISD材料状态]]
-- [[L3-SPO流程]]
-- [[L3-SVC流程]]
-- [[关单Gate条件]]
-- [[异常分级标准]]
-- [[异常处理触发条件]]
-- [[归档要求]]
-- [[权益服务执行Agent]]
-- [[角色分工]]
+- [[L3-UCA]]
+- [[L3-URF]]
+- [[L3-CDA-SRA]]

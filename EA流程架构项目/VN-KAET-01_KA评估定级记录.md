@@ -1,0 +1,15 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/T1_nodes_全域_v2.0.csv
+extracted_at: 2026-07-21T03:51:15
+---
+
+# VN-KAET-01 KA评估定级记录
+
+KA评估定级记录是KA评估定级流程的产出物，当前无定级体系，仅推进/暂缓两态，由MoMo根据合规要求和经验判断。Gate未通过，需整改。
+
+## 关联概念
+
+- [[L4-KAET-04 KA评估与分级]]

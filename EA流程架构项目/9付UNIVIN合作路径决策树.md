@@ -1,26 +1,15 @@
 ---
 type: concept_atom
-concept_type: 任务
+concept_type: 决策
 project: EA流程架构项目
-source: 08_任务与跟进/任务状态/Terresa日报_线2执行情况_M4-W10_20260529.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-05-29
-entity_type: L3流程
-entity_ref: L3-IBRD
-extracted_at: 2026-07-16T12:15:55
+source: 02_过程成果-工作产出/L3流程库/交付物_同行需求判定_D3_L3架构重构方案_20260624.md
+extracted_at: 2026-07-21T08:24:57
 ---
 
-# 9付UNIVIN合作路径决策树
+# 9付UNIVIN决策树
 
-赵琦需将9付/UNIVIN合作路径判断标准书面化，梳理个人经验形成决策树，交付物为《9付/UNIVIN合作路径决策树》，包含审批节点。
+制定9付/UNIVIN合作路径决策标准，将菲菲的个人经验书面化为决策树，明确选择条件和审批节点。
 
 ## 关联概念
 
-- [[L3-IBRD]]
-- [[赵琦]]
-
-## 所属枢纽
-
-- [[L3-IBRD]]
+- [[IBRD合同后置规范]]

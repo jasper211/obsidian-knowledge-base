@@ -2,24 +2,14 @@
 type: concept_atom
 concept_type: 决策
 project: EA流程架构项目
-source: 01_原始材料-外部导入/M-88_mark日常输出/VS-1蓝图调研结论_Mark确认版_20260528.md
-authority_layer: 01_原始
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-05-28
-entity_type: L3流程
-entity_ref: L3-IPI
-extracted_at: 2026-07-16T12:48:36
+source: 02_过程成果-工作产出/L3流程库/流程蓝图_L3-IPI-ONB_产品上架_V1.0.md
+extracted_at: 2026-07-21T07:07:24
 ---
 
-# IPI流程拆分
+# 产品上架流程拆分
 
-L3-IPI（产品上架与运营）流程需拆分为两个独立L3：产品上架和日常运营，因为两者是独立工作流。
+原L3-IPI流程被拆分为产品上架（L3-IPI-Onb）和日常运营（L3-IPI-Ops）两个独立流程，因为上架和运营业务边界清晰，需拆分。
 
 ## 关联概念
 
-- [[L3-IPI流程]]
-
-## 所属枢纽
-
-- [[L3-IPI]]
+- [[L3-IPI-Ops]]

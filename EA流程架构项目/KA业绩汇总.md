@@ -2,21 +2,22 @@
 type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/KA域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_草稿
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
-extracted_at: 2026-07-16T18:47:58
+source: 02_过程成果-工作产出/校验与上下文/过程日志_vn_sheets_preview.txt
+extracted_at: 2026-07-20T23:09:36
 ---
 
 # KA业绩汇总
 
-节点VN-KAGA-01，属于KA业绩跟踪与运维E2E流程。起点为签单系统数据和MoMo大表，终点为KA业绩汇总报告定稿并输入策略优化。数据分散在签单系统和MoMo个人大表中，无统一汇总。熔断状态为熔断。
+《KA业绩汇总》是L3-KAGA（KA业绩跟踪与运维）的核心数据资产，包含出单数据（件数/保费/产品结构/转化率）。当前数据分散在MoMo个人大表和签单系统中，无标准化物理交付物。
 
 ## 关联概念
 
-- [[KA域价值节点]]
-- [[KA业绩汇总熔断原因]]
+- [[VN-KAGA-01]]
+- [[L3-KAGA]]
+
+---
+⚠️ **待校准**：源文档「02_过程成果-工作产出/校验与上下文/_tmp_check_candidates.txt」提炼出内容差异较大的新版本（语义相似度0.71，低于0.8阈值），新旧内容未自动合并，需人工判断保留哪个/如何合并（标记时间：2026-07-21T00:38:13）。
+
+### 候选新内容（来自「02_过程成果-工作产出/校验与上下文/_tmp_check_candidates.txt」）
+
+VN-KAGA-01 是KA业绩汇总，其KPI包括业绩汇总准确率、偏差对比覆盖率和策略优化闭环率，优先级为P1（候选），裁定等级为FAIL。

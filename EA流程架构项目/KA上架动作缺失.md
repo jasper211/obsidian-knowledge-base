@@ -1,26 +1,15 @@
 ---
 type: concept_atom
-concept_type: 规则
+concept_type: 经验教训
 project: EA流程架构项目
-source: 08_任务与跟进/任务状态/Terresa日报_线2执行情况_M4-W11_20260601.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-06-01
-entity_type: 非正式主题
-entity_ref: KA管理问题
-extracted_at: 2026-07-16T12:06:31
+source: 02_过程成果-工作产出/校验与上下文/过程日志_监控表_ka_structure.txt
+extracted_at: 2026-07-20T23:38:33
 ---
 
 # KA上架动作缺失
 
-签约后无明确上架标准和就绪确认节点，交付经理表示“没有过上架这个动作”。需制定《KA上架检查清单》，明确系统配置、权益包激活、培训完成、资料发放等完成标准。
+KA上架准备中上架动作缺失：签约后无明确上架标准和就绪确认；上系统/配权益包后置；交付经理表示没有过上架这个动作；权益方案由MoMo谈后上架。
 
 ## 关联概念
 
-- [[KAOP上架准备]]
-- [[B-03裁定]]
-
-## 所属枢纽
-
-- [[KA管理问题]]
+- [[KA上架准备]]

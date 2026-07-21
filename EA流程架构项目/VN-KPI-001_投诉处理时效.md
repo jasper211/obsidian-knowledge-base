@@ -1,0 +1,16 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/KPI_CODE填充模板_154_v1.xlsx / Crosswalk 对照
+extracted_at: 2026-07-21T04:33:49
+---
+
+# VN-KPI-084投诉处理时效
+
+KPI VN-KPI-084（投诉处理时效）通过name_similarity_0.60方式映射到维度KPI_51，关联价值节点VN-ASD-01和VN-ASD-02。
+
+## 关联概念
+
+- [[VN-ASD-01投诉处理]]
+- [[VN-ASD-02投诉升级]]

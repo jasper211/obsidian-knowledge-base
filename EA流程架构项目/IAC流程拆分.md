@@ -1,25 +1,17 @@
 ---
 type: concept_atom
-concept_type: 决策
+concept_type: 背景说明
 project: EA流程架构项目
-source: 01_原始材料-外部导入/M-88_mark日常输出/VS-1蓝图调研结论_Mark确认版_20260528.md
-authority_layer: 01_原始
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-05-28
-entity_type: L3流程
-entity_ref: L3-IAC
-extracted_at: 2026-07-16T12:48:32
+source: 02_过程成果-工作产出/L3流程库/流程蓝图_L3-IAC-NEG_合同谈判_V1.0.md
+extracted_at: 2026-07-21T09:24:22
 ---
 
-# IAC流程拆分
+# L3-IAC-Neg流程拆分背景
 
-L3-IAC（合同谈判与授权确认）流程需拆分为两个独立L3：IAC-谈判和IAC-授权确认，因为两者是独立流程。
+原L3-IAC'授权与合同谈判'合并了两个独立工作流，经P0裁定、Mark确认，拆分为L3-IAC-Neg（合同谈判）和L3-IAC-Auth（授权确认），因为谈判和授权确认业务边界清晰。
 
 ## 关联概念
 
-- [[L3-IAC流程]]
-
-## 所属枢纽
-
-- [[L3-IAC]]
+- [[L3-IAC-Auth]]
+- [[合同谈判]]
+- [[授权确认]]

@@ -1,26 +1,16 @@
 ---
 type: concept_atom
-concept_type: 决策
+concept_type: 经验教训
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/TREASURY域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_草稿
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: 熔断原因
-extracted_at: 2026-07-16T19:05:53
+source: 02_过程成果-工作产出/校验与上下文/过程日志_sheet5_structure.txt
+extracted_at: 2026-07-20T22:49:27
 ---
 
 # VN-CFM-01熔断原因
 
-VN-CFM-01因三重Gate全部FAIL（未挂KPI、无落地产物、无法追溯）被判定为熔断节点，需优先安排访谈和Gate修复评估。
+现金流管理报告包因挂数、落地、追溯Gate均失败而熔断，具体问题包括收款预测/付款计划/缺口预警/跨主体调拨/资金池全缺失，仅每周手工结余报表，无业务审批资金付款完全听业务的，出纳会计岗位未分离。
 
 ## 关联概念
 
-- [[VN-CFM-01]]
-- [[三重Gate判定标准]]
-
-## 所属枢纽
-
-- [[熔断原因]]
+- [[熔断节点定义]]
+- [[P0行动清单]]

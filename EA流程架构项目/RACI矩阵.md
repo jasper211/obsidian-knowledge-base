@@ -2,25 +2,15 @@
 type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
-source: 01_原始材料-外部导入/M-05_分析与决策报告/05_分析与决策报告_协同与岗位_三人组季度联合待办.docx
-authority_layer: 01_原始
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: 企业架构分层
-extracted_at: 2026-07-16T13:13:09
+source: 02_过程成果-工作产出/组织重组/财务人员离职风险分析与过渡方案_v4_三支柱.md
+extracted_at: 2026-07-21T01:07:31
 ---
 
 # RACI矩阵
 
-明确跨部门L3流程中各角色的责任（R负责、A批准、C咨询、I知情）。草稿在M1准备，M2完成高优先L3的RACI签字，M4更新至最终版。
+RACI矩阵用于明确三支柱各流程域的责任分工：A=最终负责，R=执行，C=咨询，I=知会。例如L3-PAY付款端到端由CHAYA中台负责（A），ROY BP为咨询（C），JESSICA牌照为知会（I）。
 
 ## 关联概念
 
-- [[部门边界基线]]
-- [[L3合并方案]]
-
-## 所属枢纽
-
-- [[企业架构分层]]
+- [[财务三支柱架构]]
+- [[EA L3流程域]]

@@ -1,23 +1,16 @@
 ---
-type: entity_hub
-entity_type: L3流程
-entity_ref: L3-CMU
+type: concept_atom
+concept_type: 定义
 project: EA流程架构项目
-atom_count: 7
-generated_at: 2026-07-18
-generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
+source: 02_过程成果-工作产出/校验与上下文/过程日志_commission_l3_search.txt
+extracted_at: 2026-07-21T00:27:03
 ---
 
 # L3-CMU
 
-实体枢纽节点，由entity_ref精确匹配自动生成，收录7个知识原子。
+L3-CMU 是佣金全链路管理中的一个L3流程节点，出现在多个交付物中，包括L4清单、偏差分析报告、架构重构方案、裁定清单和流程蓝图。
 
-## 关联原子
+## 关联概念
 
-- [[L3编码映射标准]]
-- [[L4编码同步更新规则]]
-- [[TBD占位替换为语义推导L4]]
-- [[Teresa评审修正旧码移除]]
-- [[佣金域L3补入桥接表]]
-- [[标准编码全量索引]]
-- [[编码修改加名称统一R2]]
+- [[L3-CBD]]
+- [[L3-CVI]]

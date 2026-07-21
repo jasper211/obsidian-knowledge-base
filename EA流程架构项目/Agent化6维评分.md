@@ -2,25 +2,15 @@
 type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
-source: 03_发布成果-交付物/治理规范/DICT_流程数据库数据字典_V1_架构知识库.md
-authority_layer: 03_已锁定
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: Agent维度表问题
-extracted_at: 2026-07-16T11:45:19
+source: 02_过程成果-工作产出/数据库/TMPL_流程数据库FACT_Card_V1_架构知识库.md
+extracted_at: 2026-07-21T00:58:12
 ---
 
 # Agent化6维评分
 
-Agent化评估包含6个维度：D1输入结构化程度、D2规则清晰程度、D3输出可验证程度、D4 API可达程度、D5降级可用程度、D6合规可编码程度。每个维度0-3分，总分0-18分。Auto通常≥14，Human通常≤4。
+DIM_PROCESS中Agent化评估包含6个维度，每项0-3分，总分0-18分：d1_input_struct（输入结构化）、d2_rule_clear（规则清晰度）、d3_output_verify（输出可验证）、d4_api_reach（API可达性）、d5_fallback（降级机制）、d6_compliance（合规性）。
 
 ## 关联概念
 
-- [[DIM_PROCESS维度表]]
-- [[agentifiability字段]]
-
-## 所属枢纽
-
-- [[Agent维度表问题]]
+- [[DIM_PROCESS]]
+- [[Agent化类型]]

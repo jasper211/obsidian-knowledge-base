@@ -2,25 +2,15 @@
 type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
-source: 08_任务与跟进/项目规划/模板_流程数据库FACT_Card_V1.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: Agent资产沉淀_Agent资产沉淀
-extracted_at: 2026-07-16T11:55:28
+source: 02_过程成果-工作产出/数据库/TMPL_流程数据库FACT_Card_V1_架构知识库.md
+extracted_at: 2026-07-21T00:57:48
 ---
 
-# Agent风险等级判定规则
+# Agent错误率风险等级判定
 
-在Agent化类型×错误率×战略影响三维分析中，Agent实际错误率>5%且对应L3战略层级≤M3，判定为高风险，需立即人工接管并重建规则。
+Agent实际错误率>5%且对应流程战略层级≤M3时，判定为高风险，需立即人工接管并重建规则。该规则用于AI质量×战略风险三维分析（4.2节）。
 
 ## 关联概念
 
-- [[三维分析视图]]
-- [[EA改进Insight卡]]
-
-## 所属枢纽
-
-- [[Agent资产沉淀]]
+- [[Agent化类型]]
+- [[战略层级]]

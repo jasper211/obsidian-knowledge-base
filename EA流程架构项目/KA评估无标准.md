@@ -1,26 +1,15 @@
 ---
 type: concept_atom
-concept_type: 规则
+concept_type: 背景说明
 project: EA流程架构项目
-source: 08_任务与跟进/任务状态/Terresa日报_线2执行情况_M4-W11_20260601.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-06-01
-entity_type: 非正式主题
-entity_ref: KA管理问题
-extracted_at: 2026-07-16T12:06:31
+source: 02_过程成果-工作产出/L3流程库/交付物_VS-3_KA业务_D3_L3架构重构方案_20260603_V1.1.md
+extracted_at: 2026-07-20T21:26:29
 ---
 
 # KA评估无标准
 
-KA评估定级完全依赖交付经理个人经验，无标准化评估工具，导致KA自述与实际出单落差大。需建立S/A/B/C分级评估模板，设计出单量、持续性、团队规模、合作意愿等维度。
+评估定级完全依赖交付经理个人经验，无量化维度和标准化模板。MoMo根据合规要求判断：个人不分级，机构仅分两类（普通/有牌在买）。
 
 ## 关联概念
 
-- [[KAET评估定级]]
-- [[B-02裁定]]
-
-## 所属枢纽
-
-- [[KA管理问题]]
+- [[KA评估定级标准模板]]

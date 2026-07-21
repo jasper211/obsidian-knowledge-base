@@ -1,0 +1,16 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 03_发布成果-交付物/权威数据/KPI_CODE填充模板_154_v1.xlsx / 154 KPI 已生成
+extracted_at: 2026-07-21T04:03:28
+---
+
+# VN-KPI-028 付款审批覆盖率
+
+KPI VN-KPI-028（付款审批覆盖率）是价值节点级全量registry指标，关联价值节点VN-CFM-02，已生成编码VN-FIN-002，非标记KPI，关联2个检查问题CQ-EA-0532。
+
+## 关联概念
+
+- [[VN-CFM-02]]
+- [[CQ-EA-0532]]

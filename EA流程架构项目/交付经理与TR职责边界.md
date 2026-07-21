@@ -1,26 +1,16 @@
 ---
 type: concept_atom
-concept_type: 定义
+concept_type: 决策
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/访谈录音md/IBRD-菲菲_momo_导读.docx
-authority_layer: 02_草稿
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 非正式主题
-entity_ref: 交付经理职责
-extracted_at: 2026-07-17T01:53:53
+source: 02_过程成果-工作产出/L3流程库/交付物_VS-3_KA业务_D3_L3架构重构方案_20260603_V1.1.md
+extracted_at: 2026-07-20T21:27:00
 ---
 
 # 交付经理与TR职责边界
 
-交付经理负责客户画像完善、签约流程跟进、培训支持及关键节点拜访等全流程服务；TR仅在交付经理资源满负荷时负责签约，避免职责重叠。
+交付经理聚焦KA培育、需求挖掘、长期关系维护、生命周期管理、业绩分析；TR专注签单执行，不负责KA关系维护。明确KPI差异：交付经理考核KA活跃度/续约率/生命周期价值；TR考核出单量/签单效率。
 
 ## 关联概念
 
-- [[签约流程]]
-- [[客户跟进]]
-
-## 所属枢纽
-
-- [[交付经理职责]]
+- [[岗位定位模糊]]
+- [[VN-KAGA-01]]

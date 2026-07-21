@@ -2,25 +2,15 @@
 type: concept_atom
 concept_type: 决策
 project: EA流程架构项目
-source: 08_任务与跟进/任务状态/Jasper_W4任务清单_2026-05-22.md
-authority_layer: 08_任务跟进
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-05-22
-entity_type: L3流程
-entity_ref: L3-RSJD
-extracted_at: 2026-07-16T12:05:36
+source: 02_过程成果-工作产出/价值链L1建模/价值链L1建模_V0_待补清单.md
+extracted_at: 2026-07-21T01:09:57
 ---
 
 # L3-RSJD归属裁决
 
-L3-RSJD（经代机构销售业务执行流程）在映射表中归L1-05，但业务语义偏L1-02，需由Jasper和业务方赵琦协调裁决归属：A归L1-02、B归L1-05、C新增L1-04子节点。
+L3-RSJD（经代机构销售业务执行流程）原归L1-05，经业务方赵琦与架构方Jasper裁决，因其核心动作是销售执行而非权益交付，业务语义匹配L1-02（市场设计与合作伙伴发展），故迁移至L1-02。
 
 ## 关联概念
 
-- [[L1命名冲突裁决]]
-- [[价值流方法论复合文档处理]]
-
-## 所属枢纽
-
-- [[L3-RSJD]]
+- [[L1权威定义]]
+- [[L1-L3映射分析逻辑]]

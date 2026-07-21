@@ -2,24 +2,14 @@
 type: concept_atom
 concept_type: 决策
 project: EA流程架构项目
-source: 01_原始材料-外部导入/M-88_mark日常输出/VS-1蓝图调研结论_Mark确认版_20260528.md
-authority_layer: 01_原始
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 2026-05-28
-entity_type: L3流程
-entity_ref: L3-IBE
-extracted_at: 2026-07-16T12:48:35
+source: 02_过程成果-工作产出/L3流程库/交付物_VS-01保司合作价值流_D2_L4偏差分析报告_20260528.md
+extracted_at: 2026-07-21T08:35:54
 ---
 
-# IBE持续运营型
+# L3-IBE持续运营型
 
-L3-IBE（赋能）流程被确认为持续运营型流程，而非一次性活动；能力基线评估实际不做，标记为待建设。
+L3-IBE（业务赋能与业绩达成）应标注为持续运营型流程，而非项目型，以匹配其伴随保司合作全生命周期的实际状态。
 
 ## 关联概念
-
-- [[L3-IBE流程]]
-
-## 所属枢纽
 
 - [[L3-IBE]]

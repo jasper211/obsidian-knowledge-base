@@ -1,29 +1,15 @@
 ---
-type: entity_hub
-entity_type: L3流程
-entity_ref: L3-DTVA
+type: concept_atom
+concept_type: 经验教训
 project: EA流程架构项目
-atom_count: 13
-generated_at: 2026-07-18
-generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
+source: 02_过程成果-工作产出/校验与上下文/过程日志_monitor_overview_current.txt
+extracted_at: 2026-07-21T00:36:12
 ---
 
-# L3-DTVA
+# L3-DTVA完全未执行
 
-实体枢纽节点，由entity_ref精确匹配自动生成，收录13个知识原子。
+L3-DTVA（权益数据跟踪与价值评估）经Amanda访谈确认该流程完全未执行，建议归档删除。
 
-## 关联原子
+## 关联概念
 
-- [[AB双轨监测]]
-- [[KN1运营期监控与健康度评估]]
-- [[SLCM设计要点]]
-- [[T11_L3挂接点补建]]
-- [[T11_续约前流失预警处置率]]
-- [[价值评估校准会]]
-- [[前中后台数据闭环]]
-- [[季度数据驱动决策复盘会]]
-- [[报告行动转化跟踪]]
-- [[数据事实与业务解读分离]]
-- [[数据管家责任制]]
-- [[权益数据联动赋能策略]]
-- [[领先滞后指标联动]]
+- [[L3-DTVA]]
