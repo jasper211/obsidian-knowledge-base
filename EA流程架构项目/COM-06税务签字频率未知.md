@@ -16,7 +16,3 @@ extracted_at: 2026-07-16T16:27:49
 
 COM-06税务签字频率（每次都要还是异常才要）尚未确认，若为每次都要则Tier需从Auto降为Aug，对应Skill需增加Human gate。当前暂按Auto假设。
 
-## 关联概念
-
-- [[进入Phase B前置条件]]
-- [[Tier争议]]

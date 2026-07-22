@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:20:30
 
 KPI VN-KPI-161（报销周期，对应KPI#27）属于价值节点VN-PAY-08，通过direct_correspondence直接对应到KPI_21（结算周期）。
 
-## 关联概念
-
-- [[VN-PAY-08]]
-- [[KPI_21]]

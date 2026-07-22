@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:19:04
 
 KPI VN-KPI-154（结算准确率）属于价值节点VN-PAY-05，通过process_support映射到KPI_21（结算周期）和KPI_24（首年撤单率）。
 
-## 关联概念
-
-- [[VN-PAY-05]]
-- [[KPI_21]]
-- [[KPI_24]]

@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:05:27
 
 KPI VN-KPI-089（员工晋升率）属于价值节点 VN-HR-08，通过 rollup_aggregation 方式映射到维度 KPI KPI_31（人均 APE）和 KPI_32（人均件数）。
 
-## 关联概念
-
-- [[VN-HR-08]]
-- [[KPI_31]]
-- [[KPI_32]]

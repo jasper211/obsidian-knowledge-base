@@ -16,7 +16,3 @@ extracted_at: 2026-07-16T12:48:52
 
 Agg1源头佣金宽表Agent试跑失败，原因是依赖FACT1的输出目录未链接（Mac环境需手动链接etl/agg/source_data/到FACT1的output）。Windows上已配好，Mac需手动操作。
 
-## 关联概念
-
-- [[Agg1_source_commission_wide]]
-- [[FACT1_commission_rate]]

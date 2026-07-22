@@ -10,9 +10,3 @@ extracted_at: 2026-07-20T18:19:33
 
 KPI VN-KPI-156（双口径差异率）属于价值节点VN-PAY-05，通过process_support映射到KPI_21（结算周期）和KPI_24（首年撤单率），通过rollup_aggregation映射到KPI_06（管理利润）。
 
-## 关联概念
-
-- [[VN-PAY-05]]
-- [[KPI_21]]
-- [[KPI_24]]
-- [[KPI_06]]

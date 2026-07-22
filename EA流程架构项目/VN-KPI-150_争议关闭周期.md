@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:30:31
 
 KPI VN-KPI-001（争议关闭周期）通过legacy_id_direct方式映射到维度KPI_20，关联价值节点VN-PAY-03。
 
-## 关联概念
-
-- [[VN-PAY-03争议处理]]

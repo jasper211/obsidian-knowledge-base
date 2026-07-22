@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:06:09
 
 KPI VN-KPI-092（结果应用率(调薪)）属于价值节点 VN-HR-09，通过 process_support 方式映射到维度 KPI KPI_03（目标达成率）。
 
-## 关联概念
-
-- [[VN-HR-09]]
-- [[KPI_03]]

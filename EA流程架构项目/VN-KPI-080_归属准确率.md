@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:14:39
 
 KPI VN-KPI-081（归档完整率）是价值节点级全量registry指标，关联价值节点VN-FOB-01，已生成KPI编码VN-AGT-009，对应一个检查项CQ-EA-0552。
 
-## 关联概念
-
-- [[VN-FOB-01]]
-- [[CQ-EA-0552]]

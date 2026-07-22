@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:18:36
 
 KPI VN-KPI-100（整改完成率）是价值节点级全量registry指标，关联价值节点VN-ASD-02，已生成KPI编码VN-JDBIZ-012，对应一个检查项CQ-EA-0801。
 
-## 关联概念
-
-- [[VN-ASD-02]]
-- [[CQ-EA-0801]]

@@ -16,11 +16,6 @@ extracted_at: 2026-07-16T12:53:26
 
 为解决spec不分层不全的问题，定spec分层/分主题/分类别骨架，并优先补关键缺件S11 gate registry。
 
-## 关联概念
-
-- [[gate registry]]
-- [[治理母 schema]]
-
 ## 所属枢纽
 
 - [[spec骨架补全]]

@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:32:31
 
 KPI VN-KPI-011（理财师NPS）通过legacy_id_direct方式映射到维度KPI_24，关联价值节点VN-PAY-06。
 
-## 关联概念
-
-- [[VN-PAY-06理财师服务]]

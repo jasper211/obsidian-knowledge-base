@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T03:26:23
 
 KPI名称为数据完整率，EA编号为空，归属价值节点VN-HR-11，涉及1个CQ（CQ-EA-0366），未在dim_kpi中，中台kpi_code为VN-DS-023。
 
-## 关联概念
-
-- [[VN-HR-11]]

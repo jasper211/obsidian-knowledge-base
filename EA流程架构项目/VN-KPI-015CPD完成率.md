@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:00:39
 
 KPI VN-KPI-015（CPD完成率）是价值节点VN-HRD-02的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联一个CQ（CQ-EA-0819），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-HRD-02]]
-- [[CQ-EA-0819]]

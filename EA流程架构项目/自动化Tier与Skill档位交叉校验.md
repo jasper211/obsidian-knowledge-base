@@ -16,13 +16,6 @@ extracted_at: 2026-07-16T15:49:51
 
 候选Agent设计需同时考虑Skill封装档位（A/B/C/F，衡量产出规整性）和自动化Tier（Auto/Aug/Hybrid/Human，衡量人工介入程度），两者不完全等价。交叉校验可暴露Agent定位偏差，例如Hybrid+Human占比过高的Agent应归类为决策支持/协同型而非执行型。
 
-## 关联概念
-
-- [[Skill封装档位]]
-- [[自动化Tier]]
-- [[执行型Agent]]
-- [[协同型Agent]]
-
 ## 所属枢纽
 
 - [[封装与自动化Tier]]

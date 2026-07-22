@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T03:49:21
 
 节点VN-INS-05产出《Portfolio分析报告》，物理形式为Excel/PPT分析报告，属于INS保司领域下的保司产品上架与业务运营流程。该节点Gate部分通过，保留待补全。
 
-## 关联概念
-
-- [[L4-IPI-08 Portfolio管理]]

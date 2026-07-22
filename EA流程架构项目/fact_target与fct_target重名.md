@@ -16,7 +16,3 @@ extracted_at: 2026-07-16T12:39:42
 
 目标管理域存在两张名称相似的表：DDL定义的 fact_target（0行）和Excel导入的 fct_target（62行）。需统一命名，避免混淆。
 
-## 关联概念
-
-- [[fact_target]]
-- [[fct_target]]

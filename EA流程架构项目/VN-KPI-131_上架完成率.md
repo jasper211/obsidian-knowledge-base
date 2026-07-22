@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:01:30
 
 KPI VN-KPI-019（上架完成率）是价值节点VN-KAOP-01的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联两个CQ（CQ-EA-0504），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-KAOP-01]]
-- [[CQ-EA-0504]]

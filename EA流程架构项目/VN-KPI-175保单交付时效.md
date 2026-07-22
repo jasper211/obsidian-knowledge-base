@@ -10,9 +10,3 @@ extracted_at: 2026-07-20T18:23:29
 
 价值节点VN-RSJD-02的KPI保单交付时效（VN-KPI-175）由三个指标映射：承保周期（KPI_20）为direct_correspondence；简单赔付率（KPI_50）为driver_factor；理赔时效（KPI_51）为process_support。
 
-## 关联概念
-
-- [[VN-RSJD-02]]
-- [[KPI_20]]
-- [[KPI_50]]
-- [[KPI_51]]

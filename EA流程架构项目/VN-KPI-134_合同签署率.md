@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:03:53
 
 KPI VN-KPI-030（保单签收率）是价值节点级全量registry指标，关联价值节点VN-RSJD-02，已生成编码VN-JDBIZ-004，非标记KPI，关联1个检查问题CQ-EA-0769。
 
-## 关联概念
-
-- [[VN-RSJD-02]]
-- [[CQ-EA-0769]]

@@ -10,8 +10,3 @@ extracted_at: 2026-07-21T04:44:39
 
 企业级KRI指标，代码财务-KRI-06，衡量管理利润（净营收−运营成本），单位HKD，方向越大越好，周期月，数据源FCT_COMMISSION和FCT_ALLOCATED_COST，数据Owner CARRIE(佣金率)，落责岗位单点1族（待补冗余）。当前状态LOCKED-部分字段待补，待决项包括目标值、阈值、落责岗位、领先于、置信度。
 
-## 关联概念
-
-- [[财务-KRI-06]]
-- [[FCT_COMMISSION]]
-- [[FCT_ALLOCATED_COST]]

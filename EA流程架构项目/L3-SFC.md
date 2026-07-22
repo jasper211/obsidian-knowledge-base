@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: L3流程
 entity_ref: L3-SFC
 project: EA流程架构项目
-atom_count: 5
+atom_count: 4
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -14,7 +14,6 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 
 ## 关联原子
 
-- [[C档误判排查]]
 - [[SFC-01可行性评估准备]]
 - [[判断类动作例外规则]]
 - [[细分市场判断Agent]]

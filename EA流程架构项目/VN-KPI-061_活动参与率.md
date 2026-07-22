@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:00:50
 
 价值节点VN-FOR-02的KPI活动参与率（VN-KPI-061）通过direct_correspondence映射到理财师周活动量（KPI-T05）。
 
-## 关联概念
-
-- [[VN-FOR-02]]
-- [[KPI-T05]]

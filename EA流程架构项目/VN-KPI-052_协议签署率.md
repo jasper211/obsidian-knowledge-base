@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:10:18
 
 价值节点VN-INS-02的KPI“授权确认”通过direct_correspondence方式映射到维度KPI_16“签单转化率”。
 
-## 关联概念
-
-- [[VN-INS-02]]
-- [[KPI_16]]

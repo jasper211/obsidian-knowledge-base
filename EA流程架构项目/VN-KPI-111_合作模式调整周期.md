@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:09:35
 
 价值节点VN-IBRD-02的KPI“合作模式调整周期”通过direct_correspondence方式映射到维度KPI_21“结算周期”。
 
-## 关联概念
-
-- [[VN-IBRD-02]]
-- [[KPI_21]]

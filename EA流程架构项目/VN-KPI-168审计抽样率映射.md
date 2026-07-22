@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:31:17
 
 KPI VN-KPI-170（财务审计及时率）属于价值节点 VN-RCM-02，通过 process_support 方式映射到维度 KPI KPI_27（审计问题数）。
 
-## 关联概念
-
-- [[VN-RCM-02]]
-- [[KPI_27]]

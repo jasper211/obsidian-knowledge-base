@@ -10,8 +10,3 @@ extracted_at: 2026-07-21T03:27:30
 
 KPI名称为方案交付周期，EA编号为空，归属价值节点VN-EQ-02和VN-MGA-02，涉及2个CQ（CQ-EA-0139），未在dim_kpi中，中台KPI编码为VN-EQ-014。
 
-## 关联概念
-
-- [[VN-EQ-02]]
-- [[VN-MGA-02]]
-- [[CQ-EA-0139]]

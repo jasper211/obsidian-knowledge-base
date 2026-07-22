@@ -16,12 +16,3 @@ extracted_at: 2026-07-16T12:48:50
 
 自定义Agent需继承BaseAgent，必须设置name（唯一）、owner（7族代码）、l4_codes（对应L4编号）、description，并实现execute和validate方法。
 
-## 关联概念
-
-- [[BaseAgent]]
-- [[validate方法]]
-- [[7族代码]]
-
-## 所属枢纽
-
-- [[Agent资产沉淀]]

@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:00:50
 
 KPI VN-KPI-016（Pending处理时效）是价值节点VN-RSJD-02的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联一个CQ（CQ-EA-0771），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-RSJD-02]]
-- [[CQ-EA-0771]]

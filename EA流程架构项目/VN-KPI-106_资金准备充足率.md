@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:09:07
 
 价值节点VN-HR-14的KPI“凭证完整率”通过process_support方式映射到维度KPI_21“结算周期”，并通过driver_factor方式映射到KPI_17“递交转化率”。
 
-## 关联概念
-
-- [[VN-HR-14]]
-- [[KPI_21]]
-- [[KPI_17]]

@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:00:08
 
 价值节点VN-FOR-01的KPI陪跑覆盖率（VN-KPI-058）通过direct_correspondence映射到理财师首单陪跑五动作完成率（KPI-T04）。
 
-## 关联概念
-
-- [[VN-FOR-01]]
-- [[KPI-T04]]

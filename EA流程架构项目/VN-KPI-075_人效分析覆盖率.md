@@ -10,6 +10,3 @@ extracted_at: 2026-07-20T16:07:26
 
 价值节点VN-HR-04（人效分析报告）关联两个KPI：VN-KPI-076（分析结论采纳率，P1）和VN-KPI-077（报告产出时效，P1）。其中VN-KPI-077通过process_support方式映射到dim_kpi_id KPI-T10。
 
-## 关联概念
-
-- [[VN-HR-04人效分析报告]]

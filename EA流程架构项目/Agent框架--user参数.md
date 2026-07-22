@@ -16,7 +16,3 @@ extracted_at: 2026-07-16T12:40:05
 
 在Agent框架中加入--user参数，使控制台和企业微信告警均显示执行人姓名（如terresa），以支持多人同时执行时区分告警来源。修改文件包括agents/base.py、agents/commission_agents.py、agents/performance_agents.py。
 
-## 关联概念
-
-- [[佣金链Agent管线]]
-- [[业绩链Agent管线]]

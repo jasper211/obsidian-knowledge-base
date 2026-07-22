@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:02:16
 
 KPI VN-KPI-023（交付经理满意度）是价值节点VN-EQ-06的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联一个CQ（CQ-EA-0667），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-EQ-06]]
-- [[CQ-EA-0667]]

@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:30:44
 
 KPI VN-KPI-002（佣金口径准确率）通过legacy_id_direct方式映射到维度KPI_16，关联价值节点VN-PAY-01。
 
-## 关联概念
-
-- [[VN-PAY-01佣金制作产出]]

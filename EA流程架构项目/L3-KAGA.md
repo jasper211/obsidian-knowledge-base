@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: L3流程
 entity_ref: L3-KAGA
 project: EA流程架构项目
-atom_count: 16
+atom_count: 3
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -16,17 +16,4 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 
 - [[KA业务线7个L3流程]]
 - [[KA业务线生命周期]]
-- [[KA交付经理职责]]
-- [[KA健康度分级监控]]
 - [[KA赋能运维Agent身份]]
-- [[L3-KAGA_业绩跟踪运维裁定]]
-- [[交付经理为流程负责人]]
-- [[任务执行与过程跟踪]]
-- [[前中后台数据闭环]]
-- [[复盘报告驱动行动计划]]
-- [[数据仪表盘与月度评审会]]
-- [[数据聚合与健康度初筛]]
-- [[权益数据联动赋能策略]]
-- [[标准评估加个性化诊断]]
-- [[深度复盘与策略研讨会]]
-- [[陪跑反馈即时流转机制]]

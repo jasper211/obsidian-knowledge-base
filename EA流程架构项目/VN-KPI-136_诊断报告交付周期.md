@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:14:32
 
 KPI VN-KPI-136（诊断报告交付周期）属于价值节点 VN-MGA-01，通过 direct_correspondence 方式直接对应下游指标 KPI_20（承保周期）。
 
-## 关联概念
-
-- [[VN-MGA-01]]
-- [[KPI_20]]

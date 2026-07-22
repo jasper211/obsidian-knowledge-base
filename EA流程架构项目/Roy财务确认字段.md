@@ -19,7 +19,6 @@ Roy/财务需逐项确认price_policy、cost_policy、margin_policy、budget_pol
 ## 关联概念
 
 - [[结算确认前置条件]]
-- [[业务-财务双签]]
 
 ## 所属枢纽
 

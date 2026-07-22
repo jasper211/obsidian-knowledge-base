@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:09:21
 
 价值节点VN-IBRD-02的KPI“合作方续约率”通过driver_factor方式映射到维度KPI_13“N/R 结构”和KPI_34“新签 KA 数”。
 
-## 关联概念
-
-- [[VN-IBRD-02]]
-- [[KPI_13]]
-- [[KPI_34]]

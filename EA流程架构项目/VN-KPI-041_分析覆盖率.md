@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:17:09
 
 KPI VN-KPI-093（指标覆盖率）是价值节点级全量registry指标，关联价值节点VN-FPG-01，已生成KPI编码VN-AGT-015，对应一个检查项CQ-EA-0611。
 
-## 关联概念
-
-- [[VN-FPG-01]]
-- [[CQ-EA-0611]]

@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:30:01
 
 KPI VN-KPI-040（服务上架前置合规率）属于价值节点 VN-EQ-08，通过 process_support 方式映射到维度 KPI KPI_27（审计问题数）。
 
-## 关联概念
-
-- [[VN-EQ-08]]
-- [[KPI_27]]

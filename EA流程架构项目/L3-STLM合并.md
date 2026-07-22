@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T00:32:11
 
 L3-STLM是否合并为L3-SVC，需Mark裁定B-01。
 
-## 关联概念
-
-- [[L3-SVC]]

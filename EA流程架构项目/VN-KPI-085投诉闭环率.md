@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:34:00
 
 KPI VN-KPI-085（投诉闭环率）通过name_similarity_0.75方式映射到维度KPI_26，关联价值节点VN-ASD-01。
 
-## 关联概念
-
-- [[VN-ASD-01投诉处理]]

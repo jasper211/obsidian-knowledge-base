@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:31:20
 
 KPI VN-KPI-005（实派时效）通过legacy_id_direct方式映射到维度KPI_21，关联价值节点VN-PAY-04。
 
-## 关联概念
-
-- [[VN-PAY-04实派处理]]

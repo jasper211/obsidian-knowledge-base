@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:23:57
 
 价值节点VN-RSJD-03的KPI回访完成率（VN-KPI-177）由理赔时效（KPI_51）映射，映射方式为process_support。
 
-## 关联概念
-
-- [[VN-RSJD-03]]
-- [[KPI_51]]

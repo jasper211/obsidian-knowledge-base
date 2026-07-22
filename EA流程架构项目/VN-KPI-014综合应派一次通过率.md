@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:00:28
 
 KPI VN-KPI-014（综合应派一次通过率）是价值节点VN-PAY-06的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联一个CQ（CQ-EA-0094），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-PAY-06]]
-- [[CQ-EA-0094]]

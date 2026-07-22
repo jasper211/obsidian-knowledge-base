@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:11:19
 
 KPI VN-KPI-066（回访完成率）是价值节点级全量registry指标，关联价值节点VN-RSJD-03，对应数据源编码VN-JDBIZ-005，关联检查项CQ-EA-0779。
 
-## 关联概念
-
-- [[VN-RSJD-03]]
-- [[CQ-EA-0779]]

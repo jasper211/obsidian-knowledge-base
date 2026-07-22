@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:10:32
 
 价值节点VN-INS-05的KPI“Portfolio管理确认”通过direct_correspondence方式映射到维度KPI-T01“保司Pipeline周推进数”。
 
-## 关联概念
-
-- [[VN-INS-05]]
-- [[KPI-T01]]

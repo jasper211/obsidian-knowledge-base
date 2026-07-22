@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:03:34
 
 KPI VN-KPI-075（人效分析覆盖率）属于价值节点 VN-HR-04，通过 rollup_aggregation 方式映射到维度 KPI KPI_31（人均 APE），同时通过 process_support 方式映射到维度 KPI KPI-T10（AI Agent任务自动完成率）。
 
-## 关联概念
-
-- [[VN-HR-04]]
-- [[KPI_31]]
-- [[KPI-T10]]

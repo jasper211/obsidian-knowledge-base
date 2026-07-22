@@ -16,11 +16,6 @@ extracted_at: 2026-07-16T16:02:44
 
 保险/MGA长尾合并Agent不再作为独立候选，其两个L3（IAC-NEG和IPI-OPS）分别并入已有的保险授权确认Agent和产品上架Agent，避免碎片化。
 
-## 关联概念
-
-- [[保险授权确认Agent]]
-- [[产品上架Agent]]
-
 ## 所属枢纽
 
 - [[长尾合并Agent_长尾合并Agent自动化差异大]]

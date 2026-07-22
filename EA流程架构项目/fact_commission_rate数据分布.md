@@ -16,6 +16,3 @@ extracted_at: 2026-07-16T12:39:41
 
 fact_commission_rate 表共12,505行，按carrier分布极不均衡：SLHK占10,437行（83%），其余17家保司仅占17%。这种分布可能导致后续分析偏差，需关注数据代表性。
 
-## 关联概念
-
-- [[fact_commission_rate]]

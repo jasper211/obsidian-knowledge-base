@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:32:16
 
 KPI VN-KPI-203（TOI外发放行合规率）属于价值节点 VN-USV-02，通过 process_support 方式映射到维度 KPI KPI_27（审计问题数）。
 
-## 关联概念
-
-- [[VN-USV-02]]
-- [[KPI_27]]

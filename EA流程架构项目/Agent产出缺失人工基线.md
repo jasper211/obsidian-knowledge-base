@@ -16,7 +16,3 @@ extracted_at: 2026-07-16T12:43:48
 
 Agent产出（Layer 2）目前没有对应的Carrie人工历史版本存放在项目中，导致无法直接进行自动化校准比对。需要向Carrie索取Agent框架建立前的手工版本（如Fact_Commission_Rate、Agg_Source_Commission_Wide等）。
 
-## 关联概念
-
-- [[人工基线]]
-- [[校准比对]]

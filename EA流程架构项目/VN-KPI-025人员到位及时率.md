@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:02:38
 
 KPI VN-KPI-025（人员到位及时率）是价值节点VN-HR-01的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联一个CQ（CQ-EA-0166），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-HR-01]]
-- [[CQ-EA-0166]]

@@ -16,11 +16,3 @@ extracted_at: 2026-07-16T16:04:49
 
 产品上架Agent属于B族(JF-02保司关系族)，对应L3-IPI-ONB(产品上架)和L3-IPI-OPS(日常运营)两个L3，共7条L4，Agent类型为专家型（Orchestrator）。
 
-## 关联概念
-
-- [[L3-IPI-ONB]]
-- [[L3-IPI-OPS]]
-
-## 所属枢纽
-
-- [[L3-IPI]]

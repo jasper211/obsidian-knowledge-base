@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:33:09
 
 KPI VN-KPI-067（培养目标达成率）通过name_similarity_0.83方式映射到维度KPI_03，关联价值节点VN-FOB-02。
 
-## 关联概念
-
-- [[VN-FOB-02培养发展]]

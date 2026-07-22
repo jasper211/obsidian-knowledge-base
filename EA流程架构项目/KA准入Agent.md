@@ -16,10 +16,6 @@ extracted_at: 2026-07-16T16:35:37
 
 KA准入Agent是C族（JF-03机构业务族，KA管理岗）的专家型Orchestrator Agent，负责处理新的KA（Key Account机构客户）线索的准入流程，包含4个L3（KAEC、KAET、KASC、KAOP）共13条L4，是30个Agent中数据颗粒度最细的一个。
 
-## 关联概念
-
-- [[KA赋能运维Agent]]
-
 ## 所属枢纽
 
 - [[C族]]

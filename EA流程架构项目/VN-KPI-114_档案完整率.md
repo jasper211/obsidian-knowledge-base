@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:21:27
 
 KPI VN-KPI-114（档案完整率）是价值节点级全量registry指标，关联价值节点VN-BAM-01和VN-HR-10，已生成编码VN-FIN-006，有2个样例CQ-EA-0256。
 
-## 关联概念
-
-- [[VN-BAM-01]]
-- [[VN-HR-10]]

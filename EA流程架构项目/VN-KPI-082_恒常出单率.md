@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:14:50
 
 KPI VN-KPI-082（恒常出单率）是价值节点级全量registry指标，关联价值节点VN-FOR-02，已生成KPI编码VN-AGT-010，对应一个检查项CQ-EA-0592。
 
-## 关联概念
-
-- [[VN-FOR-02]]
-- [[CQ-EA-0592]]

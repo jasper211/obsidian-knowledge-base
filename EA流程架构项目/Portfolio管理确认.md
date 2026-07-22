@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T03:07:44
 
 Portfolio管理确认，归属价值节点VN-INS-05，关联2个CQ（CQ-EA-0431），无EA编号，尚未在dim_kpi中映射，中台KPI编码为VN-INS-001。
 
-## 关联概念
-
-- [[VN-INS-05]]
-- [[CQ-EA-0431]]

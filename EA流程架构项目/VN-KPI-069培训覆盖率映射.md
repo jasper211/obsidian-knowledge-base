@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:02:00
 
 价值节点VN-FTR-01的KPI培训覆盖率（VN-KPI-069）通过driver_factor映射到新人留存率（KPI_36）和培训改善度（KPI_37）。
 
-## 关联概念
-
-- [[VN-FTR-01]]
-- [[KPI_36]]
-- [[KPI_37]]

@@ -10,8 +10,3 @@ extracted_at: 2026-07-21T00:31:58
 
 BANK-01/02/03、EXP-01~05未定义，VN-PAY-07归入BAM/CFM，VN-PAY-08新建L3-EXP。
 
-## 关联概念
-
-- [[VN-PAY-07]]
-- [[VN-PAY-08]]
-- [[L3-EXP]]

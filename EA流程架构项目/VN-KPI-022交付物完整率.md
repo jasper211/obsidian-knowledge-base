@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:02:05
 
 KPI VN-KPI-022（交付物完整率）是价值节点VN-MGA-03的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联一个CQ（CQ-EA-0148），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-MGA-03]]
-- [[CQ-EA-0148]]

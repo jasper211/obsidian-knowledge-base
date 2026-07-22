@@ -16,11 +16,6 @@ extracted_at: 2026-07-16T12:44:31
 
 spec需要建立分层/分主题/分类别的骨架，并优先补全关键缺件（如S11 gate registry spec），以解决语义层不全问题。
 
-## 关联概念
-
-- [[治理母 schema]]
-- [[gate registry]]
-
 ## 所属枢纽
 
 - [[spec骨架补全]]

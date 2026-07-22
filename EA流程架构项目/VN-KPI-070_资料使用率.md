@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:33:22
 
 KPI VN-KPI-068（培训满意度）通过name_similarity_0.60方式映射到维度KPI_37，关联价值节点VN-FTR-01和VN-KAEM-01。
 
-## 关联概念
-
-- [[VN-FTR-01培训管理]]
-- [[VN-KAEM-01知识管理]]

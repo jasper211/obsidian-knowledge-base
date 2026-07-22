@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:30:26
 
 KPI VN-KPI-162（合规率）属于价值节点 VN-PAY-08，通过 process_support 方式映射到维度 KPI KPI_27（审计问题数）。
 
-## 关联概念
-
-- [[VN-PAY-08]]
-- [[KPI_27]]

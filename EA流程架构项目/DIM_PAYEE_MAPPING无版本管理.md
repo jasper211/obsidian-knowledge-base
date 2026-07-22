@@ -16,11 +16,6 @@ extracted_at: 2026-07-16T20:24:49
 
 COM-12（应派金额拆分）依赖DIM_PAYEE_MAPPING表，该表变更无留痕（R-COM-05），追溯困难。COM-12 Skill按'读取当前版本DIM_PAYEE_MAPPING'设计，不内置版本管理。版本管理由COM-18独立承担（第三期），需Mark裁定B-03后纳入第三期。
 
-## 关联概念
-
-- [[COM-12 Skill设计]]
-- [[COM-18版本管理]]
-
 ## 所属枢纽
 
 - [[L3-COM]]

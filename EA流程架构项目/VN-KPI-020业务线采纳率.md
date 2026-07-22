@@ -10,8 +10,3 @@ extracted_at: 2026-07-21T04:01:41
 
 KPI VN-KPI-020（业务线采纳率）是价值节点VN-EQ-03和VN-EQ-09的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联两个CQ（CQ-EA-0640），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-EQ-03]]
-- [[VN-EQ-09]]
-- [[CQ-EA-0640]]

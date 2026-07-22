@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:07:55
 
 价值节点VN-HR-12的KPI“归属准确率”通过rollup_aggregation方式映射到维度KPI_31“人均 APE”和KPI_32“人均件数”。
 
-## 关联概念
-
-- [[VN-HR-12]]
-- [[KPI_31]]
-- [[KPI_32]]

@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: 岗位族
 entity_ref: E族
 project: EA流程架构项目
-atom_count: 21
+atom_count: 6
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -14,24 +14,9 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 
 ## 关联原子
 
-- [[Carrie岗位]]
 - [[D+E族代理人事业部JD]]
 - [[D族E族共享待拆分]]
-- [[D族与E族冲突处理机制]]
-- [[D族与E族协同节奏]]
-- [[D族职责红线]]
-- [[D族运营总监定位]]
-- [[E族KPI防火墙]]
-- [[E族可能需部分外招]]
-- [[E族情感剥离设计]]
-- [[E族编制2-3人]]
-- [[KPI防火墙]]
-- [[减负清单校准]]
-- [[剩余46人不裁员]]
 - [[岗位族归属依据]]
 - [[横切辅助能力]]
 - [[理财师全周期Agent]]
-- [[硬性约束]]
-- [[组织创新五项]]
-- [[转岗培训计划分组实施]]
 - [[验证标准数据准确性]]

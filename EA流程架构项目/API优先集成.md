@@ -19,7 +19,6 @@ experience-engine 采用 REST + JSON API 协议，业务项目通过 API 调用�
 ## 关联概念
 
 - [[经验机构化系统]]
-- [[insurance-analytics-v2集成]]
 
 ## 所属枢纽
 

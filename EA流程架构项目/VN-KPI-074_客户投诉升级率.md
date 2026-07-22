@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:33:35
 
 KPI VN-KPI-074（客户投诉升级率）通过name_similarity_0.60方式映射到维度KPI_26，关联价值节点VN-ASD-01。
 
-## 关联概念
-
-- [[VN-ASD-01投诉处理]]

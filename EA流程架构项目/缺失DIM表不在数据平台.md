@@ -19,4 +19,3 @@ DIM_License、DIM_Carrier、DIM_PARTNER三个维度表有对应SOP，但不在�
 ## 关联概念
 
 - [[config文件双重角色]]
-- [[SOP映射表]]

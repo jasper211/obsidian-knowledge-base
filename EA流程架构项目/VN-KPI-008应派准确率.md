@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:31:55
 
 KPI VN-KPI-008（应派准确率）通过legacy_id_direct方式映射到维度KPI_19，关联价值节点VN-PAY-03。
 
-## 关联概念
-
-- [[VN-PAY-03争议处理]]

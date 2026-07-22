@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:32:06
 
 KPI VN-KPI-009（报销周期）通过legacy_id_direct方式映射到维度KPI_27，关联价值节点VN-PAY-08。
 
-## 关联概念
-
-- [[VN-PAY-08报销处理]]

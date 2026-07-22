@@ -10,8 +10,3 @@ extracted_at: 2026-07-21T00:39:41
 
 2026-06-23，Terresa更新VN-PAY-06的K列备注，追加PAY005-4汇率规则配置候选缺口，并明确dim_agreement_param中心化为Gate③升Pass的前提条件。
 
-## 关联概念
-
-- [[PAY005-4汇率规则]]
-- [[dim_agreement_param中心化]]
-- [[Gate③升Pass]]

@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:14:15
 
 KPI VN-KPI-079（异常件整改率）是价值节点级全量registry指标，关联价值节点VN-RSJD-03，已生成KPI编码VN-JDBIZ-009，对应一个检查项CQ-EA-0780。
 
-## 关联概念
-
-- [[VN-RSJD-03]]
-- [[CQ-EA-0780]]

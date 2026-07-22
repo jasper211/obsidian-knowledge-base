@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:07:41
 
 价值节点VN-HR-11的KPI“数据完整率”通过process_support方式映射到维度KPI-T10“AI Agent任务自动完成率”。
 
-## 关联概念
-
-- [[VN-HR-11]]
-- [[KPI-T10]]

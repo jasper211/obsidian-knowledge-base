@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T15:44:11
 
 随L3-JOPD新建，原L4-JOTM-01、L4-JOTM-02、L4-JOTM-04重新归类合并为L4-JOPD-01（项目启动与组织准备），简化交付物，支撑VN-JOPD-01。
 
-## 关联概念
-
-- [[L3-JOPD]]
-- [[VN-JOPD-01]]

@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:32:19
 
 KPI VN-KPI-010（活动费回款时效）通过legacy_id_direct方式映射到维度KPI_26，关联价值节点VN-PAY-07。
 
-## 关联概念
-
-- [[VN-PAY-07活动费处理]]

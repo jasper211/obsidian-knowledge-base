@@ -10,8 +10,3 @@ extracted_at: 2026-07-21T04:15:26
 
 KPI VN-KPI-085（投诉闭环率）是价值节点级全量registry指标，关联价值节点VN-ASD-01，已生成KPI编码VN-JDBIZ-011，通过名称相似度0.75匹配到dim_kpi_id KPI_26，对应一个检查项CQ-EA-0790。
 
-## 关联概念
-
-- [[VN-ASD-01]]
-- [[KPI_26]]
-- [[CQ-EA-0790]]

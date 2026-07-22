@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:20:02
 
 KPI VN-KPI-158（综合应派一次通过率，对应KPI#25）属于价值节点VN-PAY-06，通过direct_correspondence直接对应到KPI_19（结算转化率）。
 
-## 关联概念
-
-- [[VN-PAY-06]]
-- [[KPI_19]]

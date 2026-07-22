@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:17:23
 
 KPI VN-KPI-094（授权确认）是价值节点级全量registry指标，关联价值节点VN-INS-02，已生成KPI编码VN-INS-004，对应一个检查项CQ-EA-0422。
 
-## 关联概念
-
-- [[VN-INS-02]]
-- [[CQ-EA-0422]]

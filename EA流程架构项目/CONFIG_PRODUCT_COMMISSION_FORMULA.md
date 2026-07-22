@@ -19,7 +19,6 @@ extracted_at: 2026-07-16T20:29:48
 ## 关联概念
 
 - [[Fact_Commission_Rate]]
-- [[DIM_COMMISSION_RATE]]
 
 ## 所属枢纽
 

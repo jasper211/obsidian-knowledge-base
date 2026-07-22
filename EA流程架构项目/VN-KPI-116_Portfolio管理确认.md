@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:01:03
 
 KPI VN-KPI-017（Portfolio管理确认）是价值节点VN-INS-05的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联两个CQ（CQ-EA-0431），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-INS-05]]
-- [[CQ-EA-0431]]

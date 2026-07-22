@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T03:07:31
 
 Pending处理时效，归属价值节点VN-RSJD-02，关联1个CQ（CQ-EA-0771），无EA编号，尚未在dim_kpi中映射，中台KPI编码为VN-JDBIZ-001。
 
-## 关联概念
-
-- [[VN-RSJD-02]]
-- [[CQ-EA-0771]]

@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:01:17
 
 KPI VN-KPI-018（U盾交接合规率）是价值节点VN-BAM-01的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联一个CQ（CQ-EA-0475），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-BAM-01]]
-- [[CQ-EA-0475]]

@@ -23,6 +23,3 @@ D 类产出物是 Agent Runtime Config，回答“AI 怎么协作”，是 Agent
 - [[B机制设计Playbook]]
 - [[C业务诊断Playbook]]
 
-## 所属枢纽
-
-- [[Agent资产沉淀]]

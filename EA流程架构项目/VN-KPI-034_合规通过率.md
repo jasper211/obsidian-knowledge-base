@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:29:47
 
 KPI VN-KPI-034（合规通过率）属于价值节点 VN-EQ-05，通过 process_support 方式映射到维度 KPI KPI_27（审计问题数）。
 
-## 关联概念
-
-- [[VN-EQ-05]]
-- [[KPI_27]]

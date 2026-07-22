@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:34:40
 
 KPI VN-KPI-154（首单转化率）通过name_similarity_0.80方式映射到维度KPI_16，关联价值节点VN-FOB-02和VN-FOR-01。
 
-## 关联概念
-
-- [[VN-FOB-02培养发展]]
-- [[VN-FOR-01首单转化]]

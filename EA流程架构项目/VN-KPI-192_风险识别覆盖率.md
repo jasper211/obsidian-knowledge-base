@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:31:54
 
 KPI VN-KPI-192（风险识别覆盖率）属于价值节点 VN-SMPS-05，通过 process_support 方式映射到维度 KPI KPI_28（高风险件占比）。
 
-## 关联概念
-
-- [[VN-SMPS-05]]
-- [[KPI_28]]

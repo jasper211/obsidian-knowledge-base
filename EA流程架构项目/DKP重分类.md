@@ -18,5 +18,4 @@ mechanism_playbook_022 从原分类移到 organizational 子目录。分类体�
 
 ## 关联概念
 
-- [[A/B/C/D四层架构]]
 - [[经验机构化系统]]

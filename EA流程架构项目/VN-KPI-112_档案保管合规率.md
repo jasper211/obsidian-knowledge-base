@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:21:05
 
 KPI VN-KPI-112（档案保管合规率）是价值节点级全量registry指标，关联价值节点VN-RSJD-03，已生成编码VN-JDBIZ-013，有1个样例CQ-EA-0781。
 
-## 关联概念
-
-- [[VN-RSJD-03]]

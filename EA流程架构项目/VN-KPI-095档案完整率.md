@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:06:51
 
 KPI VN-KPI-097（档案查询响应时效）属于价值节点 VN-HR-10，通过 direct_correspondence 方式映射到维度 KPI KPI_21（结算周期），同时通过 process_support 方式映射到维度 KPI KPI-T10（AI Agent任务自动完成率）。
 
-## 关联概念
-
-- [[VN-HR-10]]
-- [[KPI_21]]
-- [[KPI-T10]]

@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:13:35
 
 KPI VN-KPI-076（客户知情同意书签署率）是价值节点级全量registry指标，关联价值节点VN-RSJD-01，已生成KPI编码VN-JDBIZ-008，对应一个检查项CQ-EA-0761。
 
-## 关联概念
-
-- [[VN-RSJD-01]]
-- [[CQ-EA-0761]]

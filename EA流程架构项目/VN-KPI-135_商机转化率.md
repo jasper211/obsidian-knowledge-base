@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:32:55
 
 KPI VN-KPI-065（商机转化率）通过name_similarity_0.60方式映射到维度KPI_14，关联价值节点VN-MGA-01。
 
-## 关联概念
-
-- [[VN-MGA-01商机管理]]

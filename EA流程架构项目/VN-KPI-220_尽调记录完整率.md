@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:28:46
 
 KPI VN-KPI-221（尽调通过率）属于价值节点 VN-IBRD-01，通过 driver_factor 方式映射到维度 KPI KPI_18（核保转化率），同时通过 process_support 方式映射到 KPI-T08（高风险件实时拦截率）。
 
-## 关联概念
-
-- [[VN-IBRD-01]]
-- [[KPI_18]]
-- [[KPI-T08]]

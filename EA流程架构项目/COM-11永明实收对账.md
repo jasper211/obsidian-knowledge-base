@@ -16,11 +16,6 @@ extracted_at: 2026-07-16T20:14:14
 
 COM-11（银行到账确认与实收对账）总分16分，为🟢可施工，永明子集可立即启动（skill-com-11-reconcile-yongming和skill-com-11-reconcile-validator），其他保司并行开发脚本。
 
-## 关联概念
-
-- [[COM-11]]
-- [[永明PDF解析脚本]]
-
 ## 所属枢纽
 
 - [[L3-COM]]

@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:24:39
 
 价值节点VN-SMPS-01的KPI洞察报告审批周期（VN-KPI-181）由结算周期（KPI_21）映射，映射方式为direct_correspondence。
 
-## 关联概念
-
-- [[VN-SMPS-01]]
-- [[KPI_21]]

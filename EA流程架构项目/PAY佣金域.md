@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T03:02:48
 
 佣金域（PAY）负责佣金来源接收与标准化、拆解分配、多源整合验证及全链路结算与对账管理。包含4个L3：L3-COM, L3-CMU, L3-CBD, L3-CVI。Registry节点前缀为VN-PAY-。状态为partial，CBD/CMU/CVI为COM拆分子流程，活跃L3以COM为主干。
 
-## 关联概念
-
-- [[VN-PAY-]]

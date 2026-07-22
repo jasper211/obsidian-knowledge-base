@@ -10,13 +10,3 @@ extracted_at: 2026-07-20T18:00:22
 
 价值节点VN-FOR-01的KPI出单周期（VN-KPI-059）通过direct_correspondence映射到承保周期（KPI_20），通过rollup_aggregation映射到总保费、APE、净营收、管理利润，通过driver_factor映射到人均APE、人均件数。
 
-## 关联概念
-
-- [[VN-FOR-01]]
-- [[KPI_20]]
-- [[KPI_01]]
-- [[KPI_02]]
-- [[KPI_04]]
-- [[KPI_06]]
-- [[KPI_31]]
-- [[KPI_32]]

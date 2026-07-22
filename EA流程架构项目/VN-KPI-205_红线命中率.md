@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:32:28
 
 KPI VN-KPI-205（红线命中率）属于价值节点 VN-USV-02，通过 driver_factor 方式映射到维度 KPI KPI_29（红线命中数）。
 
-## 关联概念
-
-- [[VN-USV-02]]
-- [[KPI_29]]

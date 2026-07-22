@@ -16,10 +16,6 @@ extracted_at: 2026-07-16T12:51:06
 
 分4个阶段：Phase 4.1构建80个Auto Agent（全自动化，仅需监督看板）；Phase 4.2构建91个Aug Agent（Agent生成+人审批）；Phase 4.3构建52个Hybrid Agent辅助（人主导场景）；Phase 4.4保持30个Human流程（不建Agent，提供数据支撑）。
 
-## 关联概念
-
-- [[L4 Agent化Tier分类]]
-
 ## 所属枢纽
 
 - [[L4_Agent化评估_L3-UCR归口待确认]]

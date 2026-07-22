@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:19:47
 
 KPI VN-KPI-157（理财师NPS，对应KPI#24）属于价值节点VN-PAY-06，通过direct_correspondence直接对应到KPI_24（首年撤单率）。
 
-## 关联概念
-
-- [[VN-PAY-06]]
-- [[KPI_24]]

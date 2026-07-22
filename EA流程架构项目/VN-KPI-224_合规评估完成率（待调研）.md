@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:32:51
 
 KPI VN-KPI-224（合规评估完成率，待调研）属于价值节点 VN-URD-02，通过 process_support 方式映射到维度 KPI KPI_27（审计问题数）。
 
-## 关联概念
-
-- [[VN-URD-02]]
-- [[KPI_27]]

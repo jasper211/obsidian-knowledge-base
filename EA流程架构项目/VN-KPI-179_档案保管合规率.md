@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:31:43
 
 KPI VN-KPI-179（档案保管合规率）属于价值节点 VN-RSJD-03，通过 process_support 方式映射到维度 KPI KPI_27（审计问题数）。
 
-## 关联概念
-
-- [[VN-RSJD-03]]
-- [[KPI_27]]

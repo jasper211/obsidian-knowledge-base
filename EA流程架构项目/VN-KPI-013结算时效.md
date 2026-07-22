@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:00:17
 
 KPI VN-KPI-013（结算时效）是价值节点VN-PAY-05的价值节点级全量registry KPI，未映射到legacy KPI（dim_kpi_id和match_method为空），关联一个CQ（CQ-EA-0084），未被标记为mark KPI。
 
-## 关联概念
-
-- [[VN-PAY-05]]
-- [[CQ-EA-0084]]

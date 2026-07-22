@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:03:06
 
 KPI VN-KPI-073（绩效方案及时率）属于价值节点 VN-HR-03，通过 process_support 方式映射到维度 KPI KPI_03（目标达成率）。
 
-## 关联概念
-
-- [[VN-HR-03]]
-- [[KPI_03]]

@@ -16,7 +16,3 @@ extracted_at: 2026-07-16T12:40:07
 
 Agg2/Agg4脚本print()中的emoji字符在Windows GBK编码环境下导致崩溃，需替换为ASCII文本。
 
-## 关联概念
-
-- [[佣金链Agent管线]]
-- [[业绩链Agent管线]]

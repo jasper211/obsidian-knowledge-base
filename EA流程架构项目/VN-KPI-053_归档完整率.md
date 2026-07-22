@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T17:58:38
 
 价值节点KPI VN-KPI-053（归档完整率）映射到维度KPI KPI_27（审计问题数，process_support）和KPI_17（递交转化率，driver_factor）。
 
-## 关联概念
-
-- [[VN-FOB-01]]
-- [[KPI_27]]
-- [[KPI_17]]

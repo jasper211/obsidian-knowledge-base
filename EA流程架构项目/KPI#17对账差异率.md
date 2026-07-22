@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:13:48
 
 KPI VN-KPI-077（对账完整度）是价值节点级全量registry指标，关联价值节点VN-PAY-09，已生成KPI编码VN-PAY-017，对应一个检查项CQ-EA-0121。
 
-## 关联概念
-
-- [[VN-PAY-09]]
-- [[CQ-EA-0121]]

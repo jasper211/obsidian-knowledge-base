@@ -21,6 +21,3 @@ Skill候选先按l3_domain分组，再按l3_code细化。L3流程下Skill候选�
 - [[长尾合并Agent]]
 - [[功能聚焦原则]]
 
-## 所属枢纽
-
-- [[Agent资产沉淀]]

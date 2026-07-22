@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:30:58
 
 KPI VN-KPI-003（佣金回收周期）通过legacy_id_direct方式映射到维度KPI_15，关联价值节点VN-PAY-01。
 
-## 关联概念
-
-- [[VN-PAY-01佣金制作产出]]

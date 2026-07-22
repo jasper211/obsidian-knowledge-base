@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:19:19
 
 KPI VN-KPI-155（结算时效）属于价值节点VN-PAY-05，通过direct_correspondence直接对应到KPI_21（结算周期）。
 
-## 关联概念
-
-- [[VN-PAY-05]]
-- [[KPI_21]]

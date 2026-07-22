@@ -18,7 +18,6 @@ extracted_at: 2026-07-16T11:16:41
 
 ## 关联概念
 
-- [[L4 Agent化评估框架]]
 - [[不要用human-centric思维评估AI架构]]
 
 ## 所属枢纽

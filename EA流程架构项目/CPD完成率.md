@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T03:07:17
 
 CPD完成率，归属价值节点VN-HRD-02，关联1个CQ（CQ-EA-0819），无EA编号，尚未在dim_kpi中映射，中台KPI编码为VN-DS-001。
 
-## 关联概念
-
-- [[VN-HRD-02]]
-- [[CQ-EA-0819]]

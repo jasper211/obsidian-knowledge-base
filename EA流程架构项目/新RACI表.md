@@ -16,12 +16,6 @@ extracted_at: 2026-07-16T20:20:11
 
 Agent化后各L4的RACI：原执行人变为Skill（部分暂缺），Human gate保留（刘敏然、财务等），审批/确认角色（如Mark财务终验G029）。
 
-## 关联概念
-
-- [[RACI]]
-- [[Human gate]]
-- [[Skill]]
-
 ## 所属枢纽
 
 - [[L3-COM]]

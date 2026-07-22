@@ -10,7 +10,3 @@ extracted_at: 2026-07-20T18:20:59
 
 KPI VN-KPI-164（对账完整度）属于价值节点VN-PAY-09，通过process_support映射到KPI_21（结算周期）。
 
-## 关联概念
-
-- [[VN-PAY-09]]
-- [[KPI_21]]

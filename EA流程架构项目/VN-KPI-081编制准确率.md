@@ -10,8 +10,3 @@ extracted_at: 2026-07-20T18:04:31
 
 KPI VN-KPI-083（编制执行偏差率）属于价值节点 VN-HR-06，通过 rollup_aggregation 方式映射到维度 KPI KPI_31（人均 APE）和 KPI_32（人均件数）。
 
-## 关联概念
-
-- [[VN-HR-06]]
-- [[KPI_31]]
-- [[KPI_32]]

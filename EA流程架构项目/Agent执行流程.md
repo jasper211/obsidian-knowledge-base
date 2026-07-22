@@ -16,12 +16,3 @@ extracted_at: 2026-07-16T12:48:50
 
 每个Agent的run方法依次执行：L1 execute（业务逻辑）→ L3 validate（校验）→ L4 失败自动告警（企业微信）→ L5 产出日志（summary）。
 
-## 关联概念
-
-- [[BaseAgent]]
-- [[validate方法]]
-- [[告警机制]]
-
-## 所属枢纽
-
-- [[Agent资产沉淀]]

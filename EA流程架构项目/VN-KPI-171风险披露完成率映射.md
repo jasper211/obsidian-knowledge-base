@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:29:56
 
 KPI '风险披露完成率'（编码VN-JDBIZ-014）属于价值节点VN-RSJD-01，为价值节点级全量registry指标，非标记KPI，关联1个检查项（CQ-EA-0759）。
 
-## 关联概念
-
-- [[VN-RSJD-01]]

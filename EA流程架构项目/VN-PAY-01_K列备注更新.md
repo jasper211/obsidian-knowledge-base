@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T00:38:56
 
 2026-06-23，Terresa更新VN-PAY-01的K列备注，追加COM V1.0.2 sub-step补建（EFA001）进展，以及PAY002/PAY005候选L4待裁定A-01~A-07后升V1.1。
 
-## 关联概念
-
-- [[VN-PAY-01]]

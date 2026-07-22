@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T03:25:29
 
 KPI名称为推广素材使用率，EA编号为空，归属价值节点VN-EQ-03，涉及1个CQ（CQ-EA-0639），未在dim_kpi中，中台kpi_code为VN-EQ-012。
 
-## 关联概念
-
-- [[VN-EQ-03]]

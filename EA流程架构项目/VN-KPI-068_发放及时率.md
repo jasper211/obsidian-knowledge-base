@@ -10,8 +10,3 @@ extracted_at: 2026-07-21T04:07:22
 
 KPI VN-KPI-048（发放及时率）是价值节点级全量registry指标，关联价值节点VN-FPG-02和VN-HR-14，已生成编码VN-AGT-005，非标记KPI，关联2个检查问题CQ-EA-0395。
 
-## 关联概念
-
-- [[VN-FPG-02]]
-- [[VN-HR-14]]
-- [[CQ-EA-0395]]

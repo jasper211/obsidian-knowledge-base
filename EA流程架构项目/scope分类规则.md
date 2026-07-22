@@ -16,7 +16,3 @@ extracted_at: 2026-07-16T12:38:52
 
 scope分为四类：single_carrier（单一保司）、multi_carrier（多保司）、cross_business（跨业务线）、enterprise_wide（企业级）。
 
-## 关联概念
-
-- [[元数据字段]]
-- [[business_line]]

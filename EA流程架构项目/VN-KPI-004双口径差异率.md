@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:31:09
 
 KPI VN-KPI-004（双口径差异率）通过legacy_id_direct方式映射到维度KPI_26，关联价值节点VN-PAY-05。
 
-## 关联概念
-
-- [[VN-PAY-05结算处理]]

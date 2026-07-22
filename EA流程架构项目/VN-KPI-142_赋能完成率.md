@@ -10,6 +10,3 @@ extracted_at: 2026-07-21T04:34:27
 
 KPI VN-KPI-142（赋能完成率）通过name_similarity_0.71方式映射到维度KPI-T03，关联价值节点VN-EQ-07。
 
-## 关联概念
-
-- [[VN-EQ-07赋能管理]]

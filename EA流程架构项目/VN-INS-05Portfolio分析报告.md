@@ -10,9 +10,3 @@ extracted_at: 2026-07-21T00:23:02
 
 价值节点VN-INS-05对应Portfolio分析报告，优先级P0，属于L3-IPI（保险公司产品引入E2E）、L3-IPI-Onb、L3-IPI-Ops，均关联L4-IPI-01~06/09/11(Onb) / L4-IPI-08/10/12/13(Ops)（Portfolio管理），交付物为《Portfolio分析报告》，业务域为保司/保险/MGA。
 
-## 关联概念
-
-- [[L3-IPI]]
-- [[L3-IPI-Onb]]
-- [[L3-IPI-Ops]]
-- [[L4-IPI]]

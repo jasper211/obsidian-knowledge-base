@@ -10,7 +10,3 @@ extracted_at: 2026-07-21T04:16:56
 
 KPI VN-KPI-092（指标定稿率）是价值节点级全量registry指标，关联价值节点VN-FPG-01，已生成KPI编码VN-AGT-014，对应一个检查项CQ-EA-0610。
 
-## 关联概念
-
-- [[VN-FPG-01]]
-- [[CQ-EA-0610]]
