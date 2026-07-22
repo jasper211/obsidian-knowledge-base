@@ -10,6 +10,8 @@ as_of: 2026-05-29
 entity_type: 非正式主题
 entity_ref: 返工预警表
 extracted_at: 2026-07-16T13:52:25
+status: 待裁定
+conflict_group: 返工预警表
 ---
 
 # rework_alert_log表结构
@@ -25,3 +27,11 @@ rework_alert_log表包含alert_id（主键）、card_id（引用fact_card）、a
 ## 所属枢纽
 
 - [[返工预警表]]
+
+## ⚠️ 待裁定：entity_ref矛盾（返工预警表）
+
+与同组原子存在冲突：[[rework_alert_log_触发器]]、[[返工次数预警]]、[[rework_alert_log表schema缺失]]
+
+冲突说明：原子'rework_alert_log 触发器'指出触发器非幂等，而原子'rework_alert_log表结构'声称幂等设计，两者关于幂等性描述矛盾。
+
+（标记时间：2026-07-21T20:56:43）

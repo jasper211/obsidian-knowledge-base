@@ -10,6 +10,8 @@ as_of: 未知
 entity_type: 非正式主题
 entity_ref: A1_Agent
 extracted_at: 2026-07-16T11:51:04
+status: 待裁定
+conflict_group: A1_Agent
 ---
 
 # A1数据修复补全Agent
@@ -25,3 +27,11 @@ A1是数据修复补全Agent，当前部分能力已验证（Phase 1-3），核�
 ## 所属枢纽
 
 - [[A1_Agent]]
+
+## ⚠️ 待裁定：entity_ref矛盾（A1_Agent）
+
+与同组原子存在冲突：[[A1_Agent_7个Skill已封装]]
+
+冲突说明：第一条原子说包含6个Skill，第二条说7个Skill（S01-S09，不含S06），数量不一致。
+
+（标记时间：2026-07-21T20:56:43）

@@ -10,6 +10,8 @@ as_of: 未知
 entity_type: KPI
 entity_ref: KPI-05
 extracted_at: 2026-07-16T12:00:05
+status: 已废止
+retired_note: 结构性初筛+LLM内容审查判定为一次性过程噪音_2026-07-21
 ---
 
 # TP-KPI-05 SSOT入库

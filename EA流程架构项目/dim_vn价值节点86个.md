@@ -10,6 +10,8 @@ as_of: 未知
 entity_type: 非正式主题
 entity_ref: 价值节点Gate状态
 extracted_at: 2026-07-16T15:18:16
+status: 待裁定
+conflict_group: 价值节点Gate状态
 ---
 
 # dim_vn价值节点86个
@@ -24,3 +26,11 @@ dim_vn表有92行，唯一vn_id共86个，与Terresa Agent工作台完全吻合�
 ## 所属枢纽
 
 - [[价值节点Gate状态]]
+
+## ⚠️ 待裁定：entity_ref矛盾（价值节点Gate状态）
+
+与同组原子存在冲突：[[价值节点PASS率停滞]]、[[Gate判定分布]]、[[价值节点Gate分布]]、[[Gate状态]]
+
+冲突说明：第一条原子说86个VN中PASS 7个(8%)、PARTIAL 40个(47%)、FAIL 37个(43%)，第三条原子说216条节点Gate问题中PASS 58条、PARTIAL 62条、FAIL 48条，两者数据来源和数值不同，存在冲突。
+
+（标记时间：2026-07-21T20:56:43）

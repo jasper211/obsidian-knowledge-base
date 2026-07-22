@@ -10,6 +10,8 @@ as_of: 2026-06-05
 entity_type: 待聚类
 entity_ref: （无）
 extracted_at: 2026-07-16T12:15:08
+status: 已废止
+retired_note: 结构性初筛+LLM内容审查判定为一次性过程噪音_2026-07-21
 ---
 
 # 历史日报§S补充

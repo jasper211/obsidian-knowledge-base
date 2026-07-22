@@ -10,6 +10,8 @@ as_of: 未知
 entity_type: 非正式主题
 entity_ref: 体系外资金流补建_体系外资金流补建
 extracted_at: 2026-07-16T17:50:29
+status: 待裁定
+conflict_group: 体系外资金流补建_体系外资金流补建
 ---
 
 # fact_offsystem_flow建表方案
@@ -28,3 +30,11 @@ fact_offsystem_flow表推荐分阶段建设：第一阶段（T+8周）按月度�
 
 ---
 ⚠️ **待复核**：源文档「02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/PAY域/PAY域_熔断节点_补建清单+裁定工具包_v1.0.md」已被删除（标记时间：2026-07-20T21:47:22）
+
+## ⚠️ 待裁定：entity_ref矛盾（体系外资金流补建_体系外资金流补建）
+
+与同组原子存在冲突：[[VN-PAY-09_历史数据补录策略]]、[[体系外资金流补建]]、[[fact_offsystem_flow]]、[[体系外资金fact表]]
+
+冲突说明：关于fact_offsystem_flow表的建设周期存在冲突：'fact_offsystem_flow建表方案'提到分阶段建设（T+8周和T+16周），而'fact_offsystem_flow'提到周期T+12周，'建fact_offsystem_flow表'未明确周期但属于部门行动。具体冲突涉及标题'fact_offsystem_flow建表方案'、'fact_offsystem_flow'和'建fact_offsystem_flow表'。
+
+（标记时间：2026-07-21T20:56:43）
