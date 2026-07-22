@@ -10,3 +10,7 @@ extracted_at: 2026-07-20T18:01:04
 
 价值节点VN-FOR-02的KPI恒常出单率（VN-KPI-062）通过direct_correspondence映射到理财师周活动量（KPI-T05）。
 
+
+
+---
+⚠️ **待复核**：源文档「03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.1.csv」已被删除（标记时间：2026-07-22T03:06:15）

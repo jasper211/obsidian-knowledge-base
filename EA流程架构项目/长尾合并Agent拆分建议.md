@@ -2,26 +2,23 @@
 type: concept_atom
 concept_type: 决策
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_介绍文档.md
+source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_数据表.xlsx / 长尾拆分建议
 authority_layer: 02_草稿
-confidence: UNSTATED
+confidence: HIGH
+confidence_reason: 来自权威数据表格，字段完整
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 非正式主题
-entity_ref: 长尾合并Agent_长尾合并Agent自动化差异大
-extracted_at: 2026-07-16T16:02:35
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-22T01:51:05
 ---
 
-# 长尾合并Agent拆分建议
+# MGA长尾合并Agent拆分为二
 
-对10个长尾合并Agent提出拆分建议，依据是L3是否属于同一条业务旅程的连续阶段（合并）还是触发节奏/性质不同（拆开）。例如权益长尾合并Agent拆为权益客户交付Agent和服务寻源上架Agent；KA长尾合并Agent拆为KA准入Agent和KA赋能运维Agent。拆分后候选Agent总数从24增至29。
+原MGA长尾合并Agent（涵盖2个L3）建议拆分为两个子Agent：运营设计验证Agent（涵盖L3-USV，基于项目制一次性）和持续监控优化Agent（涵盖L3-CPM，基于持续循环）。状态为待业务确认。
 
 ## 关联概念
 
-- [[长尾合并Agent]]
-- [[权益客户交付Agent]]
-- [[KA准入Agent]]
-
-## 所属枢纽
-
-- [[长尾合并Agent_长尾合并Agent自动化差异大]]
+- [[运营设计验证Agent]]
+- [[持续监控优化Agent]]

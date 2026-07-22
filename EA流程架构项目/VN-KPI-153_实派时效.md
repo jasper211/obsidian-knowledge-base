@@ -10,3 +10,7 @@ extracted_at: 2026-07-20T18:18:50
 
 KPI VN-KPI-153（实派时效，对应KPI#21）属于价值节点VN-PAY-04，通过direct_correspondence直接对应到KPI_21（结算周期）。
 
+
+
+---
+⚠️ **待复核**：源文档「03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.1.csv」已被删除（标记时间：2026-07-22T03:06:15）

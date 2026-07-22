@@ -1,0 +1,26 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Skill与Agent_介绍清单.csv
+authority_layer: 02_草稿
+confidence: HIGH
+confidence_reason: 来自权威数据表格，字段完整。
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-22T02:16:19
+---
+
+# L4-FLM-01 年度招募目标制定
+
+Skill L4-FLM-01（年度/季度招募目标制定）属于代理人业务域，隶属于L3-FLM理财师线索挖掘与招募流程，归属理财师全周期Agent。档位为A档，覆盖《招募计划表》，功能是年度/季度招募目标制定，产出《招募计划表》。动作性质判断为可直接封装。当前状态为候选池，生成前需核实《Skill与Agent_定义与功能说明.md》1.4节前提。
+
+## 关联概念
+
+- [[理财师全周期Agent]]
+- [[L3-FLM理财师线索挖掘与招募]]
+- [[招募计划表]]
+- [[A档Skill]]

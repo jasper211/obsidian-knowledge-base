@@ -10,3 +10,7 @@ extracted_at: 2026-07-20T17:59:20
 
 价值节点KPI VN-KPI-056（培养目标达成率）映射到维度KPI KPI_03（目标达成率，direct_correspondence）、KPI_35（新签成活率，driver_factor）和KPI_36（新人留存率，driver_factor）。
 
+
+
+---
+⚠️ **待复核**：源文档「03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.1.csv」已被删除（标记时间：2026-07-22T03:06:15）

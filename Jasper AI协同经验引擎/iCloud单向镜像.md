@@ -13,3 +13,7 @@ iCloud 容器内的 ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/第�
 ## 关联概念
 
 - [[vault唯一真源]]
+
+
+---
+⚠️ **待复核**：源文档「05_Agent库/草稿/OB/README.md」已更新，此原子未出现在最新提炼结果中（标记时间：2026-07-22T03:06:57）

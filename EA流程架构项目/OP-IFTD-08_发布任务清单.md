@@ -1,0 +1,23 @@
+---
+type: concept_atom
+concept_type: 决策
+project: EA流程架构项目
+source: 01_原始材料-外部导入/M-01_方法论与标准/01_方法论与标准_AI协作规范_模板_模版-L5经营活动汇总_03.csv
+authority_layer: 01_原始
+confidence: HIGH
+confidence_reason: 来自权威数据层价值节点清单，字段完整
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-21T22:34:23
+---
+
+# OP-IFTD-08 发布任务清单
+
+通过正式渠道向全员发布任务清单与计划。
+
+## 关联概念
+
+- [[OP-IFTD-07 编制详细的任务分解清单]]

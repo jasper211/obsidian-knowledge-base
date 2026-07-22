@@ -14,3 +14,7 @@ extracted_at: 2026-07-20T23:15:07
 
 - [[VN-PAY-02佣金审核产出]]
 - [[佣金支付]]
+
+
+---
+⚠️ **待复核**：源文档「05_Agent库/草稿/OB/08_设计提示词_Design_Prompts/prompts/table_extraction_system.md」已更新，此原子未出现在最新提炼结果中（标记时间：2026-07-22T03:08:07）

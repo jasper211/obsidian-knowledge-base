@@ -13,3 +13,7 @@ tools/atom_embeddings.py 负责原子语义去重，复用 obsidian-mcp-server �
 ## 关联概念
 
 - [[批量增量提炼]]
+
+
+---
+⚠️ **待复核**：源文档「05_Agent库/草稿/OB/README.md」已更新，此原子未出现在最新提炼结果中（标记时间：2026-07-22T03:06:57）

@@ -10,3 +10,7 @@ extracted_at: 2026-07-20T18:23:43
 
 价值节点VN-RSJD-02的KPI Pending处理时效（VN-KPI-176）由两个指标映射：长周期件数（KPI_22）为direct_correspondence；理赔时效（KPI_51）为process_support。
 
+
+
+---
+⚠️ **待复核**：源文档「03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.1.csv」已被删除（标记时间：2026-07-22T03:06:16）

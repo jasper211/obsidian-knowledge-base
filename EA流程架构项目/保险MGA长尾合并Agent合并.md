@@ -2,20 +2,23 @@
 type: concept_atom
 concept_type: 决策
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_介绍文档.md
+source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_数据表.xlsx / 长尾拆分建议
 authority_layer: 02_草稿
-confidence: UNSTATED
+confidence: HIGH
+confidence_reason: 来自权威数据表格，状态已核实采纳
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 非正式主题
-entity_ref: 长尾合并Agent_长尾合并Agent自动化差异大
-extracted_at: 2026-07-16T16:02:44
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-22T01:51:13
 ---
 
-# 保险/MGA长尾合并Agent合并
+# 保险/MGA长尾合并Agent拆分合并
 
-保险/MGA长尾合并Agent不再作为独立候选，其两个L3（IAC-NEG和IPI-OPS）分别并入已有的保险授权确认Agent和产品上架Agent，避免碎片化。
+原保险/MGA长尾合并Agent（涵盖2个L3）建议不再独立，而是分别并入已有Agent：L3-IAC-NEG并入保险授权确认Agent（因与L3-IAC-AUTH同源），L3-IPI-OPS并入产品上架Agent（因与L3-IPI-ONB同源）。状态为已核实，采纳。
 
-## 所属枢纽
+## 关联概念
 
-- [[长尾合并Agent_长尾合并Agent自动化差异大]]
+- [[保险授权确认Agent]]
+- [[产品上架Agent]]

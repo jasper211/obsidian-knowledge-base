@@ -10,3 +10,7 @@ extracted_at: 2026-07-20T17:58:38
 
 价值节点KPI VN-KPI-053（归档完整率）映射到维度KPI KPI_27（审计问题数，process_support）和KPI_17（递交转化率，driver_factor）。
 
+
+
+---
+⚠️ **待复核**：源文档「03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.1.csv」已被删除（标记时间：2026-07-22T03:06:15）

@@ -1,18 +1,24 @@
 ---
 type: concept_atom
-concept_type: 定义
+concept_type: 决策
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理/产品上架Agent.md
+source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/岗位族_候选Agent归属表_v2.csv
 authority_layer: 02_草稿
-confidence: UNSTATED
+confidence: HIGH
+confidence_reason: 来自HR权威数据核实
 decision_status: UNSTATED
 as_of: 未知
-entity_type: L3流程
-entity_ref: L3-IPI
-extracted_at: 2026-07-16T16:04:49
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-21T23:38:57
 ---
 
-# 产品上架Agent身份
+# 产品上架Agent归属B族
 
-产品上架Agent属于B族(JF-02保司关系族)，对应L3-IPI-ONB(产品上架)和L3-IPI-OPS(日常运营)两个L3，共7条L4，Agent类型为专家型（Orchestrator）。
+产品上架Agent经HR文档确认L3-IPI(ONB+OPS)对应CAP-L2-1-S5保司产品运营能力，属B族（JF-02保司关系族）。数据可信度：HR权威数据核实。
 
+## 关联概念
+
+- [[保司数据回流Agent]]
+- [[保司业务运营赋能Agent]]

@@ -10,3 +10,7 @@ extracted_at: 2026-07-20T15:59:59
 
 价值节点VN-EQ-08（已签服务协议）关联两个KPI：VN-KPI-039（协议签订周期，direct_correspondence，P1）和VN-KPI-040（服务上架前置合规率，process_support，P1），分别对应样本CQ-1261和CQ-1262。
 
+
+
+---
+⚠️ **待复核**：源文档「03_发布成果-交付物/权威数据/kpi_registry_154_v2.1.csv」已被删除（标记时间：2026-07-22T03:06:16）

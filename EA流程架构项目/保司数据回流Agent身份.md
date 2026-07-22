@@ -1,22 +1,24 @@
 ---
 type: concept_atom
-concept_type: 定义
+concept_type: 决策
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理/保司数据回流Agent.md
+source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/岗位族_候选Agent归属表_v2.csv
 authority_layer: 02_草稿
-confidence: UNSTATED
+confidence: HIGH
+confidence_reason: 来自HR权威数据核实
 decision_status: UNSTATED
 as_of: 未知
-entity_type: L3流程
-entity_ref: L3-IMF
-extracted_at: 2026-07-16T16:20:03
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-21T23:38:48
 ---
 
-# 保司数据回流Agent身份
+# 保司数据回流Agent归属B族
 
-保司数据回流Agent是B族（JF-02保司关系族）中一个专家型（Orchestrator）Agent，对应L3-IMF保司市场反馈与数据回流，包含8条L4。其核心产出是各类报告和数据看板，服务内部决策及对保司方的沟通交付。
+保司数据回流Agent经HR文档确认L3-IMF对应CAP-L2-1-S6保司市场洞察能力，属B族（JF-02保司关系族）。数据可信度：HR权威数据核实。
 
 ## 关联概念
 
-- [[B族]]
-
+- [[产品上架Agent]]
+- [[保司长尾合并Agent]]

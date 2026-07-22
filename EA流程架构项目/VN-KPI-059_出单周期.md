@@ -10,3 +10,7 @@ extracted_at: 2026-07-20T18:00:22
 
 价值节点VN-FOR-01的KPI出单周期（VN-KPI-059）通过direct_correspondence映射到承保周期（KPI_20），通过rollup_aggregation映射到总保费、APE、净营收、管理利润，通过driver_factor映射到人均APE、人均件数。
 
+
+
+---
+⚠️ **待复核**：源文档「03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.1.csv」已被删除（标记时间：2026-07-22T03:06:15）

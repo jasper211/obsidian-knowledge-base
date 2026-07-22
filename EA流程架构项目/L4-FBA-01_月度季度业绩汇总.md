@@ -1,0 +1,26 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Skill与Agent_介绍清单.csv
+authority_layer: 02_草稿
+confidence: HIGH
+confidence_reason: 来自权威数据表格，字段完整。
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-22T02:16:19
+---
+
+# L4-FBA-01 月度季度业绩汇总
+
+Skill L4-FBA-01（月度/季度业绩数据汇总）属于代理人业务域，隶属于L3-FBA理财师业务分析流程，归属理财师业务分析Agent。档位为A档，覆盖Excel/文档，按月分析业绩、活动率、转化率，按季度分析分公司经营情况。动作性质判断为可直接封装。当前状态为候选池，生成前需核实《Skill与Agent_定义与功能说明.md》1.4节前提。
+
+## 关联概念
+
+- [[理财师业务分析Agent]]
+- [[L3-FBA理财师业务分析]]
+- [[业绩分析报告]]
+- [[A档Skill]]

@@ -2,20 +2,23 @@
 type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理/资金调度Agent.md
+source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_数据表.xlsx / Agent汇总
 authority_layer: 02_草稿
-confidence: UNSTATED
+confidence: HIGH
+confidence_reason: 数据来自权威表格，字段完整无待定
 decision_status: UNSTATED
 as_of: 未知
-entity_type: L3流程
-entity_ref: L3-CFM
-extracted_at: 2026-07-16T16:06:17
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-22T01:25:16
 ---
 
-# 资金调度Agent身份
+# 资金调度Agent
 
-资金调度Agent是职能支撑层（财务）的专家型Agent，对应L3-CFM现金流规划与资金调度管理，包含6条L4流程，负责多主体间的资金调拨、归集和报告，与银行账户管理Agent同属财务条线但处理资金流动本身而非账户基础设施。
+资金调度Agent覆盖6个L4流程，其中A档6个，B档0个，属于财务业务域。
 
-## 所属枢纽
+## 关联概念
 
-- [[L3-CFM]]
+- [[财务业务域]]
+- [[L4流程]]

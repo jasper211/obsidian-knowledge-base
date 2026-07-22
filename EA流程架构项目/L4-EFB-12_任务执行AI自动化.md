@@ -1,0 +1,23 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4流程_Skill封装可行性评估_理想化版.xlsx / L4明细_理想化评估
+authority_layer: 02_草稿
+confidence: HIGH
+confidence_reason: 来自权威数据表格，字段完整明确
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-22T03:15:52
+---
+
+# L4-EFB-12 任务执行AI自动化
+
+L4-EFB-12活动属于信息处理/事务类，单一动作。其理想化Skill封装档位为A（高封装），因为动作是单一的信息处理/事务类动作，理想条件下（交付物标准明确）可直接封装为Skill。
+
+## 关联概念
+
+- [[L3-EFB 任务管控与执行反馈]]
