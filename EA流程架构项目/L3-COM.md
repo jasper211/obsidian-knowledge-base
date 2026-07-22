@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: L3流程
 entity_ref: L3-COM
 project: EA流程架构项目
-atom_count: 81
+atom_count: 80
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -55,7 +55,6 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 - [[Skill开发前提条件]]
 - [[T7应派清单无系统化表]]
 - [[中期卡点定义]]
-- [[佣金链L3-COM是练手最佳切入点]]
 - [[分期依赖关系]]
 - [[刘敏然角色变化]]
 - [[前置条件检查清单]]

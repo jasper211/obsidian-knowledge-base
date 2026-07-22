@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: 非正式主题
 entity_ref: Gate规则与验证
 project: EA流程架构项目
-atom_count: 13
+atom_count: 9
 generated_at: 2026-07-18
 generated_by: embedding聚类(threshold=0.72) + LLM内容连贯性判断
 coherence_reason: 所有原子均围绕Gate规则、验证流程、结论分类等同一业务话题，属于连贯的审核/验证流程主题。
@@ -20,11 +20,7 @@ coherence_reason: 所有原子均围绕Gate规则、验证流程、结论分类�
 - [[Gate规则]]
 - [[confidence_level判定规则]]
 - [[staging_status分类]]
-- [[交付标准层级]]
-- [[价值主张审核标准]]
 - [[内部价值证明编制]]
 - [[内部候选叙事晋升规则]]
 - [[启动边界确认]]
-- [[外部数据审计四要素]]
 - [[审批与冻结条件]]
-- [[集成验证门禁]]

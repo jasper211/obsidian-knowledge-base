@@ -20,8 +20,3 @@ KA赋能运维Agent是C族（JF-03机构业务族，KA管理岗）的专家型Ag
 
 - [[KA准入Agent]]
 
-## 所属枢纽
-
-- [[L3-KAEM]]
-- [[L3-KAGA]]
-- [[L3-KAOE]]

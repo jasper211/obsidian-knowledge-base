@@ -10,6 +10,3 @@ extracted_at: 2026-07-20T15:43:17
 
 原L4-IBPCR-01（合作复盘与决策）随L3-IBPCR并入L3-IBRD，重新编码为L4-IBRD-09，业务内容不变，支撑VN-IBRD-02。
 
-## 关联概念
-
-- [[L3-IBRD]]
