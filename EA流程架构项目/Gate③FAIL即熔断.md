@@ -18,8 +18,3 @@ extracted_at: 2026-07-22T03:00:59
 
 价值节点信号基线评估中，若Gate③追溯基础FAIL，即使Gate①和Gate②通过或部分通过，节点也被综合判定为熔断。例如VN-KAEM-02（Gate①PASS/Gate②PARTIAL/Gate③FAIL）和VN-KASC-01均因此熔断。
 
-## 关联概念
-
-- [[Gate评估]]
-- [[追溯基础]]
-- [[信号基线]]

@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: 岗位族
 entity_ref: D族
 project: EA流程架构项目
-atom_count: 4
+atom_count: 3
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -17,4 +17,3 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 - [[D族E族共享待拆分]]
 - [[岗位族归属依据]]
 - [[横切辅助能力]]
-- [[理财师全周期Agent]]
