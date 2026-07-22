@@ -8,7 +8,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 非正式主题
-entity_ref: Agent资产沉淀_Agent资产沉淀
+entity_ref: Agent概念与状态
 extracted_at: 2026-07-16T15:57:02
 ---
 
@@ -20,3 +20,6 @@ extracted_at: 2026-07-16T15:57:02
 
 - [[Agent定义]]
 
+## 所属枢纽
+
+- [[Agent概念与状态]]

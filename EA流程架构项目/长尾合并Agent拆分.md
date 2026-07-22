@@ -8,7 +8,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 非正式主题
-entity_ref: Agent资产沉淀_Agent资产沉淀
+entity_ref: 长尾合并Agent_长尾合并Agent自动化差异大
 extracted_at: 2026-07-16T15:54:42
 ---
 
@@ -21,3 +21,6 @@ extracted_at: 2026-07-16T15:54:42
 - [[长尾合并Agent拆分]]
 - [[决策支持协同型Agent]]
 
+## 所属枢纽
+
+- [[长尾合并Agent_长尾合并Agent自动化差异大]]

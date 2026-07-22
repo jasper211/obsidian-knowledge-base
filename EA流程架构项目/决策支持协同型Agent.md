@@ -8,7 +8,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 非正式主题
-entity_ref: Agent资产沉淀_Agent资产沉淀
+entity_ref: 协同型Agent特性
 extracted_at: 2026-07-16T15:54:18
 ---
 
@@ -21,3 +21,6 @@ extracted_at: 2026-07-16T15:54:18
 - [[全量L4口径]]
 - [[长尾合并Agent拆分]]
 
+## 所属枢纽
+
+- [[协同型Agent特性]]

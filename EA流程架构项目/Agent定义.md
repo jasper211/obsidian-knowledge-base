@@ -8,7 +8,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 非正式主题
-entity_ref: Agent资产沉淀_Agent资产沉淀
+entity_ref: Agent与Skill区分
 extracted_at: 2026-07-16T15:56:12
 ---
 
@@ -20,3 +20,6 @@ Agent是一个具备五要素的闭环循环：发现（什么时候该干活）
 
 - [[生成器评估器分离]]
 
+## 所属枢纽
+
+- [[Agent与Skill区分]]

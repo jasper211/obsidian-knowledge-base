@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 非正式主题
-entity_ref: 佣金位置修正
+entity_type: 待聚类
+entity_ref: （无）
 extracted_at: 2026-07-16T16:27:39
 status: 待裁定
 conflict_group: 佣金位置修正

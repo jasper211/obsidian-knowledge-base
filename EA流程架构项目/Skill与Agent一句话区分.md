@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
+entity_type: 非正式主题
+entity_ref: Agent与Skill区分
 extracted_at: 2026-07-16T15:49:34
 ---
 
@@ -20,3 +20,7 @@ Skill回答'这一步具体怎么做'，Agent回答'这一整件事什么时候�
 
 - [[Skill定义]]
 - [[Agent定义]]
+
+## 所属枢纽
+
+- [[Agent与Skill区分]]

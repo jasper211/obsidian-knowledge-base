@@ -8,7 +8,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 非正式主题
-entity_ref: Agent资产沉淀_Agent资产沉淀
+entity_ref: 长尾合并Agent_长尾合并Agent自动化差异大
 extracted_at: 2026-07-16T16:01:51
 ---
 
@@ -21,3 +21,6 @@ Skill候选先按l3_domain分组，再按l3_code细化。L3流程下Skill候选�
 - [[长尾合并Agent]]
 - [[功能聚焦原则]]
 
+## 所属枢纽
+
+- [[长尾合并Agent_长尾合并Agent自动化差异大]]

@@ -7,8 +7,8 @@ authority_layer: 03_已锁定
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 非正式主题
-entity_ref: 熔断判定
+entity_type: 待聚类
+entity_ref: （无）
 extracted_at: 2026-07-16T11:38:02
 ---
 

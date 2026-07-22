@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
+entity_type: 非正式主题
+entity_ref: Agent与Skill区分
 extracted_at: 2026-07-16T15:56:06
 ---
 
@@ -19,3 +19,7 @@ Agent生成的Skill草稿依据已知结构化信息，验证方式为对着样�
 ## 关联概念
 
 - [[生成器评估器分离]]
+
+## 所属枢纽
+
+- [[Agent与Skill区分]]

@@ -8,7 +8,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 非正式主题
-entity_ref: 汇率差异上限
+entity_ref: 续保Shortage规则
 extracted_at: 2026-07-16T20:09:21
 ---
 
@@ -16,3 +16,6 @@ extracted_at: 2026-07-16T20:09:21
 
 Shortage（小额差异）以100港币为核销上限，超过此金额须升级中台排查。该上限当前为口头经验，待财务总监正式发文确认。
 
+## 所属枢纽
+
+- [[续保Shortage规则]]

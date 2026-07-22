@@ -8,7 +8,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 非正式主题
-entity_ref: Agent资产沉淀_Agent资产沉淀
+entity_ref: 封装与自动化Tier
 extracted_at: 2026-07-16T15:52:54
 ---
 
@@ -23,3 +23,7 @@ extracted_at: 2026-07-16T15:52:54
 
 ---
 ⚠️ **待复核**：源文档「02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_介绍文档_v2.md」已被删除（标记时间：2026-07-20T21:47:22）
+
+## 所属枢纽
+
+- [[封装与自动化Tier]]

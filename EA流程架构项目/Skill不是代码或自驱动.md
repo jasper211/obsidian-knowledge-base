@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
+entity_type: 非正式主题
+entity_ref: Agent与Skill区分
 extracted_at: 2026-07-16T15:55:27
 ---
 
@@ -19,3 +19,7 @@ Skill不是随便一段代码，必须有清晰的输入/输出契约，能被Ag
 ## 关联概念
 
 - [[Skill定义]]
+
+## 所属枢纽
+
+- [[Agent与Skill区分]]

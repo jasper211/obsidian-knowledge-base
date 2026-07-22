@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
+entity_type: 非正式主题
+entity_ref: L3-SFC
 extracted_at: 2026-07-16T16:30:56
 ---
 
@@ -19,3 +19,7 @@ extracted_at: 2026-07-16T16:30:56
 ## 关联概念
 
 - [[细分市场判断Agent]]
+
+## 所属枢纽
+
+- [[L3-SFC]]

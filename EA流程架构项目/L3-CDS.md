@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: L3流程
 entity_ref: L3-CDS
 project: EA流程架构项目
-atom_count: 10
+atom_count: 11
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -20,6 +20,7 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 - [[合同要点确认步骤]]
 - [[方案评审与冻结]]
 - [[服务范围附件冻结规则]]
+- [[核心交付物]]
 - [[核心交付物清单]]
 - [[法务财务合规Gate]]
 - [[流程分流规则]]

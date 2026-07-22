@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: 岗位族
 entity_ref: A族
 project: EA流程架构项目
-atom_count: 5
+atom_count: 9
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -17,5 +17,9 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 - [[Agent归属修正教训]]
 - [[Agent间真实交接关系]]
 - [[A族输出交接B族]]
+- [[审计即验证]]
 - [[岗位族归属依据]]
 - [[监管备案硬性关卡]]
+- [[跨域资源对接验证缺失]]
+- [[验证标准依赖业务域]]
+- [[验证标准：客户签署的服务确认书]]

@@ -7,8 +7,8 @@ authority_layer: 02_草稿
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
+entity_type: 非正式主题
+entity_ref: 持续监控Agent流程缺陷
 extracted_at: 2026-07-16T15:34:09
 ---
 
@@ -16,3 +16,6 @@ extracted_at: 2026-07-16T15:34:09
 
 持续监控优化Agent的2条L4之间缺少'判断要不要优化'这一步的显式记录，逻辑跳跃较大，需要业务方补充。
 
+## 所属枢纽
+
+- [[持续监控Agent流程缺陷]]

@@ -8,7 +8,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 非正式主题
-entity_ref: Agent资产沉淀_Agent资产沉淀
+entity_ref: Agent维度表问题
 extracted_at: 2026-07-16T16:03:25
 ---
 
@@ -20,3 +20,6 @@ extracted_at: 2026-07-16T16:03:25
 
 - [[24个候选Agent]]
 
+## 所属枢纽
+
+- [[Agent维度表问题]]
