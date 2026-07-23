@@ -1,36 +1,29 @@
 ---
 type: entry
-updated: 2026-07-22
-status: placeholder
+updated: 2026-07-23
+status: active_prototype
 ---
 
 # 方法论知识库
 
-这个文件夹是方法论Agent（Karpathy little-c compile范式，行业权威知识→
-结构化Wiki）产出的独立顶层分区，跟`EA流程架构项目/`、`Jasper AI协同
-经验引擎/`这两个OBagent（RAG范式）的项目原子文件夹平级、不混放。
+方法论转正Agent（行业自学习线，Karpathy LLM-Wiki模式）产出的独立顶层
+分区，跟`EA流程架构项目/`、`Jasper AI协同经验引擎/`这两个OB项目知识
+原子文件夹平级、不混放——2026-07-23已确认这是vault正式的第4个顶层
+目录，不是临时占位（推翻2026-07-15"三个顶层目录"旧决策）。
 
-方法论Agent由Jasper另外推动，本文件夹暂时是占位——设计已经在对话里
-定下方向，详见OBagent代码仓库`03_规划项目结构_Plan_Project_Structure/
-提炼标准_v1.0.md`的「与方法论Agent的接口」一节。
+**权威依据**：`05_Agent库/草稿/双Agent协作契约_OB与方法论转正Agent.md`
+（顶层目录归属/schema兼容契约/融合机制四件套/待裁定项，唯一权威版本，
+本README不重复维护，只做导航）。
 
-## 关联机制摘要（详细设计见上述文档）
+## 目录结构
 
-- **硬关联**：方法论卡片如果能对上EA的正式编码（entity_ref），走现有
-  entity_ref枢纽机制，同编码下项目原子和方法论卡片混合挂载
-- **软关联**：语义相似的内容走embedding聚类（复用"非正式主题"枢纽的
-  threshold=0.72+LLM连贯性判断那套，小样本先验证再全量）
-- **晋升机制**：项目原子晋升到方法论卡片的候选筛选条件——
-  `confidence=HIGH` 且 `status=生效` 且 `backlink数量>=N` 且未被
-  entity_ref矛盾扫描标记冲突，候选清单由OBagent这边的一次性查询脚本
-  产出，"怎么合并进方法论卡片"的动作归方法论Agent负责
-- **冲突检测**：扩展现有entity_ref矛盾扫描逻辑到跨知识源场景——同
-  entity_ref下如果既有项目原子又有方法论卡片，拿方法论卡片当标尺去
-  比对项目原子
+`行业学习/`——AI协同方法论方向早期原型，Karpathy三层结构
+（`raw/`只读原始资料 + `wiki/{index,log,entities,concepts,sources,
+comparisons}` AI维护的Wiki网络 + `CLAUDE.md`规则手册）。企业流程架构
+方向、内部治理线均未启动。
 
-## 前提
+## 现状（2026-07-23）
 
-方法论Agent产出的卡片如果想复用OBagent现有的hub/聚类/矛盾扫描机制，
-frontmatter需要跟OBagent的`concept_atom`schema保持兼容（至少
-`entity_type`/`entity_ref`两个字段命名和取值方式一致）——这不是OBagent
-单方面能保证的，需要两边设计时对齐。
+目录骨架已建，规则手册（CLAUDE.md）已写，但`wiki/`下全部为空壳，尚未
+摄入任何真实资料——当前卡点是缺一篇真实的AI协同方法论行业文章，走一遍
+完整人工ingest流程验证CLAUDE.md定的规则是否好用（不追求自动化）。
