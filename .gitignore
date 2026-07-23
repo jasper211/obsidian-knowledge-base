@@ -35,3 +35,8 @@ node_modules/
 
 # Obsidian Git plugin: 终端交互捕获文件（SSH host key确认提示等运行时噪音，非凭证本身）
 .obsidian/plugins/obsidian-git/.git_credentials_input
+
+# Claudian插件：本地会话元数据+插件自身代码，非笔记内容，2026-07-23 vault切换到
+# Desktop路径后首次被意外提交进来
+.claudian/
+.obsidian/plugins/realclaudian/
