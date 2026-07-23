@@ -2,16 +2,25 @@
 type: concept_atom
 concept_type: 定义
 project: Jasper AI协同经验引擎
-source: 05_Agent库/草稿/三大主Agent体系架构_v1.3.md
-extracted_at: 2026-07-20T23:14:45
+source: AI工程能力整改项目/05_Agent库/草稿/三大主Agent体系架构_v1.3.md
 authority_layer: 00_治理
+domain: （无）
+confidence: HIGH
+confidence_reason: 原文4.2节作为新增模型明确给出定义。
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-23T01:51:29
 ---
 
-# VNW节点锚点模型
+# 节点锚点模型
 
-VNW的最小追踪单元是价值节点，一个节点可能对应多个L4交付物。节点是锚点，L4是节点下的具体活动分解，规则挂在L4之下，而不是挂在节点这个粗颗粒度上。例如L3-COM节点对应主链10个L4和支链8个L4，共18条。
+VNW的最小追踪单元是价值节点，一个节点可能对应多个L4交付物。规则挂在L4之下，节点是锚点，用于组织和管理。
 
 ## 关联概念
 
 - [[VNW]]
-- [[规则级溯源模型]]
+- [[价值节点]]
+- [[L4交付物]]

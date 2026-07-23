@@ -1,0 +1,25 @@
+---
+type: concept_atom
+concept_type: 规则
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/04_规则与GAP产出/规则清单_FA_v1.0.md
+authority_layer: 02_定稿
+domain: FA
+confidence: HIGH
+confidence_reason: 原文明确陈述为治理规则。
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-23T02:10:29
+---
+
+# 新节点须经Terresa确认
+
+根据FA域治理规则，新增规则节点必须经Terresa确认回执后，方可写入数据表。
+
+## 关联概念
+
+- [[节点裁定]]
+- [[T1节点索引]]
