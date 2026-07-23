@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 规则
 project: Jasper AI协同经验引擎
 source: Mark_AI经验合集学习参考/L12_边界Owner缺位.md
-authority_layer: 02_草稿
+authority_layer: 01_原始
 confidence: HIGH
 confidence_reason: 原文用“如果没有 → 你就是边界 owner”肯定表述。
 decision_status: UNSTATED

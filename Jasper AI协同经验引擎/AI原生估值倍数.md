@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 决策
 project: Jasper AI协同经验引擎
 source: Mark_AI经验合集学习参考/L14_AI原生转型.md
-authority_layer: 02_草稿
+authority_layer: 01_原始
 confidence: HIGH
 confidence_reason: 表格明确对比估值倍数。
 decision_status: UNSTATED

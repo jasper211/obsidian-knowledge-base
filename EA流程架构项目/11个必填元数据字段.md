@@ -4,6 +4,7 @@ concept_type: 规则
 project: EA流程架构项目
 source: 01_原始材料-外部导入/M-01_方法论与标准/AI协作规范_商业会议录音信号提取与结构化Summary_v2.1.md
 authority_layer: 01_原始
+domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知

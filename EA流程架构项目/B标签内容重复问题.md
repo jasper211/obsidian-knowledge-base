@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 经验教训
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/规则空白地图/任务包_4域B标签模板化返工_v1.0.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: （无）
 confidence: HIGH
 confidence_reason: 原文明确陈述了重复现象和具体数据
 decision_status: UNSTATED

@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/熔断节点补建清单/PAY_熔断节点补建清单_v1.2.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: PAY
 confidence: HIGH
 confidence_reason: 原文Mark裁定汇总表要求每项均有②类预备方案，并说明Mark只需校准
 decision_status: UNSTATED

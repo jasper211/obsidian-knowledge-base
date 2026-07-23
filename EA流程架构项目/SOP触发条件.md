@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-EQ-11_经确认的客户权益需求清单_v0.1.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: EQ
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知

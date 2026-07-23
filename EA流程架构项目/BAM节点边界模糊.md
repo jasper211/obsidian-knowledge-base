@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/规则空白地图/TREASURY_第一层_规则空白地图_v1.0（未熔断节点）.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: TREASURY
 confidence: HIGH
 confidence_reason: 原文在A标签和规则空白TR-P0-003中明确指出共用和边界模糊。
 decision_status: UNSTATED

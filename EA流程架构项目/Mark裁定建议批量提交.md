@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 经验教训
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/熔断节点补建清单/PAY_熔断节点补建清单_v1.2.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: PAY
 confidence: MEDIUM
 confidence_reason: 原文使用建议语气'建议同一次Mark会议批量提交'，非强制
 decision_status: UNSTATED

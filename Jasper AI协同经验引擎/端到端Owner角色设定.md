@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 规则
 project: Jasper AI协同经验引擎
 source: Mark_AI经验合集学习参考/L12_边界Owner缺位.md
-authority_layer: 02_草稿
+authority_layer: 01_原始
 confidence: HIGH
 confidence_reason: 原文用“设立”和职责表格明确要求。
 decision_status: UNSTATED

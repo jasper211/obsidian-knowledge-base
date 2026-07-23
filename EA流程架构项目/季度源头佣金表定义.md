@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-PAY-01_市场佣金制作产出包_v0.2.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: PAY
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知

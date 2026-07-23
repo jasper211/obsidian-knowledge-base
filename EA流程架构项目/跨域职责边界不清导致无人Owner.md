@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 经验教训
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/规则空白地图/EQ_第一层_规则空白地图_v1.0（未熔断节点）.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: EQ
 confidence: HIGH
 confidence_reason: 文档明确描述“跨域职责边界不清——DB定义权益部门执行，实际主执行为天领运营团队”，并将其列为单点风险。
 decision_status: UNSTATED

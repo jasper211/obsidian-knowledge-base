@@ -4,6 +4,7 @@ concept_type: 定义
 project: EA流程架构项目
 source: 01_原始材料-外部导入/M-01_方法论与标准/01_方法论与标准_AI协作规范_流程框架定义.csv
 authority_layer: 01_原始
+domain: （无）
 confidence: HIGH
 confidence_reason: 来自权威数据表格，定义明确
 decision_status: UNSTATED

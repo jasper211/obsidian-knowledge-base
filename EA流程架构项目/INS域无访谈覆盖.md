@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 背景说明
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/熔断节点补建清单/INS_熔断节点补建清单_v1.0.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: INS
 confidence: HIGH
 confidence_reason: 文档边界声明中明确陈述
 decision_status: UNSTATED

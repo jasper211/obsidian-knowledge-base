@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 规则
 project: Jasper AI协同经验引擎
 source: Mark_AI经验合集学习参考/L0_协作宪法.md
-authority_layer: 02_草稿
+authority_layer: 01_原始
 confidence: HIGH
 confidence_reason: 原文用'红线'和'不能'明确禁止，肯定语气。
 decision_status: UNSTATED

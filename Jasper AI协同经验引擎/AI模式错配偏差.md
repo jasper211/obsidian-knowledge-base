@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 规则
 project: Jasper AI协同经验引擎
 source: Mark_AI经验合集学习参考/L3_偏差识别与迭代.md
-authority_layer: 02_草稿
+authority_layer: 01_原始
 confidence: HIGH
 confidence_reason: 原文明确给出了触发场景和对应修正方式
 decision_status: UNSTATED

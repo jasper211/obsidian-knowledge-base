@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理/细分市场判断与目标设计Agent.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知

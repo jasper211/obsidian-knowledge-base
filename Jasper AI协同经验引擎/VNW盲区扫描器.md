@@ -4,6 +4,7 @@ concept_type: 决策
 project: Jasper AI协同经验引擎
 source: 05_Agent库/草稿/三大主Agent体系架构_v1.3.md
 extracted_at: 2026-07-20T23:14:57
+authority_layer: 00_治理
 ---
 
 # VNW盲区扫描器

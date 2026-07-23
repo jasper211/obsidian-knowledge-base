@@ -3,7 +3,8 @@ type: concept_atom
 concept_type: 背景说明
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/规则空白地图/INS_第一层_规则空白地图_v1.0（未熔断节点）.md
-authority_layer: 02_草稿
+authority_layer: 02_定稿
+domain: INS
 confidence: HIGH
 confidence_reason: 原文表格明确列出通过与熔断节点
 decision_status: UNSTATED

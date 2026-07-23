@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 定义
 project: Jasper AI协同经验引擎
 source: Mark_AI经验合集学习参考/L10_Agent自首机制.md
-authority_layer: 02_草稿
+authority_layer: 01_原始
 confidence: HIGH
 confidence_reason: 原文明确将自首率定义为KPI。
 decision_status: UNSTATED

@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 定义
 project: Jasper AI协同经验引擎
 source: Mark_AI经验合集学习参考/L7_业务本体六要素.md
-authority_layer: 02_草稿
+authority_layer: 01_原始
 confidence: HIGH
 confidence_reason: 原文明确陈述为已采纳的六要素框架，并对比传统三维。
 decision_status: UNSTATED
