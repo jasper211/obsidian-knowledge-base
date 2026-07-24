@@ -6,19 +6,20 @@ source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与
 authority_layer: 02_定稿
 domain: INS
 confidence: HIGH
-confidence_reason: 文档边界声明中明确陈述
+confidence_reason: 原文边界声明明确陈述，语气肯定无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 待聚类
 entity_ref: （无）
 status: 生效
-extracted_at: 2026-07-22T03:05:31
+extracted_at: 2026-07-24T05:28:53
 ---
 
 # INS域无访谈覆盖
 
-INS域（保司合作域）目前没有任何访谈覆盖，所有补建步骤均为结构性占位，待访谈获得岗位和流程信息后填充。
+INS域（保司合作）目前暂无任何岗位访谈覆盖，所有熔断节点补建步骤均为结构性占位，需后续访谈填充实际信息。
 
 ## 关联概念
 
-- [[熔断节点]]
+- [[熔断节点补建]]
+- [[访谈三问]]

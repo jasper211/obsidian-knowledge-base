@@ -1,0 +1,26 @@
+---
+type: concept_atom
+concept_type: 定义
+project: EA流程架构项目
+source: 01_原始材料-外部导入/M-01_方法论与标准/01_方法论与标准_AI协作规范_模板_模版-L5经营活动汇总_03.csv
+authority_layer: 01_原始
+domain: （无）
+confidence: HIGH
+confidence_reason: 权威数据，活动描述完整
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-24T03:14:11
+---
+
+# OP-IFTD-04绘制实施控制点流程图
+
+OP-IFTD-04属于L3-IFTD流程，在L4-IFTD-01控制清单确认下。整合流程图与控制点，形成实施阶段总览图，直观展示阶段、任务、控制点之间的逻辑与时间关系。实现的价值是让利益方全体成员通过可视化流程图，快速理解新流程的全貌及自己在其中的角色，降低认知门槛。
+
+## 关联概念
+
+- [[L3-IFTD]]
+- [[L4-IFTD-01]]
+- [[实施控制点流程图]]

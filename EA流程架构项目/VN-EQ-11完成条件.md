@@ -1,0 +1,26 @@
+---
+type: concept_atom
+concept_type: 规则
+project: EA流程架构项目
+source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-EQ-11_经确认的客户权益需求清单_v0.1.md
+authority_layer: 02_定稿
+domain: EQ
+confidence: HIGH
+confidence_reason: 原文在“一句话执行口径”中以“才具备可归档、可下游使用的证据基础”的终结性语气陈述为规则。
+decision_status: UNSTATED
+as_of: 未知
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-24T03:43:21
+---
+
+# VN-EQ-11完成条件
+
+需求可口头沟通，但只有《权益需求收集表》、需求确认记录和《经确认的客户权益需求清单》v.final三者同时存在，并完成必要合规/法务确认后，VN-EQ-11才算完成。
+
+## 关联概念
+
+- [[VN-EQ-11核心交付物]]
+- [[最低凭证包要求]]
+- [[口头需求不得进入设计]]

@@ -5,33 +5,21 @@ project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理/服务寻源上架Agent.md
 authority_layer: 02_定稿
 domain: （无）
-confidence: UNSTATED
+confidence: HIGH
+confidence_reason: 原文明确给出Agent身份、类型及拆分原因
 decision_status: UNSTATED
 as_of: 未知
-entity_type: L3流程
-entity_ref: L3-SOB,L4-SOB-03
-extracted_at: 2026-07-16T16:16:27
+entity_type: 待聚类
+entity_ref: （无）
+status: 生效
+extracted_at: 2026-07-24T04:38:14
 ---
 
 # 服务寻源上架Agent
 
-服务寻源上架Agent是F族(JF-06权益服务族)下的一个执行型Agent，对应L3-SOB服务项寻源与上架，包含1条L4（L4-SOB-03服务上架）。它负责供给侧的新服务项目录入目录，触发条件是“新服务上架”，与客户交付流程分离，避免触发逻辑混乱。
+服务寻源上架Agent是从权益长尾合并Agent拆分出的执行型Agent，负责L3-SOB服务项寻源与上架，仅服务供给侧，不与客户旅程耦合，避免触发逻辑混乱。
 
 ## 关联概念
 
+- [[权益长尾合并Agent]]
 - [[权益客户交付Agent]]
-
-## 所属枢纽
-
-- [[L4-SOB-03]]
-
----
-⚠️ **待校准**：源文档「02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_数据表_v3.xlsx / Agent汇总」提炼出内容差异较大的新版本（语义相似度0.78，低于0.8阈值），新旧内容未自动合并，需人工判断保留哪个/如何合并（标记时间：2026-07-21T22:43:48）。
-
-### 候选新内容（来自「02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_数据表_v3.xlsx / Agent汇总」）
-
-服务寻源上架Agent覆盖3个L4流程，包含2个Hybrid、1个Human模式，无Auto和Aug，Hybrid+Human占比100%，定位为决策支持/协同型，不含资金安全关卡和物理执行类。
-
-
----
-⚠️ **待复核**：源文档「02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/候选Agent目录_数据表_v3.xlsx」已被删除（标记时间：2026-07-23T02:17:34）
