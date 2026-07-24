@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 原文指出缺失和影响，是待建立的标准
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:06:20

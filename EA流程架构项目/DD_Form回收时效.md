@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文用✅明确陈述各时效节点和关闭标准
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T10:31:47

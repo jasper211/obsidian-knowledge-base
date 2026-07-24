@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 来自EA流程架构项目权威方法表格，步骤明确，无待定字段。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 方法论标准
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T03:11:08

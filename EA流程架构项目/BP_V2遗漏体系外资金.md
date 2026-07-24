@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 原文陈述遗漏事实，但将其归为教训是归纳总结，故置信度MEDIUM
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T05:27:51

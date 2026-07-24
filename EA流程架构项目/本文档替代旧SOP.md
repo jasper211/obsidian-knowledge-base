@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 原文为“本文档即为替代，Mark确认后关闭”，带有待确认性质。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T03:54:34

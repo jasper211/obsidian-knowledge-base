@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 补充尽调决策明确，优先级方向清晰
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:14:23

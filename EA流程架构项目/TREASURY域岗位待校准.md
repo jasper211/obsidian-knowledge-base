@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文明确规定了岗位标注方式和校准责任方
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:01:30

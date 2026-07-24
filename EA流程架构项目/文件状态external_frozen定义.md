@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文文件状态规则表明确该状态含义。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T03:32:16

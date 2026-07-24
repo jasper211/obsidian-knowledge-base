@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文以FAQ解答形式给出明确操作定义
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T10:26:07

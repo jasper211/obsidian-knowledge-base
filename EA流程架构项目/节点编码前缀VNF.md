@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文直接说明全部9个节点编码前缀为VNF。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T10:53:56

@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文明确'合同后置执行，根因为内商务岗位缺失'，原因和后果均直接陈述。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:12:50

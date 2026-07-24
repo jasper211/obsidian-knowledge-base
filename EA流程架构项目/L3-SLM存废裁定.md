@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 原文列为待裁定项，结论未定，仅描述两种可能。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T05:30:16

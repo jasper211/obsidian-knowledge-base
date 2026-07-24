@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 原文以‘如果不……就违反’提出风险，并用‘建议’给出方向，属于待采纳而非已确定的解决路径
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: Agent机制
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T04:48:27

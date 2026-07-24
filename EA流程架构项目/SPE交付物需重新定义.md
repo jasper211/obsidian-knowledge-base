@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文直接指出需要重新定义和拆分。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:14:38

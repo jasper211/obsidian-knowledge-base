@@ -8,7 +8,7 @@ domain: PAY
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 extracted_at: 2026-07-16T19:13:00
 ---

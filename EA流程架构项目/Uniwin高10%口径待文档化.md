@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 原文列为待确认的B类规则线索。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:27:42

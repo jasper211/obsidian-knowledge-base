@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文使用“提报Mark审批”“审批通过后方可”肯定语气
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T03:27:39

@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 比较口径需商务确认，当前无正式文档
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T10:38:31

@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 从两个熔断实例归纳，原文未直接声明此规则
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-22T03:00:59

@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文在Gate缺口明细中明确描述“KPI与节点挂接关系未建立”即为FAIL。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T10:24:15

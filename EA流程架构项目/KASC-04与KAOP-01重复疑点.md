@@ -8,7 +8,7 @@ domain: KA
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 非正式主题
+entity_type: Agent机制
 entity_ref: KA准入L4重复
 extracted_at: 2026-07-16T16:36:00
 ---

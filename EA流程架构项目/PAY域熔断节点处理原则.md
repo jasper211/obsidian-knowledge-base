@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 原文部分表述为’必须Mark+数据底座架构师联合裁定‘，但未形成明确决策语句
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T10:39:47

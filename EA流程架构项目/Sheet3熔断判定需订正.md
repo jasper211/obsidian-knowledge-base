@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文明确说'已修正：Sheet3原判定有误，已据Sheet2真实Gate值订正'
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T10:50:43

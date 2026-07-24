@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文直接说明当前状态和原因
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:11:49

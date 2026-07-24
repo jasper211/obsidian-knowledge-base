@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 节点信号明确陈述无标准化模板。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:22:48

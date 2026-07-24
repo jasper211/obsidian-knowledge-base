@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文明确调度规则中说明了工作结束和后续交接。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: Agent机制
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T05:05:17

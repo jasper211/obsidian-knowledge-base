@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文表格明确界定Jasper承担和不承担的事项
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T05:27:07

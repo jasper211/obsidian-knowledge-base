@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文在溯源与状态中以确定性的“已确认”状态和调整记录为依据陈述。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T03:44:08

@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 文档Step4调研覆盖度统计及Step6访谈覆盖度总览明确说明。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:14:55

@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文规则空白TR-P1-002明确陈述全部NOT_ASSESSED。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则空白
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-22T02:55:14

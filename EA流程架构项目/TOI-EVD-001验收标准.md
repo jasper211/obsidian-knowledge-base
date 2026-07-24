@@ -8,7 +8,7 @@ domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 非正式主题
+entity_type: SOP
 entity_ref: 凭证与验收标准
 extracted_at: 2026-07-16T19:21:19
 ---

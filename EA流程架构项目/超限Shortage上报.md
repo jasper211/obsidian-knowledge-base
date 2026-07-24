@@ -8,7 +8,7 @@ domain: PAY
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 非正式主题
+entity_type: SOP
 entity_ref: 续保Shortage规则
 extracted_at: 2026-07-16T19:37:07
 status: 待裁定

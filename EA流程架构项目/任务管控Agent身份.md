@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文开篇明确且无歧义地陈述为Agent身份定义。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: Agent机制
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T04:56:38

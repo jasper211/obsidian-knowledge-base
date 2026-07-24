@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文在“一句话执行口径”中以“才具备可归档、可下游使用的证据基础”的终结性语气陈述为规则。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T03:43:21

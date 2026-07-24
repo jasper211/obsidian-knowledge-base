@@ -8,7 +8,7 @@ domain: EQ
 confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 非正式主题
+entity_type: SOP
 entity_ref: SOP管理
 extracted_at: 2026-07-16T20:04:07
 ---

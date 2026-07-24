@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 访谈发现后推测，原文用'可能需要'
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: Agent机制
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T10:04:54

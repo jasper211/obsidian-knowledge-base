@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文在集群风险、岗位信息标注等多处直接声明字段为空、无访谈覆盖。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则空白
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T05:22:12

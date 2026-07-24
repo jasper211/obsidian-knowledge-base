@@ -9,7 +9,7 @@ confidence: LOW
 confidence_reason: 综合判定与评估状态不一致的原因未在原文说明，属推断
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:32:09

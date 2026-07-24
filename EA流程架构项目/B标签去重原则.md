@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文第六章专门阐述了B标签去重自查原则及验证标准
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则空白
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T01:52:26

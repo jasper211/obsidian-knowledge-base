@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 文档仅提及集群风险待确认，无具体内容
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则空白
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-22T04:47:16

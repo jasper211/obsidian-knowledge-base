@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文明确'当前无正式上架确认动作'，并指出IT系统bug，属于事实陈述。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:12:50

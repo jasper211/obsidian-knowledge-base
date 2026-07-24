@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文Mark裁定汇总表要求每项均有②类预备方案，并说明Mark只需校准
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-22T03:04:33

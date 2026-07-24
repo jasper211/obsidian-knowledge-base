@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文明确描述'核销形式化：理财师收到即算核销，无需实际阅读'，无不确定语气。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:12:50

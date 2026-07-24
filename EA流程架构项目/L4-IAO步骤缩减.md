@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 决策已记录但原因未详述，确定性中等
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:15:51

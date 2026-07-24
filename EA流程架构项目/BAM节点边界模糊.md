@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文在A标签和规则空白TR-P0-003中明确指出共用和边界模糊。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则空白
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-22T02:55:14

@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 节点清单及详情卡明确列出该定义。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:26:04

@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文直接对比调度性质，并用‘无固定调度’‘项目结束就结束’等肯定语气描述
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: Agent机制
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T04:48:42

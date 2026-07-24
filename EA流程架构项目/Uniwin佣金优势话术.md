@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 10%优势明确但比较口径待确认，且注明不可直接套用
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T10:31:43

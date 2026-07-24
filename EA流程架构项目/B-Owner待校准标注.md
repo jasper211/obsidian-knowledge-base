@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 这是从全文B-Owner统一标注行为归纳出的处理规则，原文未以规则语句明确陈述
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则空白
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T01:52:37

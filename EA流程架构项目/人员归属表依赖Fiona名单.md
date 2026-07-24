@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文直接列出起点A包含具体人员姓名
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T10:50:48

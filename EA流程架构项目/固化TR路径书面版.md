@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文标注“可立即推进”并说明无阻塞
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T01:58:24

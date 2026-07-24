@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文Gate表格明确通过条件与未通过处理。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: SOP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-24T03:32:03

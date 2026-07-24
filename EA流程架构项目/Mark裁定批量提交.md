@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文第五节明确建议“同一次Mark会议批量提交”
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:02:04

@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 信号空白清单中直接引用数据表描述，明确指出“治理漏洞已明确写在数据表中”。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:05:20

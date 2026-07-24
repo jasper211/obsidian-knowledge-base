@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文Gate③追溯描述“数据链路不可追溯”即为FAIL依据。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T10:24:27

@@ -9,7 +9,7 @@ confidence: MEDIUM
 confidence_reason: 原文指出‘未系统采集，依赖手工统计’，属于待改进
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 规则与GAP
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:06:53

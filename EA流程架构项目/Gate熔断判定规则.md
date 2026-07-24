@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: VN-IBRD-01信号3明确声明‘Gate①②③至少1项FAIL，三层递进暂停，进入熔断补建路径’。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 信号基线
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T11:27:59

@@ -9,7 +9,7 @@ confidence: HIGH
 confidence_reason: 原文第二章和行动项中反复强调录音为SSOT，转录后需确认
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
+entity_type: 熔断规则
 entity_ref: （无）
 status: 生效
 extracted_at: 2026-07-23T02:01:50
