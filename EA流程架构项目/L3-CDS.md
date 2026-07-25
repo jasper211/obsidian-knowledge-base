@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: L3流程
 entity_ref: L3-CDS
 project: EA流程架构项目
-atom_count: 11
+atom_count: 15
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -14,10 +14,14 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 
 ## 关联原子
 
+- [[SLA验收禁止100%承诺]]
+- [[候选模板不可标记已签署]]
 - [[合同与服务范围确认SOP]]
 - [[合同模板不等于签署生效]]
+- [[合同确认五条件齐备]]
 - [[合同类型判断步骤]]
 - [[合同要点确认步骤]]
+- [[合规法务职责]]
 - [[方案评审与冻结]]
 - [[服务范围附件冻结规则]]
 - [[核心交付物]]

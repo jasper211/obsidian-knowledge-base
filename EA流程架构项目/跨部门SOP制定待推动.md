@@ -10,7 +10,7 @@ confidence_reason: gap清单中明确陈述该待决策事项
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 跨部门协作制度化
 status: 生效
 extracted_at: 2026-07-23T10:31:25
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-23T10:31:25
 ## 关联概念
 
 （暂无）
+
+## 所属枢纽
+
+- [[跨部门协作制度化]]

@@ -10,7 +10,7 @@ confidence_reason: 文档Step4明确给出B类规则的定义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: B类规则线索
 status: 生效
 extracted_at: 2026-07-23T11:14:32
 ---
@@ -24,3 +24,7 @@ B类规则指从访谈或调研中获得的规则线索，本域暂无调研覆�
 - [[调研已知清单]]
 - [[三分类]]
 - [[访谈覆盖度]]
+
+## 所属枢纽
+
+- [[B类规则线索]]

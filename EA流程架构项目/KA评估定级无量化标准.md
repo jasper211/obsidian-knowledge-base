@@ -10,7 +10,7 @@ confidence_reason: 原文多处陈述‘无定级体系’‘完全依赖个人�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: KA域熔断节点
 status: 生效
 extracted_at: 2026-07-23T11:26:16
 ---
@@ -24,3 +24,7 @@ KA评估定级记录（VN-KAET-01）当前无定级体系，无量化维度，�
 - [[KA评估定级E2E]]
 - [[推进暂缓两态]]
 - [[MoMo经验判断]]
+
+## 所属枢纽
+
+- [[KA域熔断节点]]

@@ -10,7 +10,7 @@ confidence_reason: 原文在集群风险、岗位信息标注等多处直接声�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: FA域数据与规则缺口
 status: 生效
 extracted_at: 2026-07-24T05:22:12
 ---
@@ -23,3 +23,7 @@ FA域全6个子域的生产部门、生产岗位、消费主体、消费对象�
 
 - [[FA域]]
 - [[集群风险]]
+
+## 所属枢纽
+
+- [[FA域数据与规则缺口]]

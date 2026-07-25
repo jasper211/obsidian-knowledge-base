@@ -10,7 +10,7 @@ confidence_reason: 权威数据层已发布的价值节点清单，字段完整�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 流程监控优化闭环
 status: 生效
 extracted_at: 2026-07-24T03:18:14
 ---
@@ -26,3 +26,7 @@ extracted_at: 2026-07-24T03:18:14
 - [[5Why]]
 - [[鱼骨图]]
 - [[根因分析]]
+
+## 所属枢纽
+
+- [[流程监控优化闭环]]

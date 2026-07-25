@@ -10,7 +10,7 @@ confidence_reason: 原文对身份和规模的描述明确且肯定。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 权益Agent定义
 status: 生效
 extracted_at: 2026-07-24T05:01:23
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T05:01:23
 - [[L3-SVC]]
 - [[服务品类]]
 - [[L4流程]]
+
+## 所属枢纽
+
+- [[权益Agent定义]]

@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 实施框架设计
 status: 生效
 extracted_at: 2026-07-21T22:33:38
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:33:38
 
 将《L3流程协同实施框架》转化为直观的跨职能流程图（泳道图），清晰展示活动流、责任部门、岗位及关键控制点（审批、输出物）。
 
+## 所属枢纽
+
+- [[实施框架设计]]

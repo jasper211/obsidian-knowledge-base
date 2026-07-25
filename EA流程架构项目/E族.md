@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: 岗位族
 entity_ref: E族
 project: EA流程架构项目
-atom_count: 4
+atom_count: 5
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -18,3 +18,4 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 - [[岗位族归属依据]]
 - [[横切辅助能力]]
 - [[验证标准数据准确性]]
+- [[验证评估者待确认]]

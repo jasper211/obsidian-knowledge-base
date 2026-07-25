@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: SOP管理
 status: 生效
 extracted_at: 2026-07-24T04:17:31
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:17:31
 - [[TOB服务配置]]
 - [[TOC权益包]]
 - [[禁用口径]]
+
+## 所属枢纽
+
+- [[SOP管理]]

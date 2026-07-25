@@ -10,7 +10,7 @@ confidence_reason: 原文直接引用L4-IAC-05的'进入IRI'并解释为交接�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: Agent交接设计
 status: 生效
 extracted_at: 2026-07-24T04:31:02
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:31:02
 - [[L4-IAC-05]]
 - [[保司资源整合Agent]]
 - [[B族]]
+
+## 所属枢纽
+
+- [[Agent交接设计]]

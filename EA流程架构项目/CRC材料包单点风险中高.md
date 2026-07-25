@@ -10,7 +10,7 @@ confidence_reason: 文档明确标注单点风险等级为中高并给出理由
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: 交付物单点风险评估
 status: 生效
 extracted_at: 2026-07-22T04:50:23
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:50:23
 
 CRC材料包交付物（VN-ASD-01）的单点风险等级为中高，因为决策依据材料不完整或版本不一导致的CRC决议偏差，是投诉升级和监管处罚的核心风险传导节点。
 
+## 所属枢纽
+
+- [[交付物单点风险评估]]

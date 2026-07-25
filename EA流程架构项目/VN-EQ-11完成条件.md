@@ -10,7 +10,7 @@ confidence_reason: 原文在“一句话执行口径”中以“才具备可归�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: VN-EQ-11交付物
 status: 生效
 extracted_at: 2026-07-24T03:43:21
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:43:21
 - [[VN-EQ-11核心交付物]]
 - [[最低凭证包要求]]
 - [[口头需求不得进入设计]]
+
+## 所属枢纽
+
+- [[VN-EQ-11交付物]]

@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 流程监控优化闭环
 status: 生效
 extracted_at: 2026-07-21T22:37:34
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:37:34
 
 针对根因分析中识别出的、涉及多个部门的流程接口问题或职责灰色地带，召集相关方举行协同诊断会，厘清职责边界、信息流及协同规则。
 
+## 所属枢纽
+
+- [[流程监控优化闭环]]

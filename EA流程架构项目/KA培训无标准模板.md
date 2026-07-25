@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述培训现状与模板缺失
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: KA培训标准化缺失
 status: 生效
 extracted_at: 2026-07-24T10:12:51
 ---
@@ -23,3 +23,7 @@ KA培训包括多KA研讨会和1对1单独培训，无统一标准模板和签�
 
 - [[VN-KAEM-01]]
 - [[KA培训完成记录]]
+
+## 所属枢纽
+
+- [[KA培训标准化缺失]]

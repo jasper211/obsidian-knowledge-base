@@ -10,7 +10,7 @@ confidence_reason: 原文部分表述为’必须Mark+数据底座架构师联�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 熔断补建流程
 status: 生效
 extracted_at: 2026-07-24T10:39:47
 ---
@@ -26,3 +26,7 @@ extracted_at: 2026-07-24T10:39:47
 - [[VN-PAY-08]]
 - [[VN-PAY-09]]
 - [[Mark]]
+
+## 所属枢纽
+
+- [[熔断补建流程]]

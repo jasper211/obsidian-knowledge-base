@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 佣金Hold处理规则
 extracted_at: 2026-07-16T20:08:42
 ---
 
@@ -21,3 +21,6 @@ extracted_at: 2026-07-16T20:08:42
 
 - [[差异归类三原因]]
 
+## 所属枢纽
+
+- [[佣金Hold处理规则]]

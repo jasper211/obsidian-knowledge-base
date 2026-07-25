@@ -10,7 +10,7 @@ confidence_reason: 文档多处明确声明INS域无访谈覆盖
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: INS域节点状态
 status: 生效
 extracted_at: 2026-07-23T11:12:00
 ---
@@ -23,3 +23,7 @@ INS域当前无任何访谈覆盖，生产部门、生产岗位、消费主体�
 
 - [[访谈数据缺失]]
 - [[岗位信息待补]]
+
+## 所属枢纽
+
+- [[INS域节点状态]]

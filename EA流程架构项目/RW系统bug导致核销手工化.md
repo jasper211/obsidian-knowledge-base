@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述系统bug和手工现状
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 核销形式化
 status: 生效
 extracted_at: 2026-07-24T10:13:11
 ---
@@ -23,3 +23,7 @@ RW权益系统存在已知bug，资讯发放核销为纯手工链路，需人手
 
 - [[VN-KAEM-02]]
 - [[KA资讯发放核销记录]]
+
+## 所属枢纽
+
+- [[核销形式化]]

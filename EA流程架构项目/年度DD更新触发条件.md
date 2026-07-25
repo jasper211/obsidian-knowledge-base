@@ -10,7 +10,7 @@ confidence_reason: 原文用✅明确两种触发条件
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: DD年度更新
 status: 生效
 extracted_at: 2026-07-24T10:32:45
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T10:32:45
 
 - [[DD Form]]
 - [[DD Form版本通知全体RO]]
+
+## 所属枢纽
+
+- [[DD年度更新]]

@@ -10,7 +10,7 @@ confidence_reason: 比较口径尚待商务正式确认，暂凭经验
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: Uniwin佣金优势口径
 status: 生效
 extracted_at: 2026-07-23T02:14:23
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-23T02:14:23
 ## 关联概念
 
 - [[Uniwin总佣高10%基准]]
+
+## 所属枢纽
+
+- [[Uniwin佣金优势口径]]

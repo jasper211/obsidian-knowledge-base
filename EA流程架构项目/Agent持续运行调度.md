@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明不是批次调度，而是持续运行
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 运营设计验证Agent
 status: 生效
 extracted_at: 2026-07-24T04:30:01
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T04:30:01
 ## 关联概念
 
 - [[批次调度]]
+
+## 所属枢纽
+
+- [[运营设计验证Agent]]

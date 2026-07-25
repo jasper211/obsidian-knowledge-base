@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明IRR部分围绕续约周期临近触发。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: IRR相关事项
 status: 生效
 extracted_at: 2026-07-24T04:41:29
 ---
@@ -23,3 +23,7 @@ IRR阶段的触发方式是周期性或到期触发，围绕续约周期临近�
 
 - [[续约周期]]
 - [[Agent触发方式]]
+
+## 所属枢纽
+
+- [[IRR相关事项]]

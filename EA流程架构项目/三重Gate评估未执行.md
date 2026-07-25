@@ -10,7 +10,7 @@ confidence_reason: 综合判定与评估状态不一致的原因未在原文说�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 节点属性评估缺失状态
 status: 生效
 extracted_at: 2026-07-23T11:32:09
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:32:09
 - [[四属性Gate矩阵]]
 - [[综合判定]]
 - [[评估标准]]
+
+## 所属枢纽
+
+- [[节点属性评估缺失状态]]

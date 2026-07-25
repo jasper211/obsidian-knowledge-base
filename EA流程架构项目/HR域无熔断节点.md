@@ -10,7 +10,7 @@ confidence_reason: 文档明确写明熔断节点数为0
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: KA域熔断节点
 status: 生效
 extracted_at: 2026-07-22T04:46:13
 ---
@@ -22,3 +22,7 @@ HR域所有11个价值节点均通过Gate判定，熔断节点数为0。这意�
 ## 关联概念
 
 - [[熔断节点]]
+
+## 所属枢纽
+
+- [[KA域熔断节点]]

@@ -10,7 +10,7 @@ confidence_reason: 规则已排期但执行结果和时效性未确认
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: DD Form变更通知
 status: 生效
 extracted_at: 2026-07-23T02:14:23
 ---
@@ -22,3 +22,7 @@ DD Form新增保司合约字段后，Teresa在2026-06-09会议上通报全体RO�
 ## 关联概念
 
 - [[DD Form变更通知RO]]
+
+## 所属枢纽
+
+- [[DD Form变更通知]]

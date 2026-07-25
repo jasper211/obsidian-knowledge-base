@@ -10,7 +10,7 @@ confidence_reason: 节点清单及详情卡明确列出该定义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VN节点状态
 status: 生效
 extracted_at: 2026-07-23T11:26:21
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-23T11:26:21
 ## 关联概念
 
 - [[售后服务质量监控报告]]
+
+## 所属枢纽
+
+- [[VN节点状态]]

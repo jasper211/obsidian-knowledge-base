@@ -10,7 +10,7 @@ confidence_reason: Gap HR-G033明确将该问题列为执行断点。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 数据采集规范缺失
 status: 生效
 extracted_at: 2026-07-24T03:23:25
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:23:25
 - [[HR-G033]]
 - [[数据采集]]
 - [[归属确认流程]]
+
+## 所属枢纽
+
+- [[数据采集规范缺失]]

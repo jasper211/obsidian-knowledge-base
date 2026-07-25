@@ -10,7 +10,7 @@ confidence_reason: 原文补建行动路径表详细列出了各项行动
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 熔断补建流程
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T02:01:30
 - [[VN-CFM-01]]
 - [[补建行动路径]]
 - [[fact_cashflow]]
+
+## 所属枢纽
+
+- [[熔断补建流程]]

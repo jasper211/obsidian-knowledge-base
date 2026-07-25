@@ -10,7 +10,7 @@ confidence_reason: 自检结论明确验证已实现差异化
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: B标签去重与差异化
 status: 生效
 extracted_at: 2026-07-24T05:24:39
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T05:24:39
 - [[B标签]]
 - [[交付物类型]]
 - [[规则空白地图]]
+
+## 所属枢纽
+
+- [[B标签去重与差异化]]

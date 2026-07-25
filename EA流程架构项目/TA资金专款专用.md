@@ -10,7 +10,7 @@ confidence_reason: 原文列为待Mark决策的裁定项，虽有专款专用要
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: TA资金合规裁定
 status: 生效
 extracted_at: 2026-07-24T05:29:45
 ---
@@ -24,3 +24,7 @@ TA资金必须专款专用，需排查历史混用问题并建立专款专用规
 - [[TA资金合规]]
 - [[资金混用风险]]
 - [[A-03裁定项]]
+
+## 所属枢纽
+
+- [[TA资金合规裁定]]

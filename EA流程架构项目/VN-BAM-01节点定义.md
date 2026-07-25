@@ -10,7 +10,7 @@ confidence_reason: 原文对节点定义和KPI/ M锚定有明确描述
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: VN-BAM-01节点
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T02:01:30
 - [[银行账户全生命周期]]
 - [[E2E流程]]
 - [[KPI锚定]]
+
+## 所属枢纽
+
+- [[VN-BAM-01节点]]

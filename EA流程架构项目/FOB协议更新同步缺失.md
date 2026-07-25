@@ -10,7 +10,7 @@ confidence_reason: 原文在规则空白表格中明确列出'未定义'和'未�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: FOB协议管理缺陷
 status: 生效
 extracted_at: 2026-07-24T05:21:34
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T05:21:34
 ## 关联概念
 
 - [[FA-P2-002]]
+
+## 所属枢纽
+
+- [[FOB协议管理缺陷]]

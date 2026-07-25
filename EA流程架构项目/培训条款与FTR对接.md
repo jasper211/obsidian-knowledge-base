@@ -10,7 +10,7 @@ confidence_reason: 原文待补充，但明确提出了对接需求
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 培训协议与FTR衔接
 status: 生效
 extracted_at: 2026-07-24T09:59:11
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T09:59:11
 - [[FA-G012]]
 - [[FTR培训]]
 - [[达标标准]]
+
+## 所属枢纽
+
+- [[培训协议与FTR衔接]]

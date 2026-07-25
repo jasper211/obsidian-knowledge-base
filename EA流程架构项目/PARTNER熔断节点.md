@@ -10,7 +10,7 @@ confidence_reason: 总览表明确列出5个熔断节点ID和名称。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: PARTNER域信息缺口
 status: 生效
 extracted_at: 2026-07-23T01:56:41
 ---
@@ -23,3 +23,7 @@ PARTNER域当前共有5个熔断节点：VN-IBRD-01（合作伙伴尽调记录�
 
 - [[熔断节点]]
 - [[PARTNER域]]
+
+## 所属枢纽
+
+- [[PARTNER域信息缺口]]

@@ -10,7 +10,7 @@ confidence_reason: 原文以“根因纠正”明确将此列为必须遵循的�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: B标签去重与差异化
 status: 生效
 extracted_at: 2026-07-22T02:54:10
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-22T02:54:10
 ## 关联概念
 
 - [[单点风险]]
+
+## 所属枢纽
+
+- [[B标签去重与差异化]]

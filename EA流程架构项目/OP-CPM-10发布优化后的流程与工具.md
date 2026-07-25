@@ -10,7 +10,7 @@ confidence_reason: 权威数据层已发布的价值节点清单，字段完整�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 执行反馈与SOP管理
 status: 生效
 extracted_at: 2026-07-24T03:18:57
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T03:18:57
 - [[流程发布]]
 - [[知识库]]
 - [[流程文件]]
+
+## 所属枢纽
+
+- [[执行反馈与SOP管理]]

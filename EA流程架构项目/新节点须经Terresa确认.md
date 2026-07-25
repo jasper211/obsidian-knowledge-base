@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述为治理规则。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 新节点裁定回执规则
 status: 生效
 extracted_at: 2026-07-23T02:10:29
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T02:10:29
 
 - [[节点裁定]]
 - [[T1节点索引]]
+
+## 所属枢纽
+
+- [[新节点裁定回执规则]]

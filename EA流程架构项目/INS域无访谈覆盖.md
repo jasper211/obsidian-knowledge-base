@@ -10,7 +10,7 @@ confidence_reason: 原文边界声明明确陈述，语气肯定无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: INS域节点状态
 status: 生效
 extracted_at: 2026-07-24T05:28:53
 ---
@@ -23,3 +23,7 @@ INS域（保司合作）目前暂无任何岗位访谈覆盖，所有熔断节�
 
 - [[熔断节点补建]]
 - [[访谈三问]]
+
+## 所属枢纽
+
+- [[INS域节点状态]]

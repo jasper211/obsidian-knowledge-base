@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述该域所有节点均已熔断。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: KA域熔断节点
 status: 生效
 extracted_at: 2026-07-24T05:17:47
 ---
@@ -24,3 +24,7 @@ KA域6个价值节点全部处于熔断状态，无未熔断节点，所有补�
 - [[熔断补建清单]]
 - [[价值节点]]
 - [[Gate状态]]
+
+## 所属枢纽
+
+- [[KA域熔断节点]]

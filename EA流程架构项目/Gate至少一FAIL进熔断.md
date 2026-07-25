@@ -10,7 +10,7 @@ confidence_reason: 在VN-IBRD-01信号3中明确修正并陈述该规则。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 熔断补建流程
 status: 生效
 extracted_at: 2026-07-23T11:26:30
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:26:30
 - [[Gate①挂数]]
 - [[Gate②落地]]
 - [[Gate③追溯]]
+
+## 所属枢纽
+
+- [[熔断补建流程]]

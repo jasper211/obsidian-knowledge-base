@@ -10,7 +10,7 @@ confidence_reason: 决策已明确排期和执行人
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: DD Form变更通知
 status: 生效
 extracted_at: 2026-07-23T02:14:23
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T02:14:23
 
 - [[DD Form新增字段通知时效]]
 - [[DD Form变更通知RO]]
+
+## 所属枢纽
+
+- [[DD Form变更通知]]

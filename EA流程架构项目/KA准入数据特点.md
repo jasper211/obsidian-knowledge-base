@@ -10,7 +10,7 @@ confidence_reason: 文档开篇直接说明该Agent的数据颗粒度和重复�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA准入流程设计
 status: 生效
 extracted_at: 2026-07-24T05:05:31
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T05:05:31
 - [[L4记录]]
 - [[重复记录]]
 - [[数据颗粒度]]
+
+## 所属枢纽
+
+- [[KA准入流程设计]]

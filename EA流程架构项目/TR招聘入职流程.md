@@ -1,27 +1,35 @@
 ---
-type: concept_atom
-concept_type: 规则
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: TR招聘入职流程
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/04_规则与GAP产出/规则清单_HR_v1.0.md
-authority_layer: 02_定稿
-domain: HR
-confidence: HIGH
-confidence_reason: 原文明确列出规则的触发条件、执行要点和达标标准
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 规则与GAP
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-23T02:17:19
+atom_count: 14
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 所有原子均围绕TR员工的招聘需求、入职合同签署、培训签到及转正合同转换等连贯流程。
 ---
 
 # TR招聘入职流程
 
-牌照业务负责人提出TR招聘需求后，HRBP评估编制，主要通过GBA计划或内推渠道招聘；HRBP办理入职，初始合同签在GM主体；转正后如需转换挂靠公司（如九福），HRBP办理合同转换。应届生不执行背景调查。
+非正式主题枢纽，14个原子经LLM判断内容连贯后自动生成。
 
-## 关联概念
+## 关联原子
 
-- [[TR招聘]]
-- [[背景调查]]
-- [[合同转换]]
-- [[GBA计划]]
+- [[TR入职合同主体]]
+- [[TR招聘入职流程]]
+- [[TR招聘渠道]]
+- [[TR招聘需求发起]]
+- [[TR招聘需求发起与编制评估]]
+- [[TR转正合同转换]]
+- [[TR转正后合同转换]]
+- [[主要招聘渠道]]
+- [[入职合同签署主体]]
+- [[入职培训签到]]
+- [[合同签约主体规则]]
+- [[当前交付物签到表]]
+- [[招聘渠道GBA与内推]]
+- [[转正后合同转换]]
+
+## 所属枢纽
+
+- [[TR招聘入职流程]]

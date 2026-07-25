@@ -10,7 +10,7 @@ confidence_reason: 原文列出关键词并给出功能定位
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 决策信号体系
 status: 生效
 extracted_at: 2026-07-24T03:05:52
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:05:52
 - [[信号类型定义]]
 - [[REVIEW]]
 - [[决策支撑优先]]
+
+## 所属枢纽
+
+- [[决策信号体系]]

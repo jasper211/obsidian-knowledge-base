@@ -10,7 +10,7 @@ confidence_reason: Gap HR-G025明确识别为执行断点，事实陈述
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 版本审计留痕机制
 status: 生效
 extracted_at: 2026-07-24T04:07:41
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:07:41
 - [[Excel管理]]
 - [[版本留痕]]
 - [[HR-G025]]
+
+## 所属枢纽
+
+- [[版本审计留痕机制]]

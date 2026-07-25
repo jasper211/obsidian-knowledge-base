@@ -1,21 +1,24 @@
 ---
-type: concept_atom
-concept_type: 规则
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: IA合规硬指标
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/熔断节点补建清单/PAY_熔断节点补建清单_v1.2.md
-authority_layer: 02_定稿
-domain: PAY
-confidence: HIGH
-confidence_reason: 原文在致命缺口中明确列出具体数值和校验方式
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 熔断规则
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-22T03:04:33
+atom_count: 3
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 共同描述IA合规的具体量化指标：同行支付不超过88%和非持牌不超过50%。
 ---
 
 # IA合规硬指标
 
-转介费派发确认台账（VN-PAY-04）的IA合规规则中，硬指标包括非持牌占比不得超过50%，同行支付不得超过88%，目前为纯人工校验，未代码化。
+非正式主题枢纽，3个原子经LLM判断内容连贯后自动生成。
 
+## 关联原子
+
+- [[IA合规硬指标]]
+- [[同行支付IA硬指标]]
+- [[非持牌占比IA硬指标]]
+
+## 所属枢纽
+
+- [[IA合规硬指标]]

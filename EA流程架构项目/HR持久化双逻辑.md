@@ -10,7 +10,7 @@ confidence_reason: 原文以明确建议性语气表述，但确定性高
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: HR Agent架构设计
 status: 生效
 extracted_at: 2026-07-24T10:09:19
 ---
@@ -24,3 +24,7 @@ HR Agent的状态记录需要两套逻辑：按员工记录事务类历史(入�
 - [[员工事务历史]]
 - [[周期分析盘点]]
 - [[状态持久化]]
+
+## 所属枢纽
+
+- [[HR Agent架构设计]]

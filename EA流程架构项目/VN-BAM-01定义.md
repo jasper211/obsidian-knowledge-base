@@ -10,7 +10,7 @@ confidence_reason: 节点总览和信号1中明确描述，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VN-BAM-01节点
 status: 生效
 extracted_at: 2026-07-23T11:04:46
 ---
@@ -24,3 +24,7 @@ VN-BAM-01为“银行账户全生命周期管理资产包”节点，属于银�
 - [[银行账户基础设施管理E2E]]
 - [[VN-BAM-02]]
 - [[开户资料清单]]
+
+## 所属枢纽
+
+- [[VN-BAM-01节点]]

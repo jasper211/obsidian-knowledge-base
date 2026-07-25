@@ -10,7 +10,7 @@ confidence_reason: 原文使用“提报Mark审批”“审批通过后方可”
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 绩效流程
 status: 生效
 extracted_at: 2026-07-24T03:27:39
 ---
@@ -23,3 +23,7 @@ HR（Fiona）将各部门绩效分配方案汇总后，必须提报Mark审批，
 
 - [[Mark审批]]
 - [[HR汇总提报]]
+
+## 所属枢纽
+
+- [[绩效流程]]

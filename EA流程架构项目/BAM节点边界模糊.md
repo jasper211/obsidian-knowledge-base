@@ -1,21 +1,25 @@
 ---
-type: concept_atom
-concept_type: 定义
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: BAM节点边界模糊
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/规则空白地图/TREASURY_第一层_规则空白地图_v1.0（未熔断节点）.md
-authority_layer: 02_定稿
-domain: TREASURY
-confidence: HIGH
-confidence_reason: 原文在A标签和规则空白TR-P0-003中明确指出共用和边界模糊。
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 规则空白
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-22T02:55:14
+atom_count: 4
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 均讨论VN-BAM-02与VN-BAM-01交付物边界不清、共用开户资料清单的问题
 ---
 
 # BAM节点边界模糊
 
-VN-BAM-02与VN-BAM-01物理对应列共用“开户资料清单”，但BAM-02侧重准入评估和支付工具管理，BAM-01侧重账户全生命周期管理，两者交付物范围、责任边界和数据流向模糊，需明确界定。
+非正式主题枢纽，4个原子经LLM判断内容连贯后自动生成。
 
+## 关联原子
+
+- [[BAM-02与BAM-01边界模糊]]
+- [[BAM02物理边界模糊]]
+- [[BAM节点边界模糊]]
+- [[VN-BAM-02交付物边界模糊]]
+
+## 所属枢纽
+
+- [[BAM节点边界模糊]]

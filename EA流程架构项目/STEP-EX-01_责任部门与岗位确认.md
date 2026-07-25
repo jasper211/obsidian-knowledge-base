@@ -10,7 +10,7 @@ confidence_reason: 落地执行的起始步骤，负责人明确。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 改进措施执行闭环
 status: 生效
 extracted_at: 2026-07-24T03:12:22
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:12:22
 - [[责任部门]]
 - [[责任岗位]]
 - [[组织职责]]
+
+## 所属枢纽
+
+- [[改进措施执行闭环]]

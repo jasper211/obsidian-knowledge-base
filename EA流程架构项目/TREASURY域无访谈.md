@@ -10,7 +10,7 @@ confidence_reason: 原文明确声明访谈覆盖状态为暂无
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: TREASURY域信息缺失
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -23,3 +23,7 @@ TREASURY域当前无任何访谈产出，EFA001/IBRD001/PAY002/PAY005-009均不�
 
 - [[访谈覆盖状态]]
 - [[TREASURY域]]
+
+## 所属枢纽
+
+- [[TREASURY域信息缺失]]

@@ -10,7 +10,7 @@ confidence_reason: 原文为风险评估总结，带主观判断
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: IBRD尽调流程不足
 status: 生效
 extracted_at: 2026-07-23T11:00:44
 ---
@@ -23,3 +23,7 @@ VN-IBRD-01节点存在中等单点风险：测算侧承担全链路职责，但D
 
 - [[VN-IBRD-01]]
 - [[单点风险]]
+
+## 所属枢纽
+
+- [[IBRD尽调流程不足]]

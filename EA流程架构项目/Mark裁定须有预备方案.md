@@ -10,7 +10,7 @@ confidence_reason: 原文Mark裁定汇总表要求每项均有②类预备方案
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: Mark裁定流程
 status: 生效
 extracted_at: 2026-07-22T03:04:33
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-22T03:04:33
 ## 关联概念
 
 - [[行动类型分类]]
+
+## 所属枢纽
+
+- [[Mark裁定流程]]

@@ -10,7 +10,7 @@ confidence_reason: 出自IBRD001-R001，规则陈述明确。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 渠道路径选择规则
 status: 生效
 extracted_at: 2026-07-23T11:26:33
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T11:26:33
 
 - [[双路径开通资格]]
 - [[Uniwin佣金比较基准]]
+
+## 所属枢纽
+
+- [[渠道路径选择规则]]

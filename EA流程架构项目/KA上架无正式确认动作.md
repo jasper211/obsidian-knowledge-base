@@ -10,7 +10,7 @@ confidence_reason: 原文明确说‘当前无正式就绪确认动作’并说�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: KA域熔断节点
 status: 生效
 extracted_at: 2026-07-23T11:26:29
 ---
@@ -24,3 +24,7 @@ KA上架就绪确认（VN-KAOP-01）当前无正式确认动作，签约后直�
 - [[上架就绪确认清单]]
 - [[IT系统不可用]]
 - [[运营启动标准]]
+
+## 所属枢纽
+
+- [[KA域熔断节点]]

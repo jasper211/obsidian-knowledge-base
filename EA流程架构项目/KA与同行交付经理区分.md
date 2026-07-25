@@ -1,24 +1,25 @@
 ---
-type: concept_atom
-concept_type: 规则
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: KA与同行交付经理区分
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/04_规则与GAP产出/规则清单_PARTNER_v1.0.md
-authority_layer: 02_定稿
-domain: PARTNER
-confidence: HIGH
-confidence_reason: 经验不可互替规则明确
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 规则与GAP
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-23T02:14:23
+atom_count: 4
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 聚焦KA和同行渠道交付经理的资质区分，强调不可互替。
 ---
 
 # KA与同行交付经理区分
 
-同行渠道交付经理须具备机构渠道经验，不可用仅有KA经验者。过渡期可带教，但不可长期兼任两种类型。
+非正式主题枢纽，4个原子经LLM判断内容连贯后自动生成。
 
-## 关联概念
+## 关联原子
 
-- [[交付经理全周期管理]]
+- [[KA与同行交付经理区分]]
+- [[KA同行交付经验不可互替]]
+- [[交付经理任命常见错误]]
+- [[同行交付经理资质]]
+
+## 所属枢纽
+
+- [[KA与同行交付经理区分]]

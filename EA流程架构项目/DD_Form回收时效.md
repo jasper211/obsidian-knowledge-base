@@ -10,7 +10,7 @@ confidence_reason: 原文用✅明确陈述各时效节点和关闭标准
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: DD回收与重开
 status: 生效
 extracted_at: 2026-07-24T10:31:47
 ---
@@ -23,3 +23,7 @@ DD Form正常回收时效为3-5工作日，有合理原因可延至最多10工�
 
 - [[DD Form]]
 - [[渠道关闭重开规则]]
+
+## 所属枢纽
+
+- [[DD回收与重开]]

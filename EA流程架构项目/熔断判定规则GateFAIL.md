@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明并以此规则修正了两个节点的熔�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 熔断判定与处理
 status: 生效
 extracted_at: 2026-07-23T11:25:54
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-23T11:25:54
 - [[Gate②落地]]
 - [[Gate③追溯]]
 - [[熔断补建路径]]
+
+## 所属枢纽
+
+- [[熔断判定与处理]]

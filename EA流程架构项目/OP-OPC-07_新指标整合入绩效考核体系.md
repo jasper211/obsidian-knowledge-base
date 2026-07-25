@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 新绩效指标实施
 status: 生效
 extracted_at: 2026-07-21T22:36:57
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:36:57
 
 与HR部门协作，将新指标库中的内容整合到公司的绩效管理系统或员工的绩效合同中。
 
+## 所属枢纽
+
+- [[新绩效指标实施]]

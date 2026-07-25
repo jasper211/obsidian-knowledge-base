@@ -10,7 +10,7 @@ confidence_reason: 原文明确说'已修正：Sheet3原判定有误，已据She
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: PAY域熔断节点
 status: 生效
 extracted_at: 2026-07-23T10:50:43
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:50:43
 
 - [[熔断判定]]
 - [[数据一致性]]
+
+## 所属枢纽
+
+- [[PAY域熔断节点]]

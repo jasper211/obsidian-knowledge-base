@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 实施框架设计
 status: 生效
 extracted_at: 2026-07-21T22:33:31
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:33:31
 
 基于规划阶段输出的L3流程清单，明确每个L3流程在实施阶段的核心目标、关键设计要点、需平衡的冲突点（如效率vs风控）以及核心决策评审点。
 
+## 所属枢纽
+
+- [[实施框架设计]]

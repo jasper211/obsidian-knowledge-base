@@ -10,7 +10,7 @@ confidence_reason: Step 2列出了BAM和CFM子域
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VN-BAM-01节点
 status: 生效
 extracted_at: 2026-07-23T10:55:54
 ---
@@ -24,3 +24,7 @@ TREASURY域覆盖资金管理板块，包含BAM（银行账户管理）和CFM（
 - [[BAM子域]]
 - [[CFM子域]]
 - [[价值节点]]
+
+## 所属枢纽
+
+- [[VN-BAM-01节点]]

@@ -10,7 +10,7 @@ confidence_reason: 决策方向明确但尚未排期落地
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 交付经理JD与KPI
 status: 生效
 extracted_at: 2026-07-23T10:38:53
 ---
@@ -23,3 +23,7 @@ HR更新交付经理JD和能力模型（含全生命周期管理、KA/同行区�
 
 - [[交付经理全生命周期管理]]
 - [[KA同行交付经验不可互替]]
+
+## 所属枢纽
+
+- [[交付经理JD与KPI]]

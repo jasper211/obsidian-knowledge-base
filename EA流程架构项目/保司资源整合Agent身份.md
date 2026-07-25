@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述了Agent的族、类型、流程数量和�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 保司相关Agent设计
 status: 生效
 extracted_at: 2026-07-24T04:33:56
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:33:56
 - [[保险授权确认Agent]]
 - [[L3-IRI]]
 - [[L4-IRI流程]]
+
+## 所属枢纽
+
+- [[保司相关Agent设计]]

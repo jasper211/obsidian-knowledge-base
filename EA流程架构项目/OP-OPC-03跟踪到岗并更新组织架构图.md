@@ -10,7 +10,7 @@ confidence_reason: 权威数据，活动描述完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 岗位配置与人员赋能
 status: 生效
 extracted_at: 2026-07-24T03:16:00
 ---
@@ -24,3 +24,7 @@ OP-OPC-03属于L3-OPC流程。跟踪录用流程和到岗日期，并在人员�
 - [[L3-OPC]]
 - [[L4-OPC-01]]
 - [[组织架构]]
+
+## 所属枢纽
+
+- [[岗位配置与人员赋能]]

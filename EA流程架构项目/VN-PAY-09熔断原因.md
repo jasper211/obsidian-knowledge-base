@@ -10,7 +10,7 @@ confidence_reason: 原文明确判定为熔断并说明零覆盖
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: PAY域熔断节点
 status: 生效
 extracted_at: 2026-07-24T10:39:33
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T10:39:33
 
 - [[VN-PAY-09]]
 - [[BP V2]]
+
+## 所属枢纽
+
+- [[PAY域熔断节点]]

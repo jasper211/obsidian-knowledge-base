@@ -10,7 +10,7 @@ confidence_reason: 原文明确写入达标标准。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 熔断补建流程
 status: 生效
 extracted_at: 2026-07-22T03:06:15
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T03:06:15
 
 熔断节点需交付和审核记录100%可追溯，Gate③才能PASS。
 
+## 所属枢纽
+
+- [[熔断补建流程]]

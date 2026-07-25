@@ -10,7 +10,7 @@ confidence_reason: 文档明确说明身份和Agent类型
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 经代机构全周期Agent
 status: 生效
 extracted_at: 2026-07-24T10:03:47
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T10:03:47
 - [[L3-COM]]
 - [[专家型Agent]]
 - [[Orchestrator]]
+
+## 所属枢纽
+
+- [[经代机构全周期Agent]]

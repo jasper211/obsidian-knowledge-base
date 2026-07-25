@@ -10,7 +10,7 @@ confidence_reason: 文档详细列出各节点执行断点
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域节点状态
 status: 生效
 extracted_at: 2026-07-22T04:47:34
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:47:34
 
 HR域各节点存在多种执行断点，包括：版本留痕缺失（如绩效方案、编制方案）、确认环节无标准时限和格式（如绩效方案、人员归属表）、跨部门协作无书面SOP（如人效分析报告、人工成本报表）、数据校验机制缺失（如工资发放记录、银行回单对账）等。
 
+## 所属枢纽
+
+- [[HR域节点状态]]

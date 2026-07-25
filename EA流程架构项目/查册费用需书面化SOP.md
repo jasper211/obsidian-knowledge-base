@@ -10,7 +10,7 @@ confidence_reason: 原文表述为‘尚未书面化’‘需确认’，是待�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 查册费用与SOP
 status: 生效
 extracted_at: 2026-07-23T11:05:16
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T11:05:16
 
 - [[查册费用]]
 - [[财务SOP]]
+
+## 所属枢纽
+
+- [[查册费用与SOP]]

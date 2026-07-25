@@ -10,7 +10,7 @@ confidence_reason: 原文表格明确界定Jasper承担和不承担的事项
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 补建行动类型
 status: 生效
 extracted_at: 2026-07-24T05:27:07
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T05:27:07
 
 - [[行动类型定义]]
 - [[流程架构协同]]
+
+## 所属枢纽
+
+- [[补建行动类型]]

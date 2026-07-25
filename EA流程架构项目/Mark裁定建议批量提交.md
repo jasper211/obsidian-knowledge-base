@@ -10,7 +10,7 @@ confidence_reason: 原文使用建议语气'建议同一次Mark会议批量提�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: Mark裁定流程
 status: 生效
 extracted_at: 2026-07-22T03:04:33
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-22T03:04:33
 ## 关联概念
 
 - [[Mark裁定须有预备方案]]
+
+## 所属枢纽
+
+- [[Mark裁定流程]]

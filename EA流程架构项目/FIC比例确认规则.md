@@ -10,7 +10,7 @@ confidence_reason: 原文“执行前与BU确认...不自行判断”是确定�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: FIC比例规则
 status: 生效
 extracted_at: 2026-07-24T03:53:27
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T03:53:27
 ## 关联概念
 
 - [[推荐直属首销]]
+
+## 所属枢纽
+
+- [[FIC比例规则]]

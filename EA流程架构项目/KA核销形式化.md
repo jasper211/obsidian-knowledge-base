@@ -10,7 +10,7 @@ confidence_reason: 原文明确描述'核销形式化：理财师收到即算核
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 核销形式化
 status: 生效
 extracted_at: 2026-07-23T02:12:50
 ---
@@ -23,3 +23,7 @@ KA域当前核销流程形式化，理财师收到材料即视为核销完成，
 
 - [[KA核销流程]]
 - [[理财师核销]]
+
+## 所属枢纽
+
+- [[核销形式化]]

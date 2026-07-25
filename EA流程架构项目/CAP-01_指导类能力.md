@@ -10,7 +10,7 @@ confidence_reason: 该定义来自权威数据层，内容完整无待定字段�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 指导类能力
 status: 生效
 extracted_at: 2026-07-24T03:19:42
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:19:42
 - [[执行类能力]]
 - [[监控类能力]]
 - [[业务能力模型]]
+
+## 所属枢纽
+
+- [[指导类能力]]

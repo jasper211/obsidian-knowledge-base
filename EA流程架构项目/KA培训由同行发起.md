@@ -10,7 +10,7 @@ confidence_reason: 原文使用“一般”“很少”等不确定语气。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: KA培训标准化缺失
 status: 生效
 extracted_at: 2026-07-23T11:23:33
 ---
@@ -23,3 +23,7 @@ KA培训一般由同行（即KA）发起，很少由KA主动发起，因为KA没
 
 - [[VN-KAEM-01]]
 - [[培训发起]]
+
+## 所属枢纽
+
+- [[KA培训标准化缺失]]

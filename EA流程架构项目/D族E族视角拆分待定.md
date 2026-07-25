@@ -10,7 +10,7 @@ confidence_reason: 原文标注为'待确认事项'，属不确定/待定建议�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: D/E族Agent拆分考量
 status: 生效
 extracted_at: 2026-07-24T10:06:37
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T10:06:37
 
 - [[D族]]
 - [[E族]]
+
+## 所属枢纽
+
+- [[D/E族Agent拆分考量]]

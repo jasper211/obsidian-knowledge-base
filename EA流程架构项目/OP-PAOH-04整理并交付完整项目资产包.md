@@ -10,7 +10,7 @@ confidence_reason: 权威数据层已发布的价值节点清单，字段完整�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 项目成果认证与移交
 status: 生效
 extracted_at: 2026-07-24T03:19:20
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T03:19:20
 - [[资产包]]
 - [[项目知识库]]
 - [[组织记忆]]
+
+## 所属枢纽
+
+- [[项目成果认证与移交]]

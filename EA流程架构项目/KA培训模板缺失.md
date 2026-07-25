@@ -10,7 +10,7 @@ confidence_reason: 节点信号明确陈述无标准化模板。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: KA域熔断节点
 status: 生效
 extracted_at: 2026-07-23T11:22:48
 ---
@@ -23,3 +23,7 @@ KA培训完成记录当前无标准化模板，培训签到表和内容纪要以
 
 - [[VN-KAEM-01]]
 - [[培训记录]]
+
+## 所属枢纽
+
+- [[KA域熔断节点]]

@@ -10,7 +10,7 @@ confidence_reason: Gap清单明确列出具体缺失点
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: Gate缺失与追溯要求
 status: 生效
 extracted_at: 2026-07-23T02:15:51
 ---
@@ -23,3 +23,7 @@ VN-INS-04集成测试的三个门控检查（Gate）均存在缺失：Gate①凭
 
 - [[集成测试门控]]
 - [[Gate检查标准]]
+
+## 所属枢纽
+
+- [[Gate缺失与追溯要求]]

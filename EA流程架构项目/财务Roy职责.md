@@ -10,7 +10,7 @@ confidence_reason: 角色分工表明确列出。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 财务确认规范
 status: 生效
 extracted_at: 2026-07-24T04:00:04
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T04:00:04
 ## 关联概念
 
 - [[合规法务职责]]
+
+## 所属枢纽
+
+- [[财务确认规范]]

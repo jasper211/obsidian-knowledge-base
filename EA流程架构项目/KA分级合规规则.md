@@ -10,7 +10,7 @@ confidence_reason: 来源于流程蓝图V1.1确认的分级规则，表述明确
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: KA分级合规
 status: 生效
 extracted_at: 2026-07-23T11:13:46
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:13:46
 - [[VN-KAET-01]]
 - [[KA评估与分级]]
 - [[权益包]]
+
+## 所属枢纽
+
+- [[KA分级合规]]

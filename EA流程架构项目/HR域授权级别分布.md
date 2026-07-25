@@ -10,7 +10,7 @@ confidence_reason: 文档明确列出各节点优先级
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域节点状态
 status: 生效
 extracted_at: 2026-07-22T04:49:05
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:49:05
 
 HR域11个节点中，P0优先级节点为VN-HR-07（员工劳动合同）和VN-HR-14（工资发放凭证），其余9个节点均为P1优先级。
 
+## 所属枢纽
+
+- [[HR域节点状态]]

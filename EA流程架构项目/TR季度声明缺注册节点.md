@@ -10,7 +10,7 @@ confidence_reason: 原文直接指出缺失问题。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: TR声明注册缺失
 status: 生效
 extracted_at: 2026-07-23T11:14:26
 ---
@@ -24,3 +24,7 @@ TR季度合规声明在数据库中缺少正式的注册节点，可能导致声
 - [[TR合规]]
 - [[注册节点]]
 - [[VN-HRD-02]]
+
+## 所属枢纽
+
+- [[TR声明注册缺失]]

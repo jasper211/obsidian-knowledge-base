@@ -10,7 +10,7 @@ confidence_reason: 原文规则空白TR-P1-002明确陈述全部NOT_ASSESSED。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: 节点属性评估缺失状态
 status: 生效
 extracted_at: 2026-07-22T02:55:14
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T02:55:14
 
 VN-CFM-02节点的s3四属性矩阵全部NOT_ASSESSED，节点状态为“候选·待标准化”，缺乏系统评估，数据验证状态待确认。
 
+## 所属枢纽
+
+- [[节点属性评估缺失状态]]

@@ -10,7 +10,7 @@ confidence_reason: 决策方向明确但尚未排期落地
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 存量渠道补充DD
 status: 生效
 extracted_at: 2026-07-23T10:38:42
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:38:42
 
 - [[DD年度更新]]
 - [[查册SOP预算机制]]
+
+## 所属枢纽
+
+- [[存量渠道补充DD]]

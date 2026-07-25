@@ -10,7 +10,7 @@ confidence_reason: 文档前言明确说明此状态。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: PARTNER域基础信息
 status: 生效
 extracted_at: 2026-07-23T11:27:50
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-23T11:27:50
 ## 关联概念
 
 （暂无）
+
+## 所属枢纽
+
+- [[PARTNER域基础信息]]

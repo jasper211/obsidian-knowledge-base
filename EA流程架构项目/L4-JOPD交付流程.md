@@ -10,7 +10,7 @@ confidence_reason: 原文以流程图形式明确陈述
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 客户交付核心流程
 status: 生效
 extracted_at: 2026-07-24T04:51:25
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T04:51:25
 - [[L4-JOPD-03]]
 - [[L4-JOPD-04]]
 - [[L4-JOPD-05]]
+
+## 所属枢纽
+
+- [[客户交付核心流程]]

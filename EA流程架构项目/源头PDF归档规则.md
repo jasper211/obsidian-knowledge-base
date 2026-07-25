@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述为行动项和规则空白
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: 源头PDF合订规范
 status: 生效
 extracted_at: 2026-07-22T04:53:54
 ---
@@ -26,3 +26,7 @@ extracted_at: 2026-07-22T04:53:54
 
 ---
 ⚠️ **待复核**：源文档「02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/访谈问题清单/PAY_第二层_访谈问题清单_v1.1.md」已被删除（标记时间：2026-07-23T02:17:34）
+
+## 所属枢纽
+
+- [[源头PDF合订规范]]

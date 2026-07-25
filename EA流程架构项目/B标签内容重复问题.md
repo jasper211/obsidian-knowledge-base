@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述了重复现象和具体数据
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: B标签去重与差异化
 status: 生效
 extracted_at: 2026-07-22T04:51:03
 ---
@@ -26,3 +26,7 @@ extracted_at: 2026-07-22T04:51:03
 
 ---
 ⚠️ **待复核**：源文档「02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/规则空白地图/任务包_4域B标签模板化返工_v1.0.md」已被删除（标记时间：2026-07-23T02:17:34）
+
+## 所属枢纽
+
+- [[B标签去重与差异化]]

@@ -10,7 +10,7 @@ confidence_reason: 原文在Step5明确描述了边界模糊的发现
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: BAM节点边界模糊
 status: 生效
 extracted_at: 2026-07-24T05:15:13
 ---
@@ -24,3 +24,7 @@ VN-BAM-02与VN-BAM-01共享物理对应描述“开户资料清单”，但BAM-0
 - [[VN-BAM-01]]
 - [[物理对应]]
 - [[节点边界]]
+
+## 所属枢纽
+
+- [[BAM节点边界模糊]]

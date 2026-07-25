@@ -10,7 +10,7 @@ confidence_reason: 原文Step2清单中L3现状列明确标注'新建'
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 人力资源节点
 status: 生效
 extracted_at: 2026-07-23T10:50:59
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:50:59
 
 - [[TR人力资源体系交付]]
 - [[L3新建]]
+
+## 所属枢纽
+
+- [[人力资源节点]]

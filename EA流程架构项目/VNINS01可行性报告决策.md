@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述Mark确认的决策，语气肯定
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VNINS交付物问题
 status: 生效
 extracted_at: 2026-07-23T10:55:40
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T10:55:40
 - [[VN-INS-01]]
 - [[Mark确认]]
 - [[熔断节点]]
+
+## 所属枢纽
+
+- [[VNINS交付物问题]]

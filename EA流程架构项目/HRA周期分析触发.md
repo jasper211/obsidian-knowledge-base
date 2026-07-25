@@ -10,7 +10,7 @@ confidence_reason: 原文明确描述周期性
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: HR域节点状态
 status: 生效
 extracted_at: 2026-07-24T10:09:30
 ---
@@ -24,3 +24,7 @@ HRA的两条分析流程(人效数据采集清洗、人员素质结构盘点)是
 - [[HRA分析]]
 - [[人效数据]]
 - [[素质盘点]]
+
+## 所属枢纽
+
+- [[HR域节点状态]]

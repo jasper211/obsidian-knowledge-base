@@ -10,7 +10,7 @@ confidence_reason: 原文明确写入达标标准。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 熔断补建流程
 status: 生效
 extracted_at: 2026-07-22T03:06:15
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T03:06:15
 
 熔断节点需物理产物存在且系统可读，模板/流程标准化，Gate②才能PASS。
 
+## 所属枢纽
+
+- [[熔断补建流程]]

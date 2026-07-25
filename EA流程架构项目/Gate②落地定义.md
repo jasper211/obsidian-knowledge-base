@@ -10,7 +10,7 @@ confidence_reason: 原文Gate②落地描述“交付物无法机器可读或缺
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: Gate评审标准
 status: 生效
 extracted_at: 2026-07-23T10:24:21
 ---
@@ -24,3 +24,7 @@ Gate②落地评估交付物是否具有机器可读性或实体载体，若交�
 - [[Gate①挂数]]
 - [[Gate③追溯]]
 - [[交付物标准化]]
+
+## 所属枢纽
+
+- [[Gate评审标准]]

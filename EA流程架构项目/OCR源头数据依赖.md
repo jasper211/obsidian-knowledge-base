@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述需OCR且无校验机制
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: PDF完整性校验缺失
 status: 生效
 extracted_at: 2026-07-23T02:08:24
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T02:08:24
 - [[PDF数据]]
 - [[OCR]]
 - [[校验机制]]
+
+## 所属枢纽
+
+- [[PDF完整性校验缺失]]

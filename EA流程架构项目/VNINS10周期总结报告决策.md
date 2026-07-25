@@ -10,7 +10,7 @@ confidence_reason: 原文明确Mark确认和建议，确定性高
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 周期总结报告
 status: 生效
 extracted_at: 2026-07-23T10:56:07
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:56:07
 
 - [[VN-INS-10]]
 - [[Mark确认]]
+
+## 所属枢纽
+
+- [[周期总结报告]]

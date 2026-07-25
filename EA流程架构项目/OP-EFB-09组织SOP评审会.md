@@ -10,7 +10,7 @@ confidence_reason: 权威数据，活动描述完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 执行反馈与SOP管理
 status: 生效
 extracted_at: 2026-07-24T03:16:31
 ---
@@ -24,3 +24,7 @@ OP-EFB-09属于L3-EFB流程。组织跨部门评审会，收集反馈，修改�
 - [[L3-EFB]]
 - [[L4-EFB-03]]
 - [[SOP评审]]
+
+## 所属枢纽
+
+- [[执行反馈与SOP管理]]

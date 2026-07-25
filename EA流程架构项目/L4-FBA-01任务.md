@@ -10,7 +10,7 @@ confidence_reason: 原文直接给出任务名称和内容。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: L4-SOB-03
 status: 生效
 extracted_at: 2026-07-24T05:06:21
 ---
@@ -22,3 +22,7 @@ L4-FBA-01是月度/季度业绩数据汇总任务，该Agent通过执行此任�
 ## 关联概念
 
 - [[理财师业务分析Agent定义]]
+
+## 所属枢纽
+
+- [[L4-SOB-03]]

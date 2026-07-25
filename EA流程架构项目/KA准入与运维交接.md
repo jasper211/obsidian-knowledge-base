@@ -10,7 +10,7 @@ confidence_reason: 原文明确调度规则中说明了工作结束和后续交�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA准入持久化
 status: 生效
 extracted_at: 2026-07-24T05:05:17
 ---
@@ -24,3 +24,7 @@ KA准入Agent对一个KA的工作在完成上架就绪后结束，后续由KA赋
 - [[KA赋能运维Agent]]
 - [[交接机制]]
 - [[准入完成]]
+
+## 所属枢纽
+
+- [[KA准入持久化]]

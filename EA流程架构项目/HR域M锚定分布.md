@@ -10,7 +10,7 @@ confidence_reason: 文档明确列出各节点M锚定
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域节点元数据
 status: 生效
 extracted_at: 2026-07-22T04:48:10
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:48:10
 
 HR域各节点M锚定涉及M0数理基建、M1中台运营、M2 KPI报表、M3 NGP、M7产品治理、M8财务结算。其中M8财务结算锚定出现在VN-HR-07、VN-HR-09、VN-HR-11、VN-HR-13、VN-HR-14等节点。
 
+## 所属枢纽
+
+- [[HR域节点元数据]]

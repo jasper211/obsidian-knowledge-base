@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 流程监控优化闭环
 status: 生效
 extracted_at: 2026-07-21T22:37:12
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:37:12
 
 一线员工或流程执行者在遵循SOP工作时，通过标准化表单，结构化地记录下遇到的障碍、理解歧义或潜在的优化点，并提交至指定反馈通道。
 
+## 所属枢纽
+
+- [[流程监控优化闭环]]

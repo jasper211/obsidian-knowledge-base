@@ -10,7 +10,7 @@ confidence_reason: 待裁定节点但原文明确描述缺失。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 岗位信息缺失与校准
 status: 生效
 extracted_at: 2026-07-23T11:17:06
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:17:06
 - [[岗位编制]]
 - [[SOP]]
 - [[VN-HR-02]]
+
+## 所属枢纽
+
+- [[岗位信息缺失与校准]]

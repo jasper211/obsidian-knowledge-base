@@ -10,7 +10,7 @@ confidence_reason: 原文直接陈述为'无标准化培训模板和记录'，�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: KA培训标准化缺失
 status: 生效
 extracted_at: 2026-07-23T02:12:50
 ---
@@ -22,3 +22,7 @@ KA域当前缺乏标准化的培训模板和记录，培训完全依赖手工操
 ## 关联概念
 
 - [[KA培训流程]]
+
+## 所属枢纽
+
+- [[KA培训标准化缺失]]

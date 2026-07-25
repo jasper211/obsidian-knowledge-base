@@ -10,7 +10,7 @@ confidence_reason: 原文节点表格中明确注明“本节点VN-HR-13为非�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 人力资源节点
 status: 生效
 extracted_at: 2026-07-24T03:38:48
 ---
@@ -24,3 +24,7 @@ VN-HR-13人员预算表节点在SOP中被明确标记为非熔断节点，意味
 - [[VN-HR-06熔断节点]]
 - [[熔断机制]]
 - [[非熔断节点]]
+
+## 所属枢纽
+
+- [[人力资源节点]]

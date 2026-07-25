@@ -10,7 +10,7 @@ confidence_reason: 原文Gate表格明确通过条件与未通过处理。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: G4内容审核规则
 status: 生效
 extracted_at: 2026-07-24T03:31:49
 ---
@@ -23,3 +23,7 @@ G4要求无ROI、增长、保费、转化率、佣金、返点等未审批承诺
 
 - [[禁用表达]]
 - [[Gate判断]]
+
+## 所属枢纽
+
+- [[G4内容审核规则]]

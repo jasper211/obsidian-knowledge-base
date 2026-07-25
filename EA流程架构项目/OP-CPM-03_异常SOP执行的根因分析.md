@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 流程监控优化闭环
 status: 生效
 extracted_at: 2026-07-21T22:37:27
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:37:27
 
 针对排查报告中发现的系统性偏差或高频提交的问题单，组织专题分析会，运用5Why、鱼骨图等工具，深入分析问题产生的根本原因（人、流程、工具、环境）。
 
+## 所属枢纽
+
+- [[流程监控优化闭环]]

@@ -1,26 +1,23 @@
 ---
-type: concept_atom
-concept_type: 决策
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: SLM存废裁定
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/熔断节点补建清单/EQ_熔断节点补建清单_v1.0.md
-authority_layer: 02_定稿
-domain: EQ
-confidence: HIGH
-confidence_reason: 原文明确标注为B-02裁定项并说明两种选项。
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 熔断规则
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-23T02:05:06
+atom_count: 2
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 两者均涉及L3-SLM流程存废的裁定项B-02，由Mark裁定保留或删除。
 ---
 
 # SLM存废裁定
 
-L3-SLM流程存废（B-02裁定项）需Mark裁定：保留SLM待开展或删除并入其他L3。
+非正式主题枢纽，2个原子经LLM判断内容连贯后自动生成。
 
-## 关联概念
+## 关联原子
 
-- [[L3-SLM]]
-- [[Mark决策]]
-- [[权益上市推广素材]]
+- [[L3-SLM存废裁定]]
+- [[SLM存废裁定]]
+
+## 所属枢纽
+
+- [[SLM存废裁定]]

@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 改进措施执行闭环
 status: 生效
 extracted_at: 2026-07-21T22:35:24
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:35:24
 
 根据分析报告制定的措施，跟踪责任部门的执行情况，直至问题彻底关闭并验证效果。
 
+## 所属枢纽
+
+- [[改进措施执行闭环]]

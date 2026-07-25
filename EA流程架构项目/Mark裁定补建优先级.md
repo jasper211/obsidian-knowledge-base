@@ -10,7 +10,7 @@ confidence_reason: 裁定汇总表格中每条裁定明确要求Mark裁定是否
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 熔断补建流程
 status: 生效
 extracted_at: 2026-07-23T01:56:21
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T01:56:21
 - [[熔断节点]]
 - [[补建优先级]]
 - [[Mark裁定]]
+
+## 所属枢纽
+
+- [[熔断补建流程]]

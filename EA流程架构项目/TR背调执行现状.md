@@ -10,7 +10,7 @@ confidence_reason: 描述当前不定状态，非永久规则。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: TR背调触发条件
 status: 生效
 extracted_at: 2026-07-24T03:28:46
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T03:28:46
 
 - [[HR-R005]]
 - [[HR-G008]]
+
+## 所属枢纽
+
+- [[TR背调触发条件]]

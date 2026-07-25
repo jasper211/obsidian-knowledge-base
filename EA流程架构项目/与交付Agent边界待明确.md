@@ -10,7 +10,7 @@ confidence_reason: 原文标记为“待确认事项”，具有不确定性
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: Agent间衔接待澄清
 status: 生效
 extracted_at: 2026-07-24T04:51:52
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T04:51:52
 ## 关联概念
 
 - [[联合运营专项Agent]]
+
+## 所属枢纽
+
+- [[Agent间衔接待澄清]]

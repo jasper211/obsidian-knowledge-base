@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 岗位配置与人员赋能
 status: 生效
 extracted_at: 2026-07-21T22:36:49
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:36:49
 
 将战略目标、流程关键绩效指标（如周期、质量）和岗位核心职责，转化为可量化、可衡量的绩效考核指标库。
 
+## 所属枢纽
+
+- [[岗位配置与人员赋能]]

@@ -10,7 +10,7 @@ confidence_reason: 原文多处明确说明岗位数据全部为空
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: TREASURY域信息缺失
 status: 生效
 extracted_at: 2026-07-22T04:52:25
 ---
@@ -22,3 +22,7 @@ TREASURY域所有节点（VN-BAM-02、VN-CFM-02及两个熔断节点）的生产
 ## 关联概念
 
 - [[规则空白地图]]
+
+## 所属枢纽
+
+- [[TREASURY域信息缺失]]

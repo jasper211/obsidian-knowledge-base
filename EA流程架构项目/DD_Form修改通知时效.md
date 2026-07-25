@@ -10,7 +10,7 @@ confidence_reason: 达标标准待确认，尚未完全落地验证
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: DD Form变更通知
 status: 生效
 extracted_at: 2026-07-23T10:38:23
 ---
@@ -23,3 +23,7 @@ Teresa在下周一（2026-06-09）会议上向全体RO通报DD Form新增字段�
 
 - [[DD Form修改通知RO]]
 - [[DD Form新增保司合约字段]]
+
+## 所属枢纽
+
+- [[DD Form变更通知]]

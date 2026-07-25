@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 项目成果认证与移交
 status: 生效
 extracted_at: 2026-07-21T22:38:49
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:38:49
 
 按照既定结构（如管理、技术、知识），系统化归集、编号、审核并封装从项目启动到验收的所有过程文档、最终交付物和经验教训，形成标准化资产包进行正式移交。
 
+## 所属枢纽
+
+- [[项目成果认证与移交]]

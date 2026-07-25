@@ -10,7 +10,7 @@ confidence_reason: 文档明确列出各节点KPI锚定
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域节点元数据
 status: 生效
 extracted_at: 2026-07-22T04:48:01
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:48:01
 
 HR域各节点均有对应的KPI锚定，例如绩效方案节点KPI包括绩效方案覆盖率、及时率、结果应用率；人效分析报告节点KPI包括分析覆盖率、结论采纳率、报告产出时效等。
 
+## 所属枢纽
+
+- [[HR域节点元数据]]

@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: TR招聘入职流程
 extracted_at: 2026-07-16T20:02:45
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T20:02:45
 
 TR转正后如需转换挂靠牌照公司（如转到九福），HRBP负责办理合同转换手续。
 
+## 所属枢纽
+
+- [[TR招聘入职流程]]

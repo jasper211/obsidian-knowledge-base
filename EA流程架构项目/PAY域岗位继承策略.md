@@ -10,7 +10,7 @@ confidence_reason: 原文声明’继承旧基线，待源头校准‘，属于�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 佣金录入岗职责
 status: 生效
 extracted_at: 2026-07-24T10:39:54
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T10:39:54
 ## 关联概念
 
 - [[岗位校准]]
+
+## 所属枢纽
+
+- [[佣金录入岗职责]]

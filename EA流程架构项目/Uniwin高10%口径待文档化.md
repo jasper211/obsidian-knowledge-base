@@ -10,7 +10,7 @@ confidence_reason: 原文列为待确认的B类规则线索。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: Uniwin佣金优势口径
 status: 生效
 extracted_at: 2026-07-23T11:27:42
 ---
@@ -22,3 +22,7 @@ Uniwin总佣高10%的计算比较口径当前依赖/测算侧经验，无正式�
 ## 关联概念
 
 - [[Uniwin佣金比较基准]]
+
+## 所属枢纽
+
+- [[Uniwin佣金优势口径]]

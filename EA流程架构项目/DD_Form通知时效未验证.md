@@ -10,7 +10,7 @@ confidence_reason: 原文B类规则描述明确声明‘尚未落地验证’。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: DD回收与重开
 status: 生效
 extracted_at: 2026-07-23T11:29:46
 ---
@@ -24,3 +24,7 @@ DD Form修改后通知RO的时效和回执确认流程尚未落地验证，需�
 - [[DD Form]]
 - [[RO]]
 - [[通知时效]]
+
+## 所属枢纽
+
+- [[DD回收与重开]]

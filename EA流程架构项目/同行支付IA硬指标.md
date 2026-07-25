@@ -10,7 +10,7 @@ confidence_reason: 原文明确列为IA硬指标
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: IA合规硬指标
 status: 生效
 extracted_at: 2026-07-24T10:38:16
 ---
@@ -23,3 +23,7 @@ IA合规要求同行支付占比不得超过88%。
 
 - [[VN-PAY-04]]
 - [[IA合规]]
+
+## 所属枢纽
+
+- [[IA合规硬指标]]

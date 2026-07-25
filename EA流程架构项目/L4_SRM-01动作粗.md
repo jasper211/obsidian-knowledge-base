@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述颗粒度粗且缺少展开。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 数据颗粒度问题
 status: 生效
 extracted_at: 2026-07-24T04:45:02
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T04:45:02
 
 - [[Agent类型执行型]]
 - [[验证标准缺失]]
+
+## 所属枢纽
+
+- [[数据颗粒度问题]]

@@ -10,7 +10,7 @@ confidence_reason: 原文直接描述‘收到即算（无需阅读），实际�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 核销形式化
 status: 生效
 extracted_at: 2026-07-23T11:26:05
 ---
@@ -24,3 +24,7 @@ KA资讯发放核销记录（VN-KAEM-02）的核销方式为‘收到即算’�
 - [[资讯发放率]]
 - [[资讯阅读率]]
 - [[RW系统核销]]
+
+## 所属枢纽
+
+- [[核销形式化]]

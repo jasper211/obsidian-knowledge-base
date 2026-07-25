@@ -10,7 +10,7 @@ confidence_reason: 原文明确是待确认，不确定性高
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: HR Agent架构设计
 status: 生效
 extracted_at: 2026-07-24T10:09:36
 ---
@@ -23,3 +23,7 @@ HRA和HRM未来是否拆分为两个独立Agent，需等待运行后观察工作
 
 - [[HR长尾合并暂不拆分]]
 - [[Agent拆分原则]]
+
+## 所属枢纽
+
+- [[HR Agent架构设计]]

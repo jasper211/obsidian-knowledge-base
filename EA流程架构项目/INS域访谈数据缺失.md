@@ -10,7 +10,7 @@ confidence_reason: 原文多处明确标注'暂无任何访谈数据'及字段�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: INS域节点状态
 status: 生效
 extracted_at: 2026-07-23T11:20:10
 ---
@@ -24,3 +24,7 @@ INS域目前暂无任何访谈覆盖，生产部门/岗位、消费主体/对象
 - [[INS域]]
 - [[访谈覆盖]]
 - [[信息缺口]]
+
+## 所属枢纽
+
+- [[INS域节点状态]]

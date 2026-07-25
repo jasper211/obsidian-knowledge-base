@@ -10,7 +10,7 @@ confidence_reason: 原文直接列出起点A包含具体人员姓名
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 人员归属表
 status: 生效
 extracted_at: 2026-07-23T10:50:48
 ---
@@ -23,3 +23,7 @@ VN-HR-12人员归属表的起点A包含'1.Fiona提供员工名单'，表明该�
 
 - [[人员归属表]]
 - [[Fiona]]
+
+## 所属枢纽
+
+- [[人员归属表]]

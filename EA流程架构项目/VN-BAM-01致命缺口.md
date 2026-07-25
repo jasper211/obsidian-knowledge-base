@@ -10,7 +10,7 @@ confidence_reason: 原文以列表形式清晰列出8条致命缺口
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: VN-BAM-01节点
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -24,3 +24,7 @@ KPI未挂数，7项子产物无落地验证，归档管线缺失，U盾管理安
 - [[VN-BAM-01]]
 - [[致命缺口]]
 - [[s3四属性矩阵]]
+
+## 所属枢纽
+
+- [[VN-BAM-01节点]]

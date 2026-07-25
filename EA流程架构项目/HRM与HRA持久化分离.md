@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: HR Agent架构设计
 extracted_at: 2026-07-16T16:39:42
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T16:39:42
 
 HRM事务类按员工记录历史，HRA分析类按周期记录盘点结果，两者性质不同，不建议合并为一张表。
 
+## 所属枢纽
+
+- [[HR Agent架构设计]]

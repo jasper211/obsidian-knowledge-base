@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明‘纯手工链路’并描述了具体环�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 权益手工发放
 status: 生效
 extracted_at: 2026-07-23T11:26:11
 ---
@@ -24,3 +24,7 @@ KA权益发放因IT系统bug导致纯手工操作：MoMo与马原媛口头沟通
 - [[RW权益系统]]
 - [[手工台账]]
 - [[系统bug]]
+
+## 所属枢纽
+
+- [[权益手工发放]]

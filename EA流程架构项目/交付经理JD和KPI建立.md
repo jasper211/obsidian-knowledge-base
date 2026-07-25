@@ -10,7 +10,7 @@ confidence_reason: 决策内容、试点计划和责任人明确
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 交付经理JD与KPI
 status: 生效
 extracted_at: 2026-07-23T02:14:23
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T02:14:23
 
 - [[交付经理全周期管理]]
 - [[KA与同行交付经理区分]]
+
+## 所属枢纽
+
+- [[交付经理JD与KPI]]

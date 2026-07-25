@@ -10,7 +10,7 @@ confidence_reason: 原文防错指南表格明确此为常见错误
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: Uniwin佣金优势口径
 status: 生效
 extracted_at: 2026-07-24T10:33:21
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T10:33:21
 ## 关联概念
 
 - [[Uniwin佣金优势话术]]
+
+## 所属枢纽
+
+- [[Uniwin佣金优势口径]]

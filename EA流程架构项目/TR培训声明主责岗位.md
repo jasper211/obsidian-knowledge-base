@@ -10,7 +10,7 @@ confidence_reason: 原文表格明确陈述主责岗位
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 人员归属表
 status: 生效
 extracted_at: 2026-07-24T03:55:41
 ---
@@ -24,3 +24,7 @@ VN-HRD-02节点的主责岗位为HRBP或业务部门负责人。
 - [[VN-HRD-02]]
 - [[HRBP]]
 - [[业务部门负责人]]
+
+## 所属枢纽
+
+- [[人员归属表]]

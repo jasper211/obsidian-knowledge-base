@@ -10,7 +10,7 @@ confidence_reason: 10%优势明确但比较口径待确认，且注明不可直�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: Uniwin佣金优势口径
 status: 生效
 extracted_at: 2026-07-24T10:31:43
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T10:31:43
 - [[九富]]
 - [[Uniwin]]
 - [[Uniwin话术注意事项]]
+
+## 所属枢纽
+
+- [[Uniwin佣金优势口径]]

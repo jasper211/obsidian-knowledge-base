@@ -10,7 +10,7 @@ confidence_reason: 原文在规则空白TR-P1-001中明确说明全部NOT_ASSESS
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: 节点属性评估缺失状态
 status: 生效
 extracted_at: 2026-07-22T02:55:14
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T02:55:14
 
 VN-BAM-02节点的s3四属性矩阵（业务定位/价值属性/物理对应/数据验证）全部NOT_ASSESSED，节点状态为“候选·待标准化”，需先完成基本属性评估。
 
+## 所属枢纽
+
+- [[节点属性评估缺失状态]]

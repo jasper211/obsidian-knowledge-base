@@ -10,7 +10,7 @@ confidence_reason: 原文直接说明触发条件和一次性性质。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA准入流程设计
 status: 生效
 extracted_at: 2026-07-24T05:04:40
 ---
@@ -24,3 +24,7 @@ KA准入流程由事件触发，当新的KA机构客户线索进入时启动，�
 - [[事件驱动]]
 - [[KA线索]]
 - [[准入流程启动]]
+
+## 所属枢纽
+
+- [[KA准入流程设计]]

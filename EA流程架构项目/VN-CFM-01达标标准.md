@@ -10,7 +10,7 @@ confidence_reason: 原文明确列出具体的可验证达标条件
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: VN-CFM-01节点
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -24,3 +24,7 @@ Gate①PASS：fact_cashflow表建成，KPI实现系统化挂数和实时刷新�
 - [[VN-CFM-01]]
 - [[达标标准]]
 - [[fact_cashflow]]
+
+## 所属枢纽
+
+- [[VN-CFM-01节点]]

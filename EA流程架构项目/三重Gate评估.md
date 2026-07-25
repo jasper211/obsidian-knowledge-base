@@ -10,7 +10,7 @@ confidence_reason: 文档中每个节点均列出此评估结构，定义清晰
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: Gate规则与验证
 status: 生效
 extracted_at: 2026-07-23T11:09:46
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T11:09:46
 
 - [[四属性Gate矩阵]]
 - [[综合判定]]
+
+## 所属枢纽
+
+- [[Gate规则与验证]]

@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述为流程空白
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: 对账流程文档缺失
 status: 生效
 extracted_at: 2026-07-22T04:58:44
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:58:44
 
 INVOICE对账单环节缺少财务新人上手SOP，对账单差异拆解责任边界（财务与中台RACI）未明确。
 
+## 所属枢纽
+
+- [[对账流程文档缺失]]

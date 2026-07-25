@@ -10,7 +10,7 @@ confidence_reason: Step 2开头明确描述，陈述确定。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: INS域覆盖范围
 status: 生效
 extracted_at: 2026-07-23T11:21:02
 ---
@@ -24,3 +24,7 @@ INS域覆盖保司合作全生命周期：接洽评估→授权签约→资源�
 - [[INS域]]
 - [[保司合作]]
 - [[生命周期]]
+
+## 所属枢纽
+
+- [[INS域覆盖范围]]

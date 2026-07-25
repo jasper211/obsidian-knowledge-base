@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: COM-11生成器评估器分离
 extracted_at: 2026-07-16T16:28:17
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T16:28:17
 
 按生成器/评估器分离原则，COM-11的《差异对照表》生成Skill与金额平衡校验逻辑需设计为两个独立组件，避免违反§2.2原则。
 
+## 所属枢纽
+
+- [[COM-11生成器评估器分离]]

@@ -10,7 +10,7 @@ confidence_reason: Step 5指出物理产物定义模糊
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: BAM节点边界模糊
 status: 生效
 extracted_at: 2026-07-23T10:56:42
 ---
@@ -24,3 +24,7 @@ VN-BAM-02物理对应列指向“开户资料清单”，与VN-BAM-01共用但�
 - [[VN-BAM-02]]
 - [[VN-BAM-01]]
 - [[物理产物边界]]
+
+## 所属枢纽
+
+- [[BAM节点边界模糊]]

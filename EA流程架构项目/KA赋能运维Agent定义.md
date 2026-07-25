@@ -10,7 +10,7 @@ confidence_reason: 原文明确列出身份、族别、对应L3及L4数量和Age
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA准入流程设计
 status: 生效
 extracted_at: 2026-07-24T05:04:33
 ---
@@ -24,3 +24,7 @@ KA准入Agent是C族(JF-03机构业务族，KA管理岗)，对应L3-KAEC、L3-KA
 - [[专家型Agent]]
 - [[L3流程]]
 - [[KA管理岗]]
+
+## 所属枢纽
+
+- [[KA准入流程设计]]

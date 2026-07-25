@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述目标与要避免的风险。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: SOP外发控制
 status: 生效
 extracted_at: 2026-07-24T03:30:20
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:30:20
 - [[保司价值证明]]
 - [[内部候选叙事]]
 - [[外发版冻结]]
+
+## 所属枢纽
+
+- [[SOP外发控制]]

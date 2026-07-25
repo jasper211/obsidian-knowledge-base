@@ -10,7 +10,7 @@ confidence_reason: 访谈明确指出凭证缺失风险。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: TR入职培训
 status: 生效
 extracted_at: 2026-07-23T11:16:42
 ---
@@ -24,3 +24,7 @@ TR培训完成声明仅有培训签到表，缺乏可证明培训效果的正式
 - [[培训凭证]]
 - [[TR合规]]
 - [[HR-R005]]
+
+## 所属枢纽
+
+- [[TR入职培训]]

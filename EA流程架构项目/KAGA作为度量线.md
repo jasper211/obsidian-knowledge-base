@@ -10,7 +10,7 @@ confidence_reason: 原文明确将KAGA定义为持续的反馈输入和度量线
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA赋能运维机制
 status: 生效
 extracted_at: 2026-07-24T04:53:59
 ---
@@ -23,3 +23,7 @@ KAGA（KA业绩跟踪与运维）不是赋能动作本身，而是赋能效果�
 
 - [[L4-KAGA-01]]
 - [[赋能效果验证]]
+
+## 所属枢纽
+
+- [[KA赋能运维机制]]

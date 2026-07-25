@@ -10,7 +10,7 @@ confidence_reason: 节点信息表明确给出起点A与终点Z
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VN节点状态
 status: 生效
 extracted_at: 2026-07-23T11:00:33
 ---
@@ -23,3 +23,7 @@ VN-IBRD-01（合作伙伴需求分析与诊断E2E）起点为业务端推送的�
 
 - [[VN-IBRD-01]]
 - [[合作伙伴尽调记录]]
+
+## 所属枢纽
+
+- [[VN节点状态]]

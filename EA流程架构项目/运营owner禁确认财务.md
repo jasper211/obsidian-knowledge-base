@@ -10,7 +10,7 @@ confidence_reason: 原文角色表格明确“不可自行确认价格、成本�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 财务确认规范
 status: 生效
 extracted_at: 2026-07-24T03:41:04
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:41:04
 - [[角色边界]]
 - [[运营owner]]
 - [[财务确认]]
+
+## 所属枢纽
+
+- [[财务确认规范]]

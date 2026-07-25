@@ -10,7 +10,7 @@ confidence_reason: 原文明确列出三要素，并用示例解释
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 决策信号体系
 status: 生效
 extracted_at: 2026-07-24T03:05:45
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:05:45
 - [[信号类型定义]]
 - [[DECISION]]
 - [[根因分析要求]]
+
+## 所属枢纽
+
+- [[决策信号体系]]

@@ -10,7 +10,7 @@ confidence_reason: 文档明确描述各节点责任模式及Owner状态
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域交付物清单
 status: 生效
 extracted_at: 2026-07-22T04:47:25
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:47:25
 
 HR域各交付物的责任模式多为多方协作，例如绩效方案需Mark确定目标、HR拆解KPI、部门执行、员工确认，但协作流程无书面SOP。所有节点的Owner均标记为待源头校准。
 
+## 所属枢纽
+
+- [[HR域交付物清单]]

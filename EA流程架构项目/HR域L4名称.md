@@ -10,7 +10,7 @@ confidence_reason: 文档明确列出各节点L4名称
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域节点元数据
 status: 生效
 extracted_at: 2026-07-22T04:48:28
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:48:28
 
 HR域各节点对应的L4名称包括：绩效管理机制(组织KPI的下达与测评)、人效分析与对标、定岗定编与岗位设计、入职配置与合同签署、绩效考核与结果应用、目标体系设计、人才招聘交付、人力资源体系建设。其中人才招聘交付出现多次，部分为新建。
 
+## 所属枢纽
+
+- [[HR域节点元数据]]

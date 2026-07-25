@@ -10,7 +10,7 @@ confidence_reason: SOP目标章节明确陈述了流程的转化目标和边界�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: SOP管理
 status: 生效
 extracted_at: 2026-07-24T04:13:06
 ---
@@ -23,3 +23,7 @@ L3-SOB流程的目标是把机构侧服务需求、供应商资源或内部服�
 
 - [[服务项可调用标准]]
 - [[服务项寻源与上架]]
+
+## 所属枢纽
+
+- [[SOP管理]]

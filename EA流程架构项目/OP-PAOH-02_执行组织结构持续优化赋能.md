@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 项目成果认证与移交
 status: 生效
 extracted_at: 2026-07-21T22:38:34
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:38:34
 
 为EG的管理者、HR及核心用户提供专题培训与工作坊，内容涵盖新流程的运维要点、问题诊断方法、优化建议提交流程等，确保其掌握“自我进化”的能力。
 
+## 所属枢纽
+
+- [[项目成果认证与移交]]

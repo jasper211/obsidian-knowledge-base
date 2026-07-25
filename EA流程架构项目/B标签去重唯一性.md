@@ -10,7 +10,7 @@ confidence_reason: 文档明确列出唯一性检查结果均为唯一
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: B标签去重与差异化
 status: 生效
 extracted_at: 2026-07-22T04:50:49
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:50:49
 
 PARTNER域5个通过节点的18个交付物，经B标签去重自查，所有交付物的B-责任模式、B-执行断点、B-单点风险均语义唯一，无重复项。
 
+## 所属枢纽
+
+- [[B标签去重与差异化]]

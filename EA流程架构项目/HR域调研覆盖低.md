@@ -10,7 +10,7 @@ confidence_reason: 文档明确声明11/11节点无访谈数据
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域节点状态
 status: 生效
 extracted_at: 2026-07-22T04:46:49
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T04:46:49
 
 HR域所有11个节点的信号4（调研覆盖）均标记为暂无调研覆盖，全部待访谈。当前地图仅基于数据表分析，无任何访谈数据支撑。
 
+## 所属枢纽
+
+- [[HR域节点状态]]

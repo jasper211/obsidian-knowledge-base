@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 实施框架设计
 status: 生效
 extracted_at: 2026-07-21T22:33:53
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:33:53
 
 整合流程图与控制点，形成实施阶段总览图，直观展示阶段、任务、控制点之间的逻辑与时间关系。
 
+## 所属枢纽
+
+- [[实施框架设计]]

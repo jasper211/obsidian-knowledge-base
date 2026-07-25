@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述触发条件，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 人力资源节点
 status: 生效
 extracted_at: 2026-07-24T03:28:40
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T03:28:40
 
 - [[HR-R005]]
 - [[VN-HRD-01]]
+
+## 所属枢纽
+
+- [[人力资源节点]]

@@ -10,7 +10,7 @@ confidence_reason: 原文明确'当前无正式上架确认动作'，并指出IT
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: KA准入流程设计
 status: 生效
 extracted_at: 2026-07-23T02:12:50
 ---
@@ -23,3 +23,7 @@ KA域当前无正式的上架确认动作，系统配置后置，且IT系统bug�
 
 - [[KA上架流程]]
 - [[IT系统录单问题]]
+
+## 所属枢纽
+
+- [[KA准入流程设计]]

@@ -10,7 +10,7 @@ confidence_reason: 原文直接说明当前状态和原因
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: FA域数据与规则缺口
 status: 生效
 extracted_at: 2026-07-23T02:11:49
 ---
@@ -23,3 +23,7 @@ FA域·规则清单v1.0截至2026-07-03条目数为0，因提取的5条A类规�
 
 - [[新节点裁定回执规则]]
 - [[T1节点索引]]
+
+## 所属枢纽
+
+- [[FA域数据与规则缺口]]

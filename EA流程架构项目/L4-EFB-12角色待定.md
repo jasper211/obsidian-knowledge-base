@@ -10,7 +10,7 @@ confidence_reason: 原文明确标记为待确认事项，语气为‘需要业�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 任务管控Agent设计
 status: 生效
 extracted_at: 2026-07-24T04:57:08
 ---
@@ -23,3 +23,7 @@ L4-EFB-12“任务执行AI自动化”暗示该Agent不仅仅是监督者，也�
 
 - [[L4-EFB-12]]
 - [[任务管控Agent身份]]
+
+## 所属枢纽
+
+- [[任务管控Agent设计]]

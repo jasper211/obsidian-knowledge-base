@@ -10,7 +10,7 @@ confidence_reason: 最终交付物定义，作为项目目标之一，内容确�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 最终成果定义
 status: 生效
 extracted_at: 2026-07-24T03:12:40
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:12:40
 - [[L1-L4流程架构]]
 - [[价值活动]]
 - [[岗位协同]]
+
+## 所属枢纽
+
+- [[最终成果定义]]

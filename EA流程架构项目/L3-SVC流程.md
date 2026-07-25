@@ -10,7 +10,7 @@ confidence_reason: 文档明确声明主流程为L3-SVC。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: L3合同流程分流
 status: 生效
 extracted_at: 2026-07-24T03:58:59
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T03:58:59
 ## 关联概念
 
 - [[L3-SPO流程]]
+
+## 所属枢纽
+
+- [[L3合同流程分流]]

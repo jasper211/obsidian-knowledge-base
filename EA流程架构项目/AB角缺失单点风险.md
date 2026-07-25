@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: AB角风险与招聘
 extracted_at: 2026-07-16T19:26:56
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T19:26:56
 
 当前所有前置检查和结算工作由A角（蔡依娜）独立完成，无B角交叉确认，存在单点风险。待B角到位后，前置检查改为双人确认制。
 
+## 所属枢纽
+
+- [[AB角风险与招聘]]

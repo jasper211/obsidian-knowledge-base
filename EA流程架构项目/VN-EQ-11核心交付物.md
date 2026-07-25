@@ -10,7 +10,7 @@ confidence_reason: 原文明确用“必须”“不视为完成”等肯定语�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: VN-EQ-11交付物
 status: 生效
 extracted_at: 2026-07-24T03:42:30
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:42:30
 - [[VN-EQ-11完成条件]]
 - [[最低凭证包要求]]
 - [[权益需求收集表]]
+
+## 所属枢纽
+
+- [[VN-EQ-11交付物]]

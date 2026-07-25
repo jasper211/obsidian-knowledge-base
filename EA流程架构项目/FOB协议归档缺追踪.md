@@ -10,7 +10,7 @@ confidence_reason: 原文在规则空白地图中直接陈述'无系统追踪'�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: FOB协议管理缺陷
 status: 生效
 extracted_at: 2026-07-24T05:21:25
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T05:21:25
 
 - [[FA-P0-001]]
 - [[协议签署校验缺失]]
+
+## 所属枢纽
+
+- [[FOB协议管理缺陷]]

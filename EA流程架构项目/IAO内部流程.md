@@ -10,7 +10,7 @@ confidence_reason: 原文直接列出流程顺序。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: IAO阶段管理
 status: 生效
 extracted_at: 2026-07-24T04:41:36
 ---
@@ -24,3 +24,7 @@ IAO阶段内部逻辑：先执行L4-IAO-05意向确认与可行性报告，然�
 - [[L4-IAO-05]]
 - [[L4-IAO-12]]
 - [[保司Pipeline]]
+
+## 所属枢纽
+
+- [[IAO阶段管理]]

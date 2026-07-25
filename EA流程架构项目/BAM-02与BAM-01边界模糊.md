@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述物理对应列共用且边界模糊
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: BAM节点边界模糊
 status: 生效
 extracted_at: 2026-07-22T04:52:16
 ---
@@ -22,3 +22,7 @@ VN-BAM-02（银行准入评估与支付工具管理记录）与VN-BAM-01（账�
 ## 关联概念
 
 - [[规则空白地图]]
+
+## 所属枢纽
+
+- [[BAM节点边界模糊]]

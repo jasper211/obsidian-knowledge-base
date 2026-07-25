@@ -10,7 +10,7 @@ confidence_reason: 权威数据，活动描述完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 实施框架设计
 status: 生效
 extracted_at: 2026-07-24T03:14:03
 ---
@@ -24,3 +24,7 @@ OP-IFTD-03属于L3-IFTD流程。在流程图中识别出决定流程质量或进
 - [[L3-IFTD]]
 - [[L4-IFTD-01]]
 - [[关键控制点]]
+
+## 所属枢纽
+
+- [[实施框架设计]]

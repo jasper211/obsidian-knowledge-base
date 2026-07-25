@@ -10,7 +10,7 @@ confidence_reason: 原文规则空白TR-P1-003明确陈述字段全空。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: 节点岗位缺失
 status: 生效
 extracted_at: 2026-07-22T02:55:14
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T02:55:14
 
 VN-CFM-02节点的生产部门、生产岗位、消费主体、消费对象四个字段全部为空，RACI矩阵和组织设计完全无基础，需从零建立岗位对应关系。
 
+## 所属枢纽
+
+- [[节点岗位缺失]]

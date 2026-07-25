@@ -10,7 +10,7 @@ confidence_reason: 原文标注为'待确认事项'，信息不完整。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 培训协议与FTR衔接
 status: 生效
 extracted_at: 2026-07-24T10:06:45
 ---
@@ -23,3 +23,7 @@ FTR-02产品与合规培训在主线流程中穿插执行，但具体插入在FO
 
 - [[FTR-02]]
 - [[FOB]]
+
+## 所属枢纽
+
+- [[培训协议与FTR衔接]]

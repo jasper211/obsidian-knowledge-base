@@ -10,7 +10,7 @@ confidence_reason: 文档明确描述“跨域职责边界不清——DB定义�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: 单点风险识别
 status: 生效
 extracted_at: 2026-07-22T02:57:32
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-22T02:57:32
 
 - [[单点风险]]
 - [[岗位空白]]
+
+## 所属枢纽
+
+- [[单点风险识别]]

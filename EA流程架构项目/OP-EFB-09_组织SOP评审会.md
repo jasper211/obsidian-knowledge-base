@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 跨部门协作制度化
 status: 生效
 extracted_at: 2026-07-21T22:36:24
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:36:24
 
 组织跨部门评审会，收集反馈，修改完善，并推动管理层进行最终签批，使SOP获得正式效力。
 
+## 所属枢纽
+
+- [[跨部门协作制度化]]

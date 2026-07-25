@@ -10,7 +10,7 @@ confidence_reason: 原文明确使用“须做”表示强制性规则。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: TR背调触发条件
 status: 生效
 extracted_at: 2026-07-24T04:14:05
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:14:05
 - [[HR-R005]]
 - [[背调触发条件]]
 - [[背调异常处理]]
+
+## 所属枢纽
+
+- [[TR背调触发条件]]

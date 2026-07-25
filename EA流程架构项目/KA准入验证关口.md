@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明两个gate及其硬性/最终验证的属�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA准入流程设计
 status: 生效
 extracted_at: 2026-07-24T05:04:58
 ---
@@ -24,3 +24,7 @@ KA准入有两个内置验证gate：KAET的资质合规核查是硬性门槛，�
 - [[资质合规核查]]
 - [[上架就绪确认]]
 - [[硬性门槛]]
+
+## 所属枢纽
+
+- [[KA准入流程设计]]

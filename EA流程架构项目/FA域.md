@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: FA域定义
 extracted_at: 2026-07-16T20:11:09
 ---
 
@@ -20,3 +20,7 @@ FA域（机构经营管理）是负责机构经营管理的业务域，包含季
 ## 关联概念
 
 - [[季度过程考核项采集]]
+
+## 所属枢纽
+
+- [[FA域定义]]

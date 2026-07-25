@@ -10,7 +10,7 @@ confidence_reason: 原文G062明确当前为⚠️待裁定，AB角机制待批�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: AB角风险与招聘
 status: 生效
 extracted_at: 2026-07-24T10:02:51
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T10:02:51
 ## 关联概念
 
 - [[新人上手3至6月]]
+
+## 所属枢纽
+
+- [[AB角风险与招聘]]

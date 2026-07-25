@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明INS域暂未覆盖访谈数据
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: INS域节点状态
 status: 生效
 extracted_at: 2026-07-22T03:00:02
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-22T03:00:02
 ## 关联概念
 
 - [[规则空白地图]]
+
+## 所属枢纽
+
+- [[INS域节点状态]]

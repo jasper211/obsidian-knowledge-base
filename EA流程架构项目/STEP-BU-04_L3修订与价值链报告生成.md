@@ -10,7 +10,7 @@ confidence_reason: 步骤完整，交付物及评审人明确。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: L3-L4流程架构步骤
 status: 生效
 extracted_at: 2026-07-24T03:11:46
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:11:46
 - [[L3修订]]
 - [[价值链分析报告]]
 - [[AI导出HTML]]
+
+## 所属枢纽
+
+- [[L3-L4流程架构步骤]]

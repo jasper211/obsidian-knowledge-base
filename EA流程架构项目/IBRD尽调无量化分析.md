@@ -10,7 +10,7 @@ confidence_reason: 原文为价值属性观察陈述，非硬性规定
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: IBRD尽调流程不足
 status: 生效
 extracted_at: 2026-07-23T11:00:39
 ---
@@ -23,3 +23,7 @@ VN-IBRD-01实际尽调聚焦于牌照状态、团队配置、业务模式、过�
 
 - [[VN-IBRD-01]]
 - [[价值属性]]
+
+## 所属枢纽
+
+- [[IBRD尽调流程不足]]

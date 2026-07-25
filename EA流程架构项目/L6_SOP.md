@@ -10,7 +10,7 @@ confidence_reason: 权威架构定义，无待定字段。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 流程分层定义
 status: 生效
 extracted_at: 2026-07-24T03:20:49
 ---
@@ -22,3 +22,7 @@ L6层为SOP，是由L5生成任务的具体操作步骤说明。该层级的编�
 ## 关联概念
 
 - [[L5关键经营活动]]
+
+## 所属枢纽
+
+- [[流程分层定义]]

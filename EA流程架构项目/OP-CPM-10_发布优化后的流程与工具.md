@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 执行反馈与SOP管理
 status: 生效
 extracted_at: 2026-07-21T22:38:19
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:38:19
 
 将已审批通过的新版流程文件，通过公司知识库、公告、培训等正式渠道发布，并确保所有相关岗位知晓、获取并开始使用新标准。
 
+## 所属枢纽
+
+- [[执行反馈与SOP管理]]

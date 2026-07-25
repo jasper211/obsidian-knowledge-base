@@ -10,7 +10,7 @@ confidence_reason: 原文明确给出Agent身份、类型及拆分原因
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: L4-SOB-03
 status: 生效
 extracted_at: 2026-07-24T04:38:14
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T04:38:14
 
 - [[权益长尾合并Agent]]
 - [[权益客户交付Agent]]
+
+## 所属枢纽
+
+- [[L4-SOB-03]]

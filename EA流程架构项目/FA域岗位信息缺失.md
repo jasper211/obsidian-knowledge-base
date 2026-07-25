@@ -10,7 +10,7 @@ confidence_reason: 原文边界声明与逐节点信号2均明确指出暂无数
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: FA域数据与规则缺口
 status: 生效
 extracted_at: 2026-07-23T11:23:54
 ---
@@ -23,3 +23,7 @@ FA域全子域生产部门、生产岗位、消费主体、消费对象四个字
 
 - [[FA域定义]]
 - [[B类规则线索空白]]
+
+## 所属枢纽
+
+- [[FA域数据与规则缺口]]

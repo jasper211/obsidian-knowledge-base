@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述为当前决策及原因。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: D/E族Agent拆分考量
 status: 生效
 extracted_at: 2026-07-24T10:05:52
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T10:05:52
 ## 关联概念
 
 - [[数据颗粒度]]
+
+## 所属枢纽
+
+- [[D/E族Agent拆分考量]]

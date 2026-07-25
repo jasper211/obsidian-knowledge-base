@@ -10,7 +10,7 @@ confidence_reason: 原文表格明确陈述触发条件
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 人力资源节点
 status: 生效
 extracted_at: 2026-07-24T03:55:34
 ---
@@ -24,3 +24,7 @@ TR完成入职及业务培训体系后，需产出培训完成凭证，此即触
 - [[VN-HRD-02]]
 - [[TR培训]]
 - [[培训完成凭证]]
+
+## 所属枢纽
+
+- [[人力资源节点]]

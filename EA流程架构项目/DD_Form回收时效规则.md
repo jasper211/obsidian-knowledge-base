@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: DD回收与重开
 extracted_at: 2026-07-16T19:42:39
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T19:42:39
 
 渠道管理岗使用最新版DD Form（含“持有其他保司合约”字段）发出，记录发出时间，告知渠道3-5个工作日内回传。超期未响应触发催办，合理延期可延至最多10个工作日。超一整个季度未响应则标记渠道为“已关闭”，不再保留在待签约列表中。
 
+## 所属枢纽
+
+- [[DD回收与重开]]

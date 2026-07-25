@@ -10,7 +10,7 @@ confidence_reason: 原文表格中明确列出每个Gate的失败原因
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: VN-BAM-01节点
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -24,3 +24,7 @@ Gate①挂数FAIL：未挂KPI监控数据；Gate②落地FAIL：7项子产物缺
 - [[VN-BAM-01]]
 - [[KPI挂数]]
 - [[归档管线]]
+
+## 所属枢纽
+
+- [[VN-BAM-01节点]]

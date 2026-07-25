@@ -10,7 +10,7 @@ confidence_reason: 原文Step2和Step3明确给出了各节点的L3现状和Gate
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VN节点状态
 status: 生效
 extracted_at: 2026-07-23T11:29:34
 ---
@@ -25,3 +25,7 @@ VN-RSJD-01,02,03节点对应的经代机构销售业务执行E2E均为新建流�
 - [[VN-RSJD-02]]
 - [[VN-RSJD-03]]
 - [[熔断]]
+
+## 所属枢纽
+
+- [[VN节点状态]]

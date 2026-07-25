@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: TR招聘入职流程
 status: 生效
 extracted_at: 2026-07-23T10:44:14
 ---
@@ -23,3 +23,7 @@ TR转正后如需转换挂靠牌照公司（如转到九福），由HRBP负责�
 
 - [[HR-R005]]
 - [[TR入职合同主体]]
+
+## 所属枢纽
+
+- [[TR招聘入职流程]]

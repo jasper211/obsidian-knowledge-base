@@ -10,7 +10,7 @@ confidence_reason: 文档交付物清单与节点概要部分明确描述该节�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: FOB协议管理缺陷
 status: 生效
 extracted_at: 2026-07-22T02:58:36
 ---
@@ -25,3 +25,7 @@ VN-FOB-01是理财师入职与上岗子域（FOB）下的价值节点，对应L3
 
 ---
 ⚠️ **待复核**：源文档「03_发布成果-交付物/权威数据/D1_价值节点清单_V3.44.xlsx」已被删除（标记时间：2026-07-22T03:06:15）
+
+## 所属枢纽
+
+- [[FOB协议管理缺陷]]

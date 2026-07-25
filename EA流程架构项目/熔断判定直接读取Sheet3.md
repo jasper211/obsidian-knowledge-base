@@ -10,7 +10,7 @@ confidence_reason: 自检声明明确陈述该规则。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 熔断判定与处理
 status: 生效
 extracted_at: 2026-07-23T11:22:23
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T11:22:23
 
 - [[熔断状态]]
 - [[Sheet3]]
+
+## 所属枢纽
+
+- [[熔断判定与处理]]

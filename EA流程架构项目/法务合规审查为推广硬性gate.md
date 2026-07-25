@@ -10,7 +10,7 @@ confidence_reason: 原文强调“必须通过才能继续推进”。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 法务合规Gate
 status: 生效
 extracted_at: 2026-07-24T05:02:51
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T05:02:51
 
 - [[权益上市推广分阶段放量链条]]
 - [[法务与合规审查]]
+
+## 所属枢纽
+
+- [[法务合规Gate]]

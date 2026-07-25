@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明混合触发和各自的触发条件
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA赋能运维机制
 status: 生效
 extracted_at: 2026-07-24T04:53:46
 ---
@@ -23,3 +23,7 @@ KA赋能运维Agent采用混合触发：KAGA的L4-KAGA-01（定期业绩数据�
 
 - [[L4-KAGA-01]]
 - [[KA准入Agent]]
+
+## 所属枢纽
+
+- [[KA赋能运维机制]]

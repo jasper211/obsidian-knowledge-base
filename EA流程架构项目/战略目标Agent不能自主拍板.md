@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: L3-SFC
 extracted_at: 2026-07-16T16:38:36
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T16:38:36
 
 ---
 ⚠️ **待复核**：源文档「02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理_全量30个_v0.1.md」已被删除（标记时间：2026-07-23T02:17:34）
+
+## 所属枢纽
+
+- [[L3-SFC]]

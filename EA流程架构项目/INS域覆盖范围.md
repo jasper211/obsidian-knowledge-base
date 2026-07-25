@@ -1,25 +1,23 @@
 ---
-type: concept_atom
-concept_type: 定义
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: INS域覆盖范围
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/INS域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_定稿
-domain: INS
-confidence: HIGH
-confidence_reason: 原文明确列出生命周期阶段和10个节点
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 信号基线
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-23T11:11:23
+atom_count: 2
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 两者均描述INS域覆盖的保司合作全生命周期流程
 ---
 
 # INS域覆盖范围
 
-INS域（保司合作板块）覆盖保司合作全生命周期：接洽评估→授权签约→资源整合→运营赋能→产品运营→市场反馈→续约决策。共10个节点，编码前缀VN-INS。
+非正式主题枢纽，2个原子经LLM判断内容连贯后自动生成。
 
-## 关联概念
+## 关联原子
 
-- [[VN-INS节点]]
-- [[保司合作生命周期]]
+- [[INS域覆盖全生命周期]]
+- [[INS域覆盖范围]]
+
+## 所属枢纽
+
+- [[INS域覆盖范围]]

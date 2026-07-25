@@ -10,7 +10,7 @@ confidence_reason: 原文将试运行定义为gate，并说明通过后才能全
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 分阶段放量验证
 status: 生效
 extracted_at: 2026-07-24T04:26:31
 ---
@@ -24,3 +24,7 @@ L4-IPI-04试运行与小范围测试是内置验证gate，测试通过才能进�
 - [[ONB主链顺序]]
 - [[验证框架可复用]]
 - [[试运行标准待量化]]
+
+## 所属枢纽
+
+- [[分阶段放量验证]]

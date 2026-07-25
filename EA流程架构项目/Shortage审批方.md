@@ -10,7 +10,7 @@ confidence_reason: 职责划分章节明确列出，无歧义
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 续保Shortage规则
 status: 生效
 extracted_at: 2026-07-24T03:46:15
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T03:46:15
 ## 关联概念
 
 - [[续保超限Shortage上报]]
+
+## 所属枢纽
+
+- [[续保Shortage规则]]

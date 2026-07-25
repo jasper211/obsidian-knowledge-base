@@ -10,7 +10,7 @@ confidence_reason: 原文用“必须”“单独列出”“不得”等明确�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 佣金Hold处理规则
 status: 生效
 extracted_at: 2026-07-24T10:01:58
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T10:01:58
 ## 关联概念
 
 - [[差异三类归因]]
+
+## 所属枢纽
+
+- [[佣金Hold处理规则]]

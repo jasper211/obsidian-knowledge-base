@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明IAO部分是持续性触发。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: IAO阶段管理
 status: 生效
 extracted_at: 2026-07-24T04:41:21
 ---
@@ -23,3 +23,7 @@ IAO阶段的触发方式是持续性的，因为L4-IAO-12保司Pipeline动态管
 
 - [[保司Pipeline动态管理]]
 - [[Agent触发方式]]
+
+## 所属枢纽
+
+- [[IAO阶段管理]]

@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述了Agent的身份、职责和定位，无�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 联合运营Agent体系
 status: 生效
 extracted_at: 2026-07-24T04:39:38
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T04:39:38
 - [[C族]]
 - [[JF-03]]
 - [[合规调查]]
+
+## 所属枢纽
+
+- [[联合运营Agent体系]]

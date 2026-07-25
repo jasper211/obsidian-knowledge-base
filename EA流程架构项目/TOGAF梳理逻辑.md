@@ -9,8 +9,8 @@ confidence: HIGH
 confidence_reason: 原文明确描述方法论逻辑
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 待聚类
-entity_ref: （无）
+entity_type: 非正式主题
+entity_ref: TOGAF流程分层
 status: 生效
 extracted_at: 2026-07-24T09:42:37
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T09:42:37
 - [[L3流程]]
 - [[价值流]]
 - [[业务能力]]
+
+## 所属枢纽
+
+- [[TOGAF流程分层]]

@@ -10,7 +10,7 @@ confidence_reason: 原文直接说明公式尚未由测算侧书面化给结算�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 激励方案与执行细节
 status: 生效
 extracted_at: 2026-07-23T02:08:24
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T02:08:24
 - [[Total口径]]
 - [[测算侧]]
 - [[结算侧]]
+
+## 所属枢纽
+
+- [[激励方案与执行细节]]

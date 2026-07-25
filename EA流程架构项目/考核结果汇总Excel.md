@@ -10,7 +10,7 @@ confidence_reason: 规则来源HR-R004，已确认，明确陈述
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 绩效流程
 status: 生效
 extracted_at: 2026-07-24T04:06:56
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T04:06:56
 
 - [[历史绩效汇总表]]
 - [[HR-R004]]
+
+## 所属枢纽
+
+- [[绩效流程]]

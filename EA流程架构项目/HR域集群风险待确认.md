@@ -10,7 +10,7 @@ confidence_reason: 文档仅提及集群风险待确认，无具体内容
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域节点状态
 status: 生效
 extracted_at: 2026-07-22T04:47:16
 ---
@@ -22,3 +22,7 @@ HR域集群风险标记为待访谈确认，当前无任何集群风险已明确
 ## 关联概念
 
 - [[集群风险]]
+
+## 所属枢纽
+
+- [[HR域节点状态]]

@@ -10,7 +10,7 @@ confidence_reason: 原文以已确认规则HR-R005明确陈述，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: TR招聘入职流程
 status: 生效
 extracted_at: 2026-07-24T04:13:54
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:13:54
 - [[HR-R005]]
 - [[编制范围]]
 - [[招聘需求审批]]
+
+## 所属枢纽
+
+- [[TR招聘入职流程]]

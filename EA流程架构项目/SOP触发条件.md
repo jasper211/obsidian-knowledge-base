@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: SOP触发与退出规则
 extracted_at: 2026-07-16T19:35:51
 ---
 
@@ -20,3 +20,7 @@ extracted_at: 2026-07-16T19:35:51
 ## 关联概念
 
 （暂无）
+
+## 所属枢纽
+
+- [[SOP触发与退出规则]]

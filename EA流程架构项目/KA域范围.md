@@ -10,7 +10,7 @@ confidence_reason: 文档Step2明确给出KA域涵盖范围的完整描述。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 项目范围
 status: 生效
 extracted_at: 2026-07-23T11:13:05
 ---
@@ -23,3 +23,7 @@ KA域（关键客户板块）涵盖合同签署、赋能培训、资讯发放、
 
 - [[KA域节点编码前缀]]
 - [[L3流程映射]]
+
+## 所属枢纽
+
+- [[项目范围]]

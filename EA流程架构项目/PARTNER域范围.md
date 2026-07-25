@@ -10,7 +10,7 @@ confidence_reason: 节点清单明文列出各前缀含义
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: PARTNER域基础信息
 status: 生效
 extracted_at: 2026-07-23T11:00:21
 ---
@@ -22,3 +22,7 @@ PARTNER域节点编码前缀：VN-IBRD（尽调诊断）、VN-MGA（联合运营
 ## 关联概念
 
 - [[PARTNER域范围]]
+
+## 所属枢纽
+
+- [[PARTNER域基础信息]]

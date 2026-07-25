@@ -10,7 +10,7 @@ confidence_reason: 原文通过实锤抽查明确指出了重复事实。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: B标签去重与差异化
 status: 生效
 extracted_at: 2026-07-22T02:54:10
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-22T02:54:10
 
 - [[规则空白地图]]
 - [[FA域]]
+
+## 所属枢纽
+
+- [[B标签去重与差异化]]

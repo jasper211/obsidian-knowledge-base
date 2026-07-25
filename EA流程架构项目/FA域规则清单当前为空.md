@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明当前条目数为0。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: FA域数据与规则缺口
 status: 生效
 extracted_at: 2026-07-23T02:10:29
 ---
@@ -23,3 +23,7 @@ FA域规则清单v1.0当前条目数为0，原因是对应节点尚未裁定，�
 
 - [[T1节点索引]]
 - [[Terresa确认回执]]
+
+## 所属枢纽
+
+- [[FA域数据与规则缺口]]

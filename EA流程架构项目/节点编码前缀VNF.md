@@ -10,7 +10,7 @@ confidence_reason: 原文直接说明全部9个节点编码前缀为VNF。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VNF节点编码规则
 status: 生效
 extracted_at: 2026-07-23T10:53:56
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:53:56
 
 - [[节点编码]]
 - [[FA域]]
+
+## 所属枢纽
+
+- [[VNF节点编码规则]]

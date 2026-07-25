@@ -1,23 +1,23 @@
 ---
-type: concept_atom
-concept_type: 规则
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: TR辅助边界
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-IBRD-01_合作伙伴尽调与路径管理_v0.1.md
-authority_layer: 02_定稿
-domain: （无）
-confidence: UNSTATED
-decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
-entity_ref: （无）
-extracted_at: 2026-07-16T19:43:49
+atom_count: 2
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 两个原子均描述TR仅在交付经理满负荷时辅助签单的边界规则，内容几乎一致
 ---
 
 # TR辅助边界
 
-TR（销售支持）仅在交付经理排期满负荷时执行签单动作，不可全权替代交付经理的全生命周期管理职责（画像、培训、客情、异动洞察）。
+非正式主题枢纽，2个原子经LLM判断内容连贯后自动生成。
 
-## 关联概念
+## 关联原子
 
-- [[交付经理唯一Owner原则]]
+- [[TR辅助签单边界]]
+- [[TR辅助边界]]
 
+## 所属枢纽
+
+- [[TR辅助边界]]

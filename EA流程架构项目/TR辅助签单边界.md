@@ -10,7 +10,7 @@ confidence_reason: 原文用✅明确TR仅辅助签单，不可替代
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: TR辅助边界
 status: 生效
 extracted_at: 2026-07-24T10:32:32
 ---
@@ -23,3 +23,7 @@ TR（销售支持）仅可在交付经理排期满负荷时执行签单动作，
 
 - [[渠道唯一交付经理]]
 - [[交付经理管理]]
+
+## 所属枢纽
+
+- [[TR辅助边界]]

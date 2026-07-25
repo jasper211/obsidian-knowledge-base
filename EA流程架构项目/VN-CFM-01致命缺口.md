@@ -10,7 +10,7 @@ confidence_reason: 原文以列表形式清晰列出9条致命缺口
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: VN-CFM-01节点
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -24,3 +24,7 @@ KPI未挂数，9项子产物无落地验证，归档管线缺失，资金调拨�
 - [[VN-CFM-01]]
 - [[致命缺口]]
 - [[s3四属性矩阵]]
+
+## 所属枢纽
+
+- [[VN-CFM-01节点]]

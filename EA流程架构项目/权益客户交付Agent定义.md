@@ -10,7 +10,7 @@ confidence_reason: 原文明确给出了Agent的身份、L3覆盖和Agent类型�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 权益Agent定义
 status: 生效
 extracted_at: 2026-07-24T05:12:40
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T05:12:40
 - [[权益长尾合并Agent]]
 - [[服务寻源上架Agent]]
 - [[专家型Orchestrator]]
+
+## 所属枢纽
+
+- [[权益Agent定义]]

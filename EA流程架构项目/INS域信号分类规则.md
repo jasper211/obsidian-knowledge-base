@@ -10,7 +10,7 @@ confidence_reason: Step 4明确给出三分类规则，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: INS域节点状态
 status: 生效
 extracted_at: 2026-07-23T11:20:16
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:20:16
 - [[信号4]]
 - [[调研已知清单]]
 - [[INS域]]
+
+## 所属枢纽
+
+- [[INS域节点状态]]

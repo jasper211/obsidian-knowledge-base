@@ -10,7 +10,7 @@ confidence_reason: 调研覆盖度统计表明确列出各节点状态
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: PARTNER域信息缺口
 status: 生效
 extracted_at: 2026-07-23T11:00:56
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T11:00:56
 
 - [[调研覆盖度]]
 - [[VN-IBRD-01]]
+
+## 所属枢纽
+
+- [[PARTNER域信息缺口]]

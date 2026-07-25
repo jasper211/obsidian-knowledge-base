@@ -10,7 +10,7 @@ confidence_reason: 原文明确标注为A-03裁定项并说明待决策。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: TA资金合规裁定
 status: 生效
 extracted_at: 2026-07-23T02:05:03
 ---
@@ -24,3 +24,7 @@ TA资金合规混用风险（A-03裁定项）需Mark决策：专款专用及历�
 - [[TA资金]]
 - [[合规管理]]
 - [[Mark决策]]
+
+## 所属枢纽
+
+- [[TA资金合规裁定]]

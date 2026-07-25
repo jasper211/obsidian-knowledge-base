@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述归属争议和待确认状态。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: Agent归属判定与修正
 status: 生效
 extracted_at: 2026-07-24T04:44:39
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:44:39
 - [[F族]]
 - [[G族]]
 - [[L3-SRM]]
+
+## 所属枢纽
+
+- [[Agent归属判定与修正]]

@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 执行反馈与SOP管理
 status: 生效
 extracted_at: 2026-07-21T22:34:31
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:34:31
 
 组织各团队负责人一起，根据业务影响和依赖关系，动态调整和确认任务的优先级，并解决资源冲突。
 
+## 所属枢纽
+
+- [[执行反馈与SOP管理]]

@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明'B-Owner使用归纳岗位描述'
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: B-Owner推断规则
 status: 生效
 extracted_at: 2026-07-22T05:02:03
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-22T05:02:03
 ## 关联概念
 
 - [[交付物责任与执行断点]]
+
+## 所属枢纽
+
+- [[B-Owner推断规则]]

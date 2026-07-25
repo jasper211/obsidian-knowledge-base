@@ -10,7 +10,7 @@ confidence_reason: 原文清单及信号3中明确列出熔断状态
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 人力资源节点
 status: 生效
 extracted_at: 2026-07-23T10:50:54
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:50:54
 
 - [[熔断节点]]
 - [[HR域]]
+
+## 所属枢纽
+
+- [[人力资源节点]]

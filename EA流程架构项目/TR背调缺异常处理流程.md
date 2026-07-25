@@ -10,7 +10,7 @@ confidence_reason: 原文明确描述缺少标准处理流程。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 背调异常处理
 status: 生效
 extracted_at: 2026-07-23T11:14:58
 ---
@@ -24,3 +24,7 @@ TR背景调查环节缺少异常情况的标准处理流程，遇到背调查出
 - [[背调]]
 - [[异常处理]]
 - [[VN-HRD-01]]
+
+## 所属枢纽
+
+- [[背调异常处理]]

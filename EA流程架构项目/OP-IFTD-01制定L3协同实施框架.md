@@ -10,7 +10,7 @@ confidence_reason: 权威数据，活动描述完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 实施框架设计
 status: 生效
 extracted_at: 2026-07-24T03:13:50
 ---
@@ -24,3 +24,7 @@ OP-IFTD-01属于L3-IFTD实施框架与任务清单设计流程，在L4-IFTD-01�
 - [[L3-IFTD]]
 - [[L4-IFTD-01]]
 - [[实施框架与任务清单设计]]
+
+## 所属枢纽
+
+- [[实施框架设计]]

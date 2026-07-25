@@ -10,7 +10,7 @@ confidence_reason: 来自已确认的A类规则，表格中明确为✅直接可
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 续保Shortage规则
 status: 生效
 extracted_at: 2026-07-24T03:45:19
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T03:45:19
 
 - [[Shortage规则仅适用续保]]
 - [[Shortage上报审批]]
+
+## 所属枢纽
+
+- [[续保Shortage规则]]

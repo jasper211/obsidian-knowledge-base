@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述身份定义，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 理财师全周期Agent
 status: 生效
 extracted_at: 2026-07-24T10:05:44
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T10:05:44
 - [[D族]]
 - [[E族]]
 - [[长尾合并Agent]]
+
+## 所属枢纽
+
+- [[理财师全周期Agent]]

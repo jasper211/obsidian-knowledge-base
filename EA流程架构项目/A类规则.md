@@ -10,7 +10,7 @@ confidence_reason: 文档Step4明确给出A类规则的定义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: A类已确立规则
 status: 生效
 extracted_at: 2026-07-23T11:14:26
 ---
@@ -24,3 +24,7 @@ A类规则指从数据表结构信息提取的已确立规则，包括子产物�
 - [[调研已知清单]]
 - [[三分类]]
 - [[数据表结构信息]]
+
+## 所属枢纽
+
+- [[A类已确立规则]]

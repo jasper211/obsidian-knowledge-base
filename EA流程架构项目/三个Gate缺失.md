@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述三层递进暂停缺失
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: Gate缺失与追溯要求
 status: 生效
 extracted_at: 2026-07-23T02:17:53
 ---
@@ -23,3 +23,7 @@ Gate①凭证性缺失，Gate②数据闭环缺失，Gate③权责清晰缺失�
 
 - [[Gate流程]]
 - [[凭证性]]
+
+## 所属枢纽
+
+- [[Gate缺失与追溯要求]]

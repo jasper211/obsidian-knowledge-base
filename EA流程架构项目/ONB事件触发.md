@@ -10,7 +10,7 @@ confidence_reason: 原文直接陈述触发类型，语气肯定。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 产品上架流程
 status: 生效
 extracted_at: 2026-07-24T04:26:06
 ---
@@ -22,3 +22,7 @@ ONB(产品上架)部分为事件触发型，有新产品需要上架时启动，
 ## 关联概念
 
 - [[OPS持续监控]]
+
+## 所属枢纽
+
+- [[产品上架流程]]

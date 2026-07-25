@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: TR招聘入职流程
 extracted_at: 2026-07-16T20:01:26
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T20:01:26
 
 牌照业务负责人根据业务规划提出TR招聘需求，HRBP接收并评估编制是否在范围内。
 
+## 所属枢纽
+
+- [[TR招聘入职流程]]

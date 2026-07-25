@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: SOP编写发布
 status: 生效
 extracted_at: 2026-07-21T22:36:31
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:36:31
 
 通过正式公告、培训、知识库上传等多种渠道，全面发布和推广已生效的SOP，确保全员知晓。
 
+## 所属枢纽
+
+- [[SOP编写发布]]

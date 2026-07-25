@@ -10,7 +10,7 @@ confidence_reason: 原文标明为裁定项，需等待决策。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: TA资金合规裁定
 status: 生效
 extracted_at: 2026-07-22T03:06:15
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-22T03:06:15
 
 TA资金存在合规混用风险，需专款专用排查和历史混用清理，待Mark决策。
 
+## 所属枢纽
+
+- [[TA资金合规裁定]]

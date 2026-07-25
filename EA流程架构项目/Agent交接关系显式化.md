@@ -10,7 +10,7 @@ confidence_reason: 基于L4交付物描述的明确观察，原文肯定指出�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: Agent交接设计
 status: 生效
 extracted_at: 2026-07-24T04:37:09
 ---
@@ -25,3 +25,7 @@ Agent之间存在真实的交接关系，可从L4交付物描述中直接识别�
 - [[保司资源整合Agent]]
 - [[KA准入Agent]]
 - [[KA赋能运维Agent]]
+
+## 所属枢纽
+
+- [[Agent交接设计]]

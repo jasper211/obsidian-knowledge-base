@@ -10,7 +10,7 @@ confidence_reason: 原文明确且强调“唯一必须交给人工Sub-Agent的�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 强制转人工场景
 status: 生效
 extracted_at: 2026-07-24T04:59:14
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:59:14
 - [[开户上线]]
 - [[人工Sub-Agent]]
 - [[BAM-02]]
+
+## 所属枢纽
+
+- [[强制转人工场景]]

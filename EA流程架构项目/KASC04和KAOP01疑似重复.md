@@ -10,7 +10,7 @@ confidence_reason: 文档以‘⚠️需要业务方确认的重复疑点’明�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA准入L4重复
 status: 生效
 extracted_at: 2026-07-24T05:04:52
 ---
@@ -24,3 +24,7 @@ L4-KASC-04'合同签回跟进与归档'和L4-KAOP-01'合同签回确认与档案
 - [[KASC-04]]
 - [[KAOP-01]]
 - [[合同签回归档]]
+
+## 所属枢纽
+
+- [[KA准入L4重复]]

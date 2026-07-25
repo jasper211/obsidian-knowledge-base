@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 实施框架设计
 status: 生效
 extracted_at: 2026-07-21T22:33:46
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:33:46
 
 在流程图中识别出决定流程质量或进度的关键控制点（Quality Gate），并定义其通过标准（如必须提交的文档、需达成的指标）。
 
+## 所属枢纽
+
+- [[实施框架设计]]

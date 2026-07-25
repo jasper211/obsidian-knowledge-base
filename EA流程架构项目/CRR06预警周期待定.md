@@ -10,7 +10,7 @@ confidence_reason: 原文明确标为“待确认事项”，数值需业务方�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 预警提前量待定
 status: 生效
 extracted_at: 2026-07-24T04:46:48
 ---
@@ -24,3 +24,7 @@ L4-CRR-06续约到期识别的提前预警周期尚未确定，需要业务方�
 - [[L4-CRR-06]]
 - [[提前预警]]
 - [[周期]]
+
+## 所属枢纽
+
+- [[预警提前量待定]]

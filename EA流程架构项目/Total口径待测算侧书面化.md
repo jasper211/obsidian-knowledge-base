@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: Total口径公式移交
 extracted_at: 2026-07-16T19:27:55
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T19:27:55
 
 Total口径（首年+续保全生命周期）计算公式由MOMO/刘敏然测算侧书面化给结算侧，当前结算侧视角只有首年数据，完整公式待测算侧确认后填入SOP。
 
+## 所属枢纽
+
+- [[Total口径公式移交]]

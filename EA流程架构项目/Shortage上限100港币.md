@@ -10,7 +10,7 @@ confidence_reason: 原文直接给出100港币上限，并指出未书面化
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 续保Shortage规则
 status: 生效
 extracted_at: 2026-07-23T02:08:24
 ---
@@ -23,3 +23,7 @@ Shortage（短缺）的容忍上限为100港币，但目前尚未有正式书面
 
 - [[Shortage处理]]
 - [[会计科目]]
+
+## 所属枢纽
+
+- [[续保Shortage规则]]

@@ -10,7 +10,7 @@ confidence_reason: 原文明确指出两者“持续并行运行，不是顺序�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 产品上架流程
 status: 生效
 extracted_at: 2026-07-24T04:26:24
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T04:26:24
 
 - [[ONB主链顺序]]
 - [[产品档案统一记录]]
+
+## 所属枢纽
+
+- [[产品上架流程]]

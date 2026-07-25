@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述制度空白
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: Portfolio分析标准化缺失
 status: 生效
 extracted_at: 2026-07-23T02:16:28
 ---
@@ -23,3 +23,7 @@ Portfolio分析缺少标准的分析框架和指标体系。
 
 - [[Portfolio分析]]
 - [[指标体系]]
+
+## 所属枢纽
+
+- [[Portfolio分析标准化缺失]]

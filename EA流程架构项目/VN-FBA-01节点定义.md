@@ -10,7 +10,7 @@ confidence_reason: 节点信息表格中明确陈述，无歧义
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: FA域定义
 status: 生效
 extracted_at: 2026-07-24T04:22:38
 ---
@@ -24,3 +24,7 @@ VN-FBA-03是FA域（机构经营管理）下的季度过程经营考核项设定
 - [[季度过程考核项发布]]
 - [[岗位周反馈要求]]
 - [[过程评分作为经营评价输入]]
+
+## 所属枢纽
+
+- [[FA域定义]]

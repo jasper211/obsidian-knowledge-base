@@ -10,7 +10,7 @@ confidence_reason: 线上化方向明确，过渡方案已考虑
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: DD线上化风险库
 status: 生效
 extracted_at: 2026-07-23T02:14:23
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T02:14:23
 
 - [[股东穿透查册规则]]
 - [[AML查询与风险评估]]
+
+## 所属枢纽
+
+- [[DD线上化风险库]]

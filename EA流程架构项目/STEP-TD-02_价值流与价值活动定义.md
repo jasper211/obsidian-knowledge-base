@@ -10,7 +10,7 @@ confidence_reason: 来自权威方法表格，步骤描述清晰完整。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 价值分解实施步骤
 status: 生效
 extracted_at: 2026-07-24T03:11:15
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T03:11:15
 - [[价值阶段]]
 - [[价值活动]]
 - [[商业模式]]
+
+## 所属枢纽
+
+- [[价值分解实施步骤]]

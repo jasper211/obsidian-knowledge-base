@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 流程监控优化闭环
 status: 生效
 extracted_at: 2026-07-21T22:37:42
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:37:42
 
 数据或运营工程师根据流程关键绩效指标（KPIs），在监控系统中设置预警阈值和触发规则（如：周期超时、错误率超过X%），实现异常自动监控。
 
+## 所属枢纽
+
+- [[流程监控优化闭环]]

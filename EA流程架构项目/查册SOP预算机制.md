@@ -10,7 +10,7 @@ confidence_reason: 决策方向明确但尚未排期落地
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 查册费用与SOP
 status: 生效
 extracted_at: 2026-07-23T10:38:48
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:38:48
 
 - [[查册费用负担规则]]
 - [[股东穿透查册]]
+
+## 所属枢纽
+
+- [[查册费用与SOP]]

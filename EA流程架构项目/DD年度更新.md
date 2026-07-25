@@ -1,25 +1,24 @@
 ---
-type: concept_atom
-concept_type: 规则
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: DD年度更新
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/PARTNER域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_定稿
-domain: PARTNER
-confidence: HIGH
-confidence_reason: 来自已访谈确认的IBRD001规则清单（A类规则）
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 信号基线
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-23T11:01:34
+atom_count: 3
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 均具体描述已签约渠道的年度DD更新规则与触发条件
 ---
 
 # DD年度更新
 
-已签约渠道合作满一年，每年对已签约渠道重新进行一次DD更新（行业惯例）。
+非正式主题枢纽，3个原子经LLM判断内容连贯后自动生成。
 
-## 关联概念
+## 关联原子
 
-- [[DD Form]]
-- [[IBRD001-R007]]
+- [[DD年度更新]]
+- [[DD年度更新规则]]
+- [[年度DD更新触发条件]]
+
+## 所属枢纽
+
+- [[DD年度更新]]

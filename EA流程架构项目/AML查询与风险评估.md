@@ -10,7 +10,7 @@ confidence_reason: 源自IBRD001-R005 A类规则，原文明确陈述流程。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: AML风险评估流程
 status: 生效
 extracted_at: 2026-07-23T11:28:26
 ---
@@ -25,3 +25,7 @@ CO收到DD Form后，须进行反洗钱(AML)查询，并基于查册报告、DD 
 - [[AML]]
 - [[风险评估]]
 - [[IBRD001-R005]]
+
+## 所属枢纽
+
+- [[AML风险评估流程]]

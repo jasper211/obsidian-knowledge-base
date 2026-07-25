@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: SOP编写发布
 status: 生效
 extracted_at: 2026-07-21T22:36:17
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:36:17
 
 基于已验证的任务执行卡和最佳实践，编写正式、结构化、易于查询的标准作业程序文档。
 
+## 所属枢纽
+
+- [[SOP编写发布]]

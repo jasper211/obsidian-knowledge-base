@@ -10,7 +10,7 @@ confidence_reason: 原文开篇明确且无歧义地陈述为Agent身份定义�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 任务管控Agent设计
 status: 生效
 extracted_at: 2026-07-24T04:56:38
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T04:56:38
 - [[Orchestrator]]
 - [[横切基础设施]]
 - [[Agent网络]]
+
+## 所属枢纽
+
+- [[任务管控Agent设计]]

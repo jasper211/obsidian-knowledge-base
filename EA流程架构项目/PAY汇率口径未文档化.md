@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述汇率口径与保司清单缺乏文档化�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 汇率口径文档化
 status: 生效
 extracted_at: 2026-07-23T02:08:24
 ---
@@ -23,3 +23,7 @@ PAY域结算涉及人民币汇率月度、当日、即时多种口径，且需�
 
 - [[汇率规则总表]]
 - [[保司清单]]
+
+## 所属枢纽
+
+- [[汇率口径文档化]]

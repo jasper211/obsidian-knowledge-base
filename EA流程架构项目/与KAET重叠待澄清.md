@@ -10,7 +10,7 @@ confidence_reason: 原文在“待确认事项”部分提出疑问，陈述带�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: Agent间衔接待澄清
 status: 生效
 extracted_at: 2026-07-24T04:40:14
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:40:14
 - [[KA准入Agent]]
 - [[KAET]]
 - [[资质合规核查]]
+
+## 所属枢纽
+
+- [[Agent间衔接待澄清]]

@@ -10,7 +10,7 @@ confidence_reason: 文档边界声明和自检声明中明确写明“INS域暂�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: INS域节点状态
 status: 生效
 extracted_at: 2026-07-23T10:24:50
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:24:50
 
 - [[补建路径三步访谈]]
 - [[熔断节点]]
+
+## 所属枢纽
+
+- [[INS域节点状态]]

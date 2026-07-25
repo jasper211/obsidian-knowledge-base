@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 规则空白管理
 extracted_at: 2026-07-16T12:38:52
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T12:38:52
 
 urgency分为三级：P0（立即响应，红线/危机）、P1（本季度内响应）、P2（长期跟踪）。
 
+## 所属枢纽
+
+- [[规则空白管理]]

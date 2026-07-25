@@ -10,7 +10,7 @@ confidence_reason: 制度建立要求明确，责任人指定清晰
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 查册费用与SOP
 status: 生效
 extracted_at: 2026-07-23T02:14:23
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-23T02:14:23
 ## 关联概念
 
 - [[查册费用由公司承担]]
+
+## 所属枢纽
+
+- [[查册费用与SOP]]

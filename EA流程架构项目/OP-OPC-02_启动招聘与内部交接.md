@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 岗位配置与人员赋能
 status: 生效
 extracted_at: 2026-07-21T22:35:39
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:35:39
 
 与HR共同发布职位，筛选简历，并参与关键岗位候选人的业务面试评估。
 
+## 所属枢纽
+
+- [[岗位配置与人员赋能]]

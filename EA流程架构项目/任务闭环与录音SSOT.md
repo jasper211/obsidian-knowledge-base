@@ -10,7 +10,7 @@ confidence_reason: 原文明确描述该闭环流程和录音SSOT机制
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 任务闭环机制
 status: 生效
 extracted_at: 2026-07-24T05:27:14
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T05:27:14
 
 - [[交付物上传模版]]
 - [[Gate校验]]
+
+## 所属枢纽
+
+- [[任务闭环机制]]

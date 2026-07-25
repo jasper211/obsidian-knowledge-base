@@ -10,7 +10,7 @@ confidence_reason: 原文对USV-04的具体任务有明确说明，原文直接�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 运营设计验证Agent
 status: 生效
 extracted_at: 2026-07-24T04:48:20
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T04:48:20
 
 - [[L4-USV-03定义]]
 - [[运营设计验证Agent状态记录]]
+
+## 所属枢纽
+
+- [[运营设计验证Agent]]

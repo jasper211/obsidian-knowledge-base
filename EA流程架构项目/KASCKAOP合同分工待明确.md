@@ -10,7 +10,7 @@ confidence_reason: 文档在‘待确认事项’中明确要求明确分工边�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA准入L4重复
 status: 生效
 extracted_at: 2026-07-24T05:05:23
 ---
@@ -25,3 +25,7 @@ KASC与KAOP在合同流程上的具体分工边界（谁发起、谁承接归档
 - [[KAOP]]
 - [[合同流程]]
 - [[分工边界]]
+
+## 所属枢纽
+
+- [[KA准入L4重复]]

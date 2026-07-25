@@ -10,7 +10,7 @@ confidence_reason: 原文Gate表格明确通过条件与未通过处理。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: G5确认与冻结规则
 status: 生效
 extracted_at: 2026-07-24T03:31:56
 ---
@@ -23,3 +23,7 @@ G5要求Mark确认最终叙事，否则不得冻结外发版。
 
 - [[Mark拥有最终裁定权]]
 - [[Gate判断]]
+
+## 所属枢纽
+
+- [[G5确认与冻结规则]]

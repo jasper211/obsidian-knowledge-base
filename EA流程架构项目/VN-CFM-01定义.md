@@ -10,7 +10,7 @@ confidence_reason: 节点总览和信号1中明确列出定义和属性。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VN-CFM-01节点
 status: 生效
 extracted_at: 2026-07-23T11:04:51
 ---
@@ -24,3 +24,7 @@ VN-CFM-01为“现金流管理报告包”节点，属于现金流规划与资�
 - [[现金流规划与资金调度管理E2E]]
 - [[收款预测]]
 - [[缺口预警]]
+
+## 所属枢纽
+
+- [[VN-CFM-01节点]]

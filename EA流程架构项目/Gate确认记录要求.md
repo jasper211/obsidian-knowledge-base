@@ -10,7 +10,7 @@ confidence_reason: 核心交付物表格中明确标注为“条件必须”，�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: Gate规则与验证
 status: 生效
 extracted_at: 2026-07-24T04:12:18
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:12:18
 - [[供应商准入记录要求]]
 - [[出行费用确认要求]]
 - [[服务设计文档]]
+
+## 所属枢纽
+
+- [[Gate规则与验证]]

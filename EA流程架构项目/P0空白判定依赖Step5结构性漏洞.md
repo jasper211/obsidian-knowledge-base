@@ -10,7 +10,7 @@ confidence_reason: 原文在执行摘要和P0判定依据中明确说明了这�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: P0优先级判定与熔断
 status: 生效
 extracted_at: 2026-07-24T05:15:56
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T05:15:56
 - [[优先级判定]]
 - [[P0]]
 - [[Step5]]
+
+## 所属枢纽
+
+- [[P0优先级判定与熔断]]

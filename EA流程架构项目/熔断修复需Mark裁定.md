@@ -10,7 +10,7 @@ confidence_reason: 补建行动路径表中明确要求“Mark裁定Gate修复�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 熔断判定与处理
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -24,3 +24,7 @@ Gate修复方案需由Mark（裁定方）裁定，并产出Gate修复方案确�
 - [[Mark裁定]]
 - [[Gate修复方案]]
 - [[熔断节点修复]]
+
+## 所属枢纽
+
+- [[熔断判定与处理]]

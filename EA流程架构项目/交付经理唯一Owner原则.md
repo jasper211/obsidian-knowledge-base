@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 交付经理唯一Owner
 extracted_at: 2026-07-16T19:43:39
 ---
 
@@ -21,3 +21,6 @@ extracted_at: 2026-07-16T19:43:39
 
 - [[TR辅助边界]]
 
+## 所属枢纽
+
+- [[交付经理唯一Owner]]

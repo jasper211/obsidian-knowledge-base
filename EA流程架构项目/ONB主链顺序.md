@@ -10,7 +10,7 @@ confidence_reason: 原文以明确顺序列出L4流程，无不确定语气。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 产品上架流程
 status: 生效
 extracted_at: 2026-07-24T04:26:19
 ---
@@ -23,3 +23,7 @@ ONB主链按严格顺序执行：L4-IPI-01产品元数据录入配置→L4-IPI-0
 
 - [[试运行验证gate]]
 - [[OPS并行监控]]
+
+## 所属枢纽
+
+- [[产品上架流程]]

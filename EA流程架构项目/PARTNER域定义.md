@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述PARTNER域即机构合作板块及其编码
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: PARTNER域基础信息
 status: 生效
 extracted_at: 2026-07-23T11:27:56
 ---
@@ -25,3 +25,7 @@ PARTNER域指机构合作板块，编码前缀为VN-IBRD/MGA/RSJD/URD/ASD，覆�
 - [[VN-MGA-01]]
 - [[VN-RSJD-01]]
 - [[VN-ASD-01]]
+
+## 所属枢纽
+
+- [[PARTNER域基础信息]]

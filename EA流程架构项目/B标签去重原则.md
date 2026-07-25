@@ -10,7 +10,7 @@ confidence_reason: 原文第六章专门阐述了B标签去重自查原则及验
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: B标签去重与差异化
 status: 生效
 extracted_at: 2026-07-23T01:52:26
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T01:52:26
 - [[四标签分析法]]
 - [[B标签]]
 - [[去重自查]]
+
+## 所属枢纽
+
+- [[B标签去重与差异化]]

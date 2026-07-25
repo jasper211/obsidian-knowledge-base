@@ -10,7 +10,7 @@ confidence_reason: 原文明确列出持久化粒度、内容和生命周期，�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 运营设计验证Agent
 status: 生效
 extracted_at: 2026-07-24T04:48:34
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T04:48:34
 
 - [[运营设计验证Agent定义]]
 - [[L4-USV-04定义]]
+
+## 所属枢纽
+
+- [[运营设计验证Agent]]

@@ -10,7 +10,7 @@ confidence_reason: 原文信号6明确列出当前使用的线下工具和系统
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: IBRD尽调流程不足
 status: 生效
 extracted_at: 2026-07-23T11:29:16
 ---
@@ -24,3 +24,7 @@ VN-IBRD-01节点的DD流程依赖Excel/邮件（DD Form）、手工台账、电�
 - [[VN-IBRD-01]]
 - [[DD]]
 - [[系统化]]
+
+## 所属枢纽
+
+- [[IBRD尽调流程不足]]

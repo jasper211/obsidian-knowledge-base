@@ -10,7 +10,7 @@ confidence_reason: 最终交付物清晰，与流程架构并列为项目产出�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 最终成果定义
 status: 生效
 extracted_at: 2026-07-24T03:12:47
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T03:12:47
 - [[用户价值]]
 - [[业务能力]]
 - [[质量标准]]
+
+## 所属枢纽
+
+- [[最终成果定义]]

@@ -10,7 +10,7 @@ confidence_reason: 原文第二章和行动项中反复强调录音为SSOT，转
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: 交付物处理机制
 status: 生效
 extracted_at: 2026-07-23T02:01:50
 ---
@@ -28,3 +28,7 @@ extracted_at: 2026-07-23T02:01:50
 
 ---
 ⚠️ **待复核**：源文档「02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/交付物上传模版_熔断节点任务_v1.1.md」已被删除（标记时间：2026-07-23T02:17:34）
+
+## 所属枢纽
+
+- [[交付物处理机制]]

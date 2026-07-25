@@ -10,7 +10,7 @@ confidence_reason: 原文G055明确描述“未书面化”，为事实陈述。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 对账流程文档缺失
 status: 生效
 extracted_at: 2026-07-24T10:02:31
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-24T10:02:31
 ## 关联概念
 
 - [[财务不直接追佣]]
+
+## 所属枢纽
+
+- [[对账流程文档缺失]]

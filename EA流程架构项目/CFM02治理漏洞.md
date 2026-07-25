@@ -10,7 +10,7 @@ confidence_reason: 信号空白清单中直接引用数据表描述，明确指�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 财务流程治理漏洞
 status: 生效
 extracted_at: 2026-07-23T11:05:20
 ---
@@ -24,3 +24,7 @@ VN-CFM-02资金付款审批单存在“无业务审批，资金付款完全听�
 - [[VN-CFM-02]]
 - [[资金付款审批单]]
 - [[财务复核]]
+
+## 所属枢纽
+
+- [[财务流程治理漏洞]]

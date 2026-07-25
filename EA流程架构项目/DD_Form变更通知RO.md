@@ -10,7 +10,7 @@ confidence_reason: 通知流程和紧急例外清晰
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: DD Form变更通知
 status: 生效
 extracted_at: 2026-07-23T02:14:23
 ---
@@ -23,3 +23,7 @@ DD Form新增字段或变更，须生效前通报全体RO确保执行新版；�
 
 - [[DD Form回收时效]]
 - [[DD年度更新]]
+
+## 所属枢纽
+
+- [[DD Form变更通知]]

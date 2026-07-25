@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述当前现状及风险，并标注为Gap
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: PDF完整性校验缺失
 status: 生效
 extracted_at: 2026-07-24T10:26:20
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T10:26:20
 - [[前置检查]]
 - [[G003]]
 - [[源头PDF合订]]
+
+## 所属枢纽
+
+- [[PDF完整性校验缺失]]

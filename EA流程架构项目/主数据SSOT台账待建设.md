@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 主数据治理推进
 extracted_at: 2026-07-16T19:28:49
 ---
 
@@ -17,3 +17,6 @@ extracted_at: 2026-07-16T19:28:49
 
 主数据SSOT受控台账建设需管理层裁定优先级，当前无专人负责。
 
+## 所属枢纽
+
+- [[主数据治理推进]]

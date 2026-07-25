@@ -10,7 +10,7 @@ confidence_reason: 原文Gate③追溯描述“数据链路不可追溯”即为
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: Gate评审标准
 status: 生效
 extracted_at: 2026-07-23T10:24:27
 ---
@@ -24,3 +24,7 @@ Gate③追溯评估数据链路是否可追溯，若无法从输入到处理到�
 - [[Gate①挂数]]
 - [[Gate②落地]]
 - [[数据链路]]
+
+## 所属枢纽
+
+- [[Gate评审标准]]

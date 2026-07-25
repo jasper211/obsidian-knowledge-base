@@ -10,7 +10,7 @@ confidence_reason: 原文明确说明转换点。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: IRR相关事项
 status: 生效
 extracted_at: 2026-07-24T04:41:50
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T04:41:50
 
 - [[正式合作判定条件]]
 - [[保司合作生命周期]]
+
+## 所属枢纽
+
+- [[IRR相关事项]]

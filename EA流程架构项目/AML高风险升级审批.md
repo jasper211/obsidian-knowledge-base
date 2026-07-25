@@ -10,7 +10,7 @@ confidence_reason: 原文用✅明确高风险升级审批及中低风险处理�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: AML风险评估流程
 status: 生效
 extracted_at: 2026-07-24T10:32:13
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T10:32:13
 
 - [[DD尽调包]]
 - [[三级风险评估]]
+
+## 所属枢纽
+
+- [[AML风险评估流程]]

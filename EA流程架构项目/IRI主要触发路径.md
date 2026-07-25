@@ -10,7 +10,7 @@ confidence_reason: 原文直接描述了事件触发和移交动作
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: Agent交接设计
 status: 生效
 extracted_at: 2026-07-24T04:34:04
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T04:34:04
 
 - [[保险授权确认Agent]]
 - [[L4-IAC-05]]
+
+## 所属枢纽
+
+- [[Agent交接设计]]

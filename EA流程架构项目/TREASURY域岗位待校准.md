@@ -10,7 +10,7 @@ confidence_reason: 原文明确规定了岗位标注方式和校准责任方
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: TREASURY域信息缺失
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -23,3 +23,7 @@ TREASURY域Signal2/Signal6（生产部门/生产岗位/消费主体/消费对象
 
 - [[源头校准]]
 - [[RACI矩阵]]
+
+## 所属枢纽
+
+- [[TREASURY域信息缺失]]

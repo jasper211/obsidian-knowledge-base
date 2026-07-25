@@ -10,7 +10,7 @@ confidence_reason: 权威数据，活动描述完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 岗位配置与人员赋能
 status: 生效
 extracted_at: 2026-07-24T03:16:19
 ---
@@ -24,3 +24,7 @@ OP-OPC-06属于L3-OPC流程。按计划执行培训，并进行现场答疑、�
 - [[L3-OPC]]
 - [[L4-OPC-02]]
 - [[培训执行]]
+
+## 所属枢纽
+
+- [[岗位配置与人员赋能]]

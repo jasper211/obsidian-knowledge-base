@@ -10,7 +10,7 @@ confidence_reason: 拆分步骤明确，源自权威方法，虽编号可能存�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 价值分解实施步骤
 status: 生效
 extracted_at: 2026-07-24T03:12:08
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:12:08
 - [[业务能力]]
 - [[二级拆分]]
 - [[价值链分析报告]]
+
+## 所属枢纽
+
+- [[价值分解实施步骤]]

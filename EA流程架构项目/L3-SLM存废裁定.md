@@ -10,7 +10,7 @@ confidence_reason: 原文列为待裁定项，结论未定，仅描述两种可�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: SLM存废裁定
 status: 生效
 extracted_at: 2026-07-24T05:30:16
 ---
@@ -24,3 +24,7 @@ VN-EQ-09熔断节点的L3-SLM流程存废待Mark裁定（B-02），若保留则�
 - [[VN-EQ-09]]
 - [[SLM流程]]
 - [[VN-EQ-03权益推广素材包]]
+
+## 所属枢纽
+
+- [[SLM存废裁定]]

@@ -10,7 +10,7 @@ confidence_reason: 汇总自各节点频次信息，均为原文明确陈述
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: HR域节点状态
 status: 生效
 extracted_at: 2026-07-23T10:51:05
 ---
@@ -23,3 +23,7 @@ HR域节点产出频次分为四类：按入职触发（如VN-HR-07合同签署�
 
 - [[节点频次]]
 - [[HR域]]
+
+## 所属枢纽
+
+- [[HR域节点状态]]

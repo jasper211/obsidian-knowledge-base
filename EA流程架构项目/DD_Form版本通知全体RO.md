@@ -10,7 +10,7 @@ confidence_reason: 原文用✅明确通知范围、回执确认和紧急处理
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: DD Form变更通知
 status: 生效
 extracted_at: 2026-07-24T10:32:38
 ---
@@ -23,3 +23,7 @@ DD Form新增字段须在生效前向所有RO通报，确认全体RO已接收新
 
 - [[DD Form]]
 - [[DD年度更新触发条件]]
+
+## 所属枢纽
+
+- [[DD Form变更通知]]

@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述决策及规模小的理由
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: HR Agent架构设计
 status: 生效
 extracted_at: 2026-07-24T10:08:59
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T10:08:59
 - [[Agent拆分原则]]
 - [[HRM事务触发]]
 - [[HRA周期分析]]
+
+## 所属枢纽
+
+- [[HR Agent架构设计]]

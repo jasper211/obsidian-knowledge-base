@@ -10,7 +10,7 @@ confidence_reason: 活动编号冲突（OP-EFB-08在序列69和76重复出现）
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 执行反馈与SOP管理
 status: 生效
 extracted_at: 2026-07-24T03:15:41
 ---
@@ -24,3 +24,7 @@ OP-EFB-08（序列69）属于L3-EFB流程。根据分析报告制定的措施，
 - [[L3-EFB]]
 - [[L4-EFB-02]]
 - [[问题解决]]
+
+## 所属枢纽
+
+- [[执行反馈与SOP管理]]

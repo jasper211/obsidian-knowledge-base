@@ -10,7 +10,7 @@ confidence_reason: 决策已记录但原因未详述，确定性中等
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: L4-IAO流程优化
 status: 生效
 extracted_at: 2026-07-23T02:15:51
 ---
@@ -23,3 +23,7 @@ INS域的L4-IAO步骤数从7个减少到6个，删除了NDA签署环节，以适
 
 - [[L4-IAO流程]]
 - [[NDA签署调整]]
+
+## 所属枢纽
+
+- [[L4-IAO流程优化]]

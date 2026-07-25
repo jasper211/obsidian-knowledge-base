@@ -10,7 +10,7 @@ confidence_reason: 原文明确写有“规则来源：无A类已确认规则”
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 预算制度缺陷
 status: 生效
 extracted_at: 2026-07-24T03:39:19
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:39:19
 - [[规则空白地图]]
 - [[A类规则]]
 - [[规则来源]]
+
+## 所属枢纽
+
+- [[预算制度缺陷]]

@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述其身份、角色和边界，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 理财师全周期Agent
 status: 生效
 extracted_at: 2026-07-24T05:06:01
 ---
@@ -23,3 +23,7 @@ D族(JF-04)与E族(JF-05)共享的专家型Agent，对应L3-FBA理财师业务�
 
 - [[L4-FBA-01]]
 - [[理财师全周期]]
+
+## 所属枢纽
+
+- [[理财师全周期Agent]]

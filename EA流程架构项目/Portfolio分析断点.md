@@ -10,7 +10,7 @@ confidence_reason: 原文明确列出执行断点
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: Portfolio分析标准化缺失
 status: 生效
 extracted_at: 2026-07-23T02:18:27
 ---
@@ -23,3 +23,7 @@ Portfolio分析数据来源完整性和时效性标准未定义，数据不全�
 
 - [[Portfolio分析]]
 - [[数据源标准]]
+
+## 所属枢纽
+
+- [[Portfolio分析标准化缺失]]

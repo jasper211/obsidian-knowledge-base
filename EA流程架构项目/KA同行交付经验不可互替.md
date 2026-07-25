@@ -10,7 +10,7 @@ confidence_reason: 源自IBRD001-R011 A类规则，原文明确陈述不可互�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: KA与同行交付经理区分
 status: 生效
 extracted_at: 2026-07-23T11:29:03
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:29:03
 - [[交付经理]]
 - [[KA]]
 - [[IBRD001-R011]]
+
+## 所属枢纽
+
+- [[KA与同行交付经理区分]]

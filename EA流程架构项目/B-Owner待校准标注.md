@@ -10,7 +10,7 @@ confidence_reason: 这是从全文B-Owner统一标注行为归纳出的处理规
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: B-Owner推断规则
 status: 生效
 extracted_at: 2026-07-23T01:52:37
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T01:52:37
 - [[B标签]]
 - [[访谈覆盖状态]]
 - [[源头校准]]
+
+## 所属枢纽
+
+- [[B-Owner推断规则]]

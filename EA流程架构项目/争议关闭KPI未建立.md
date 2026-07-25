@@ -10,7 +10,7 @@ confidence_reason: 原文明确“无KPI监控，无标准时限”，是缺口�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 争议关闭流程缺失
 status: 生效
 extracted_at: 2026-07-24T03:54:02
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T03:54:02
 - [[争议关闭临时规则]]
 - [[G009]]
 - [[KPI_20]]
+
+## 所属枢纽
+
+- [[争议关闭流程缺失]]

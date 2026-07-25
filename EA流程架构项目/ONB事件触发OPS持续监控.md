@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 产品上架流程
 extracted_at: 2026-07-16T16:05:48
 ---
 
@@ -20,3 +20,7 @@ ONB部分事件驱动（新产品上架时触发），OPS部分为持续监控�
 ## 关联概念
 
 - [[ONB事件触发OPS持续监控]]
+
+## 所属枢纽
+
+- [[产品上架流程]]

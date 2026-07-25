@@ -10,7 +10,7 @@ confidence_reason: 源自IBRD001-R007 A类规则，原文明确陈述为行业�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: DD年度更新
 status: 生效
 extracted_at: 2026-07-23T11:28:38
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:28:38
 - [[DD]]
 - [[年度更新]]
 - [[IBRD001-R007]]
+
+## 所属枢纽
+
+- [[DD年度更新]]

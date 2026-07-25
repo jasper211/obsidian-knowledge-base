@@ -10,7 +10,7 @@ confidence_reason: 原文两次明确说明持续监控模式，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 产品上架流程
 status: 生效
 extracted_at: 2026-07-24T04:26:13
 ---
@@ -23,3 +23,7 @@ OPS(日常运营)部分为持续监控型，产品上架后即进入长期监控
 
 - [[ONB事件触发]]
 - [[OPS并行监控]]
+
+## 所属枢纽
+
+- [[产品上架流程]]

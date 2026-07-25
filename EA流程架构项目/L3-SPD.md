@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: L3流程
 entity_ref: L3-SPD
 project: EA流程架构项目
-atom_count: 5
+atom_count: 13
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -15,7 +15,15 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 ## 关联原子
 
 - [[培训完成确认流程]]
+- [[培训完成证据链]]
+- [[培训验收归档要求]]
+- [[外发材料审批义务]]
 - [[方案评审与冻结]]
 - [[机构宣导培训证据链]]
 - [[材料版本分流规则]]
+- [[材料版本分流规则]]
+- [[禁用口径一]]
+- [[禁用口径替代凭证]]
 - [[禁用口径清洗]]
+- [[禁用口径系统流程]]
+- [[禁用绝对承诺表达]]

@@ -10,7 +10,7 @@ confidence_reason: 原文明确'合同后置执行，根因为内商务岗位缺
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: KA域流程与访谈问题
 status: 生效
 extracted_at: 2026-07-23T02:12:50
 ---
@@ -23,3 +23,7 @@ KA域合同执行流程后置，根本原因是内商务岗位缺失，导致签
 
 - [[KA合同管理]]
 - [[内商务岗位]]
+
+## 所属枢纽
+
+- [[KA域流程与访谈问题]]

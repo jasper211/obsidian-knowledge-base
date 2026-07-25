@@ -10,7 +10,7 @@ confidence_reason: 原文直接指出缺少标准处理规则。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: TR入职培训
 status: 生效
 extracted_at: 2026-07-23T11:15:03
 ---
@@ -24,3 +24,7 @@ TR培训合规缺少针对时数不足和声明延迟的标准处理规则，导
 - [[培训合规]]
 - [[处理规则]]
 - [[VN-HRD-02]]
+
+## 所属枢纽
+
+- [[TR入职培训]]

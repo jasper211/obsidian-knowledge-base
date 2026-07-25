@@ -10,7 +10,7 @@ confidence_reason: 原文列为B类规则线索，尚未确认。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: DD回收与重开
 status: 生效
 extracted_at: 2026-07-23T11:27:34
 ---
@@ -22,3 +22,7 @@ DD Form修改后通知RO的时效和回执确认流程尚未落地验证，需�
 ## 关联概念
 
 - [[DD Form修改通知RO]]
+
+## 所属枢纽
+
+- [[DD回收与重开]]

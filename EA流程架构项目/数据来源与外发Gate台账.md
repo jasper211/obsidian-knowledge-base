@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 记录与凭证规则
 extracted_at: 2026-07-16T19:20:03
 ---
 
@@ -21,3 +21,7 @@ extracted_at: 2026-07-16T19:20:03
 
 - [[保司价值证明叙事台账]]
 - [[内部候选叙事晋升规则]]
+
+## 所属枢纽
+
+- [[记录与凭证规则]]

@@ -10,7 +10,7 @@ confidence_reason: 原文有'待确认'表述，缺口性质明显
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 佣金管理
 status: 生效
 extracted_at: 2026-07-23T11:11:31
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:11:31
 - [[PI产品]]
 - [[CONFIG_PRODUCT_COMMISSION_FORMULA]]
 - [[产品部]]
+
+## 所属枢纽
+
+- [[佣金管理]]

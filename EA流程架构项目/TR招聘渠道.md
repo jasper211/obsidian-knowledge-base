@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述，无歧义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: TR招聘入职流程
 status: 生效
 extracted_at: 2026-07-23T10:44:03
 ---
@@ -23,3 +23,7 @@ TR招聘主要通过大湾区青年就业计划（GBA）或内推渠道进行。
 
 - [[HR-R005]]
 - [[TR入职流程]]
+
+## 所属枢纽
+
+- [[TR招聘入职流程]]

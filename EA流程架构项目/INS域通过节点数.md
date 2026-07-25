@@ -10,7 +10,7 @@ confidence_reason: 原文表格明确列出通过与熔断节点
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: INS域节点状态
 status: 生效
 extracted_at: 2026-07-22T03:00:02
 ---
@@ -22,3 +22,7 @@ INS域10个价值节点经Gate判定，7个通过（VN-INS-02/03/05/06/08/09/10�
 ## 关联概念
 
 - [[熔断节点]]
+
+## 所属枢纽
+
+- [[INS域节点状态]]

@@ -10,7 +10,7 @@ confidence_reason: 文档给出了四个L3的顺序及具体L4步骤列表。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: KA准入流程设计
 status: 生效
 extracted_at: 2026-07-24T05:04:46
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-24T05:04:46
 - [[L3-KAET]]
 - [[L3-KASC]]
 - [[L3-KAOP]]
+
+## 所属枢纽
+
+- [[KA准入流程设计]]

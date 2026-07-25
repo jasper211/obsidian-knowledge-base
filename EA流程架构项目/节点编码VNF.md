@@ -10,7 +10,7 @@ confidence_reason: 文档中所有节点均遵循此编码格式，规则明确
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VNF节点编码规则
 status: 生效
 extracted_at: 2026-07-23T11:09:40
 ---
@@ -23,3 +23,7 @@ FA域价值节点编码以'VNF-'为前缀，后接子域缩写（如FBA、FLM）
 
 - [[FA域定义]]
 - [[子域缩写]]
+
+## 所属枢纽
+
+- [[VNF节点编码规则]]

@@ -10,7 +10,7 @@ confidence_reason: 原文直接陈述'当前无定级体系（仅推进/暂缓�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: KA准入流程设计
 status: 生效
 extracted_at: 2026-07-23T02:12:50
 ---
@@ -23,3 +23,7 @@ KA域当前客户定级仅分'推进'和'暂缓'两种状态，无其他定级�
 
 - [[KA客户定级]]
 - [[客户评估模板]]
+
+## 所属枢纽
+
+- [[KA准入流程设计]]

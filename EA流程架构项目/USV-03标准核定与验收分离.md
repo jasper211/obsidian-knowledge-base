@@ -10,7 +10,7 @@ confidence_reason: 原文以‘如果不……就违反’提出风险，并用�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: 运营设计验证Agent
 status: 生效
 extracted_at: 2026-07-24T04:48:27
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T04:48:27
 - [[L4-USV-03定义]]
 - [[L4-USV-04定义]]
 - [[核定标准决策权待明确]]
+
+## 所属枢纽
+
+- [[运营设计验证Agent]]

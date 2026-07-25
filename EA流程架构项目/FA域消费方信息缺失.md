@@ -10,7 +10,7 @@ confidence_reason: 原文在规则空白地图中列为P2（全域空白）条�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: FA域数据与规则缺口
 status: 生效
 extracted_at: 2026-07-23T01:51:05
 ---
@@ -24,3 +24,7 @@ FA域全子域消费主体和消费对象字段为空，无法进行完整的生
 - [[FA域]]
 - [[消费方]]
 - [[规则空白]]
+
+## 所属枢纽
+
+- [[FA域数据与规则缺口]]

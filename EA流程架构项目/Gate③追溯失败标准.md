@@ -10,7 +10,7 @@ confidence_reason: 表格中明确给出了FAIL的具体原因
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: Gate评审标准
 status: 生效
 extracted_at: 2026-07-23T02:00:32
 ---
@@ -23,3 +23,7 @@ Gate③追溯评审FAIL的条件是：无法追溯，即缺乏统一归档管线
 
 - [[Gate①挂数]]
 - [[Gate②落地]]
+
+## 所属枢纽
+
+- [[Gate评审标准]]

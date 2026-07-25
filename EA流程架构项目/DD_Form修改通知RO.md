@@ -10,7 +10,7 @@ confidence_reason: 源自IBRD001-R009 A类规则，原文明确陈述通知要�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: DD Form变更通知
 status: 生效
 extracted_at: 2026-07-23T11:28:50
 ---
@@ -24,3 +24,7 @@ DD Form新增字段（如持有其他保司合约）后，须在生效前向所�
 - [[DD Form]]
 - [[RO]]
 - [[IBRD001-R009]]
+
+## 所属枢纽
+
+- [[DD Form变更通知]]

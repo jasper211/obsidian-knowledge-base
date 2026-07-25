@@ -10,7 +10,7 @@ confidence_reason: VN-IBRD-01信号3明确声明‘Gate①②③至少1项FAIL�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 熔断补建流程
 status: 生效
 extracted_at: 2026-07-23T11:27:59
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:27:59
 - [[三层递进提取法]]
 - [[熔断补建路径]]
 - [[VN-IBRD-01]]
+
+## 所属枢纽
+
+- [[熔断补建流程]]

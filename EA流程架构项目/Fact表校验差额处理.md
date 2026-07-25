@@ -10,7 +10,7 @@ confidence_reason: 原文明确区分误差阈值和处置流程，无歧义
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: Fact表校验
 status: 生效
 extracted_at: 2026-07-24T10:25:53
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-24T10:25:53
 - [[Fact_Commission_Rate]]
 - [[四舍五入误差]]
 - [[交叉校验]]
+
+## 所属枢纽
+
+- [[Fact表校验]]

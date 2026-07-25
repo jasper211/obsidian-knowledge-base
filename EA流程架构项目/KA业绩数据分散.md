@@ -1,25 +1,26 @@
 ---
-type: concept_atom
-concept_type: 经验教训
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: KA业绩数据分散
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/KA域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_定稿
-domain: KA
-confidence: HIGH
-confidence_reason: 信号1明确陈述数据分散现状。
-decision_status: UNSTATED
-as_of: 未知
-entity_type: 信号基线
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-23T11:23:09
+atom_count: 5
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 原子均聚焦KA业绩数据分散、隔离导致的汇总困难和业绩会分析缺失问题
 ---
 
 # KA业绩数据分散
 
-KA业绩数据分散在签单系统和MoMo个人大表，签单系统按人隔离转单后不可见，WPS联动表已停用，无统一KA业绩总表。
+非正式主题枢纽，5个原子经LLM判断内容连贯后自动生成。
 
-## 关联概念
+## 关联原子
 
-- [[VN-KAGA-01]]
-- [[业绩汇总]]
+- [[KA业绩数据分散]]
+- [[业绩会缺失偏差分析]]
+- [[业绩数据分散]]
+- [[业绩数据系统隔离]]
+- [[业绩数据隔离与汇总困难]]
+
+## 所属枢纽
+
+- [[KA业绩数据分散]]

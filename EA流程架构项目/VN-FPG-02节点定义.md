@@ -10,7 +10,7 @@ confidence_reason: 节点信息表格中明确给出了节点ID、名称、所�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: FA域定义
 status: 生效
 extracted_at: 2026-07-24T03:25:37
 ---
@@ -24,3 +24,7 @@ VN-FPG-02是FA域下的季度激励方案流程节点，每季度初由王总提
 - [[FA域]]
 - [[王总]]
 - [[季度激励方案]]
+
+## 所属枢纽
+
+- [[FA域定义]]

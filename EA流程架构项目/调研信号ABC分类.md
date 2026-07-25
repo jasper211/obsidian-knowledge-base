@@ -10,7 +10,7 @@ confidence_reason: 原文在Step4中明确给出A/B/C分类定义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 决策信号体系
 status: 生效
 extracted_at: 2026-07-23T10:54:02
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:54:02
 
 - [[调研已知清单]]
 - [[规则提取]]
+
+## 所属枢纽
+
+- [[决策信号体系]]

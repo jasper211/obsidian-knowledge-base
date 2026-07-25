@@ -10,7 +10,7 @@ confidence_reason: 文档Step4调研覆盖度统计及Step6访谈覆盖度总览
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: KA域流程与访谈问题
 status: 生效
 extracted_at: 2026-07-23T11:14:55
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T11:14:55
 - [[调研覆盖度]]
 - [[访谈批次]]
 - [[KA域节点]]
+
+## 所属枢纽
+
+- [[KA域流程与访谈问题]]

@@ -10,7 +10,7 @@ confidence_reason: 原文直接给出建议，确定性高
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: VNINS交付物问题
 status: 生效
 extracted_at: 2026-07-23T10:55:46
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-23T10:55:46
 
 - [[VN-INS-03]]
 - [[整合就绪确认书]]
+
+## 所属枢纽
+
+- [[VNINS交付物问题]]

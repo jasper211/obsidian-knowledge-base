@@ -10,7 +10,7 @@ confidence_reason: 达标标准一节对每个Gate的通过条件有明确陈述
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: （无）
+entity_ref: Gate规则与验证
 status: 生效
 extracted_at: 2026-07-23T02:05:23
 ---
@@ -24,3 +24,7 @@ extracted_at: 2026-07-23T02:05:23
 - [[三层递进分析]]
 - [[Gate评审]]
 - [[补建达标标准]]
+
+## 所属枢纽
+
+- [[Gate规则与验证]]

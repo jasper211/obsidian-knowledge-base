@@ -10,7 +10,7 @@ confidence_reason: 原文列为B类规则线索，明确标注待确认
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: 查册费用与SOP
 status: 生效
 extracted_at: 2026-07-23T11:02:06
 ---
@@ -23,3 +23,7 @@ IBRD001节点存在三条待访谈确认的规则线索：查册费用负担规�
 
 - [[VN-IBRD-01]]
 - [[B类规则]]
+
+## 所属枢纽
+
+- [[查册费用与SOP]]

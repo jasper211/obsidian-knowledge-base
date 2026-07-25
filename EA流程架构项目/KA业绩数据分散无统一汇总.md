@@ -10,7 +10,7 @@ confidence_reason: 原文明确描述‘数据分散无法形成标准化物理�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: KA域熔断节点
 status: 生效
 extracted_at: 2026-07-23T11:26:22
 ---
@@ -24,3 +24,7 @@ KA业绩汇总（VN-KAGA-01）的数据源分散在签单系统（按人隔离�
 - [[签单系统隔离]]
 - [[MoMo大表]]
 - [[WPS联动表停用]]
+
+## 所属枢纽
+
+- [[KA域熔断节点]]

@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: 岗位族
 entity_ref: B族
 project: EA流程架构项目
-atom_count: 9
+atom_count: 8
 generated_at: 2026-07-18
 generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风险）
 ---
@@ -16,10 +16,9 @@ generated_by: entity_ref精确匹配（非embedding聚类，无阈值误判风�
 
 - [[Agent归属修正教训]]
 - [[Agent间真实交接关系]]
-- [[A族输出交接B族]]
+- [[一次性整合事件驱动]]
 - [[一次性整合流程]]
 - [[与交付Agent边界待定]]
-- [[保司资源整合Agent触发时机]]
 - [[岗位族归属依据]]
 - [[待确认交接机制]]
 - [[持久化上下文]]

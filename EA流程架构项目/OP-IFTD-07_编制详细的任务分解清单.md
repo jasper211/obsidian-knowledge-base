@@ -10,7 +10,7 @@ confidence_reason: 来自权威数据层价值节点清单，字段完整
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 方法论标准
-entity_ref: （无）
+entity_ref: 实施框架设计
 status: 生效
 extracted_at: 2026-07-21T22:34:16
 ---
@@ -19,3 +19,6 @@ extracted_at: 2026-07-21T22:34:16
 
 将已确认的部门任务清单，进一步分解为可分配给具体岗位或个人执行的周度任务卡，并附上清晰的交付物模板或完成标准。
 
+## 所属枢纽
+
+- [[实施框架设计]]

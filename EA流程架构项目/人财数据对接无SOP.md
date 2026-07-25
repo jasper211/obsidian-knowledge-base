@@ -10,7 +10,7 @@ confidence_reason: 原文明确描述多个执行断点。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: 版本审计留痕机制
 status: 生效
 extracted_at: 2026-07-23T11:16:03
 ---
@@ -25,3 +25,7 @@ extracted_at: 2026-07-23T11:16:03
 - [[财务数据]]
 - [[数据核验]]
 - [[VN-HR-04]]
+
+## 所属枢纽
+
+- [[版本审计留痕机制]]

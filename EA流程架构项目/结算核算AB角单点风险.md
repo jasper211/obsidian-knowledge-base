@@ -10,7 +10,7 @@ confidence_reason: 原文明确描述当前人员配置现状，语气肯定。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: （无）
+entity_ref: 结算流程风险
 status: 生效
 extracted_at: 2026-07-24T10:29:43
 ---
@@ -23,3 +23,7 @@ extracted_at: 2026-07-24T10:29:43
 
 - [[职责划分]]
 - [[B角缺位]]
+
+## 所属枢纽
+
+- [[结算流程风险]]

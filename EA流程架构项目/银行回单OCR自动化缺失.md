@@ -10,7 +10,7 @@ confidence_reason: 原文明确陈述为工具空白
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: 银行回单OCR缺失
 status: 生效
 extracted_at: 2026-07-22T04:58:19
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-22T04:58:19
 ## 关联概念
 
 - [[银行回单截图]]
+
+## 所属枢纽
+
+- [[银行回单OCR缺失]]

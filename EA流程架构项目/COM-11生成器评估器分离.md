@@ -1,27 +1,23 @@
 ---
-type: concept_atom
-concept_type: 规则
+type: entity_hub
+entity_type: 非正式主题
+entity_ref: COM-11生成器评估器分离
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理/佣金全链路管理Agent.md
-authority_layer: 02_定稿
-domain: （无）
-confidence: HIGH
-confidence_reason: 文档明确要求'需分离为两个独立组件'
-decision_status: UNSTATED
-as_of: 未知
-entity_type: Agent机制
-entity_ref: （无）
-status: 生效
-extracted_at: 2026-07-24T10:04:21
+atom_count: 2
+generated_at: 2026-07-24
+generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
+coherence_reason: 两个原子均论述COM-11对账的生成器与评估器分离设计，内容高度一致。
 ---
 
 # COM-11生成器评估器分离
 
-基于生成器/评估器分离原则，COM-11自动对账的《差异对照表》生成逻辑与金额平衡校验逻辑必须在Skill设计阶段分离为两个独立组件。
+非正式主题枢纽，2个原子经LLM判断内容连贯后自动生成。
 
-## 关联概念
+## 关联原子
 
-- [[COM-11]]
-- [[生成器]]
-- [[评估器]]
-- [[Skill设计]]
+- [[COM-11生成器评估器分离]]
+- [[COM-11自动对账评估器分离]]
+
+## 所属枢纽
+
+- [[COM-11生成器评估器分离]]

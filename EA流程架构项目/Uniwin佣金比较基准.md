@@ -10,7 +10,7 @@ confidence_reason: 出自IBRD001-R003，规则陈述明确。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: Uniwin佣金优势口径
 status: 生效
 extracted_at: 2026-07-23T11:26:44
 ---
@@ -22,3 +22,7 @@ extracted_at: 2026-07-23T11:26:44
 ## 关联概念
 
 - [[九富vsUniwin适用场景]]
+
+## 所属枢纽
+
+- [[Uniwin佣金优势口径]]

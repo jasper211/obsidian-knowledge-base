@@ -10,7 +10,7 @@ confidence_reason: 决策方向明确但尚未排期落地
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则与GAP
-entity_ref: （无）
+entity_ref: DD线上化风险库
 status: 生效
 extracted_at: 2026-07-23T10:39:05
 ---
@@ -23,3 +23,7 @@ IT评估DD Form线上化方案，并建立渠道风险数据库，实现查册�
 
 - [[AML查询风险评估]]
 - [[存量渠道补充DD排期]]
+
+## 所属枢纽
+
+- [[DD线上化风险库]]

@@ -10,7 +10,7 @@ confidence_reason: 文档虽列出风险描述，但明确标注待访谈确认
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 规则空白
-entity_ref: （无）
+entity_ref: HR域数据缺口与风险
 status: 生效
 extracted_at: 2026-07-22T04:47:07
 ---
@@ -22,3 +22,7 @@ HR域所有节点的单点风险均标记为待访谈确认，当前无任何节
 ## 关联概念
 
 - [[单点风险]]
+
+## 所属枢纽
+
+- [[HR域数据缺口与风险]]
