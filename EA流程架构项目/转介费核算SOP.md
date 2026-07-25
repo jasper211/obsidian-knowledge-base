@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: 财务流程与凭证
+entity_ref: 结算确认与交付管理
 extracted_at: 2026-07-16T19:23:11
 ---
 
@@ -25,4 +25,4 @@ VN-PAY-02是转介费核算与应派的标准操作流程，规范了从人员�
 
 ## 所属枢纽
 
-- [[财务流程与凭证]]
+- [[结算确认与交付管理]]

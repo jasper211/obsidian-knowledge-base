@@ -9,7 +9,7 @@ confidence: UNSTATED
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: 财务流程与凭证
+entity_ref: 需求管理流程
 extracted_at: 2026-07-16T19:36:03
 ---
 
@@ -23,4 +23,4 @@ extracted_at: 2026-07-16T19:36:03
 
 ## 所属枢纽
 
-- [[财务流程与凭证]]
+- [[需求管理流程]]
