@@ -10,7 +10,9 @@
 ```
 行业学习/
 ├── CLAUDE.md          ← 本文件，规则手册
-├── raw/                ← 原始资料层（人工放入，AI 只读，不改）
+├── raw/                ← 原始资料层（人工放入，AI 只读，不改；支持纯文本/
+│                          Markdown/PDF 直接放入，.docx 等格式先导出成 PDF
+│                          或纯文本再放入，详见 raw/README.md）
 │   └── README.md
 └── wiki/                ← 知识库层（AI 摄入后维护）
     ├── index.md          ← 总目录，每次 ingest 后更新
