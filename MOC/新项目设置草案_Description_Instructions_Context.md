@@ -1,10 +1,16 @@
 ---
 type: entry
 tags: [项目设置, OBagent, 草案]
-updated: 2026-07-21
+updated: 2026-07-25
 status: draft-for-review-v2
 supersedes: v1（已根据《需求定义.md》与《三大主Agent体系架构_v1.3》修正OB的定位描述）
 ---
+
+> **2026-07-25更新**：下文Description/Instructions里原有的硬编码原子数
+> （10155/483/418等）已核实为2026-07-21白名单收窄前的旧数据，已更新为
+> 当前真实值；已废弃的《OBagent诊断与整合路线图_v1》引用已移除，改指向
+> 动态的[[仪表盘_项目全景]]。文末"待你确认"1-4项，第3项（阶段F写入侧
+> 自动化）已于2026-07-21完成设计+落地，其余仍待答复。
 
 # 新项目设置草案 v2（供粘贴进Claude Project设置）
 
@@ -45,18 +51,26 @@ PTA/VNW/AIT/方法论转正Agent/OB）里的基础设施/治理层Agent，服务
    要靠人工再跑一次`migrate_full_vault.py`）——这才是"没有自迭代"的
    真正病根，不只是治理字段没填这么简单。
 
-## 当前架构（Obsidian vault: OB知识库_vault）
-- EA流程架构项目/ — 已提炼10155个原子+483个枢纽，schema最完整（含
-  authority_layer/confidence/decision_status/entity_type/entity_ref），
-  但confidence/decision_status 99%以上仍是UNSTATED占位符，治理评分
-  没有真正跑过
-- Jasper AI协同经验引擎/ — 已提炼418个原子，但frontmatter只有
-  type/concept_type/project/source/extracted_at五个字段，没有治理字段
-  也没有聚类枢纽——是比EA更早期的schema版本，不是"没提炼"
-- Rw权益项目 — vault里没有对应文件夹，是唯一真正尚未开始批量提炼的项目
-- MOC/ — 导航枢纽、诊断报告、路线图（含《OBagent诊断与整合路线图_v2》）
-- **三个项目是三套不同成熟度的schema，不是同一模板的三份实例**，处理前
-  必须先确认在处理哪个项目、对应哪套字段结构
+## 当前架构（Obsidian vault: OB知识库_vault，2026-07-25核实）
+- EA流程架构项目/ — 白名单收窄到8个"结果性"来源后持续提炼中，原子/枢纽
+  实时数字见[[仪表盘_项目全景]]（不要用本文档任何历史快照数字），schema
+  最完整（authority_layer/domain/confidence/decision_status/entity_type/
+  entity_ref全字段，entity_type含7个白名单来源类分类），confidence多数
+  已由LLM随提炼判断出真实值（不再是99%占位符），decision_status仍接近
+  全UNSTATED——这是预期状态，因为白名单不含03_已锁定层内容，本来就没有
+  走过Mark正式审核锁定
+- Jasper AI协同经验引擎/ — 已提炼205个原子，schema与EA对齐（含治理
+  字段），但**尚未跑过聚类，0个entity_hub**——这是真实差距，不是"没提炼"
+- 方法论知识库/ — 方法论转正Agent的行业自学习线，独立schema
+  （source_url/collected_at/staleness_review_date/info_type/
+  evidence_basis），跟上面两个项目的concept_atom schema不共用，通过
+  Claudian对话持续ingest中，不是Python批处理产出
+- Rw权益项目 — vault里没有对应文件夹，明确不纳入OB知识库（是OB服务的
+  对象项目，不是OB自身知识）
+- MOC/ — 导航枢纽、仪表盘；旧版《OBagent诊断与整合路线图》已因内容
+  基于白名单收窄前的旧数据而废弃归档，不再作为现状参照
+- **四个顶层目录/两套schema体系，不是同一模板的多份实例**，处理前必须
+  先确认在处理哪个项目、对应哪套字段结构
 
 ## 每次对话原则
 1. 先看vault里的实际数据/文件，不要凭空假设原子数量、治理状态、
@@ -88,9 +102,9 @@ PTA/VNW/AIT/方法论转正Agent/OB）里的基础设施/治理层Agent，服务
 
 **必读（每次对话都需要）**
 - `需求定义.md`（OB的权威定位与三条能力线成功标准，本次用户提供）
-- `三大主Agent体系架构_v1.3.md`（五Agent体系全景、OB现状7.3/7.4节，本次用户提供）
+- `三大主Agent体系架构`（用最新版本号，五Agent体系全景+各Agent现状章节）
 - `起点_从这里开始.md`
-- `MOC/OBagent诊断与整合路线图_v1.md`（已更新为v2，含量化诊断+分阶段方案）
+- `05_Agent库/草稿/OB/README.md`（OB最新进展，取代已废弃的诊断路线图）
 
 **按需调用**
 - `MOC/仪表盘_项目全景.md`、`MOC/知识枢纽索引.md`

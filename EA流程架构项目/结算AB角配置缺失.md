@@ -6,23 +6,20 @@ source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与
 authority_layer: 02_定稿
 domain: PAY
 confidence: HIGH
-confidence_reason: 原文明确陈述为流程空白
+confidence_reason: 原文P2级明确指出为“缺失”流程空白。
 decision_status: UNSTATED
 as_of: 未知
-entity_type: 规则空白
-entity_ref: 结算风险与规则
+entity_type: 待聚类
+entity_ref: （无）
 status: 生效
-extracted_at: 2026-07-22T04:58:26
+extracted_at: 2026-07-25T02:01:33
 ---
 
 # 结算AB角配置缺失
 
-应收佣金核对表岗位为单人执行，无独立复核人，存在单点风险，需建立结算AB角。
+结算岗仅一人，存在单点风险，需建立AB角以防业务中断。
 
 ## 关联概念
 
 - [[应收佣金核对表]]
-
-## 所属枢纽
-
-- [[结算风险与规则]]
+- [[VN-PAY-02]]
