@@ -40,3 +40,7 @@ node_modules/
 # Desktop路径后首次被意外提交进来
 .claudian/
 .obsidian/plugins/realclaudian/
+
+# Obsidian主题/backlink UI缓存：安装的主题代码+反向链接状态缓存，非笔记内容
+.obsidian/themes/
+.obsidian/backlink.json
