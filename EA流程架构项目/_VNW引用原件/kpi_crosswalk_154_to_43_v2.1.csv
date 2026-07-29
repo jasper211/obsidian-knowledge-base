@@ -1,0 +1,324 @@
+﻿vn_kpi_id,vn_kpi_name,vn_id,dim_kpi_id,dim_kpi_name,match_method
+VN-KPI-001,投诉处理时效,VN-ASD-01,KPI_26,投诉率,direct_correspondence
+VN-KPI-001,投诉处理时效,VN-ASD-01,KPI_51,理赔时效,direct_correspondence
+VN-KPI-002,投诉闭环率,VN-ASD-01,KPI_26,投诉率,direct_correspondence
+VN-KPI-003,客户投诉升级率,VN-ASD-01,KPI_26,投诉率,direct_correspondence
+VN-KPI-004,投诉处理时效,VN-ASD-02,KPI_26,投诉率,direct_correspondence
+VN-KPI-004,投诉处理时效,VN-ASD-02,KPI_51,理赔时效,direct_correspondence
+VN-KPI-005,客户满意度,VN-ASD-02,KPI_26,投诉率,direct_correspondence
+VN-KPI-006,整改完成率,VN-ASD-02,KPI_26,投诉率,direct_correspondence
+VN-KPI-008,U盾交接合规率,VN-BAM-01,KPI_27,审计问题数,process_support
+VN-KPI-009,档案完整率,VN-BAM-01,KPI_17,递交转化率,driver_factor
+VN-KPI-010,银行准入合规率,VN-BAM-02,KPI_27,审计问题数,process_support
+VN-KPI-011,支票使用合规率,VN-BAM-02,KPI_27,审计问题数,process_support
+VN-KPI-014,资金调拨合规率,VN-CFM-01,KPI_21,结算周期,direct_correspondence
+VN-KPI-014,资金调拨合规率,VN-CFM-01,KPI_27,审计问题数,process_support
+VN-KPI-016,原始凭证完整率,VN-CFM-02,KPI_21,结算周期,process_support
+VN-KPI-016,原始凭证完整率,VN-CFM-02,KPI_17,递交转化率,driver_factor
+VN-KPI-017,复核准确率,VN-CFM-02,KPI_21,结算周期,process_support
+VN-KPI-018,优化建议采纳率,VN-CPM-02,KPI_21,结算周期,process_support
+VN-KPI-019,异常响应时效,VN-CPM-02,KPI_21,结算周期,process_support
+VN-KPI-020,到期识别准确率,VN-CRR-01,KPI_13,N/R 结构,driver_factor
+VN-KPI-021,续约资格审核覆盖率,VN-CRR-01,KPI_13,N/R 结构,driver_factor
+VN-KPI-022,T11续约前流失预警处置率,VN-CRR-02,KPI-T07,合规红线实时预警处置率,direct_correspondence
+VN-KPI-022,T11续约前流失预警处置率,VN-CRR-02,KPI-T11,续约前流失预警处置率,direct_correspondence
+VN-KPI-022,T11续约前流失预警处置率,VN-CRR-02,KPI_13,N/R 结构,driver_factor
+VN-KPI-023,预警触发准确率,VN-CRR-02,KPI-T07,合规红线实时预警处置率,direct_correspondence
+VN-KPI-024,介入完成率,VN-CRR-02,KPI-T07,合规红线实时预警处置率,direct_correspondence
+VN-KPI-025,方案审核通过率,VN-EQ-01,KPI_15,排期转化率,driver_factor
+VN-KPI-025,方案审核通过率,VN-EQ-01,KPI-T02,机构周新接洽/激活数,driver_factor
+VN-KPI-026,同行经代合作转化率,VN-EQ-01,KPI-T02,机构周新接洽/激活数,driver_factor
+VN-KPI-027,方案匹配准确率,VN-EQ-02,KPI_15,排期转化率,driver_factor
+VN-KPI-028,方案交付周期,VN-EQ-02,KPI_20,承保周期,direct_correspondence
+VN-KPI-028,方案交付周期,VN-EQ-02,KPI_15,排期转化率,driver_factor
+VN-KPI-029,推广素材使用率,VN-EQ-03,KPI_30,KA 活跃率,driver_factor
+VN-KPI-030,业务线采纳率,VN-EQ-03,KPI_30,KA 活跃率,driver_factor
+VN-KPI-030,业务线采纳率,VN-EQ-03,KPI_09,细分市场占比,rollup_aggregation
+VN-KPI-031,方案共识达成率,VN-EQ-04,KPI_15,排期转化率,driver_factor
+VN-KPI-032,合作伙伴满意度,VN-EQ-04,KPI_30,KA 活跃率,driver_factor
+VN-KPI-033,合同签订周期,VN-EQ-05,KPI_20,承保周期,direct_correspondence
+VN-KPI-034,合规通过率,VN-EQ-05,KPI_27,审计问题数,process_support
+VN-KPI-035,内训覆盖率,VN-EQ-06,KPI_37,培训改善度,driver_factor
+VN-KPI-036,交付经理满意度,VN-EQ-06,KPI_30,KA 活跃率,driver_factor
+VN-KPI-037,客户入驻成功率,VN-EQ-07,KPI_30,KA 活跃率,direct_correspondence
+VN-KPI-038,赋能完成率,VN-EQ-07,KPI-T03,KA赋能动作完成率,direct_correspondence
+VN-KPI-038,赋能完成率,VN-EQ-07,KPI_30,KA 活跃率,driver_factor
+VN-KPI-039,协议签订周期,VN-EQ-08,KPI_20,承保周期,direct_correspondence
+VN-KPI-040,服务上架前置合规率,VN-EQ-08,KPI_27,审计问题数,process_support
+VN-KPI-041,推广触达率,VN-EQ-09,KPI_30,KA 活跃率,driver_factor
+VN-KPI-042,业务线采纳率,VN-EQ-09,KPI_30,KA 活跃率,driver_factor
+VN-KPI-042,业务线采纳率,VN-EQ-09,KPI_09,细分市场占比,rollup_aggregation
+VN-KPI-045,需求确认完整率,VN-EQ-11,KPI_30,KA 活跃率,driver_factor
+VN-KPI-047,报告准确率,VN-FBA-01,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-052,协议签署率,VN-FOB-01,KPI_16,签单转化率,direct_correspondence
+VN-KPI-052,协议签署率,VN-FOB-01,KPI_34,新签 KA 数,driver_factor
+VN-KPI-052,协议签署率,VN-FOB-01,KPI_20,承保周期,driver_factor
+VN-KPI-053,归档完整率,VN-FOB-01,KPI_27,审计问题数,process_support
+VN-KPI-053,归档完整率,VN-FOB-01,KPI_17,递交转化率,driver_factor
+VN-KPI-054,新人留存率,VN-FOB-02,KPI_36,新人留存率,direct_correspondence
+VN-KPI-054,新人留存率,VN-FOB-02,KPI_35,新签成活率,driver_factor
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_16,签单转化率,direct_correspondence
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_35,新签成活率,driver_factor
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_36,新人留存率,driver_factor
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_01,总保费,rollup_aggregation
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_02,APE,rollup_aggregation
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_04,净营收,rollup_aggregation
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_06,管理利润,rollup_aggregation
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_31,人均 APE,driver_factor
+VN-KPI-055,首单转化率,VN-FOB-02,KPI_32,人均件数,driver_factor
+VN-KPI-055,首单转化率,VN-FOB-02,KPI-T09,签单转化率(周跟踪),driver_factor
+VN-KPI-056,培养目标达成率,VN-FOB-02,KPI_03,目标达成率,direct_correspondence
+VN-KPI-056,培养目标达成率,VN-FOB-02,KPI_35,新签成活率,driver_factor
+VN-KPI-056,培养目标达成率,VN-FOB-02,KPI_36,新人留存率,driver_factor
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_16,签单转化率,direct_correspondence
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_35,新签成活率,driver_factor
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_36,新人留存率,driver_factor
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_01,总保费,rollup_aggregation
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_02,APE,rollup_aggregation
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_04,净营收,rollup_aggregation
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_06,管理利润,rollup_aggregation
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_31,人均 APE,driver_factor
+VN-KPI-057,首单转化率,VN-FOR-01,KPI_32,人均件数,driver_factor
+VN-KPI-057,首单转化率,VN-FOR-01,KPI-T09,签单转化率(周跟踪),driver_factor
+VN-KPI-058,陪跑覆盖率,VN-FOR-01,KPI-T04,理财师首单陪跑五动作完成率,direct_correspondence
+VN-KPI-059,出单周期,VN-FOR-01,KPI_20,承保周期,direct_correspondence
+VN-KPI-059,出单周期,VN-FOR-01,KPI_01,总保费,rollup_aggregation
+VN-KPI-059,出单周期,VN-FOR-01,KPI_02,APE,rollup_aggregation
+VN-KPI-059,出单周期,VN-FOR-01,KPI_04,净营收,rollup_aggregation
+VN-KPI-059,出单周期,VN-FOR-01,KPI_06,管理利润,rollup_aggregation
+VN-KPI-059,出单周期,VN-FOR-01,KPI_31,人均 APE,driver_factor
+VN-KPI-059,出单周期,VN-FOR-01,KPI_32,人均件数,driver_factor
+VN-KPI-060,营销启发案执行率,VN-FOR-02,KPI-T05,理财师周活动量,direct_correspondence
+VN-KPI-061,活动参与率,VN-FOR-02,KPI-T05,理财师周活动量,direct_correspondence
+VN-KPI-062,恒常出单率,VN-FOR-02,KPI-T05,理财师周活动量,direct_correspondence
+VN-KPI-063,指标定稿率,VN-FPG-01,KPI_03,目标达成率,process_support
+VN-KPI-064,指标覆盖率,VN-FPG-01,KPI_03,目标达成率,process_support
+VN-KPI-065,绩效挂钩执行率,VN-FPG-01,KPI_03,目标达成率,process_support
+VN-KPI-069,培训覆盖率,VN-FTR-01,KPI_36,新人留存率,driver_factor
+VN-KPI-069,培训覆盖率,VN-FTR-01,KPI_37,培训改善度,driver_factor
+VN-KPI-070,资料使用率,VN-FTR-01,KPI_37,培训改善度,driver_factor
+VN-KPI-071,培训满意度,VN-FTR-01,KPI_37,培训改善度,direct_correspondence
+VN-KPI-072,绩效方案覆盖率,VN-HR-03,KPI_03,目标达成率,process_support
+VN-KPI-073,绩效方案及时率,VN-HR-03,KPI_03,目标达成率,process_support
+VN-KPI-074,绩效考核结果应用率,VN-HR-03,KPI_03,目标达成率,process_support
+VN-KPI-075,人效分析覆盖率,VN-HR-04,KPI_31,人均 APE,rollup_aggregation
+VN-KPI-075,人效分析覆盖率,VN-HR-04,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-077,报告产出时效,VN-HR-04,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-081,编制准确率,VN-HR-06,KPI_31,人均 APE,rollup_aggregation
+VN-KPI-081,编制准确率,VN-HR-06,KPI_32,人均件数,rollup_aggregation
+VN-KPI-082,岗位设计认可度,VN-HR-06,KPI_31,人均 APE,rollup_aggregation
+VN-KPI-082,岗位设计认可度,VN-HR-06,KPI_32,人均件数,rollup_aggregation
+VN-KPI-083,编制执行偏差率,VN-HR-06,KPI_31,人均 APE,rollup_aggregation
+VN-KPI-083,编制执行偏差率,VN-HR-06,KPI_32,人均件数,rollup_aggregation
+VN-KPI-084,合同签署及时率,VN-HR-07,KPI_34,新签 KA 数,driver_factor
+VN-KPI-085,合同合规率,VN-HR-07,KPI_27,审计问题数,process_support
+VN-KPI-087,成长路径覆盖率,VN-HR-08,KPI_31,人均 APE,rollup_aggregation
+VN-KPI-087,成长路径覆盖率,VN-HR-08,KPI_32,人均件数,rollup_aggregation
+VN-KPI-089,员工晋升率,VN-HR-08,KPI_31,人均 APE,rollup_aggregation
+VN-KPI-089,员工晋升率,VN-HR-08,KPI_32,人均件数,rollup_aggregation
+VN-KPI-090,考核覆盖率,VN-HR-09,KPI_03,目标达成率,process_support
+VN-KPI-091,考核结果确认率,VN-HR-09,KPI_03,目标达成率,process_support
+VN-KPI-092,结果应用率(调薪,VN-HR-09,KPI_03,目标达成率,process_support
+VN-KPI-095,档案完整率,VN-HR-10,KPI_17,递交转化率,driver_factor
+VN-KPI-096,档案准确率,VN-HR-10,KPI_17,递交转化率,driver_factor
+VN-KPI-096,档案准确率,VN-HR-10,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-097,档案查询响应时效,VN-HR-10,KPI_21,结算周期,direct_correspondence
+VN-KPI-097,档案查询响应时效,VN-HR-10,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-098,报表准确率,VN-HR-11,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-099,报表及时率,VN-HR-11,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-100,数据完整率,VN-HR-11,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-101,归属准确率,VN-HR-12,KPI_31,人均 APE,rollup_aggregation
+VN-KPI-101,归属准确率,VN-HR-12,KPI_32,人均件数,rollup_aggregation
+VN-KPI-104,预算准确率,VN-HR-13,KPI_04,净营收,driver_factor
+VN-KPI-104,预算准确率,VN-HR-13,KPI_06,管理利润,driver_factor
+VN-KPI-104,预算准确率,VN-HR-13,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-105,预算提交及时率,VN-HR-13,KPI_04,净营收,driver_factor
+VN-KPI-105,预算提交及时率,VN-HR-13,KPI_06,管理利润,driver_factor
+VN-KPI-105,预算提交及时率,VN-HR-13,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-106,资金准备充足率,VN-HR-13,KPI_21,结算周期,process_support
+VN-KPI-107,发放准确率,VN-HR-14,KPI_21,结算周期,process_support
+VN-KPI-109,凭证完整率,VN-HR-14,KPI_21,结算周期,process_support
+VN-KPI-109,凭证完整率,VN-HR-14,KPI_17,递交转化率,driver_factor
+VN-KPI-110,合作方续约率,VN-IBRD-02,KPI_13,N/R 结构,driver_factor
+VN-KPI-110,合作方续约率,VN-IBRD-02,KPI_34,新签 KA 数,driver_factor
+VN-KPI-111,合作模式调整周期,VN-IBRD-02,KPI_21,结算周期,direct_correspondence
+VN-KPI-113,保司接触确认,VN-INS-01,KPI_14,预约转化率,direct_correspondence
+VN-KPI-113,保司接触确认,VN-INS-01,KPI-T01,保司Pipeline周推进数,direct_correspondence
+VN-KPI-113,保司接触确认,VN-INS-01,KPI-T02,机构周新接洽/激活数,driver_factor
+VN-KPI-114,合同签署确认,VN-INS-02,KPI_16,签单转化率,direct_correspondence
+VN-KPI-114,合同签署确认,VN-INS-02,KPI_34,新签 KA 数,driver_factor
+VN-KPI-115,授权确认,VN-INS-02,KPI_16,签单转化率,direct_correspondence
+VN-KPI-116,Portfolio管理确认,VN-INS-05,KPI-T01,保司Pipeline周推进数,direct_correspondence
+VN-KPI-117,项目交付周期,VN-JOPD-01,KPI_20,承保周期,direct_correspondence
+VN-KPI-118,交付完成率,VN-JOPD-01,KPI_20,承保周期,driver_factor
+VN-KPI-119,各模块就绪率,VN-JOPD-01,KPI_20,承保周期,driver_factor
+VN-KPI-120,销售启动周期,VN-JOPD-01,KPI_20,承保周期,value_chain_decomposition
+VN-KPI-121,培训覆盖率,VN-KAEM-01,KPI_36,新人留存率,driver_factor
+VN-KPI-121,培训覆盖率,VN-KAEM-01,KPI_37,培训改善度,driver_factor
+VN-KPI-122,培训满意度,VN-KAEM-01,KPI_37,培训改善度,direct_correspondence
+VN-KPI-123,资讯发放率,VN-KAEM-02,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-124,资讯阅读率（目前收到即算）,VN-KAEM-02,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-127,资源分配效率,VN-KAET-01,KPI_33,投资回报率,rollup_aggregation
+VN-KPI-128,业绩汇总准确率,VN-KAGA-01,KPI_01,总保费,rollup_aggregation
+VN-KPI-128,业绩汇总准确率,VN-KAGA-01,KPI_02,APE,rollup_aggregation
+VN-KPI-128,业绩汇总准确率,VN-KAGA-01,KPI_04,净营收,rollup_aggregation
+VN-KPI-128,业绩汇总准确率,VN-KAGA-01,KPI_06,管理利润,rollup_aggregation
+VN-KPI-128,业绩汇总准确率,VN-KAGA-01,KPI_09,细分市场占比,rollup_aggregation
+VN-KPI-128,业绩汇总准确率,VN-KAGA-01,KPI_12,Top N 集中度,rollup_aggregation
+VN-KPI-129,偏差对比覆盖率,VN-KAGA-01,KPI_09,细分市场占比,rollup_aggregation
+VN-KPI-129,偏差对比覆盖率,VN-KAGA-01,KPI_12,Top N 集中度,rollup_aggregation
+VN-KPI-130,策略优化闭环率,VN-KAGA-01,KPI_12,Top N 集中度,rollup_aggregation
+VN-KPI-131,上架完成率,VN-KAOP-01,KPI-T03,KA赋能动作完成率,direct_correspondence
+VN-KPI-132,从签约到出单周期,VN-KAOP-01,KPI_20,承保周期,direct_correspondence
+VN-KPI-132,从签约到出单周期,VN-KAOP-01,KPI_01,总保费,rollup_aggregation
+VN-KPI-132,从签约到出单周期,VN-KAOP-01,KPI_02,APE,rollup_aggregation
+VN-KPI-132,从签约到出单周期,VN-KAOP-01,KPI_04,净营收,rollup_aggregation
+VN-KPI-132,从签约到出单周期,VN-KAOP-01,KPI_06,管理利润,rollup_aggregation
+VN-KPI-132,从签约到出单周期,VN-KAOP-01,KPI_31,人均 APE,driver_factor
+VN-KPI-132,从签约到出单周期,VN-KAOP-01,KPI_32,人均件数,driver_factor
+VN-KPI-133,合同签回周期,VN-KASC-01,KPI_20,承保周期,direct_correspondence
+VN-KPI-134,合同签署率,VN-KASC-01,KPI_16,签单转化率,direct_correspondence
+VN-KPI-134,合同签署率,VN-KASC-01,KPI_34,新签 KA 数,driver_factor
+VN-KPI-134,合同签署率,VN-KASC-01,KPI_01,总保费,rollup_aggregation
+VN-KPI-134,合同签署率,VN-KASC-01,KPI_02,APE,rollup_aggregation
+VN-KPI-134,合同签署率,VN-KASC-01,KPI_04,净营收,rollup_aggregation
+VN-KPI-134,合同签署率,VN-KASC-01,KPI_06,管理利润,rollup_aggregation
+VN-KPI-134,合同签署率,VN-KASC-01,KPI_31,人均 APE,driver_factor
+VN-KPI-134,合同签署率,VN-KASC-01,KPI_32,人均件数,driver_factor
+VN-KPI-134,合同签署率,VN-KASC-01,KPI-T09,签单转化率(周跟踪),driver_factor
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_14,预约转化率,direct_correspondence
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_16,签单转化率,direct_correspondence
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_34,新签 KA 数,driver_factor
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_01,总保费,rollup_aggregation
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_02,APE,rollup_aggregation
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_04,净营收,rollup_aggregation
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_06,管理利润,rollup_aggregation
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_31,人均 APE,driver_factor
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_32,人均件数,driver_factor
+VN-KPI-135,商机转化率,VN-MGA-01,KPI_15,排期转化率,driver_factor
+VN-KPI-135,商机转化率,VN-MGA-01,KPI-T02,机构周新接洽/激活数,driver_factor
+VN-KPI-135,商机转化率,VN-MGA-01,KPI-T09,签单转化率(周跟踪),driver_factor
+VN-KPI-136,诊断报告交付周期,VN-MGA-01,KPI_20,承保周期,direct_correspondence
+VN-KPI-137,方案审核通过率,VN-MGA-02,KPI_15,排期转化率,driver_factor
+VN-KPI-137,方案审核通过率,VN-MGA-02,KPI-T02,机构周新接洽/激活数,driver_factor
+VN-KPI-138,方案交付周期,VN-MGA-02,KPI_20,承保周期,direct_correspondence
+VN-KPI-138,方案交付周期,VN-MGA-02,KPI_15,排期转化率,driver_factor
+VN-KPI-139,合同签署周期,VN-MGA-03,KPI_20,承保周期,direct_correspondence
+VN-KPI-139,合同签署周期,VN-MGA-03,KPI_34,新签 KA 数,driver_factor
+VN-KPI-140,交付物完整率,VN-MGA-03,KPI_17,递交转化率,driver_factor
+VN-KPI-141,合同模板复用率,VN-MGA-03,KPI_20,承保周期,driver_factor
+VN-KPI-142,合同签署周期,VN-NG-01,KPI_20,承保周期,direct_correspondence
+VN-KPI-142,合同签署周期,VN-NG-01,KPI_34,新签 KA 数,driver_factor
+VN-KPI-143,合同签署成功率,VN-NG-01,KPI_34,新签 KA 数,driver_factor
+VN-KPI-143,合同签署成功率,VN-NG-01,KPI_20,承保周期,driver_factor
+VN-KPI-144,合同归档完整率,VN-NG-01,KPI_27,审计问题数,process_support
+VN-KPI-144,合同归档完整率,VN-NG-01,KPI_17,递交转化率,driver_factor
+VN-KPI-144,合同归档完整率,VN-NG-01,KPI_20,承保周期,driver_factor
+VN-KPI-145,佣金回收周期(KPI#15),VN-PAY-01,KPI_21,结算周期,direct_correspondence
+VN-KPI-145,佣金回收周期(KPI#15),VN-PAY-01,KPI_04,净营收,rollup_aggregation
+VN-KPI-146,佣金口径准确率(KPI#16),VN-PAY-01,KPI_21,结算周期,process_support
+VN-KPI-146,佣金口径准确率(KPI#16),VN-PAY-01,KPI_04,净营收,rollup_aggregation
+VN-KPI-147,对账差异率(KPI#17),VN-PAY-02,KPI_21,结算周期,process_support
+VN-KPI-147,对账差异率(KPI#17),VN-PAY-02,KPI_24,首年撤单率,process_support
+VN-KPI-148,对账时效(KPI#18),VN-PAY-02,KPI_21,结算周期,direct_correspondence
+VN-KPI-149,应派准确率(KPI#19),VN-PAY-03,KPI_19,结算转化率,direct_correspondence
+VN-KPI-149,应派准确率(KPI#19),VN-PAY-03,KPI_21,结算周期,process_support
+VN-KPI-150,争议关闭周期(KPI#20),VN-PAY-03,KPI_20,承保周期,direct_correspondence
+VN-KPI-151,非持牌占比≤50%(IA硬指标),VN-PAY-04,KPI_27,审计问题数,process_support
+VN-KPI-151,非持牌占比≤50%(IA硬指标),VN-PAY-04,KPI_29,红线命中数,driver_factor
+VN-KPI-151,非持牌占比≤50%(IA硬指标),VN-PAY-04,KPI_09,细分市场占比,rollup_aggregation
+VN-KPI-152,同行支付≤88%(IA硬指标),VN-PAY-04,KPI_27,审计问题数,process_support
+VN-KPI-152,同行支付≤88%(IA硬指标),VN-PAY-04,KPI_29,红线命中数,driver_factor
+VN-KPI-153,实派时效(KPI#21),VN-PAY-04,KPI_21,结算周期,direct_correspondence
+VN-KPI-154,结算准确率,VN-PAY-05,KPI_21,结算周期,process_support
+VN-KPI-154,结算准确率,VN-PAY-05,KPI_24,首年撤单率,process_support
+VN-KPI-155,结算时效,VN-PAY-05,KPI_21,结算周期,direct_correspondence
+VN-KPI-156,双口径差异率,VN-PAY-05,KPI_21,结算周期,process_support
+VN-KPI-156,双口径差异率,VN-PAY-05,KPI_24,首年撤单率,process_support
+VN-KPI-156,双口径差异率,VN-PAY-05,KPI_06,管理利润,rollup_aggregation
+VN-KPI-157,理财师NPS(KPI#24),VN-PAY-06,KPI_24,首年撤单率,direct_correspondence
+VN-KPI-158,综合应派一次通过率(KPI#25),VN-PAY-06,KPI_19,结算转化率,direct_correspondence
+VN-KPI-159,活动费回款时效(KPI#26),VN-PAY-07,KPI_21,结算周期,direct_correspondence
+VN-KPI-161,报销周期(KPI#27),VN-PAY-08,KPI_21,结算周期,direct_correspondence
+VN-KPI-162,合规率,VN-PAY-08,KPI_27,审计问题数,process_support
+VN-KPI-164,对账完整度,VN-PAY-09,KPI_21,结算周期,process_support
+VN-KPI-167,高风险渠道识别率,VN-RCM-01,KPI_28,高风险件占比,direct_correspondence
+VN-KPI-167,高风险渠道识别率,VN-RCM-01,KPI_18,核保转化率,driver_factor
+VN-KPI-167,高风险渠道识别率,VN-RCM-01,KPI-T08,高风险件实时拦截率,process_support
+VN-KPI-168,审计抽样率,VN-RCM-02,KPI_27,审计问题数,direct_correspondence
+VN-KPI-169,审计问题闭环率,VN-RCM-02,KPI_27,审计问题数,direct_correspondence
+VN-KPI-170,财务审计及时率,VN-RCM-02,KPI_27,审计问题数,direct_correspondence
+VN-KPI-171,风险披露完成率,VN-RSJD-01,KPI_27,审计问题数,process_support
+VN-KPI-171,风险披露完成率,VN-RSJD-01,KPI_17,递交转化率,driver_factor
+VN-KPI-171,风险披露完成率,VN-RSJD-01,KPI_18,核保转化率,driver_factor
+VN-KPI-172,产品适当性符合率,VN-RSJD-01,KPI_27,审计问题数,process_support
+VN-KPI-172,产品适当性符合率,VN-RSJD-01,KPI_28,高风险件占比,process_support
+VN-KPI-172,产品适当性符合率,VN-RSJD-01,KPI_17,递交转化率,driver_factor
+VN-KPI-172,产品适当性符合率,VN-RSJD-01,KPI_18,核保转化率,driver_factor
+VN-KPI-172,产品适当性符合率,VN-RSJD-01,KPI-T08,高风险件实时拦截率,process_support
+VN-KPI-173,客户知情同意书签署率,VN-RSJD-01,KPI_27,审计问题数,process_support
+VN-KPI-173,客户知情同意书签署率,VN-RSJD-01,KPI_17,递交转化率,driver_factor
+VN-KPI-173,客户知情同意书签署率,VN-RSJD-01,KPI_18,核保转化率,driver_factor
+VN-KPI-174,保单签收率,VN-RSJD-02,KPI_16,签单转化率,direct_correspondence
+VN-KPI-174,保单签收率,VN-RSJD-02,KPI_50,简单赔付率,driver_factor
+VN-KPI-174,保单签收率,VN-RSJD-02,KPI-T09,签单转化率(周跟踪),driver_factor
+VN-KPI-175,保单交付时效,VN-RSJD-02,KPI_20,承保周期,direct_correspondence
+VN-KPI-175,保单交付时效,VN-RSJD-02,KPI_50,简单赔付率,driver_factor
+VN-KPI-175,保单交付时效,VN-RSJD-02,KPI_51,理赔时效,process_support
+VN-KPI-176,Pending处理时效,VN-RSJD-02,KPI_22,长周期件数,direct_correspondence
+VN-KPI-176,Pending处理时效,VN-RSJD-02,KPI_51,理赔时效,process_support
+VN-KPI-177,回访完成率,VN-RSJD-03,KPI_51,理赔时效,process_support
+VN-KPI-178,异常件整改率,VN-RSJD-03,KPI_24,首年撤单率,process_support
+VN-KPI-178,异常件整改率,VN-RSJD-03,KPI_28,高风险件占比,process_support
+VN-KPI-178,异常件整改率,VN-RSJD-03,KPI_50,简单赔付率,driver_factor
+VN-KPI-178,异常件整改率,VN-RSJD-03,KPI-T08,高风险件实时拦截率,process_support
+VN-KPI-179,档案保管合规率,VN-RSJD-03,KPI_27,审计问题数,process_support
+VN-KPI-181,洞察报告审批周期,VN-SMPS-01,KPI_21,结算周期,direct_correspondence
+VN-KPI-184,价值主张批准周期,VN-SMPS-02,KPI_21,结算周期,direct_correspondence
+VN-KPI-186,方案审批周期,VN-SMPS-03,KPI_21,结算周期,direct_correspondence
+VN-KPI-190,销售漏斗转化率,VN-SMPS-04,KPI_16,签单转化率,direct_correspondence
+VN-KPI-190,销售漏斗转化率,VN-SMPS-04,KPI_34,新签 KA 数,driver_factor
+VN-KPI-190,销售漏斗转化率,VN-SMPS-04,KPI_01,总保费,rollup_aggregation
+VN-KPI-190,销售漏斗转化率,VN-SMPS-04,KPI_02,APE,rollup_aggregation
+VN-KPI-190,销售漏斗转化率,VN-SMPS-04,KPI-T09,签单转化率(周跟踪),driver_factor
+VN-KPI-191,市场启动计划执行率,VN-SMPS-04,KPI_20,承保周期,value_chain_decomposition
+VN-KPI-191,市场启动计划执行率,VN-SMPS-04,KPI_15,排期转化率,driver_factor
+VN-KPI-191,市场启动计划执行率,VN-SMPS-04,KPI-T02,机构周新接洽/激活数,driver_factor
+VN-KPI-192,风险识别覆盖率,VN-SMPS-05,KPI_28,高风险件占比,direct_correspondence
+VN-KPI-192,风险识别覆盖率,VN-SMPS-05,KPI-T08,高风险件实时拦截率,process_support
+VN-KPI-193,高风险应对预案完备率,VN-SMPS-05,KPI_28,高风险件占比,process_support
+VN-KPI-194,风险登记册更新及时率,VN-SMPS-05,KPI_28,高风险件占比,process_support
+VN-KPI-196,目标值达成率,VN-SMPS-06,KPI_03,目标达成率,direct_correspondence
+VN-KPI-202,权益项清单覆盖率,VN-USV-01,KPI-T06,权益服务SLA响应达成率,direct_correspondence
+VN-KPI-203,TOI外发放行合规率,VN-USV-02,KPI_27,审计问题数,process_support
+VN-KPI-203,TOI外发放行合规率,VN-USV-02,KPI_29,红线命中数,driver_factor
+VN-KPI-204,Gate通过率,VN-USV-02,KPI_29,红线命中数,driver_factor
+VN-KPI-205,红线命中率,VN-USV-02,KPI_29,红线命中数,direct_correspondence
+VN-KPI-206,整合就绪确认书签署率,VN-INS-03,KPI_20,承保周期,driver_factor
+VN-KPI-207,整合就绪签署及时率,VN-INS-03,KPI_20,承保周期,driver_factor
+VN-KPI-210,保司报告按时产出率,VN-INS-06,KPI-T01,保司Pipeline周推进数,direct_correspondence
+VN-KPI-211,报告数据完整率,VN-INS-06,KPI-T10,AI Agent任务自动完成率,process_support
+VN-KPI-215,协议合规审批率,VN-INS-08,KPI_27,审计问题数,process_support
+VN-KPI-220,尽调记录完整率,VN-IBRD-01,KPI_17,递交转化率,driver_factor
+VN-KPI-221,尽调通过率,VN-IBRD-01,KPI_18,核保转化率,driver_factor
+VN-KPI-221,尽调通过率,VN-IBRD-01,KPI-T08,高风险件实时拦截率,process_support
+VN-KPI-008,U盾交接合规率,VN-BAM-01,KPI_27,审计问题数,process_support
+VN-KPI-010,银行准入合规率,VN-BAM-02,KPI_27,审计问题数,process_support
+VN-KPI-011,支票使用合规率,VN-BAM-02,KPI_27,审计问题数,process_support
+VN-KPI-014,资金调拨合规率,VN-CFM-01,KPI_27,审计问题数,process_support
+VN-KPI-034,合规通过率,VN-EQ-05,KPI_27,审计问题数,process_support
+VN-KPI-040,服务上架前置合规率,VN-EQ-08,KPI_27,审计问题数,process_support
+VN-KPI-085,合同合规率,VN-HR-07,KPI_27,审计问题数,process_support
+VN-KPI-162,合规率,VN-PAY-08,KPI_27,审计问题数,process_support
+VN-KPI-167,高风险渠道识别率,VN-RCM-01,KPI_28,高风险件占比,process_support
+VN-KPI-168,审计抽样率,VN-RCM-02,KPI_27,审计问题数,process_support
+VN-KPI-169,审计问题闭环率,VN-RCM-02,KPI_27,审计问题数,process_support
+VN-KPI-170,财务审计及时率,VN-RCM-02,KPI_27,审计问题数,process_support
+VN-KPI-171,风险披露完成率,VN-RSJD-01,KPI_27,审计问题数,process_support
+VN-KPI-179,档案保管合规率,VN-RSJD-03,KPI_27,审计问题数,process_support
+VN-KPI-192,风险识别覆盖率,VN-SMPS-05,KPI_28,高风险件占比,process_support
+VN-KPI-193,高风险应对预案完备率,VN-SMPS-05,KPI_28,高风险件占比,process_support
+VN-KPI-203,TOI外发放行合规率,VN-USV-02,KPI_27,审计问题数,process_support
+VN-KPI-205,红线命中率,VN-USV-02,KPI_29,红线命中数,driver_factor
+VN-KPI-215,协议合规审批率,VN-INS-08,KPI_27,审计问题数,process_support
+VN-KPI-224,合规评估完成率（待调研）,VN-URD-02,KPI_27,审计问题数,process_support
