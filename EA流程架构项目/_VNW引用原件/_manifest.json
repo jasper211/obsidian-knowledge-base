@@ -374,7 +374,24 @@
       "dest": "kpi_crosswalk_154_to_43_v2.1.csv",
       "hash": "df74dac1695768c8eb2781954cfdf0cf7d95412e82d82ed5a80b0bd20ad4565f",
       "synced_at": "2026-07-29T01:51:09.883653"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.44.xlsx::md": {
+      "dest": "D1_价值节点清单_V3.44.md",
+      "source_hash": "fe9411dba143f1c116df13518b39bf4ec153829c13c1a0f65418fe7ba63f3cd9",
+      "synced_at": "2026-07-30T01:43:28.651532",
+      "note": "由 D1_价值节点清单_V3.44.xlsx 机械转换生成，非独立原件"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4流程_Skill封装可行性评估_确认最终版_v2.xlsx": {
+      "dest": "L4流程_Skill封装可行性评估_确认最终版_v2.xlsx",
+      "hash": "6268a4d8bd77a8cb0881216944901a39146771676286770e98078fadb8deeb4c",
+      "synced_at": "2026-07-30T01:43:28.654928"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4流程_Skill封装可行性评估_确认最终版_v2.xlsx::md": {
+      "dest": "L4流程_Skill封装可行性评估_确认最终版_v2.md",
+      "source_hash": "6268a4d8bd77a8cb0881216944901a39146771676286770e98078fadb8deeb4c",
+      "synced_at": "2026-07-30T01:43:28.760006",
+      "note": "由 L4流程_Skill封装可行性评估_确认最终版_v2.xlsx 机械转换生成，非独立原件"
     }
   },
-  "updated_at": "2026-07-29T02:00:06.400305"
+  "updated_at": "2026-07-30T01:43:28.760329"
 }
