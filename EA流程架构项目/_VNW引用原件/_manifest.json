@@ -20,11 +20,6 @@
       "hash": "f8afb70c973b10037a0e38661b004b53e458bf0162ad40758066f4ba259a96da",
       "synced_at": "2026-07-28T23:59:34.080490"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-CDA-SRA_权益客户需求诊断与服务需求分析_V1.1.md": {
-      "dest": "流程蓝图_L3-CDA-SRA_权益客户需求诊断与服务需求分析_V1.1.md",
-      "hash": "13e9d687e5c7fb4cc5a1cd31af7c5e9f00f141050a2f2cb4c37f9ee45eed5ce4",
-      "synced_at": "2026-07-28T23:59:34.080851"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-CDS_权益相关商务合同起草与签订_V1.0.md": {
       "dest": "流程蓝图_L3-CDS_权益相关商务合同起草与签订_V1.0.md",
       "hash": "2f1a137cca1811f8930975d0d957c7e46370856d088ae883356aab275cd6a981",
@@ -32,8 +27,8 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-CFM_现金流规划与资金调度管理_V1.0.md": {
       "dest": "流程蓝图_L3-CFM_现金流规划与资金调度管理_V1.0.md",
-      "hash": "6e7bb727ed274e00460bf31816617e006f1d72d41176275932cdb5e2f26c77a7",
-      "synced_at": "2026-07-28T23:59:34.081520"
+      "hash": "cceeac8012619d27d1fc15e46ca13bcacc5ac5033802ccdb206a19b27c79bf39",
+      "synced_at": "2026-07-31T02:00:05.378607"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-COB_客户入驻权益服务启动_V1.0.md": {
       "dest": "流程蓝图_L3-COB_客户入驻权益服务启动_V1.0.md",
@@ -42,23 +37,18 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-COM_佣金全链路管理_V1.0.md": {
       "dest": "流程蓝图_L3-COM_佣金全链路管理_V1.0.md",
-      "hash": "15c03ce801cd025c8f8ee598d27157de5e5b795aab243e3873df3d4809ae8e25",
-      "synced_at": "2026-07-28T23:59:34.082271"
+      "hash": "bc926afb63bbf28e01182e24436fd9b8933f5ec92900ba1dc0d3af2a7f1fad25",
+      "synced_at": "2026-07-31T02:00:05.379915"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-CPM_流程持续监控与优化闭环管理_V1.0.md": {
       "dest": "流程蓝图_L3-CPM_流程持续监控与优化闭环管理_V1.0.md",
-      "hash": "9d97fe50c3aa6e3706355ec66c801b2446fabb96d5d3fbc258573f9f3a198632",
-      "synced_at": "2026-07-28T23:59:34.082606"
+      "hash": "74543059db29d968dbff1716bb033b2f3ec289600d1c0213bcef4f2ae68efedb",
+      "synced_at": "2026-07-31T02:00:05.380855"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-CRR_合作伙伴续约管理_V1.2.md": {
       "dest": "流程蓝图_L3-CRR_合作伙伴续约管理_V1.2.md",
       "hash": "014908d88c43da2b12ad3fe79309cac4af6b05dff4a4a7463a0546e1c1f99d7b",
       "synced_at": "2026-07-28T23:59:34.082937"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-EO_理财师权益分级与绩效监控_V1.0.md": {
-      "dest": "流程蓝图_L3-EO_理财师权益分级与绩效监控_V1.0.md",
-      "hash": "33df49d69dedf252948f87e5b088f03764fc51405b29d98a69017ccb6a4700c0",
-      "synced_at": "2026-07-28T23:59:34.083241"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-FBA_理财师业务分析_V1.0.md": {
       "dest": "流程蓝图_L3-FBA_理财师业务分析_V1.0.md",
@@ -260,11 +250,6 @@
       "hash": "9a57eee3ad8355d8f1e5811f1c0191d9d16892701a826a69a8fbfff82a95ebad",
       "synced_at": "2026-07-28T23:59:34.097957"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SFC_策略可行性评估与沟通流程_V1.0.md": {
-      "dest": "流程蓝图_L3-SFC_策略可行性评估与沟通流程_V1.0.md",
-      "hash": "1f894d376a4a4e569b6548cd4f78403b4f6eaba5361c2592c6935d7907540615",
-      "synced_at": "2026-07-28T23:59:34.098316"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SLM_权益上市推广_V1.0.md": {
       "dest": "流程蓝图_L3-SLM_权益上市推广_V1.0.md",
       "hash": "0f23abe718e2929f9a5805bc7582e37cf2f17c8885f947e74b6ecce6d93b410c",
@@ -305,15 +290,10 @@
       "hash": "9355de8c26be2e36ffaaf2fdc57f25572f58eae03bee8338a3d8ebb31f58e9af",
       "synced_at": "2026-07-28T23:59:34.101295"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SVC_权益服务执行与支持（合并提案）_V1.0.md": {
-      "dest": "流程蓝图_L3-SVC_权益服务执行与支持（合并提案）_V1.0.md",
-      "hash": "e5876b8ac89914e78381b259807c9daf89e9dd7a345574aea8a1cb7fae1f9f30",
-      "synced_at": "2026-07-28T23:59:34.101654"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-UCA_联合运营合约E2E_V1.0.md": {
       "dest": "流程蓝图_L3-UCA_联合运营合约E2E_V1.0.md",
-      "hash": "c5b82815903979cdf7403cb3f350547b6dc64a8f13cf91c99e1ed452a99c802a",
-      "synced_at": "2026-07-28T23:59:34.102035"
+      "hash": "91416bca9e10967797ceec70b3818ab5d6ba08ad95eb943e687904ccd10566fa",
+      "synced_at": "2026-07-31T02:00:05.391027"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-URD_联合运营需求诊断_V1.3.md": {
       "dest": "流程蓝图_L3-URD_联合运营需求诊断_V1.3.md",
@@ -327,8 +307,8 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-USV_运营服务事项设计与内部验证_V1.1.md": {
       "dest": "流程蓝图_L3-USV_运营服务事项设计与内部验证_V1.1.md",
-      "hash": "14a6946efc33a2112a4c965d9c1ec3e4aeedd2bdd3b10911b56eded604891165",
-      "synced_at": "2026-07-28T23:59:34.103298"
+      "hash": "aab93d61eaee1edef4e2e0f7685a26795d33955f3ac748ca69f5dc09ee2ea474",
+      "synced_at": "2026-07-31T02:00:05.392028"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-VPV_价值主张设计与验证流程_V1.1.md": {
       "dest": "流程蓝图_L3-VPV_价值主张设计与验证流程_V1.1.md",
@@ -350,36 +330,10 @@
       "hash": "b2bedb8700ede67d84881d7da4fff73fcff790af786d4dba44a63a79d88484d2",
       "synced_at": "2026-07-28T23:59:34.105986"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.44.xlsx": {
-      "dest": "D1_价值节点清单_V3.44.xlsx",
-      "hash": "fe9411dba143f1c116df13518b39bf4ec153829c13c1a0f65418fe7ba63f3cd9",
-      "synced_at": "2026-07-29T01:51:09.881202"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.11.csv": {
-      "dest": "D2_价值节点_L3映射表_V2.11.csv",
-      "hash": "115779bcea79e91255bb19da720366a0b2fd1221a2635c7d63e6c5a1226375ca",
-      "synced_at": "2026-07-29T01:51:09.881945"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/dim_kpi_v3.3_权威层.csv": {
       "dest": "dim_kpi_v3.3_权威层.csv",
       "hash": "f7543eca764260c5ef2d264ad0de1186566bfc83eeb01fa752cc4eb38bca5807",
       "synced_at": "2026-07-29T01:51:09.882340"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/kpi_registry_154_v2.1.csv": {
-      "dest": "kpi_registry_154_v2.1.csv",
-      "hash": "2e7775055ceaa1917b8f456fa4a112d47ba3e298ce12554f9407cc0ebebd2bff",
-      "synced_at": "2026-07-29T01:51:09.882758"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.1.csv": {
-      "dest": "kpi_crosswalk_154_to_43_v2.1.csv",
-      "hash": "df74dac1695768c8eb2781954cfdf0cf7d95412e82d82ed5a80b0bd20ad4565f",
-      "synced_at": "2026-07-29T01:51:09.883653"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.44.xlsx::md": {
-      "dest": "D1_价值节点清单_V3.44.md",
-      "source_hash": "fe9411dba143f1c116df13518b39bf4ec153829c13c1a0f65418fe7ba63f3cd9",
-      "synced_at": "2026-07-30T01:43:28.651532",
-      "note": "由 D1_价值节点清单_V3.44.xlsx 机械转换生成，非独立原件"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4流程_Skill封装可行性评估_确认最终版_v2.xlsx": {
       "dest": "L4流程_Skill封装可行性评估_确认最终版_v2.xlsx",
@@ -391,7 +345,88 @@
       "source_hash": "6268a4d8bd77a8cb0881216944901a39146771676286770e98078fadb8deeb4c",
       "synced_at": "2026-07-30T01:43:28.760006",
       "note": "由 L4流程_Skill封装可行性评估_确认最终版_v2.xlsx 机械转换生成，非独立原件"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-ACTV_商考及活动执行_V1.1.md": {
+      "dest": "流程蓝图_L3-ACTV_商考及活动执行_V1.1.md",
+      "hash": "87d9cfe377abbc84561101e8e316b6193823f734d90fac1f815bbf53485c3e80",
+      "synced_at": "2026-07-31T02:00:05.375517"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-BRND_品牌营销服务执行_V1.1.md": {
+      "dest": "流程蓝图_L3-BRND_品牌营销服务执行_V1.1.md",
+      "hash": "2d2a7074fa3d7aa174bd048c4d27f67790337dece81f8647c48f5039d4284f2a",
+      "synced_at": "2026-07-31T02:00:05.376699"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-CDA-SRA_权益客户需求诊断与服务需求分析_V1.2.md": {
+      "dest": "流程蓝图_L3-CDA-SRA_权益客户需求诊断与服务需求分析_V1.2.md",
+      "hash": "500eb0d6baa61c341c2b2fc7bd0b3b2f314b2bbe407692a23444e04b288431f5",
+      "synced_at": "2026-07-31T02:00:05.377640"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-COCH_教练陪跑服务执行_V1.1.md": {
+      "dest": "流程蓝图_L3-COCH_教练陪跑服务执行_V1.1.md",
+      "hash": "f14f21c92f77d7b1b031f7acdc85f719a11cfdd6064ffd4d41931e1bd2a4a36f",
+      "synced_at": "2026-07-31T02:00:05.379218"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-CONS_咨询服务执行_V1.1.md": {
+      "dest": "流程蓝图_L3-CONS_咨询服务执行_V1.1.md",
+      "hash": "f34af7a452e1691cf66313df9aab244324cd89096203d42f5660996add942947",
+      "synced_at": "2026-07-31T02:00:05.380249"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-EO_理财师权益分级与绩效监控_V1.1.md": {
+      "dest": "流程蓝图_L3-EO_理财师权益分级与绩效监控_V1.1.md",
+      "hash": "ca07663322a3e97688d6835e3fde5be784187e613346ebc4088e269fcf59adc4",
+      "synced_at": "2026-07-31T02:00:05.381357"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IMED_移民教育服务执行_V1.1.md": {
+      "dest": "流程蓝图_L3-IMED_移民教育服务执行_V1.1.md",
+      "hash": "4f267ad95499a7f08299ad0284b7392dac7ef63cb057cf557e3d6de4c5e86cf6",
+      "synced_at": "2026-07-31T02:00:05.384461"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SFC_策略可行性评估与沟通流程_V1.1.md": {
+      "dest": "流程蓝图_L3-SFC_策略可行性评估与沟通流程_V1.1.md",
+      "hash": "8bbbcb6bf0623a183588f6969b2a5c03e8e8090320f815ca6a1b959f62cfa043",
+      "synced_at": "2026-07-31T02:00:05.388162"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-STLM_结算服务执行_V1.1.md": {
+      "dest": "流程蓝图_L3-STLM_结算服务执行_V1.1.md",
+      "hash": "f740a2761784656057777e80b86237e708f335961ac9e739e28084f112f1ab64",
+      "synced_at": "2026-07-31T02:00:05.389409"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-TRNG_课程培训服务执行_V1.1.md": {
+      "dest": "流程蓝图_L3-TRNG_课程培训服务执行_V1.1.md",
+      "hash": "2cbbeb9c6707e3d6775e1e53177422fdb163a90f2001d3dbdb93a8c4548953a2",
+      "synced_at": "2026-07-31T02:00:05.390005"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-TRVL_机酒车服务执行_V1.1.md": {
+      "dest": "流程蓝图_L3-TRVL_机酒车服务执行_V1.1.md",
+      "hash": "540c70523a40bb20586b09184cdb1287f1a56838700c827f41841d7b5f07766f",
+      "synced_at": "2026-07-31T02:00:05.390490"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.54.xlsx": {
+      "dest": "D1_价值节点清单_V3.54.xlsx",
+      "hash": "a17b2153398ca1d17ffa53357b16593600e8dcd31d61d00b094a6eb66eb98a1c",
+      "synced_at": "2026-07-31T02:00:05.393967"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.54.xlsx::md": {
+      "dest": "D1_价值节点清单_V3.54.md",
+      "source_hash": "a17b2153398ca1d17ffa53357b16593600e8dcd31d61d00b094a6eb66eb98a1c",
+      "synced_at": "2026-07-31T02:00:05.598118",
+      "note": "由 D1_价值节点清单_V3.54.xlsx 机械转换生成，非独立原件"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.13.csv": {
+      "dest": "D2_价值节点_L3映射表_V2.13.csv",
+      "hash": "d2767fcc3645d63f34cf14dc8e29558c61599fe66aaef2325df899ea13a123fb",
+      "synced_at": "2026-07-31T02:00:05.598981"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/kpi_registry_154_v2.2.csv": {
+      "dest": "kpi_registry_154_v2.2.csv",
+      "hash": "288bae7f3587fb84533dd92e39dd2579823430bf197c1acc0c1e6a400eae7378",
+      "synced_at": "2026-07-31T02:00:05.599592"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.2.csv": {
+      "dest": "kpi_crosswalk_154_to_43_v2.2.csv",
+      "hash": "f4ad00ff81ac9fcbf205806362b2dcfefb201fcc117f56712e5d28e667db364a",
+      "synced_at": "2026-07-31T02:00:05.600135"
     }
   },
-  "updated_at": "2026-07-30T02:00:05.871732"
+  "updated_at": "2026-07-31T02:00:05.604119"
 }
