@@ -396,27 +396,6 @@
       "hash": "2cbbeb9c6707e3d6775e1e53177422fdb163a90f2001d3dbdb93a8c4548953a2",
       "synced_at": "2026-07-31T02:00:05.390005"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-TRVL_机酒车服务执行_V1.1.md": {
-      "dest": "流程蓝图_L3-TRVL_机酒车服务执行_V1.1.md",
-      "hash": "540c70523a40bb20586b09184cdb1287f1a56838700c827f41841d7b5f07766f",
-      "synced_at": "2026-07-31T02:00:05.390490"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.54.xlsx": {
-      "dest": "D1_价值节点清单_V3.54.xlsx",
-      "hash": "a17b2153398ca1d17ffa53357b16593600e8dcd31d61d00b094a6eb66eb98a1c",
-      "synced_at": "2026-07-31T02:00:05.393967"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.54.xlsx::md": {
-      "dest": "D1_价值节点清单_V3.54.md",
-      "source_hash": "a17b2153398ca1d17ffa53357b16593600e8dcd31d61d00b094a6eb66eb98a1c",
-      "synced_at": "2026-07-31T02:00:05.598118",
-      "note": "由 D1_价值节点清单_V3.54.xlsx 机械转换生成，非独立原件"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.13.csv": {
-      "dest": "D2_价值节点_L3映射表_V2.13.csv",
-      "hash": "d2767fcc3645d63f34cf14dc8e29558c61599fe66aaef2325df899ea13a123fb",
-      "synced_at": "2026-07-31T02:00:05.598981"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/kpi_registry_154_v2.2.csv": {
       "dest": "kpi_registry_154_v2.2.csv",
       "hash": "288bae7f3587fb84533dd92e39dd2579823430bf197c1acc0c1e6a400eae7378",
@@ -426,7 +405,28 @@
       "dest": "kpi_crosswalk_154_to_43_v2.2.csv",
       "hash": "f4ad00ff81ac9fcbf205806362b2dcfefb201fcc117f56712e5d28e667db364a",
       "synced_at": "2026-07-31T02:00:05.600135"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-TRVL_机酒车服务执行_V1.2.md": {
+      "dest": "流程蓝图_L3-TRVL_机酒车服务执行_V1.2.md",
+      "hash": "7bae3cfd7b568d92d3ff5c205c00ee6ec4e1696d8f215c41aedfa2eee5a582b8",
+      "synced_at": "2026-08-01T02:17:10.619013"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.57.xlsx": {
+      "dest": "D1_价值节点清单_V3.57.xlsx",
+      "hash": "aea0a01a8b28101a9fb9110113a295075b1fcac99e19ebd89b521c8e33b2964d",
+      "synced_at": "2026-08-01T02:17:10.621790"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.57.xlsx::md": {
+      "dest": "D1_价值节点清单_V3.57.md",
+      "source_hash": "aea0a01a8b28101a9fb9110113a295075b1fcac99e19ebd89b521c8e33b2964d",
+      "synced_at": "2026-08-01T02:17:10.818117",
+      "note": "由 D1_价值节点清单_V3.57.xlsx 机械转换生成，非独立原件"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.14.csv": {
+      "dest": "D2_价值节点_L3映射表_V2.14.csv",
+      "hash": "b83d809cd6431261a0a0f2fc5d34996e2ca777121c2d15fc8cfad6cf13fa4f73",
+      "synced_at": "2026-08-01T02:17:10.819469"
     }
   },
-  "updated_at": "2026-07-31T02:00:05.604119"
+  "updated_at": "2026-08-01T02:17:10.823967"
 }
