@@ -285,11 +285,6 @@
       "hash": "e80e039b960dd5e355230fa195365a7b8f77c1c59831ee3c42f20099d20358ac",
       "synced_at": "2026-07-28T23:59:34.100937"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SSVA_服务结算与价值核算_V1.2.md": {
-      "dest": "流程蓝图_L3-SSVA_服务结算与价值核算_V1.2.md",
-      "hash": "9355de8c26be2e36ffaaf2fdc57f25572f58eae03bee8338a3d8ebb31f58e9af",
-      "synced_at": "2026-07-28T23:59:34.101295"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-UCA_联合运营合约E2E_V1.0.md": {
       "dest": "流程蓝图_L3-UCA_联合运营合约E2E_V1.0.md",
       "hash": "91416bca9e10967797ceec70b3818ab5d6ba08ad95eb943e687904ccd10566fa",
@@ -413,20 +408,25 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.57.xlsx": {
       "dest": "D1_价值节点清单_V3.57.xlsx",
-      "hash": "aea0a01a8b28101a9fb9110113a295075b1fcac99e19ebd89b521c8e33b2964d",
-      "synced_at": "2026-08-01T02:17:10.621790"
+      "hash": "4e94c0e1f2656eecd12261db12feb5f55476e07397f72d3c6c299d90c47beb85",
+      "synced_at": "2026-08-03T02:00:06.233013"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.57.xlsx::md": {
       "dest": "D1_价值节点清单_V3.57.md",
-      "source_hash": "aea0a01a8b28101a9fb9110113a295075b1fcac99e19ebd89b521c8e33b2964d",
-      "synced_at": "2026-08-01T02:17:10.818117",
+      "source_hash": "4e94c0e1f2656eecd12261db12feb5f55476e07397f72d3c6c299d90c47beb85",
+      "synced_at": "2026-08-03T02:00:06.424114",
       "note": "由 D1_价值节点清单_V3.57.xlsx 机械转换生成，非独立原件"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.14.csv": {
       "dest": "D2_价值节点_L3映射表_V2.14.csv",
       "hash": "b83d809cd6431261a0a0f2fc5d34996e2ca777121c2d15fc8cfad6cf13fa4f73",
       "synced_at": "2026-08-01T02:17:10.819469"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SSVA_服务结算与价值核算_V1.3.md": {
+      "dest": "流程蓝图_L3-SSVA_服务结算与价值核算_V1.3.md",
+      "hash": "3965787b7924507bc57b7309c4e114a397d2b559a30234aeb35e29392e846ad2",
+      "synced_at": "2026-08-03T02:00:06.229804"
     }
   },
-  "updated_at": "2026-08-02T02:22:27.990498"
+  "updated_at": "2026-08-03T02:00:06.429793"
 }
