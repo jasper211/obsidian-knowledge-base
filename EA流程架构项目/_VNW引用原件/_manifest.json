@@ -312,13 +312,13 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/治理规范/DICT_流程数据库数据字典_V2_项目交付.md": {
       "dest": "DICT_流程数据库数据字典_V2_项目交付.md",
-      "hash": "0ed58f458900df3e259cd593363999738fe51565ad0c1b5229eb5be2e2546512",
-      "synced_at": "2026-07-28T23:59:34.104635"
+      "hash": "86c3b95dbee120b6d51698a7594d6871a73d92789d07c0ff9e7a5bc774defcf7",
+      "synced_at": "2026-08-03T04:36:43.198716"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4两阶段复核_全量368条_合并版_v1.0.csv": {
       "dest": "L4两阶段复核_全量368条_合并版_v1.0.csv",
-      "hash": "076ceb97960dca35e2a7b0bd45a076a15f01206683ceb4ba65d2214856978b45",
-      "synced_at": "2026-07-28T23:59:34.105482"
+      "hash": "de6de3eaf6b35a4bc456832b2a4e846024d413262a2f3e4b31281b255df78704",
+      "synced_at": "2026-08-03T04:36:43.419112"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/HR工作材料/D_EA项目组织优化/2026-07-20_68L3岗位族归属设计_v6.1_SUBMITTED.md": {
       "dest": "2026-07-20_68L3岗位族归属设计_v6.1_SUBMITTED.md",
@@ -332,13 +332,13 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4流程_Skill封装可行性评估_确认最终版_v2.xlsx": {
       "dest": "L4流程_Skill封装可行性评估_确认最终版_v2.xlsx",
-      "hash": "6268a4d8bd77a8cb0881216944901a39146771676286770e98078fadb8deeb4c",
-      "synced_at": "2026-07-30T01:43:28.654928"
+      "hash": "83ac6fa9d08aa726456c6784bb460d652dacd27eea708ad73ed1031b4d6b4e26",
+      "synced_at": "2026-08-03T04:36:43.420346"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4流程_Skill封装可行性评估_确认最终版_v2.xlsx::md": {
       "dest": "L4流程_Skill封装可行性评估_确认最终版_v2.md",
-      "source_hash": "6268a4d8bd77a8cb0881216944901a39146771676286770e98078fadb8deeb4c",
-      "synced_at": "2026-07-30T01:43:28.760006",
+      "source_hash": "83ac6fa9d08aa726456c6784bb460d652dacd27eea708ad73ed1031b4d6b4e26",
+      "synced_at": "2026-08-03T04:36:43.525024",
       "note": "由 L4流程_Skill封装可行性评估_确认最终版_v2.xlsx 机械转换生成，非独立原件"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-ACTV_商考及活动执行_V1.1.md": {
@@ -406,27 +406,27 @@
       "hash": "7bae3cfd7b568d92d3ff5c205c00ee6ec4e1696d8f215c41aedfa2eee5a582b8",
       "synced_at": "2026-08-01T02:17:10.619013"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.57.xlsx": {
-      "dest": "D1_价值节点清单_V3.57.xlsx",
-      "hash": "4e94c0e1f2656eecd12261db12feb5f55476e07397f72d3c6c299d90c47beb85",
-      "synced_at": "2026-08-03T02:00:06.233013"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.57.xlsx::md": {
-      "dest": "D1_价值节点清单_V3.57.md",
-      "source_hash": "4e94c0e1f2656eecd12261db12feb5f55476e07397f72d3c6c299d90c47beb85",
-      "synced_at": "2026-08-03T02:00:06.424114",
-      "note": "由 D1_价值节点清单_V3.57.xlsx 机械转换生成，非独立原件"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.14.csv": {
-      "dest": "D2_价值节点_L3映射表_V2.14.csv",
-      "hash": "b83d809cd6431261a0a0f2fc5d34996e2ca777121c2d15fc8cfad6cf13fa4f73",
-      "synced_at": "2026-08-01T02:17:10.819469"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SSVA_服务结算与价值核算_V1.3.md": {
       "dest": "流程蓝图_L3-SSVA_服务结算与价值核算_V1.3.md",
       "hash": "3965787b7924507bc57b7309c4e114a397d2b559a30234aeb35e29392e846ad2",
       "synced_at": "2026-08-03T02:00:06.229804"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.58.xlsx": {
+      "dest": "D1_价值节点清单_V3.58.xlsx",
+      "hash": "c8482b072cea36feb6afb452c47bc4e3fce4cc483bdf5bbb73bf333dc344c2e2",
+      "synced_at": "2026-08-03T04:36:43.200149"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.58.xlsx::md": {
+      "dest": "D1_价值节点清单_V3.58.md",
+      "source_hash": "c8482b072cea36feb6afb452c47bc4e3fce4cc483bdf5bbb73bf333dc344c2e2",
+      "synced_at": "2026-08-03T04:36:43.414320",
+      "note": "由 D1_价值节点清单_V3.58.xlsx 机械转换生成，非独立原件"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.15.csv": {
+      "dest": "D2_价值节点_L3映射表_V2.15.csv",
+      "hash": "6a154c73e0b30e93513444dc542a308ffd40f854bd17f6b05a39a7bbf7a37b71",
+      "synced_at": "2026-08-03T04:36:43.416046"
     }
   },
-  "updated_at": "2026-08-03T02:00:06.429793"
+  "updated_at": "2026-08-03T05:30:01.882662"
 }

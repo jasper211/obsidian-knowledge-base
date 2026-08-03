@@ -1,4 +1,9 @@
 ---
+owner: "Terresa / Carrie / Jasper"
+status: legacy_published_pending_revalidation
+source: "M-01_方法论与标准/VS-CSV列结构规范_V1.md + M-02_架构全景/L3-definition-schema.yaml + L4-Agent化评估框架.md + M-04_项目工作区/流程数据库星型模型设计"
+valid_until: 2026-12-31
+version: "2.0"
 文档类型: 03_发布成果/治理规范
 版本: V2.0
 创建日期: 2026-04-22
