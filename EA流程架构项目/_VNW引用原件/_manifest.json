@@ -92,18 +92,13 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IAC-AUTH_授权确认_V1.0.md": {
       "dest": "流程蓝图_L3-IAC-AUTH_授权确认_V1.0.md",
-      "hash": "3e69d68cbdc793246ed7b442568cf7e3e3d6ad0b117c820e396515b163c69e4d",
-      "synced_at": "2026-07-28T23:59:34.086360"
+      "hash": "c57d240b2a8c8bc47b00d11fce5744f2a4acc0be5c07870328362b2ceab56905",
+      "synced_at": "2026-08-05T21:00:10.778984"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IAC-NEG_合同谈判_V1.0.md": {
       "dest": "流程蓝图_L3-IAC-NEG_合同谈判_V1.0.md",
-      "hash": "f389c27e725f7cd9dc3e1068e098b3e0721e1323c00253c18874ec00f17c6fac",
-      "synced_at": "2026-07-28T23:59:34.086699"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IAC_保司授权与合作框架_V1.0.md": {
-      "dest": "流程蓝图_L3-IAC_保司授权与合作框架_V1.0.md",
-      "hash": "546f3db28e0392e3df28f9cad91461568114af08ab3e14f397f30830b8ce2052",
-      "synced_at": "2026-07-28T23:59:34.087139"
+      "hash": "f4a745922dc57b0b8010763071ea938bb2e6f4b42cab155ae9414a46031bf87c",
+      "synced_at": "2026-08-05T21:00:10.779536"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IAO_保司合作接洽与评估_V1.1.md": {
       "dest": "流程蓝图_L3-IAO_保司合作接洽与评估_V1.1.md",
@@ -134,16 +129,6 @@
       "dest": "流程蓝图_L3-IPI-ONB_产品上架_V1.0.md",
       "hash": "23cb07a73fe0643a93589648c4bcac1319696f64fbb4e4a4204fafd8121f329b",
       "synced_at": "2026-07-28T23:59:34.089328"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IPI-Ops_日常运营_V1.0.md": {
-      "dest": "流程蓝图_L3-IPI-Ops_日常运营_V1.0.md",
-      "hash": "046e0b95c781155e06f28286757af5374381d88c815c26c65c2514342eb4eed3",
-      "synced_at": "2026-07-28T23:59:34.089651"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IPI_保司产品上架与业务运营_V1.0.md": {
-      "dest": "流程蓝图_L3-IPI_保司产品上架与业务运营_V1.0.md",
-      "hash": "e7f7cb3d28fef6da106c2a6189142c4bac3b59111840916324c3247fad05a656",
-      "synced_at": "2026-07-28T23:59:34.089985"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IRI_保司资源整合与深度对接_V1.1.md": {
       "dest": "流程蓝图_L3-IRI_保司资源整合与深度对接_V1.1.md",
@@ -252,8 +237,8 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SLM_权益上市推广_V1.0.md": {
       "dest": "流程蓝图_L3-SLM_权益上市推广_V1.0.md",
-      "hash": "0f23abe718e2929f9a5805bc7582e37cf2f17c8885f947e74b6ecce6d93b410c",
-      "synced_at": "2026-07-28T23:59:34.098656"
+      "hash": "8c76539ec1d3fa04cead406e03bdab2fa58c683f2d434ee97e97737c961944df",
+      "synced_at": "2026-08-05T21:00:10.782838"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SOB_服务项寻源与上架_V1.0.md": {
       "dest": "流程蓝图_L3-SOB_服务项寻源与上架_V1.0.md",
@@ -403,30 +388,35 @@
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-TRVL_机酒车服务执行_V1.2.md": {
       "dest": "流程蓝图_L3-TRVL_机酒车服务执行_V1.2.md",
-      "hash": "7bae3cfd7b568d92d3ff5c205c00ee6ec4e1696d8f215c41aedfa2eee5a582b8",
-      "synced_at": "2026-08-01T02:17:10.619013"
+      "hash": "07fd82624a12d3b430e906916cdf598699920968aae1d4da9411607459b4fa8a",
+      "synced_at": "2026-08-05T21:00:10.784173"
     },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-SSVA_服务结算与价值核算_V1.3.md": {
       "dest": "流程蓝图_L3-SSVA_服务结算与价值核算_V1.3.md",
       "hash": "3965787b7924507bc57b7309c4e114a397d2b559a30234aeb35e29392e846ad2",
       "synced_at": "2026-08-03T02:00:06.229804"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.58.xlsx": {
-      "dest": "D1_价值节点清单_V3.58.xlsx",
-      "hash": "c8482b072cea36feb6afb452c47bc4e3fce4cc483bdf5bbb73bf333dc344c2e2",
-      "synced_at": "2026-08-03T04:36:43.200149"
+    "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-IPI-OPS_日常运营_V1.0.md": {
+      "dest": "流程蓝图_L3-IPI-OPS_日常运营_V1.0.md",
+      "hash": "0acc3a6633eced332e10d42a28553560fc5613851924fa75a46001233f160914",
+      "synced_at": "2026-08-05T21:00:10.780582"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.58.xlsx::md": {
-      "dest": "D1_价值节点清单_V3.58.md",
-      "source_hash": "c8482b072cea36feb6afb452c47bc4e3fce4cc483bdf5bbb73bf333dc344c2e2",
-      "synced_at": "2026-08-03T04:36:43.414320",
-      "note": "由 D1_价值节点清单_V3.58.xlsx 机械转换生成，非独立原件"
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.61.xlsx": {
+      "dest": "D1_价值节点清单_V3.61.xlsx",
+      "hash": "e0a5ff1a93fb3f3002b378431eac681b155f21125ab0db0f76f950c0a13ea153",
+      "synced_at": "2026-08-05T21:00:10.786274"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.15.csv": {
-      "dest": "D2_价值节点_L3映射表_V2.15.csv",
-      "hash": "6a154c73e0b30e93513444dc542a308ffd40f854bd17f6b05a39a7bbf7a37b71",
-      "synced_at": "2026-08-03T04:36:43.416046"
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.61.xlsx::md": {
+      "dest": "D1_价值节点清单_V3.61.md",
+      "source_hash": "e0a5ff1a93fb3f3002b378431eac681b155f21125ab0db0f76f950c0a13ea153",
+      "synced_at": "2026-08-05T21:00:10.980082",
+      "note": "由 D1_价值节点清单_V3.61.xlsx 机械转换生成，非独立原件"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.19.csv": {
+      "dest": "D2_价值节点_L3映射表_V2.19.csv",
+      "hash": "23c3a3768e01095077b7b7597e00747e7741a40cbabf248f688f2fd9590173b8",
+      "synced_at": "2026-08-05T21:00:10.982227"
     }
   },
-  "updated_at": "2026-08-04T21:00:09.476978"
+  "updated_at": "2026-08-05T21:00:10.987154"
 }
