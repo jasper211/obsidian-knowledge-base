@@ -401,22 +401,22 @@
       "hash": "0acc3a6633eced332e10d42a28553560fc5613851924fa75a46001233f160914",
       "synced_at": "2026-08-06T20:56:18.174259"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.61.xlsx": {
-      "dest": "D1_价值节点清单_V3.61.xlsx",
-      "hash": "e0a5ff1a93fb3f3002b378431eac681b155f21125ab0db0f76f950c0a13ea153",
-      "synced_at": "2026-08-05T21:00:10.786274"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.61.xlsx::md": {
-      "dest": "D1_价值节点清单_V3.61.md",
-      "source_hash": "e0a5ff1a93fb3f3002b378431eac681b155f21125ab0db0f76f950c0a13ea153",
-      "synced_at": "2026-08-05T21:00:10.980082",
-      "note": "由 D1_价值节点清单_V3.61.xlsx 机械转换生成，非独立原件"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.19.csv": {
       "dest": "D2_价值节点_L3映射表_V2.19.csv",
       "hash": "23c3a3768e01095077b7b7597e00747e7741a40cbabf248f688f2fd9590173b8",
       "synced_at": "2026-08-05T21:00:10.982227"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.62.xlsx": {
+      "dest": "D1_价值节点清单_V3.62.xlsx",
+      "hash": "e0fc7ecba2973fd6a2d2882145a9631a1fe6d58e2eb6caeb39e25c6f6830968a",
+      "synced_at": "2026-08-09T21:00:05.606353"
+    },
+    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/D1_价值节点清单_V3.62.xlsx::md": {
+      "dest": "D1_价值节点清单_V3.62.md",
+      "source_hash": "e0fc7ecba2973fd6a2d2882145a9631a1fe6d58e2eb6caeb39e25c6f6830968a",
+      "synced_at": "2026-08-09T21:00:05.798772",
+      "note": "由 D1_价值节点清单_V3.62.xlsx 机械转换生成，非独立原件"
     }
   },
-  "updated_at": "2026-08-09T20:41:59.339066"
+  "updated_at": "2026-08-09T21:00:05.802877"
 }
