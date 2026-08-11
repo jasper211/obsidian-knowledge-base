@@ -310,11 +310,6 @@
       "hash": "b2bedb8700ede67d84881d7da4fff73fcff790af786d4dba44a63a79d88484d2",
       "synced_at": "2026-07-28T23:59:34.105986"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/dim_kpi_v3.3_权威层.csv": {
-      "dest": "dim_kpi_v3.3_权威层.csv",
-      "hash": "f7543eca764260c5ef2d264ad0de1186566bfc83eeb01fa752cc4eb38bca5807",
-      "synced_at": "2026-07-29T01:51:09.882340"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4流程_Skill封装可行性评估_确认最终版_v2.xlsx": {
       "dest": "L4流程_Skill封装可行性评估_确认最终版_v2.xlsx",
       "hash": "83ac6fa9d08aa726456c6784bb460d652dacd27eea708ad73ed1031b4d6b4e26",
@@ -376,16 +371,6 @@
       "hash": "2cbbeb9c6707e3d6775e1e53177422fdb163a90f2001d3dbdb93a8c4548953a2",
       "synced_at": "2026-07-31T02:00:05.390005"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/kpi_registry_154_v2.2.csv": {
-      "dest": "kpi_registry_154_v2.2.csv",
-      "hash": "288bae7f3587fb84533dd92e39dd2579823430bf197c1acc0c1e6a400eae7378",
-      "synced_at": "2026-07-31T02:00:05.599592"
-    },
-    "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/kpi_crosswalk_154_to_43_v2.2.csv": {
-      "dest": "kpi_crosswalk_154_to_43_v2.2.csv",
-      "hash": "f4ad00ff81ac9fcbf205806362b2dcfefb201fcc117f56712e5d28e667db364a",
-      "synced_at": "2026-07-31T02:00:05.600135"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/流程蓝图_L3-TRVL_机酒车服务执行_V1.2.md": {
       "dest": "流程蓝图_L3-TRVL_机酒车服务执行_V1.2.md",
       "hash": "07fd82624a12d3b430e906916cdf598699920968aae1d4da9411607459b4fa8a",
@@ -418,5 +403,5 @@
       "note": "由 D1_价值节点清单_V3.62.xlsx 机械转换生成，非独立原件"
     }
   },
-  "updated_at": "2026-08-09T21:00:05.802877"
+  "updated_at": "2026-08-10T20:24:24.819246"
 }
