@@ -8,7 +8,7 @@ aliases: [保单信息整合与应收核算（待注册）]
 linked_l3: [L3-COM]
 linked_vn: [VN-PAY-02]
 edges: [L3-COM, L4-COM-02, L4-COM-11, VN-PAY-02]
-source: 流程蓝图_L3-COM_佣金全链路管理_V1.0.md / L3-COM.json（VNW模型快照）/ process_analytics.dim_vn
+source: 现行母对象=流程蓝图_L3-COM_佣金全链路管理_V1.0.md；现行卡片上下文=L3-COM；补充来源=process_analytics.dim_vn；补充快照=L3-COM.json（VNW模型快照，不作为现行主依据）
 status: draft（本卡片本身未经Terresa/Mark确认）
 version: v4
 completeness: complete

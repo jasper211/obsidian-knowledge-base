@@ -10,7 +10,7 @@ confidence_reason: 表格明确陈述节点属性
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: VN-CFM-01节点
+entity_ref: VN-FLM-01节点
 status: 生效
 extracted_at: 2026-07-24T04:08:38
 ---
@@ -26,4 +26,4 @@ extracted_at: 2026-07-24T04:08:38
 
 ## 所属枢纽
 
-- [[VN-CFM-01节点]]
+- [[FA域定义]]

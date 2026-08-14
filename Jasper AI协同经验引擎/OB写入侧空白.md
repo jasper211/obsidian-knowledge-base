@@ -2,9 +2,10 @@
 type: concept_atom
 concept_type: 经验教训
 project: Jasper AI协同经验引擎
-source: 05_Agent库/草稿/三大主Agent体系架构_v1.3.md
+source: AI工程能力整改项目/05_Agent库/草稿/三大主Agent体系架构_v1.4.md
 extracted_at: 2026-07-20T23:14:50
 authority_layer: 00_治理
+as_of: 2026-07-25
 ---
 
 # OB写入侧空白
@@ -15,3 +16,6 @@ authority_layer: 00_治理
 
 - [[Obsidian巡检Agent]]
 - [[OB读取侧未接线]]
+
+---
+当前现行主入口见 [Jasper经验主视图导航MOC_2026-08-13](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/Jasper经验主视图导航MOC_2026-08-13.md:1)。

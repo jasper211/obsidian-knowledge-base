@@ -136,6 +136,7 @@ updated: 2026-08-12
 
 对应已落地的第一批专题入口：
 
+- [P&L主题分组导航_2026-08-13](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/P%26L主题分组导航_2026-08-13.md:1)
 - [P&L口径定义MOC](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/P%26L口径定义MOC.md:1)
 - [P&L核算与验证MOC](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/P%26L核算与验证MOC.md:1)
 - [P&L责任链与复核链MOC](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/P%26L责任链与复核链MOC.md:1)
@@ -392,6 +393,7 @@ P&L 之所以应重点挂这三张，是因为它最容易集中出现：
 
 - [OB全公司知识纳入与串联方案_2026-08-12.md](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/OB全公司知识纳入与串联方案_2026-08-12.md:1) 负责：P&L 从候选范围变成正式知识域的总方案
 - [P&L知识域到底座挂接导航MOC](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/P%26L知识域到底座挂接导航MOC.md:1) 负责：把 6 张公司级底座卡在 P&L 中对应到问题入口
+- [P&L主题分组导航_2026-08-13](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/P%26L主题分组导航_2026-08-13.md:1) 负责：把 P&L 已形成的专题页收成统一主题入口
 - [公司级治理底座应用与回挂规则](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/公司级治理底座应用与回挂规则.md:1) 负责：说明 P&L 这类项目知识域如何挂接公司级底座
 - [OB文件纳入分层规则_2026-08-12.md](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/OB文件纳入分层规则_2026-08-12.md:1) 负责：P&L 单份文件的去向规则
 - [Jasper项目工作区知识域定义](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/Jasper项目工作区知识域定义.md:1) 负责：P&L 设计过程的候选承接层

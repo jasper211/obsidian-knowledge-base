@@ -4,7 +4,7 @@ tags: [MOC, 知识域定义, EA, OB]
 project: EA流程架构项目
 source_type: domain_definition
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-13
 ---
 
 # EA知识域定义
@@ -135,6 +135,14 @@ updated: 2026-08-12
 - [EA规则空白与熔断治理MOC](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/EA规则空白与熔断治理MOC.md:1)
 - [EA Agent机制与流程交接MOC](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/EA%20Agent机制与流程交接MOC.md:1)
 - [EA流程主链与验证标准MOC](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/EA流程主链与验证标准MOC.md:1)
+- [EA信号基线与问题发现MOC](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/EA信号基线与问题发现MOC.md:1)
+
+其中可以进一步理解为：
+
+- `EA流程主链与验证标准MOC`：回答流程如何推进、靠什么验收
+- `EA规则空白与熔断治理MOC`：回答问题如何分级、何时停、如何补
+- `EA Agent机制与流程交接MOC`：回答谁执行、谁交接、谁收口
+- `EA信号基线与问题发现MOC`：回答问题最早如何被发现、如何升级为治理对象
 
 ---
 

@@ -10,14 +10,14 @@ confidence_reason: 节点清单及详情卡明确列出该定义。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: VN节点状态
+entity_ref: VN-RSJD-01节点
 status: 生效
 extracted_at: 2026-07-23T11:26:21
 ---
 
-# VN-ASD-02节点
+# VN-RSJD-01节点
 
-节点编码VN-ASD-02，对应L3流程“经代机构售后服务E2E”，起点A为监控周期开始，终点Z为监控报告输出并推动整改，非熔断。
+节点编码VN-RSJD-01，对应经代机构销售业务执行相关流程节点；当前页来自早期信号提取口径，暂作为节点级定义占位，后续应继续对照源项目现行 D1 / D2 / 流程蓝图补校准。
 
 ## 关联概念
 

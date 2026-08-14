@@ -10,7 +10,7 @@ confidence_reason: 节点信息表格中明确给出了节点ID、名称、所�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: FA域定义
+entity_ref: VN-FPG-02节点
 status: 生效
 extracted_at: 2026-07-24T03:25:37
 ---

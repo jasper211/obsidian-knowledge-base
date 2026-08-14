@@ -10,14 +10,16 @@ confidence_reason: 节点信息表格中明确陈述，无歧义
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: FA域定义
+entity_ref: VN-FBA-03节点
 status: 生效
 extracted_at: 2026-07-24T04:22:38
 ---
 
-# VN-FBA-03节点定义
+# VN-FBA-01节点定义
 
-VN-FBA-03是FA域（机构经营管理）下的季度过程经营考核项设定与采集节点，由总部经营管理团队设定考核项，分公司分总/产品经理/组织发展经理执行与反馈，每季度经营分析会前触发。
+当前源文件为 `SOP_VN-FBA-03_季度过程经营考核项_v0.1.md`，与本页文件名 `VN-FBA-01节点定义.md` 不一致。
+在完成源项目现行校准前，本页暂保留为占位纠错页，用于标记：
+`VN-FBA-01` 与 `VN-FBA-03` 之间存在编号/内容错位，需要后续按现行对象重提。
 
 ## 关联概念
 

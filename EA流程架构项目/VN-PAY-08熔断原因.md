@@ -10,7 +10,7 @@ confidence_reason: 原文明确判定为熔断并列出致命缺口
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: PAY域熔断节点
+entity_ref: VN-PAY-08节点
 status: 生效
 extracted_at: 2026-07-24T10:39:27
 ---

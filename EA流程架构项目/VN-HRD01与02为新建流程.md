@@ -10,7 +10,7 @@ confidence_reason: 原文Step2清单中L3现状列明确标注'新建'
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: 人力资源节点
+entity_ref: VN-HRD-01_VN-HRD-02
 status: 生效
 extracted_at: 2026-07-23T10:50:59
 ---

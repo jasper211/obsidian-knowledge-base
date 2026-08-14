@@ -10,7 +10,7 @@ confidence_reason: 原文节点表格中明确注明“本节点VN-HR-13为非�
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: 人力资源节点
+entity_ref: VN-HR-13节点
 status: 生效
 extracted_at: 2026-07-24T03:38:48
 ---

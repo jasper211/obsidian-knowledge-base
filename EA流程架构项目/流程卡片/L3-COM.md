@@ -7,10 +7,10 @@ aliases: [佣金全链路管理, 佣金链路, 佣金全链路管理流程]
 linked_l4: [L4-COM-01, L4-COM-02, L4-COM-03, L4-COM-04, L4-COM-05, L4-COM-06, L4-COM-07, L4-COM-08, L4-COM-09, L4-COM-10, L4-COM-11, L4-COM-12, L4-COM-13, L4-COM-14, L4-COM-15, L4-COM-16, L4-COM-17, L4-COM-18]
 linked_vn: [VN-PAY-01, VN-PAY-02, VN-PAY-03, VN-PAY-04, VN-PAY-06]
 source:
-  - 流程蓝图_L3-COM_佣金全链路管理_V1.0.md
-  - D1_价值节点清单_V3.62（VN-PAY-01/02/03/04/06行）
-  - kpi_registry_v2.4.csv（VN级KPI注册）
-  - L3-COM.json（VNW模型快照，仅取position_family字段）
+  - 现行母对象：流程蓝图_L3-COM_佣金全链路管理_V1.0.md
+  - 现行业务事实：D1_价值节点清单_V3.62（VN-PAY-01/02/03/04/06行）
+  - 现行KPI对象：kpi_registry_v2.4.csv（VN级KPI注册）
+  - 补充快照：L3-COM.json（VNW模型快照，仅补position_family字段，不作为现行主依据）
 status: draft（本卡片本身未经Terresa/Mark确认）
 version: v2
 completeness: complete

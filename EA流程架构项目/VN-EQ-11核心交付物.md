@@ -2,15 +2,18 @@
 type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-EQ-11_经确认的客户权益需求清单_v0.1.md
-authority_layer: 02_定稿
+source:
+  - 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-EQ-11_经确认的客户权益需求清单_v0.1.md
+  - 03_发布成果-交付物/权威数据/D1_价值节点清单_V3.62.xlsx
+  - 03_发布成果-交付物/权威数据/D2_价值节点_L3映射表_V2.19.csv
+authority_layer: 03_现行校准
 domain: EQ
 confidence: HIGH
 confidence_reason: 原文明确用“必须”“不视为完成”等肯定语气陈述为规则。
 decision_status: UNSTATED
 as_of: 未知
 entity_type: SOP
-entity_ref: VN-EQ-11交付物
+entity_ref: VN-EQ-11节点
 status: 生效
 extracted_at: 2026-07-24T03:42:30
 ---

@@ -10,7 +10,7 @@ confidence_reason: 原文补建行动路径表详细列出了各项行动
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 熔断规则
-entity_ref: 熔断补建流程
+entity_ref: VN-BAM-01节点
 status: 生效
 extracted_at: 2026-07-23T02:01:30
 ---
@@ -27,4 +27,4 @@ extracted_at: 2026-07-23T02:01:30
 
 ## 所属枢纽
 
-- [[熔断补建流程]]
+- [[VN-BAM-01节点]]
