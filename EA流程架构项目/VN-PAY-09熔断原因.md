@@ -1,15 +1,15 @@
 ---
 type: concept_atom
-concept_type: 经验教训
+concept_type: 背景说明
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/PAY域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_定稿
+source: 现行状态母对象=流程蓝图_L3-CFM_现金流规划与资金调度管理_V1.0.md；现行事实对象=D2_价值节点_L3映射表_V2.19.csv、D3_L3调整记录_V1.28.csv、kpi_registry_v2.4.csv；历史吸收对象=PAY域_价值节点信号提取基线_v1.0.md
+authority_layer: 03_现行校准
 domain: PAY
 confidence: HIGH
-confidence_reason: 原文明确判定为熔断并说明零覆盖
+confidence_reason: D2、D3 与 KPI 注册表已共同给出该节点现行归属、对象名称与熔断级别
 decision_status: UNSTATED
-as_of: 未知
-entity_type: 信号基线
+as_of: 2026-08-14
+entity_type: 判因
 entity_ref: VN-PAY-09节点
 status: 生效
 extracted_at: 2026-07-24T10:39:33
@@ -17,13 +17,18 @@ extracted_at: 2026-07-24T10:39:33
 
 # VN-PAY-09熔断原因
 
-体系外对账节点因BP V2完全缺失，无L3/L4流程、无fact表、无KPI而强制熔断，涉及37.2M HKD资金缺口。
+本页用于说明 `VN-PAY-09` 的现行熔断逻辑。它当前已归入 `L3-CFM`，对象为 `NGM→Apass→宿安→天领体系外对账表`，因此不应继续按“空缺 L3、完全不存在”的旧口径理解。
+
+现行资料显示，这个节点已经被识别为体系外资金对账场景下的必要产物，但它仍被判为 `P0熔断`。原因不在于概念未定义，而在于对账覆盖率、完整度与可追溯性仍无法形成稳定的、可机器读取的交付物闭环。D3 已把它从“完全缺失”修正为“有执行但周期长”，说明现实中存在某种低频、重人工、难复盘的对账动作；但这并不等于节点过关。
+
+因此，这里的判因应理解为：`VN-PAY-09` 已从“未归属”升级为“已归属但仍熔断”，问题核心是体系外资金对账的物理化、周期化和追溯化能力仍然不足，不能支撑持续性的资金治理。
 
 ## 关联概念
 
-- [[VN-PAY-09]]
-- [[BP V2]]
+- [[VN-PAY-09节点]]
+- [[L3-CFM]]
+- [[体系外资金对账]]
 
 ## 所属枢纽
 
-- [[PAY域熔断节点]]
+- [[VN-PAY-09节点]]

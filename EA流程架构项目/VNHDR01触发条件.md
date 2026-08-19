@@ -3,14 +3,14 @@ type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-HRD-01_TR招聘入职确认_v0.1.md
-authority_layer: 02_定稿
+authority_layer: 03_现行校准
 domain: HR
 confidence: HIGH
-confidence_reason: 原文明确陈述触发条件，无歧义。
+confidence_reason: 该页明确描述 VN-HRD-01 的触发条件，现行应回挂 VN-HRD-01_VN-HRD-02 新建流程组，而非人力资源总壳。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
-entity_ref: 人力资源节点
+as_of: 2026-08-14
+entity_type: 状态说明
+entity_ref: VN-HRD-01_VN-HRD-02
 status: 生效
 extracted_at: 2026-07-24T03:28:40
 ---
@@ -26,4 +26,4 @@ extracted_at: 2026-07-24T03:28:40
 
 ## 所属枢纽
 
-- [[人力资源节点]]
+- [[VN-HRD01与02为新建流程]]

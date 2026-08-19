@@ -1,16 +1,16 @@
 ---
 type: concept_atom
-concept_type: 背景说明
+concept_type: 现状缺口
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/04_规则与GAP产出/Gap清单_HR_v1.0.md
-authority_layer: 02_定稿
+source: 历史吸收对象=Gap清单_HR_v1.0.md；现行归属校准对象=VN-HRD01与02为新建流程.md
+authority_layer: 03_现行校准
 domain: HR
 confidence: HIGH
-confidence_reason: 原文直接指出缺失问题。
+confidence_reason: 页面内容明确对应 VN-HRD-02 的系统注册缺口。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: 规则与GAP
-entity_ref: TR声明注册缺失
+as_of: 2026-08-14
+entity_type: 现行校准
+entity_ref: VN-HRD-01_VN-HRD-02
 status: 生效
 extracted_at: 2026-07-23T11:14:26
 ---
@@ -27,4 +27,4 @@ TR季度合规声明在数据库中缺少正式的注册节点，可能导致声
 
 ## 所属枢纽
 
-- [[TR声明注册缺失]]
+- [[VN-HRD-01_VN-HRD-02]]

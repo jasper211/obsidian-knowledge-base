@@ -1,15 +1,17 @@
 ---
 type: concept_atom
-concept_type: 规则
+concept_type: 现状缺口
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-HRD-01_TR招聘入职确认_v0.1.md
-authority_layer: 02_定稿
+source: 历史吸收对象=SOP_VN-HRD-01_TR招聘入职确认_v0.1.md；现行归属校准对象=VN-HRD01与02为新建流程.md
+authority_layer: 03_现行校准
 domain: HR
-confidence: UNSTATED
+confidence: MEDIUM
+confidence_reason: 页面内容明确属于档案归档路径未定问题。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
-entity_ref: TR入职培训
+as_of: 2026-08-14
+entity_type: 现行校准
+entity_ref: VN-HRD-01_VN-HRD-02
+status: 生效
 extracted_at: 2026-07-16T19:19:21
 ---
 
@@ -23,4 +25,4 @@ TR入职档案的存放路径需参考VN-HR-03合同归档规则，但尚未明�
 
 ## 所属枢纽
 
-- [[TR入职培训]]
+- [[VN-HRD-01_VN-HRD-02]]

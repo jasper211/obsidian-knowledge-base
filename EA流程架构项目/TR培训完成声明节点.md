@@ -1,18 +1,18 @@
 ---
 type: concept_atom
-concept_type: 定义
+concept_type: 状态说明
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-HRD-02_TR培训完成声明_v0.1.md
-authority_layer: 02_定稿
+source: 历史吸收对象=SOP_VN-HRD-02_TR培训完成声明_v0.1.md；现行归属校准对象=VN-HRD01与02为新建流程.md
+authority_layer: 03_现行校准
 domain: HR
-confidence: UNSTATED
+confidence: MEDIUM
+confidence_reason: 旧 SOP 对 VN-HRD-02 的边界仍有冲突，但当前最稳定事实是它仍处于 HRD 新建流程语境下的培训完成声明节点。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
-entity_ref: 人力资源节点
+as_of: 2026-08-14
+entity_type: 状态
+entity_ref: VN-HRD-01_VN-HRD-02
+status: 生效
 extracted_at: 2026-07-16T19:48:48
-status: 待裁定
-conflict_group: 人力资源节点
 ---
 
 # TR培训完成声明节点
@@ -21,12 +21,10 @@ VN-HRD-02节点是TR（培训生）完成入职及业务培训后，需产出培
 
 ## 所属枢纽
 
-- [[人力资源节点]]
+- [[VN-HRD-01_VN-HRD-02]]
 
-## ⚠️ 待裁定：entity_ref矛盾（人力资源节点）
+## 当前理解
 
-与同组原子存在冲突：[[非熔断节点]]
-
-冲突说明：第一条原子说'VN-HRD-01 TR招聘入职确认，起点为机构提出TR招聘需求，终点为TR完成入职手续并确认薪酬'；第二条原子说'VN-HRD-02节点是TR完成入职及业务培训后，需产出培训完成凭证的流程节点'；第三条原子说'VN-HRD-02 TR培训完成声明，起点为年度CPD培训计划制定，终点为TR完成年度CPD时数并通过RO审核'；第四条原子说'VN-HR-13（人员预算表）虽然关联熔断节点VN-HR-06（岗位编制方案），但自身为非熔断节点'。其中第二条和第三条对VN-HRD-02的描述不一致：第二条说'TR完成入职及业务培训后'，第三条说'起点为年度CPD培训计划制定，终点为TR完成年度CPD时数并通过RO审核'，两者在培训内容和终点上不同。此外，第一条和第三条的起点终点也不同。
-
-（标记时间：2026-07-21T20:56:43）
+- 当前先按 `HRD 新建流程` 语境承接
+- 不把这页当作完全稳定的成熟主定义
+- 相关触发条件、凭证风险、合规处理规则继续作为周边校准页吸收

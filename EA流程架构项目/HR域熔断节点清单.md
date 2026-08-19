@@ -3,14 +3,14 @@ type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/HR域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_定稿
+authority_layer: 03_现行校准
 domain: HR
 confidence: HIGH
-confidence_reason: 原文清单及信号3中明确列出熔断状态
+confidence_reason: 页面描述的是 HR 域节点状态总览中的熔断分布，不应继续挂在人力资源总壳下。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: 信号基线
-entity_ref: 人力资源节点
+as_of: 2026-08-14
+entity_type: 状态说明
+entity_ref: HR域节点状态
 status: 生效
 extracted_at: 2026-07-23T10:50:54
 ---
@@ -26,4 +26,4 @@ extracted_at: 2026-07-23T10:50:54
 
 ## 所属枢纽
 
-- [[人力资源节点]]
+- [[HR域节点状态]]

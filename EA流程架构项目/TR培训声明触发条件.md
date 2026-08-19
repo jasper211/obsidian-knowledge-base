@@ -1,16 +1,16 @@
 ---
 type: concept_atom
-concept_type: 定义
+concept_type: 现行说明
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-HRD-02_TR培训完成声明_v0.1.md
-authority_layer: 02_定稿
+source: 历史吸收对象=SOP_VN-HRD-02_TR培训完成声明_v0.1.md；现行归属校准对象=VN-HRD01与02为新建流程.md
+authority_layer: 03_现行校准
 domain: HR
-confidence: HIGH
-confidence_reason: 原文表格明确陈述触发条件
+confidence: MEDIUM
+confidence_reason: 触发条件来自旧 SOP，但当前仍可作为 VN-HRD-02 的说明保留。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
-entity_ref: 人力资源节点
+as_of: 2026-08-14
+entity_type: 现行校准
+entity_ref: VN-HRD-01_VN-HRD-02
 status: 生效
 extracted_at: 2026-07-24T03:55:34
 ---
@@ -27,4 +27,4 @@ TR完成入职及业务培训体系后，需产出培训完成凭证，此即触
 
 ## 所属枢纽
 
-- [[人力资源节点]]
+- [[VN-HRD-01_VN-HRD-02]]

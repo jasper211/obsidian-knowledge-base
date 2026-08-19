@@ -1,15 +1,15 @@
 ---
 type: concept_atom
-concept_type: 经验教训
+concept_type: 背景说明
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/PAY域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_定稿
+source: 现行状态母对象=流程蓝图_L3-COM_佣金全链路管理_V1.0.md；现行事实对象=D2_价值节点_L3映射表_V2.19.csv、kpi_registry_v2.4.csv；历史吸收对象=PAY域_价值节点信号提取基线_v1.0.md
+authority_layer: 03_现行校准
 domain: PAY
 confidence: HIGH
-confidence_reason: 原文明确判定为熔断并列出致命缺口
+confidence_reason: D2 与 KPI 注册表已明确该节点的现行对象、P 级别与熔断指标
 decision_status: UNSTATED
-as_of: 未知
-entity_type: 信号基线
+as_of: 2026-08-14
+entity_type: 判因
 entity_ref: VN-PAY-04节点
 status: 生效
 extracted_at: 2026-07-24T10:39:13
@@ -17,13 +17,18 @@ extracted_at: 2026-07-24T10:39:13
 
 # VN-PAY-04熔断原因
 
-转介费派发节点因IA合规规则未代码化、银行回执无统一归档、阈值监控缺失导致三Gate全FAIL熔断，存在监管风险。
+本页用于说明 `VN-PAY-04` 当前为何仍被视为 `P0熔断` 节点，而不是沿用旧版信号提取中的泛化描述。
+
+`VN-PAY-04` 的现行对象是 `转介费派发确认台账`，挂靠 `L3-COM`，其核心约束不是“有无一份说明材料”，而是该台账能否承接 IA 硬指标与实派时效的真实校验。按现行事实，`非持牌占比≤50%`、`同行支付≤88%`、`实派时效` 三项指标都直接挂在该节点上，因此一旦合规比例、回执留痕或实派追溯链条不能稳定落到台账，节点就不是局部瑕疵，而是直接失去可放款、可复核、可追责的基础。
+
+当前应把它理解为一张“红线控制台账”的判因页：熔断重点在于 IA 硬指标未被稳定代码化、支付与回执归档链条不闭合、派发结果不能被一致复核，而不是简单的纸质化或个别人工作业问题。
 
 ## 关联概念
 
-- [[VN-PAY-04]]
+- [[VN-PAY-04节点]]
+- [[L3-COM]]
 - [[熔断机制]]
 
 ## 所属枢纽
 
-- [[PAY域熔断节点]]
+- [[VN-PAY-04节点]]

@@ -11,8 +11,8 @@ domain: EQ
 confidence: HIGH
 confidence_reason: 原文明确用“必须”“不视为完成”等肯定语气陈述为规则。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
+as_of: 2026-08-14
+entity_type: 交付物
 entity_ref: VN-EQ-11节点
 status: 生效
 extracted_at: 2026-07-24T03:42:30
@@ -20,7 +20,15 @@ extracted_at: 2026-07-24T03:42:30
 
 # VN-EQ-11核心交付物
 
-价值节点VN-EQ-11的核心交付物是《经确认的客户权益需求清单》v.final。没有该清单，不视为VN-EQ-11完成。
+> 2026-08-14校准说明：本页作为 `VN-EQ-11` 轻量节点组中的“核心交付物页”，直接承接现行最关键的对象判断。
+
+`VN-EQ-11` 的核心交付物是《经确认的客户权益需求清单》`v.final`。
+
+这意味着：
+
+- 没有该清单，不视为 `VN-EQ-11` 完成
+- 只有需求被收集、确认并沉淀成 `v.final` 版本，后续设计、执行或归档才有稳定依据
+- 其他沟通记录、口头确认或中间草稿，都不能替代这一核心交付物
 
 ## 关联概念
 

@@ -1,16 +1,16 @@
 ---
 type: concept_atom
-concept_type: 背景说明
+concept_type: 现行说明
 project: EA流程架构项目
-source: 02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线/提取合集校准/HR域_价值节点信号提取基线_v1.0.md
-authority_layer: 02_定稿
-domain: HR
+source: 历史吸收对象=HR域_价值节点信号提取基线_v1.0.md；现行归属校准对象=流程蓝图_L3-SPE_战略目标与绩效体系建立_V1.0.md、D1_价值节点清单_V3.62.md
+authority_layer: 03_现行校准
+domain: STG
 confidence: HIGH
-confidence_reason: 原文直接列出起点A包含具体人员姓名
+confidence_reason: 起点依赖 Fiona 名单与现行 D1/L3-SPE 描述一致，可作为 VN-HR-12 的现行说明保留。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: 信号基线
-entity_ref: 人员归属表
+as_of: 2026-08-14
+entity_type: 现行校准
+entity_ref: VN-HR-12节点
 status: 生效
 extracted_at: 2026-07-23T10:50:48
 ---
@@ -21,9 +21,9 @@ VN-HR-12人员归属表的起点A包含'1.Fiona提供员工名单'，表明该�
 
 ## 关联概念
 
-- [[人员归属表]]
+- [[VN-HR-12节点]]
 - [[Fiona]]
 
 ## 所属枢纽
 
-- [[人员归属表]]
+- [[VN-HR-12节点]]
