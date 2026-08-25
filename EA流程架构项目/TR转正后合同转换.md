@@ -3,13 +3,14 @@ type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-HR-07_TR招聘与入职流程_v0.1.md
-authority_layer: 02_定稿
+authority_layer: 03_现行校准
 domain: HR
-confidence: UNSTATED
+confidence: MEDIUM
+confidence_reason: 页面描述的是转正后合同转换规则，现行应回挂 VN-HR-07 员工劳动合同节点。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
-entity_ref: TR招聘入职流程
+as_of: 2026-08-24
+entity_type: 状态说明
+entity_ref: VN-HR-07节点
 extracted_at: 2026-07-16T20:02:45
 ---
 
@@ -19,4 +20,4 @@ TR转正后如需转换挂靠牌照公司（如转到九福），HRBP负责办�
 
 ## 所属枢纽
 
-- [[TR招聘入职流程]]
+- [[VN-HR-07节点定义]]

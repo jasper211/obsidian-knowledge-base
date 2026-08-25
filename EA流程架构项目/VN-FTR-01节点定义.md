@@ -8,9 +8,9 @@ domain: AGT
 confidence: HIGH
 confidence_reason: L3-FTR 蓝图、D1 与 D2 已共同确认 VN-FTR-01 的现行名称、输出物、分发方式与主要缺口。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-24
 entity_type: 定义
-entity_ref: VN-FTR-01
+entity_ref: VN-FTR-01节点
 status: 生效
 extracted_at: 2026-07-24T03:47:24
 ---
@@ -33,9 +33,9 @@ extracted_at: 2026-07-24T03:47:24
 
 ## 关联概念
 
-- [[VN-FTR-01]]
+- [[VN-FTR-01节点]]
 - [[L3-FTR]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-FTR-01]]
+- [[VN-FTR-01节点]]

@@ -1,17 +1,23 @@
 ---
 type: entity_hub
-entity_type: 非正式主题
+entity_type: 历史聚类导航
 entity_ref: FOB协议管理缺陷
 project: EA流程架构项目
 atom_count: 15
 generated_at: 2026-07-24
+updated_at: 2026-08-24
 generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
-coherence_reason: 三个原子均描述FOB入职协议在归档、更新同步和模板版本方面的管理流程缺失
+coherence_reason: 该页原本把 VN-FOB-01 协议归档、更新同步、模板版本与开通校验缺口混成旧主题。现行治理下，这些页面应直接回挂 VN-FOB-01节点。
 ---
 
 # FOB协议管理缺陷
 
-非正式主题枢纽，3个原子经LLM判断内容连贯后自动生成。
+这页保留为历史聚类导航。
+
+当前现行口径下：
+
+- 协议归档追踪、模板版本、更新同步、系统开通校验均回挂 `VN-FOB-01节点`
+- 本页不再作为正式当前主题中心
 
 ## 关联原子
 
@@ -30,3 +36,7 @@ coherence_reason: 三个原子均描述FOB入职协议在归档、更新同步�
 - [[合同签署归档执行断点]]
 - [[合规审核标准未书面化风险]]
 - [[模板版本管控缺失]]
+
+## 当前主挂点
+
+- [[VN-FOB-01节点]]

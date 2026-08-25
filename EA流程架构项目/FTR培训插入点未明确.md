@@ -3,14 +3,14 @@ type: concept_atom
 concept_type: 经验教训
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理/理财师全周期Agent.md
-authority_layer: 02_定稿
-domain: （无）
+authority_layer: 03_现行校准
+domain: AGT
 confidence: MEDIUM
-confidence_reason: 原文标注为'待确认事项'，信息不完整。
+confidence_reason: 页面描述的是 VN-FOB-01 输出的培训协议与后续 FTR 培训链路之间的插入点不清，现行更适合回挂协议签署节点治理。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: Agent机制
-entity_ref: 培训协议与FTR衔接
+as_of: 2026-08-24
+entity_type: 状态说明
+entity_ref: VN-FOB-01节点
 status: 生效
 extracted_at: 2026-07-24T10:06:45
 ---
@@ -24,6 +24,6 @@ FTR-02产品与合规培训在主线流程中穿插执行，但具体插入在FO
 - [[FTR-02]]
 - [[FOB]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[培训协议与FTR衔接]]
+- [[VN-FOB-01节点]]

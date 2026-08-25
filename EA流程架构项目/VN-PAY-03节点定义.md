@@ -8,7 +8,7 @@ domain: PAY
 confidence: HIGH
 confidence_reason: L3-COM 蓝图、D1、D2、T1 与 KPI 注册表已共同给出 VN-PAY-03 的现行对象、输出物、上下游和治理状态。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-24
 entity_type: 定义
 entity_ref: VN-PAY-03节点
 status: 生效
@@ -73,6 +73,6 @@ extracted_at: 2026-07-24T03:52:38
 - [[L4-COM-12]]
 - [[VN-PAY-04节点]]
 
-## 所属枢纽
+## 当前主挂点
 
 - [[VN-PAY-03节点]]

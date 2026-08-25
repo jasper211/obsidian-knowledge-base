@@ -8,7 +8,7 @@ domain: AGT
 confidence: MEDIUM
 confidence_reason: 当前 vault 中的“FA域”来自旧提炼命名，现行项目已以 L3-FBA 与 VN-FBA-01 承接主要对象
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-24
 entity_type: 历史别名
 entity_ref: VN-FBA-01节点
 status: 生效
@@ -30,6 +30,6 @@ extracted_at: 2026-07-16T20:11:09
 - [[VN-FBA-01节点]]
 - [[L3-FBA]]
 
-## 所属枢纽
+## 当前主挂点
 
 - [[VN-FBA-01节点]]

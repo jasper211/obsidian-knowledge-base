@@ -3,14 +3,14 @@ type: concept_atom
 concept_type: 经验教训
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行/规则空白地图/FA_第一层_规则空白地图_v1.0（未熔断节点）.md
-authority_layer: 02_定稿
-domain: FA
+authority_layer: 03_现行校准
+domain: AGT
 confidence: HIGH
-confidence_reason: 原文在规则空白表格中明确列出'未定义'和'未书面化'。
+confidence_reason: 页面描述的是 VN-FOB-01 四协议更新同步与版本治理缺口，现行应直接回挂协议签署与归档节点。
 decision_status: UNSTATED
-as_of: 未知
-entity_type: 规则空白
-entity_ref: FOB协议管理缺陷
+as_of: 2026-08-24
+entity_type: 状态说明
+entity_ref: VN-FOB-01节点
 status: 生效
 extracted_at: 2026-07-24T05:21:34
 ---
@@ -25,4 +25,4 @@ extracted_at: 2026-07-24T05:21:34
 
 ## 所属枢纽
 
-- [[FOB协议管理缺陷]]
+- [[VN-FOB-01节点]]

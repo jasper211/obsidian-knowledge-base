@@ -10,7 +10,7 @@ confidence_reason: 文档开头明确列出子域和覆盖范围，表述确定
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: FA域定义
+entity_ref: FA域
 status: 生效
 extracted_at: 2026-07-23T11:31:36
 ---
@@ -21,10 +21,11 @@ FA域（理财师全生命周期管理域）涵盖FBA(业务分析)、FLM(线索
 
 ## 关联概念
 
+- [[FA域]]
 - [[理财师全生命周期]]
 - [[L3流程]]
 - [[子域]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[FA域定义]]
+- [[FA域]]

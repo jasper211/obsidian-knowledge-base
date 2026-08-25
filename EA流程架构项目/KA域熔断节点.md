@@ -1,26 +1,32 @@
 ---
 type: entity_hub
-entity_type: 非正式主题
+entity_type: 历史聚类导航
 entity_ref: KA域熔断节点
 project: EA流程架构项目
-atom_count: 15
+atom_count: 11
 generated_at: 2026-07-24
+updated_at: 2026-08-24
 generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
-coherence_reason: 围绕KA域各流程节点的熔断状态和原因，包括上架、业绩、合同、培训、核销、评估等。
+coherence_reason: 该页原本把 KA 域多个节点的熔断状态混成一个总壳。现行治理下，培训、上架、业绩、合同、核销、评估等熔断问题应按各自节点分流。
 ---
 
 # KA域熔断节点
 
-非正式主题枢纽，7个原子经LLM判断内容连贯后自动生成。
+这页保留为历史聚类导航。
+
+当前现行口径下：
+
+- KA 培训模板与记录熔断问题更接近 `VN-KAEM-01节点`
+- KA 上架确认缺失更接近 `VN-KAOP-01` 子线
+- KA 业绩汇总分散更接近 `VN-KAGA-01` 子线
+- KA 评估定级无量化标准更接近 `VN-KAET-01` 子线
+- KA 合同归档散落更接近 `VN-KASC-01` 子线
+- KA 资讯核销追溯链缺失更接近 `VN-KAEM-02` 子线
 
 ## 关联原子
 
-- [[8节点熔断决策]]
-- [[Gate③FAIL即熔断]]
-- [[HR域无熔断节点]]
 - [[KA上架无正式确认动作]]
 - [[KA业绩数据分散无统一汇总]]
-- [[KA域全节点熔断]]
 - [[KA培训无标准化模板]]
 - [[KA培训模板缺失]]
 - [[KA评估定级无量化标准]]
@@ -30,3 +36,8 @@ coherence_reason: 围绕KA域各流程节点的熔断状态和原因，包括上
 - [[培训记录缺模板熔断]]
 - [[核销追溯链缺失熔断]]
 - [[评估定级体系缺失熔断]]
+
+## 当前主挂点
+
+- [[VN-KAEM-01节点定义]]
+- [[KA域节点状态]]

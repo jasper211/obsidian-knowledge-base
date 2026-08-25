@@ -10,7 +10,7 @@ confidence_reason: 原文明确声明任务包信息与边界
 decision_status: UNSTATED
 as_of: 未知
 entity_type: 信号基线
-entity_ref: （无）
+entity_ref: FA域
 status: 生效
 extracted_at: 2026-07-23T11:23:45
 ---
@@ -21,6 +21,10 @@ extracted_at: 2026-07-23T11:23:45
 
 ## 关联概念
 
-- [[FA域定义]]
+- [[FA域]]
 - [[A类已确立规则]]
 - [[B类规则线索空白]]
+
+## 当前主挂点
+
+- [[FA域]]

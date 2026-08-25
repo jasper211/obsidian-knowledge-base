@@ -8,7 +8,7 @@ domain: AGT
 confidence: HIGH
 confidence_reason: 已按 L3-FLM 现行蓝图、D2 当前版与 SOP 回看校准；节点边界、输出物与待裁定事项表达较一致。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-24
 entity_type: 定义
 entity_ref: VN-FLM-01节点
 status: 生效
@@ -67,6 +67,6 @@ extracted_at: 2026-07-24T04:08:38
 - [[FA域]]
 - [[FA-R003]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[FA域定义]]
+- [[VN-FLM-01节点]]

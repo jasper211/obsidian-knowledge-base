@@ -3,14 +3,14 @@ type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-HR-04_绩效考核结果存档与晋调薪_v0.1.md
-authority_layer: 02_定稿
+authority_layer: 03_现行校准
 domain: HR
 confidence: HIGH
 confidence_reason: 规则来源HR-R004，已确认，明确陈述
 decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
-entity_ref: 绩效流程
+as_of: 2026-08-24
+entity_type: 状态说明
+entity_ref: VN-HR-09节点
 status: 生效
 extracted_at: 2026-07-24T04:06:56
 ---
@@ -24,6 +24,6 @@ extracted_at: 2026-07-24T04:06:56
 - [[历史绩效汇总表]]
 - [[HR-R004]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[绩效流程]]
+- [[VN-HR-09节点定义]]

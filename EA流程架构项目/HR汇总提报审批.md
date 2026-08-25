@@ -3,13 +3,13 @@ type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-HR-01_中后台内勤季度绩效评定_v0.1.md
-authority_layer: 02_定稿
+authority_layer: 03_现行校准
 domain: HR
 confidence: UNSTATED
 decision_status: UNSTATED
-as_of: 未知
-entity_type: SOP
-entity_ref: 绩效流程
+as_of: 2026-08-24
+entity_type: 状态说明
+entity_ref: VN-HR-09节点
 extracted_at: 2026-07-16T19:17:54
 ---
 
@@ -21,6 +21,6 @@ HR（Fiona）将各部门最终方案汇总后提报Mark审批，审批通过后
 
 - [[部门负责人打分分配]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[绩效流程]]
+- [[VN-HR-09节点定义]]
