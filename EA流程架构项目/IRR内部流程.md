@@ -8,9 +8,9 @@ domain: （无）
 confidence: HIGH
 confidence_reason: 原文直接列出流程顺序。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: Agent机制
-entity_ref: IAO阶段管理
+entity_ref: IRR阶段过程
 status: 生效
 extracted_at: 2026-07-24T04:41:43
 ---
@@ -26,6 +26,6 @@ IRR阶段内部逻辑：L4-IRR-01合作周期数据汇总、L4-IRR-06续约前�
 - [[L4-IRR-08]]
 - [[L4-IRR-11]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[IAO阶段管理]]
+- [[IRR阶段过程说明]]

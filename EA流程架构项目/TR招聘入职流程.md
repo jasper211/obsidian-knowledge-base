@@ -5,7 +5,7 @@ entity_ref: TR招聘入职流程
 project: EA流程架构项目
 atom_count: 14
 generated_at: 2026-07-24
-updated_at: 2026-08-24
+updated_at: 2026-08-28
 generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
 coherence_reason: 该页原本把 TR 招聘需求、合同签署、转正转换和培训签到混成一个旧总壳。现行治理下，合同与招聘前置规则更接近 VN-HR-07，培训签到更接近 VN-HRD-01_VN-HRD-02。
 ---
@@ -17,7 +17,7 @@ coherence_reason: 该页原本把 TR 招聘需求、合同签署、转正转换�
 当前现行口径下：
 
 - 招聘需求、招聘渠道、合同签署主体、转正合同转换更接近 `VN-HR-07节点`
-- 入职培训签到更接近 `VN-HRD-01_VN-HRD-02`
+- 入职培训签到更接近 `VN-HRD-02节点说明`
 - 本页不再作为正式当前主题中心
 
 ## 关联原子
@@ -39,4 +39,4 @@ coherence_reason: 该页原本把 TR 招聘需求、合同签署、转正转换�
 ## 当前主挂点
 
 - [[VN-HR-07节点定义]]
-- [[VN-HRD01与02为新建流程]]
+- [[VN-HRD-02节点说明]]

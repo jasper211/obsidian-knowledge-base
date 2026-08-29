@@ -8,9 +8,9 @@ domain: HR
 confidence: HIGH
 confidence_reason: 页面内容明确对应 VN-HRD-02 的系统注册缺口。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 现行校准
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-02节点
 status: 生效
 extracted_at: 2026-07-23T11:14:26
 ---
@@ -25,6 +25,6 @@ TR季度合规声明在数据库中缺少正式的注册节点，可能导致声
 - [[注册节点]]
 - [[VN-HRD-02]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-02节点说明]]

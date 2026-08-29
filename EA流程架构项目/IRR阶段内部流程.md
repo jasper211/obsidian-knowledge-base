@@ -7,9 +7,9 @@ authority_layer: 02_定稿
 domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: L3流程
-entity_ref: L4-IRR-01,L4-IRR-06,L4-IRR-08,L4-IRR-11
+entity_ref: IRR阶段过程
 extracted_at: 2026-07-16T16:19:01
 ---
 
@@ -21,3 +21,7 @@ IRR阶段内部流程为：L4-IRR-01合作周期数据汇总 → L4-IRR-06续约
 
 - [[IRR阶段触发方式]]
 - [[IAO阶段内部流程]]
+
+## 当前主挂点
+
+- [[IRR阶段过程说明]]

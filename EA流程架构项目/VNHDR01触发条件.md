@@ -8,9 +8,9 @@ domain: HR
 confidence: HIGH
 confidence_reason: 该页明确描述 VN-HRD-01 的触发条件，现行应回挂 VN-HRD-01_VN-HRD-02 新建流程组，而非人力资源总壳。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 状态说明
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-01节点
 status: 生效
 extracted_at: 2026-07-24T03:28:40
 ---
@@ -24,6 +24,6 @@ extracted_at: 2026-07-24T03:28:40
 - [[HR-R005]]
 - [[VN-HRD-01]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD01与02为新建流程]]
+- [[VN-HRD-01节点说明]]

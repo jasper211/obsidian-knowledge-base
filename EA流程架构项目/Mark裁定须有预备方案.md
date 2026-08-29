@@ -8,9 +8,9 @@ domain: PAY
 confidence: HIGH
 confidence_reason: 原文Mark裁定汇总表要求每项均有②类预备方案，并说明Mark只需校准
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: 熔断规则
-entity_ref: Mark裁定流程
+entity_ref: 补建行动类型
 status: 生效
 extracted_at: 2026-07-22T03:04:33
 ---
@@ -23,6 +23,6 @@ extracted_at: 2026-07-22T03:04:33
 
 - [[行动类型分类]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Mark裁定流程]]
+- [[行动类型定义]]

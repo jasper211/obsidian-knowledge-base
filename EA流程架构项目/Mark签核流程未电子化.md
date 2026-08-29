@@ -8,9 +8,9 @@ domain: PAY
 confidence: HIGH
 confidence_reason: 原文明确陈述为流程空白
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: 规则空白
-entity_ref: 争议关闭流程缺失
+entity_ref: VN-PAY-03节点
 status: 生效
 extracted_at: 2026-07-22T04:58:35
 ---
@@ -19,6 +19,6 @@ extracted_at: 2026-07-22T04:58:35
 
 争议留痕表的Mark签核流程未电子化，签核状态和时效不可追踪，争议关闭后无复盘和归类机制。
 
-## 所属枢纽
+## 当前主挂点
 
-- [[争议关闭流程缺失]]
+- [[VN-PAY-03节点定义]]

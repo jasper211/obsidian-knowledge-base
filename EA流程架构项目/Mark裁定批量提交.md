@@ -8,9 +8,9 @@ domain: PAY
 confidence: HIGH
 confidence_reason: 原文第五节明确建议“同一次Mark会议批量提交”
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: 熔断规则
-entity_ref: Mark裁定流程
+entity_ref: 补建行动类型
 status: 生效
 extracted_at: 2026-07-23T02:02:04
 ---
@@ -25,6 +25,6 @@ extracted_at: 2026-07-23T02:02:04
 - [[流程架构协同]]
 - [[归口部门建议方案]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Mark裁定流程]]
+- [[行动类型定义]]

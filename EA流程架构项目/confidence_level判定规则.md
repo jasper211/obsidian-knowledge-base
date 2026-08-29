@@ -7,9 +7,9 @@ authority_layer: 01_原始
 domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: 方法论标准
-entity_ref: Gate规则与验证
+entity_ref: 经验引用结构
 extracted_at: 2026-07-16T12:38:52
 ---
 
@@ -17,6 +17,6 @@ extracted_at: 2026-07-16T12:38:52
 
 confidence_level根据字段完整性和量化程度判定：4字段完整+量化阈值+普适性=HIGH；含数字+判断主体+因果链=MEDIUM；仅有判断或缺数字=LOW。
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Gate规则与验证]]
+- [[元数据必填11字段]]

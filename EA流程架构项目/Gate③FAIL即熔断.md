@@ -8,9 +8,9 @@ domain: KA
 confidence: MEDIUM
 confidence_reason: 从两个熔断实例归纳，原文未直接声明此规则
 decision_status: UNSTATED
-as_of: 2026-08-24
+as_of: 2026-08-28
 entity_type: 规则说明
-entity_ref: Gate规则与验证
+entity_ref: 信号提取基线规则
 status: 生效
 extracted_at: 2026-07-22T03:00:59
 ---
@@ -21,4 +21,4 @@ extracted_at: 2026-07-22T03:00:59
 
 ## 当前主挂点
 
-- [[Gate规则与验证]]
+- [[信号提取基线规则]]

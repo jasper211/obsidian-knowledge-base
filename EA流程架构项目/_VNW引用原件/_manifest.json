@@ -300,11 +300,6 @@
       "hash": "de6de3eaf6b35a4bc456832b2a4e846024d413262a2f3e4b31281b255df78704",
       "synced_at": "2026-08-03T04:36:43.419112"
     },
-    "/Users/a112233/Desktop/流程架构项目_jasper/HR工作材料/D_EA项目组织优化/2026-07-20_68L3岗位族归属设计_v6.1_SUBMITTED.md": {
-      "dest": "2026-07-20_68L3岗位族归属设计_v6.1_SUBMITTED.md",
-      "hash": "b2bedb8700ede67d84881d7da4fff73fcff790af786d4dba44a63a79d88484d2",
-      "synced_at": "2026-07-28T23:59:34.105986"
-    },
     "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/L4流程_Skill封装可行性评估_确认最终版_v2.xlsx": {
       "dest": "L4流程_Skill封装可行性评估_确认最终版_v2.xlsx",
       "hash": "83ac6fa9d08aa726456c6784bb460d652dacd27eea708ad73ed1031b4d6b4e26",
@@ -398,5 +393,5 @@
       "note": "由 D1_价值节点清单_V3.62.xlsx 机械转换生成，非独立原件"
     }
   },
-  "updated_at": "2026-08-27T21:00:55.345668"
+  "updated_at": "2026-08-28T21:18:55.476952"
 }

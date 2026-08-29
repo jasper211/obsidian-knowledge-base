@@ -8,9 +8,9 @@ domain: （无）
 confidence: MEDIUM
 confidence_reason: 原文明确标为“待确认事项”，数值需业务方给出。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: Agent机制
-entity_ref: 预警提前量待定
+entity_ref: CRR阶段过程
 status: 生效
 extracted_at: 2026-07-24T04:46:48
 ---
@@ -25,6 +25,6 @@ L4-CRR-06续约到期识别的提前预警周期尚未确定，需要业务方�
 - [[提前预警]]
 - [[周期]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[预警提前量待定]]
+- [[CRR阶段过程说明]]

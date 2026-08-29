@@ -8,7 +8,7 @@ domain: FA
 confidence: HIGH
 confidence_reason: 已按现行 D1/D2 与 L3-FOB 流程蓝图回看校准，并修正原页错挂关系。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 摘要
 entity_ref: VN-FOB-01节点
 status: 生效
@@ -44,6 +44,6 @@ extracted_at: 2026-07-24T05:21:12
 - [[FOB节点]]
 - [[VN-FOB-01节点]]
 
-## 所属枢纽
+## 当前主挂点
 
 - [[VN-FOB-01节点]]

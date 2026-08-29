@@ -8,9 +8,9 @@ domain: HR
 confidence: MEDIUM
 confidence_reason: 触发条件来自旧 SOP，但当前仍可作为 VN-HRD-02 的说明保留。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 现行校准
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-02节点
 status: 生效
 extracted_at: 2026-07-24T03:55:34
 ---
@@ -25,6 +25,6 @@ TR完成入职及业务培训体系后，需产出培训完成凭证，此即触
 - [[TR培训]]
 - [[培训完成凭证]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-02节点说明]]

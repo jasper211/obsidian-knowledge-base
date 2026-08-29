@@ -8,9 +8,9 @@ domain: （无）
 confidence: HIGH
 confidence_reason: 原文明确陈述规则
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: Agent机制
-entity_ref: Mark Gate机制
+entity_ref: Agent触发机制
 status: 生效
 extracted_at: 2026-07-24T04:54:58
 ---
@@ -24,6 +24,6 @@ Agent无固定周期，由Mark主观判断需要评估某个细分市场机会�
 - [[细分市场评估]]
 - [[Agent触发机制]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Mark Gate机制]]
+- [[Agent触发机制]]

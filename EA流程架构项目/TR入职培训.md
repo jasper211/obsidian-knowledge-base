@@ -5,7 +5,7 @@ entity_ref: VN-HRD-01_VN-HRD-02
 project: EA流程架构项目
 atom_count: 15
 generated_at: 2026-07-18
-updated_at: 2026-08-14
+updated_at: 2026-08-28
 generated_by: embedding聚类(threshold=0.72) + LLM内容连贯性判断
 coherence_reason: 该页原本把 TR 入职确认、入职档案、合同签署、培训凭证、合规处理等问题混成一个大主题。现行治理下，这些页面应按 VN-HRD-01 与 VN-HRD-02 分流处理。
 ---
@@ -16,9 +16,9 @@ coherence_reason: 该页原本把 TR 入职确认、入职档案、合同签署�
 
 当前现行口径下：
 
-- TR 入职确认、入职材料、归档问题更接近 `VN-HRD-01`
-- TR 培训完成声明、凭证、合规处理问题更接近 `VN-HRD-02`
-- 当前先统一挂在 `VN-HRD-01_VN-HRD-02` 新建流程组下，不再把本页视为正式业务对象
+- TR 入职确认、入职材料、归档问题更接近 `VN-HRD-01节点说明`
+- TR 培训完成声明、凭证、合规处理问题更接近 `VN-HRD-02节点说明`
+- `VN-HRD01与02为新建流程` 仅保留总览角色，不再承担细项入口
 
 ## 关联原子
 
@@ -41,3 +41,5 @@ coherence_reason: 该页原本把 TR 入职确认、入职档案、合同签署�
 ## 当前主挂点
 
 - [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-01节点说明]]
+- [[VN-HRD-02节点说明]]

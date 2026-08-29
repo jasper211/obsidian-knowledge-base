@@ -8,9 +8,9 @@ domain: EQ
 confidence: HIGH
 confidence_reason: 达标标准一节对每个Gate的通过条件有明确陈述。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: 熔断规则
-entity_ref: Gate规则与验证
+entity_ref: 信号提取基线规则
 status: 生效
 extracted_at: 2026-07-23T02:05:23
 ---
@@ -25,6 +25,6 @@ extracted_at: 2026-07-23T02:05:23
 - [[Gate评审]]
 - [[补建达标标准]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Gate规则与验证]]
+- [[信号提取基线规则]]

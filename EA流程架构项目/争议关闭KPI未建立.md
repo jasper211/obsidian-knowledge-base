@@ -8,9 +8,9 @@ domain: PAY
 confidence: HIGH
 confidence_reason: 原文明确“无KPI监控，无标准时限”，是缺口直接陈述。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: SOP
-entity_ref: 争议关闭流程缺失
+entity_ref: VN-PAY-03节点
 status: 生效
 extracted_at: 2026-07-24T03:54:02
 ---
@@ -25,6 +25,6 @@ extracted_at: 2026-07-24T03:54:02
 - [[G009]]
 - [[KPI_20]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[争议关闭流程缺失]]
+- [[VN-PAY-03节点定义]]

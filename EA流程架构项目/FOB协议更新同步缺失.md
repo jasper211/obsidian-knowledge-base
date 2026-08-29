@@ -8,7 +8,7 @@ domain: AGT
 confidence: HIGH
 confidence_reason: 页面描述的是 VN-FOB-01 四协议更新同步与版本治理缺口，现行应直接回挂协议签署与归档节点。
 decision_status: UNSTATED
-as_of: 2026-08-24
+as_of: 2026-08-28
 entity_type: 状态说明
 entity_ref: VN-FOB-01节点
 status: 生效
@@ -23,6 +23,6 @@ extracted_at: 2026-07-24T05:21:34
 
 - [[FA-P2-002]]
 
-## 所属枢纽
+## 当前主挂点
 
 - [[VN-FOB-01节点]]

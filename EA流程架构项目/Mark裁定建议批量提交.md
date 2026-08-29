@@ -8,9 +8,9 @@ domain: PAY
 confidence: MEDIUM
 confidence_reason: 原文使用建议语气'建议同一次Mark会议批量提交'，非强制
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: 熔断规则
-entity_ref: Mark裁定流程
+entity_ref: 补建行动类型
 status: 生效
 extracted_at: 2026-07-22T03:04:33
 ---
@@ -23,6 +23,6 @@ extracted_at: 2026-07-22T03:04:33
 
 - [[Mark裁定须有预备方案]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Mark裁定流程]]
+- [[行动类型定义]]

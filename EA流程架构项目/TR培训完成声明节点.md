@@ -8,9 +8,9 @@ domain: HR
 confidence: MEDIUM
 confidence_reason: 旧 SOP 对 VN-HRD-02 的边界仍有冲突，但当前最稳定事实是它仍处于 HRD 新建流程语境下的培训完成声明节点。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 状态
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-02节点
 status: 生效
 extracted_at: 2026-07-16T19:48:48
 ---
@@ -19,9 +19,9 @@ extracted_at: 2026-07-16T19:48:48
 
 VN-HRD-02节点是TR（培训生）完成入职及业务培训后，需产出培训完成凭证的流程节点，主责岗位为HRBP或业务部门负责人。
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-02节点说明]]
 
 ## 当前理解
 

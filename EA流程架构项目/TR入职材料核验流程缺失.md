@@ -8,9 +8,9 @@ domain: HR
 confidence: MEDIUM
 confidence_reason: 页面内容清楚属于 TR 入职材料核验链的缺口。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 现行校准
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-01节点
 status: 生效
 extracted_at: 2026-07-16T19:18:49
 ---
@@ -23,6 +23,6 @@ extracted_at: 2026-07-16T19:18:49
 
 - [[TR入职档案模板缺失]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-01节点说明]]

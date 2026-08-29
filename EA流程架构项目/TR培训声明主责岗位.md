@@ -8,9 +8,9 @@ domain: HR
 confidence: HIGH
 confidence_reason: 页面内容明确对应 VN-HRD-02 主责岗位，之前挂在人员归属表下属于错误聚类。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 现行校准
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-02节点
 status: 生效
 extracted_at: 2026-07-24T03:55:41
 ---
@@ -25,6 +25,6 @@ VN-HRD-02节点的主责岗位为HRBP或业务部门负责人。
 - [[HRBP]]
 - [[业务部门负责人]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-02节点说明]]

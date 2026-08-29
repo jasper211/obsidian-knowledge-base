@@ -8,9 +8,9 @@ domain: HR
 confidence: HIGH
 confidence_reason: 凭证不足风险明确发生在 VN-HRD-02 培训完成声明节点，不应继续挂在 TR入职培训 旧壳下。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 现行校准
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-02节点
 status: 生效
 extracted_at: 2026-07-23T11:16:42
 ---
@@ -25,6 +25,6 @@ TR培训完成声明仅有培训签到表，缺乏可证明培训效果的正式
 - [[TR合规]]
 - [[HR-R005]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-02节点说明]]

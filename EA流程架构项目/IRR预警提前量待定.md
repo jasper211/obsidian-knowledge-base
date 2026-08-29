@@ -8,9 +8,9 @@ domain: （无）
 confidence: MEDIUM
 confidence_reason: 原文明确标注为待确认事项，属于不确定信息。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: Agent机制
-entity_ref: 预警提前量待定
+entity_ref: IRR阶段过程
 status: 生效
 extracted_at: 2026-07-24T04:42:14
 ---
@@ -24,6 +24,6 @@ IRR部分的续约前流失预警在续约周期临近时触发，但具体提�
 - [[续约前流失预警]]
 - [[触发提前量]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[预警提前量待定]]
+- [[IRR阶段过程说明]]

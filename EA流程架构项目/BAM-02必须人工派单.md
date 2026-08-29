@@ -8,9 +8,9 @@ domain: （无）
 confidence: HIGH
 confidence_reason: 原文明确且强调“唯一必须交给人工Sub-Agent的环节”。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: Agent机制
-entity_ref: 强制转人工场景
+entity_ref: VN-BAM-02节点
 status: 生效
 extracted_at: 2026-07-24T04:59:14
 ---
@@ -25,6 +25,6 @@ extracted_at: 2026-07-24T04:59:14
 - [[人工Sub-Agent]]
 - [[BAM-02]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[强制转人工场景]]
+- [[VN-BAM-02节点说明]]

@@ -7,9 +7,9 @@ authority_layer: 02_定稿
 domain: EQ
 confidence: UNSTATED
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: SOP
-entity_ref: Gate规则与验证
+entity_ref: Gate检查
 extracted_at: 2026-07-16T20:04:59
 ---
 
@@ -21,6 +21,6 @@ extracted_at: 2026-07-16T20:04:59
 
 - [[核心交付物]]
 
-## 所属枢纽
+## 当前定义页
 
-- [[Gate规则与验证]]
+- [[Gate检查]]

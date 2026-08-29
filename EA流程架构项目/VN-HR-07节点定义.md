@@ -8,7 +8,7 @@ domain: HR
 confidence: HIGH
 confidence_reason: L3-HRM 蓝图、D1 与 D2 已共同确认 VN-HR-07 的现行名称、输出物、起止边界与关键缺口。
 decision_status: UNSTATED
-as_of: 2026-08-24
+as_of: 2026-08-28
 entity_type: 定义
 entity_ref: VN-HR-07节点
 status: 生效
@@ -23,7 +23,7 @@ extracted_at: 2026-08-24T12:10:00
 
 - 起点：招聘录用决策形成，进入合同准备与入职配置
 - 终点：形成 `《劳动合同》[员工签字+公司盖章生效]`
-- 不包含：TR培训完成声明与培训合规处理，这部分更接近 `VN-HRD-01_VN-HRD-02`
+- 不包含：TR培训完成声明与培训合规处理，这部分更接近 `VN-HRD-02节点说明`
 
 ## 核心输出物
 
@@ -54,7 +54,8 @@ extracted_at: 2026-08-24T12:10:00
 
 - [[VN-HR-07]]
 - [[VN-HRD01与02为新建流程]]
+- [[VN-HRD-02节点说明]]
 
-## 所属枢纽
+## 当前主挂点
 
 - [[VN-HR-07节点]]

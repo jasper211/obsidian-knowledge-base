@@ -7,9 +7,9 @@ authority_layer: 02_定稿
 domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: Agent机制
-entity_ref: IRR相关事项
+entity_ref: IRR阶段过程
 extracted_at: 2026-07-16T16:19:07
 ---
 
@@ -22,6 +22,6 @@ IAO到IRR之间的转换点是“意向确认为正式合作”。一旦一家�
 - [[IAO阶段内部流程]]
 - [[IRR阶段内部流程]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[IRR相关事项]]
+- [[IRR阶段过程说明]]

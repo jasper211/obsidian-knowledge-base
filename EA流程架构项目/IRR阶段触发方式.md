@@ -7,9 +7,9 @@ authority_layer: 02_定稿
 domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: Agent机制
-entity_ref: IRR相关事项
+entity_ref: IRR阶段过程
 extracted_at: 2026-07-16T16:19:44
 ---
 
@@ -22,6 +22,6 @@ IRR部分：续约周期临近时触发预警（比如到期前N个月），具�
 - [[IRR阶段触发方式]]
 - [[IAO调度无固定节奏]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[IRR相关事项]]
+- [[IRR阶段过程说明]]

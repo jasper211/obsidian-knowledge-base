@@ -7,9 +7,9 @@ authority_layer: 02_定稿
 domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: SOP
-entity_ref: Gate规则与验证
+entity_ref: 内部候选叙事晋升规则
 extracted_at: 2026-07-16T19:20:40
 ---
 
@@ -22,6 +22,6 @@ extracted_at: 2026-07-16T19:20:40
 - [[内部候选叙事晋升规则]]
 - [[文件状态规则]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Gate规则与验证]]
+- [[内部候选叙事晋升规则]]

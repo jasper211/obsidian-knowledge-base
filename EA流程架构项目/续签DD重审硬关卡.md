@@ -8,9 +8,9 @@ domain: （无）
 confidence: HIGH
 confidence_reason: 原文使用“必须走一遍”，语气肯定。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: Agent机制
-entity_ref: （无）
+entity_ref: VN-CRR-01节点
 status: 生效
 extracted_at: 2026-07-24T04:46:33
 ---
@@ -25,3 +25,7 @@ L4-CRR-09续签DD重审是第二个硬性验证关卡，续约前必须完成尽
 - [[硬性关卡]]
 - [[续约]]
 - [[尽职调查复审]]
+
+## 当前主挂点
+
+- [[VN-CRR-01节点说明]]

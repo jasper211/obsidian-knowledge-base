@@ -5,7 +5,7 @@ entity_ref: 培训协议与FTR衔接
 project: EA流程架构项目
 atom_count: 5
 generated_at: 2026-07-24
-updated_at: 2026-08-24
+updated_at: 2026-08-28
 generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
 coherence_reason: 该页原本把培训协议条款、签约接口和后续 FTR 培训衔接混成一个旧主题。现行治理下，这些内容更适合作为 VN-FOB-01 协议签署节点的跨域接口缺口来处理。
 ---

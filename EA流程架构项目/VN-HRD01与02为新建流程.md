@@ -8,7 +8,7 @@ domain: HR
 confidence: HIGH
 confidence_reason: 已按归档蓝图、D1/D2 对照与检查日志回看校准；当前页最关键的现行事实是 HRD-01/02 仍处于新建流程语境。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 状态
 entity_ref: VN-HRD-01_VN-HRD-02
 status: 生效
@@ -34,11 +34,18 @@ extracted_at: 2026-07-23T10:50:59
 - 但其流程语境仍带有“新建、待收敛、待整合”的特征
 - 后续更可能被纳入其他更稳定的人员管理或岗位交付主链中重新表达
 
+## 当前分流入口
+
+- `VN-HRD-01` 相关细项，优先进入 [[VN-HRD-01节点说明]]
+- `VN-HRD-02` 相关细项，优先进入 [[VN-HRD-02节点说明]]
+
 ## 关联概念
 
 - [[TR人力资源体系交付]]
 - [[L3新建]]
 
-## 所属枢纽
+## 当前主挂点
 
 - [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-01节点说明]]
+- [[VN-HRD-02节点说明]]

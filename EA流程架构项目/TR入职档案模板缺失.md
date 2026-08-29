@@ -8,9 +8,9 @@ domain: HR
 confidence: MEDIUM
 confidence_reason: 该页描述的是 TR 入职材料模板缺口，现行应挂入 VN-HRD-01_VN-HRD-02 新建流程组统一治理。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 状态说明
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-01节点
 extracted_at: 2026-07-16T19:18:29
 ---
 
@@ -18,6 +18,6 @@ extracted_at: 2026-07-16T19:18:29
 
 TR入职档案缺少标准模板，当前收集材料不统一。需裁定TR入职必备材料清单（证件/合同/证书/健康证明等），以及是否需要标准化表单。
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD01与02为新建流程]]
+- [[VN-HRD-01节点说明]]

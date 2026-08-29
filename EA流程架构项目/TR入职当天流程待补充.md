@@ -8,9 +8,9 @@ domain: HR
 confidence: MEDIUM
 confidence_reason: 页面内容明确属于 TR 入职当天执行顺序与责任分工缺口。
 decision_status: UNSTATED
-as_of: 2026-08-14
+as_of: 2026-08-28
 entity_type: 现行校准
-entity_ref: VN-HRD-01_VN-HRD-02
+entity_ref: VN-HRD-01节点
 status: 生效
 extracted_at: 2026-07-16T19:18:58
 ---
@@ -19,6 +19,6 @@ extracted_at: 2026-07-16T19:18:58
 
 入职当天的手续办理顺序及各环节负责人（系统开通/门禁/工作用品领取）尚未明确，需补充。
 
-## 所属枢纽
+## 当前主挂点
 
-- [[VN-HRD-01_VN-HRD-02]]
+- [[VN-HRD-01节点说明]]

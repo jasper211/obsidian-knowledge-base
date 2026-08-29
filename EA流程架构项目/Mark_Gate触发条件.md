@@ -8,9 +8,9 @@ domain: EQ
 confidence: HIGH
 confidence_reason: 原文Gate检查表格明确。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: SOP
-entity_ref: Mark Gate机制
+entity_ref: Gate检查
 status: 生效
 extracted_at: 2026-07-24T04:19:42
 ---
@@ -23,6 +23,6 @@ extracted_at: 2026-07-24T04:19:42
 
 - [[Gate检查]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Mark Gate机制]]
+- [[Gate检查]]

@@ -8,9 +8,9 @@ domain: （无）
 confidence: HIGH
 confidence_reason: 原文Gate表格明确通过条件与未通过处理。
 decision_status: UNSTATED
-as_of: 未知
+as_of: 2026-08-28
 entity_type: SOP
-entity_ref: Gate规则与验证
+entity_ref: 内部候选叙事晋升规则
 status: 生效
 extracted_at: 2026-07-24T03:32:03
 ---
@@ -24,6 +24,6 @@ G6要求合规/法务明确通过或附条件通过，否则不得外发。
 - [[合规/法务确认]]
 - [[Gate判断]]
 
-## 所属枢纽
+## 当前主挂点
 
-- [[Gate规则与验证]]
+- [[内部候选叙事晋升规则]]
