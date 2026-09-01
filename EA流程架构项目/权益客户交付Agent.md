@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 定义
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系/Agent执行机制梳理/权益客户交付Agent.md
-authority_layer: 02_定稿
+authority_layer: 02_过程成果
 domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
@@ -16,6 +16,15 @@ extracted_at: 2026-07-16T16:39:56
 # 权益客户交付Agent
 
 权益客户交付Agent是F族(JF-06权益服务族)下的一个专家型Orchestrator Agent，负责权益客户从需求收集到结算的完整交付旅程，覆盖8个L3、17条L4，是30个Agent中覆盖L3数量最多的一个。
+
+## 使用边界与主入口
+
+2026-08-31回源核对：以上身份、数量和排名为源Agent机制说明的设计口径，不代表当前注册全集、批准状态或运行验收。源说明保留CDS/SDS合同分支适用条件待业务确认；下方26条L4候选与删除告警保留为历史记录，本轮未核候选工作簿现址或版本替代，不能据此裁定17或26为现行覆盖数。
+
+- [[权益客户交付Agent定义]]：同源身份摘录，不构成独立证据。
+- [[客户交付触发规则]]：新需求启动，后段转周期监控和结算的设计。
+- [[客户交付主链流程]]：源主链及合同、财务关卡边界。
+- [[客户交付核心流程]]：历史聚类导航。
 
 ## 关联概念
 

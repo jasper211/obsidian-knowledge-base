@@ -3,7 +3,9 @@ type: concept_atom
 concept_type: 背景说明
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_TOI-EVD-001_保司价值证明叙事_内部候选_v0.1.md
-authority_layer: 02_定稿
+authority_layer: 过程成果
+source_checked_at: 2026-08-30
+source_review_status: 已核源过程成果声明，不证明已有外发凭证；原status保留，生效依据未核验
 domain: （无）
 confidence: HIGH
 confidence_reason: 原文明确陈述目标与要避免的风险。

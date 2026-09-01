@@ -3,7 +3,7 @@ type: entity_hub
 entity_type: 非正式主题
 entity_ref: 联合运营Agent体系
 project: EA流程架构项目
-atom_count: 10
+atom_count: 9
 generated_at: 2026-07-24
 generated_by: embedding聚类(threshold=0.72，cluster_atoms.py增量) + LLM内容连贯性判断
 coherence_reason: 聚焦联合运营场景下的Agent集群，涵盖诊断、交付、流程、触发和档案，属于同一子领域的具体设计。
@@ -11,7 +11,9 @@ coherence_reason: 聚焦联合运营场景下的Agent集群，涵盖诊断、交
 
 # 联合运营Agent体系
 
-非正式主题枢纽，6个原子经LLM判断内容连贯后自动生成。
+历史聚类分流页，下列保留9个导航入口，不代表全部内容已核验。交付范围、注册差异和共享档案建议先读 [[联合运营项目交付Agent]]；专项设计流程与交付执行不同，不按本聚类拼成一条已生效流程。
+
+重复的 [[联合运营项目档案持久化]] 已降为历史吸收，内容统一至 [[一次性项目档案]]；其余原子不因同处一组获得独立佐证或正式状态。
 
 ## 关联原子
 
@@ -24,4 +26,3 @@ coherence_reason: 聚焦联合运营场景下的Agent集群，涵盖诊断、交
 - [[联合运营诊断Agent]]
 - [[联合运营项目交付Agent]]
 - [[联合运营项目标准流程]]
-- [[联合运营项目档案持久化]]

@@ -3,7 +3,7 @@ type: concept_atom
 concept_type: 规则
 project: EA流程架构项目
 source: 02_过程成果-工作产出/规则分析（Jasper）/05_SOP/SOP_VN-IBRD-01_合作伙伴尽调与路径管理_v0.1.md
-authority_layer: 02_定稿
+authority_layer: 02_草稿
 domain: （无）
 confidence: UNSTATED
 decision_status: UNSTATED
@@ -14,6 +14,8 @@ extracted_at: 2026-07-16T19:43:39
 ---
 
 # 交付经理唯一Owner原则
+
+2026-08-30回源核查：SOP头部明确v0.1草稿，并自行区分A类已确认规则与待裁定占位。本页保留其渠道交付经理规则摘录，但未独立核验批准、当前任命或执行情况；不能推广为所有项目或跨Agent边界的公司级任命规则。适用关系见 [[Jasper经验到EA应用映射MOC]]。
 
 每个渠道必须有唯一单一交付经理Owner，不可无人负责或多人共担。同行渠道（机构渠道）须匹配具备同行渠道服务经验的交付经理，仅有KA经验的人员不可直接任命。过渡期可由有经验者带教，但不可长期一人兼任KA和同行两类渠道。
 
