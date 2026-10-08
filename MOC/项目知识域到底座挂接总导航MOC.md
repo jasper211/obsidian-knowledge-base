@@ -161,8 +161,8 @@ updated: 2026-08-12
   说明项目接入顺序、回挂方向、晋升条件
 - [OB文件纳入分层规则_2026-08-12](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/OB文件纳入分层规则_2026-08-12.md:1)
   说明单个文件该进哪一层
-- [Jasper项目工作区知识域定义](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/Jasper项目工作区知识域定义.md:1)
-  说明工作区是候选层，不是最终项目命名层
+- [Agent与工作区治理项目知识域定义](/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/Agent与工作区治理项目知识域定义.md:1)
+  说明Agent与工作区治理项目的归属；业务域知识依所属项目归域，候选/待核是成熟度状态
 
 ---
 
