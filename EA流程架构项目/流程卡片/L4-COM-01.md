@@ -11,10 +11,14 @@ edges: [L3-COM, L4-COM-02, L4-COM-16, VN-PAY-01]
 source: 现行母对象=流程蓝图_L3-COM_佣金全链路管理_V1.0.md；现行卡片上下文=L3-COM；补充来源=process_analytics.dim_vn；补充快照=L3-COM.json（VNW模型快照，不作为现行主依据）
 status: draft（本卡片本身未经Terresa/Mark确认）
 version: v4
-completeness: complete
-gaps: 无
+completeness: complete（卡片结构字段完整，不代表SOP/运行验收完成）
+gaps: 当前SOP及运行状态未核；母蓝图2026-06-22版本记录当时01-a至01-c无书面SOP
 ---
 # L4-COM-01 佣金政策接收与校准
+
+## 来源版本与执行边界（2026-10-10）
+
+母蓝图文件名为V1.0，正文版本记录称V1.0.1于2026-06-22补建01-a至01-c；该日记录三项当时均无书面SOP。母蓝图mtime为2026-07-17，但mtime不代表其后治理或SOP状态。本卡`completeness: complete`仅指卡片字段结构完整；`status: draft`仍有效，母蓝图中的规则场景、人工冲突核验不能被解释为当前系统能力、已部署SOP或实际运行结果。当前是否已有新SOP/审批/运行证据未在本轮检索。
 
 上级节点：[[L3-COM]]
 
