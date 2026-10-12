@@ -11,10 +11,14 @@ edges: [L3-COM, L4-COM-01, L4-COM-10, VN-PAY-01]
 source: 现行母对象=流程蓝图_L3-COM_佣金全链路管理_V1.0.md；现行卡片上下文=L3-COM；补充来源=process_analytics.dim_vn；补充快照=L3-COM.json（VNW模型快照，不作为现行主依据）
 status: draft（本卡片本身未经Terresa/Mark确认）
 version: v4
-completeness: complete
-gaps: 无
+completeness: complete（卡片结构字段完整，不代表SOP/切换/迁移验收完成）
+gaps: 当前SOP、量化切换验收及迁移回执未核；母蓝图记录这些执行门槛当时未完备
 ---
 # L4-COM-02 差异化拆解与验证
+
+## 来源版本与执行边界（2026-10-11）
+
+母蓝图文件名为V1.0；正文版本说明记录V1.0.1于2026-06-22补建02-a至02-c。对应蓝图段落当时记载：02-a无书面SOP；02-b无量化验收清单且财务仍使用旧Excel；02-c无执行SOP。以上是源文件当时状态，不是当前状态证明。本卡`completeness: complete`仅指卡片结构字段齐备；新脚本切换、三年数据迁移和一致性验证的实际结果未在本轮核验。`status: draft`继续有效，不能将设计步骤或“全量迁移决策已定”描述为已经执行或验收。
 
 上级节点：[[L3-COM]]
 
