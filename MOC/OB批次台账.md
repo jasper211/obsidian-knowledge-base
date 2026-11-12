@@ -14,3 +14,8 @@
 | OB-LOCAL-RW-002 | ROOT-RW-L | 窗口内四主题 | 2026-11-11T05:00:45.991Z | 4 | 版本口径关联 | 0 | Galileo | 独立核验通过 | [[OB批次/OB-LOCAL-RW-002]] | null |
 | OB-LOCAL-RW-003 | ROOT-RW-L | 两业务MD首段 | 2026-11-11T05:03:04.991Z | 2 | 历史设计分析 | 0 | Galileo | 片段独立核验通过 | [[OB批次/OB-LOCAL-RW-003]] | null |
 | OB-LOCAL-RW-004 | ROOT-RW-L | 同两源余段，非新增2源 | 2026-11-11T05:04:33.684Z | 2续读 | 阅读闭合，不晋升 | 0 | Galileo | 必要定位核查通过 | [[OB批次/OB-LOCAL-RW-004]] | null |
+| OB-LOCAL-RW-005 | ROOT-RW-L | 窗口内HTML | 2026-11-11T07:14:25.275334Z | 1 | 静态正文关联 | 0 | Galileo | 定点核查通过 | [[OB批次/OB-LOCAL-RW-005]] | null |
+| OB-LOCAL-RW-006 | ROOT-RW-L | 窗口内三README | 2026-11-11T12:46:13.741Z | 3 | 历史候选与聚合分流 | 0 | James | 独立核查通过 | [[OB批次/OB-LOCAL-RW-006]] | null |
+| OB-LOCAL-RW-007 | ROOT-RW-L | 招聘HTML选定片段 | 2026-11-11T15:22:40.385983Z | 1 | 历史招聘评估门槛 | 0 | James | 限定独立核查通过，非全文 | [[OB批次/OB-LOCAL-RW-007]] | null |
+| OB-LOCAL-RW-008 | ROOT-RW-L | 根层12名分流、章程L1–85 | 检查截至2026-11-11T19:27:26Z | 1正文 | 历史项目定位与阶段边界 | 0 | James | 限定独立核查通过 | [[OB批次/OB-LOCAL-RW-008]] | null |
+| OB-LOCAL-RW-009 | ROOT-RW-L | 同章程L86–208续读 | 检查截至2026-11-11T23:30:05Z | 1续读 | 目标、建议与审批边界 | 0 | James | 限定独立核查通过 | [[OB批次/OB-LOCAL-RW-009]] | null |
