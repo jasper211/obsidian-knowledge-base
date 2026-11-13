@@ -1,0 +1,1697 @@
+[
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/01_RW服务合同/_INDEX.md",
+    "sorted_index": 0,
+    "record_id": "G0-000",
+    "status": "低复用仅溯源",
+    "reason": "合同目录索引，仅有复制计数与11个Office路径，无合同条款正文。",
+    "mtime": 1783105557.814823,
+    "source_hash": "d8a59b520c9b33f3c0f02181fbed05478605aaffa8f22edaecce6627a80e6f1c",
+    "read_chars": 522,
+    "read_bytes": 864,
+    "locators": [
+      "L1-L19"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.361227+00:00",
+    "mtime_ns": "1783105557814823000",
+    "size_bytes": 864,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1752020",
+      "size": 864,
+      "mtime_ns": "1783105557814823000",
+      "ctime_ns": "1784266832911710741"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1752020",
+      "size": 864,
+      "mtime_ns": "1783105557814823000",
+      "ctime_ns": "1784266832911710741"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 19,
+    "total_text_chars": 522,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 261
+    },
+    "usable_boundary": "只作历史定位，不据copied数量认定有效合同、权限或验收；不跟读Office。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1752020",
+      "size": 864,
+      "mtime_ns": "1783105557814823000",
+      "ctime_ns": "1784266832911710741"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/管家/香港管家项目_对话记录.md",
+    "sorted_index": 3,
+    "record_id": "G0-003",
+    "status": "已分析",
+    "reason": "管家项目对话将保司采购、经纪账户运营、服务团队履约分为三层；前台品牌隔离不等于隐藏后台责任。回传表中统一填45和提示文字不作正式规则，转上线待确认。",
+    "mtime": 1785991764.5352294,
+    "source_hash": "7bc84ff72abc345c277580bfb8b9612fef62e2120ed89c35324b0e0934c66839",
+    "read_chars": 2193,
+    "read_bytes": 5033,
+    "locators": [
+      "L13-L64",
+      "L90-L121"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.362643+00:00",
+    "mtime_ns": "1785991764535229444",
+    "size_bytes": 5033,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5599611",
+      "size": 5033,
+      "mtime_ns": "1785991764535229444",
+      "ctime_ns": "1790670728093626328"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5599611",
+      "size": 5033,
+      "mtime_ns": "1785991764535229444",
+      "ctime_ns": "1790670728093626328"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 194,
+    "total_text_chars": 2193,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 1097
+    },
+    "usable_boundary": "历史对话自述，不证明采购/履约已发生；L125-L161页面功能及自动保存不作技术知识分析，文件同步路径不访问。",
+    "knowledge": "管家项目对话将保司采购、经纪账户运营、服务团队履约分为三层；前台品牌隔离不等于隐藏后台责任。回传表中统一填45和提示文字不作正式规则，转上线待确认。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5599611",
+      "size": 5033,
+      "mtime_ns": "1785991764535229444",
+      "ctime_ns": "1790670728093626328"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/获邦身份终局规划/当前对话记录.md",
+    "sorted_index": 6,
+    "record_id": "G0-006",
+    "status": "低复用仅溯源",
+    "reason": "仅记录复制目录、申请权限及保留空目录的沟通，没有身份规划业务内容。",
+    "mtime": 1785988444.002909,
+    "source_hash": "ffb850b8e92db79b293db604c613cb9f721ff7a0a8487f2307806ad686366429",
+    "read_chars": 455,
+    "read_bytes": 1021,
+    "locators": [
+      "L3-L23"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.363327+00:00",
+    "mtime_ns": "1785988444002908829",
+    "size_bytes": 1021,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5599543",
+      "size": 1021,
+      "mtime_ns": "1785988444002908829",
+      "ctime_ns": "1787749756296982404"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5599543",
+      "size": 1021,
+      "mtime_ns": "1785988444002908829",
+      "ctime_ns": "1787749756296982404"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 23,
+    "total_text_chars": 455,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 228
+    },
+    "usable_boundary": "不把历史复制权限当本轮授权，不访问C/D盘引用，不因文件夹名生成身份主题。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5599543",
+      "size": 1021,
+      "mtime_ns": "1785988444002908829",
+      "ctime_ns": "1787749756296982404"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/02_0周启动会议议程.md",
+    "sorted_index": 9,
+    "record_id": "G0-009",
+    "status": "已有分析关联",
+    "reason": "与OB-LOCAL-RW-010及其独立核查关联：议程的建议答案、计划分工、空白纪要均不能证明会议或决议完成。",
+    "mtime": 1783168386.223092,
+    "source_hash": "410bbd81412f9f4960397b2d4376c9736f32c2ca82ca20e38b097724723679f1",
+    "read_chars": 3332,
+    "read_bytes": 5968,
+    "locators": [
+      "L3-L5",
+      "L55-L79",
+      "L103-L132"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.364050+00:00",
+    "mtime_ns": "1783168386223092000",
+    "size_bytes": 5968,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753136",
+      "size": 5968,
+      "mtime_ns": "1783168386223092000",
+      "ctime_ns": "1784266889969542813"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753136",
+      "size": 5968,
+      "mtime_ns": "1783168386223092000",
+      "ctime_ns": "1784266889969542813"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 132,
+    "total_text_chars": 3332,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 1666
+    },
+    "usable_boundary": "本轮源SHA256与010独立核查一致；不覆盖旧批次、不造重复原子、不验证当前会议/任命/批准。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "existing_analysis": {
+      "path": "MOC/OB批次/OB-LOCAL-RW-010.md",
+      "review": "MOC/OB批次/OB-LOCAL-RW-010_核查.md",
+      "theme": "MOC/RW业务主题_立项与放行边界.md",
+      "prior_review_hash": "410bbd81412f9f4960397b2d4376c9736f32c2ca82ca20e38b097724723679f1",
+      "hash_matches": true,
+      "scope": "同源指纹匹配，不追认旧回执未做的验证"
+    },
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753136",
+      "size": 5968,
+      "mtime_ns": "1783168386223092000",
+      "ctime_ns": "1784266889969542813"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/10_四对象分类视图_v2验收报告.md",
+    "sorted_index": 12,
+    "record_id": "G0-012",
+    "status": "已分析",
+    "reason": "分类治理由多标签复制改为主标签+辅标签，减少同源多份复制；REVIEW和低置信项不能直接进入基线，检索manifest不等于SSOT。",
+    "mtime": 1783141958.0006437,
+    "source_hash": "45fb71a8a5a92522f06003719905ad2bc2075ad82312a3656fc33083c82dfe9f",
+    "read_chars": 1306,
+    "read_bytes": 2240,
+    "locators": [
+      "L7-L9",
+      "L19-L45",
+      "L62-L72"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.364453+00:00",
+    "mtime_ns": "1783141958000643730",
+    "size_bytes": 2240,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753154",
+      "size": 2240,
+      "mtime_ns": "1783141958000643730",
+      "ctime_ns": "1790670868611748812"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753154",
+      "size": 2240,
+      "mtime_ns": "1783141958000643730",
+      "ctime_ns": "1790670868611748812"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 72,
+    "total_text_chars": 1306,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 653
+    },
+    "usable_boundary": "241/451等是报告历史自述，未读manifest验证；不是本轮去重证据，也不证明目录分类正确。",
+    "knowledge": "分类治理由多标签复制改为主标签+辅标签，减少同源多份复制；REVIEW和低置信项不能直接进入基线，检索manifest不等于SSOT。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753154",
+      "size": 2240,
+      "mtime_ns": "1783141958000643730",
+      "ctime_ns": "1790670868611748812"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/118_TOI新模型owner确认任务清单_20260712.md",
+    "sorted_index": 15,
+    "record_id": "G0-015",
+    "status": "已分析",
+    "reason": "新模型确认区分战略采用、业务定义、财务定价、合规外发和案例事实；可先产草案，不必等所有财务字段，但报价与外发仍受专项确认限制。",
+    "mtime": 1783823344.05083,
+    "source_hash": "5778bd8ff1ecb8e8ed2bb01ac5a7607568343533496cb34b4f7687fb84eff5bb",
+    "read_chars": 1955,
+    "read_bytes": 3565,
+    "locators": [
+      "L3-L5",
+      "L16-L47",
+      "L58-L64"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.364801+00:00",
+    "mtime_ns": "1783823344050829887",
+    "size_bytes": 3565,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753166",
+      "size": 3565,
+      "mtime_ns": "1783823344050829887",
+      "ctime_ns": "1790670854581316848"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753166",
+      "size": 3565,
+      "mtime_ns": "1783823344050829887",
+      "ctime_ns": "1790670854581316848"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 65,
+    "total_text_chars": 1955,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 978
+    },
+    "usable_boundary": "建议确认和任务清单不是已批准或已完成；119原子、25 SKU和8货架仅当时模型口径，不认定当前权威版本。",
+    "knowledge": "新模型确认区分战略采用、业务定义、财务定价、合规外发和案例事实；可先产草案，不必等所有财务字段，但报价与外发仍受专项确认限制。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753166",
+      "size": 3565,
+      "mtime_ns": "1783823344050829887",
+      "ctime_ns": "1790670854581316848"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/130_TOI新建21原子开发任务清单_20260712.md",
+    "sorted_index": 18,
+    "record_id": "G0-018",
+    "status": "已分析",
+    "reason": "目标能力已定义与能力可交付分开；21项按近期落地、基础底座、高阶依赖三个波次，并行保持现有交付主线。物理交付物、实名责任、演练、财务合规Gate和业务验收同时满足才升级。",
+    "mtime": 1783845518.592907,
+    "source_hash": "51b8fe66fe806d08cca5f0144b61cf850aa1bec83df0bca444ead6789a166a42",
+    "read_chars": 3696,
+    "read_bytes": 6682,
+    "locators": [
+      "L8-L23",
+      "L61-L74"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.365241+00:00",
+    "mtime_ns": "1783845518592907000",
+    "size_bytes": 6682,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753184",
+      "size": 6682,
+      "mtime_ns": "1783845518592907000",
+      "ctime_ns": "1784266943544006424"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753184",
+      "size": 6682,
+      "mtime_ns": "1783845518592907000",
+      "ctime_ns": "1784266943544006424"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 74,
+    "total_text_chars": 3696,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 1848
+    },
+    "usable_boundary": "只提炼开发任务的业务生命周期，工具/系统实现不分析；Active及授权为源文历史自述，本轮不启动原子。",
+    "knowledge": "目标能力已定义与能力可交付分开；21项按近期落地、基础底座、高阶依赖三个波次，并行保持现有交付主线。物理交付物、实名责任、演练、财务合规Gate和业务验收同时满足才升级。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753184",
+      "size": 6682,
+      "mtime_ns": "1783845518592907000",
+      "ctime_ns": "1784266943544006424"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/156_TOI全量119原子服务标准化任务书_v1.1_for_agent_20260712.md",
+    "sorted_index": 21,
+    "record_id": "G0-021",
+    "status": "已分析",
+    "reason": "标准化保留原子ID、五要素和已接受裁定，源提及须各有且仅有一个映射；模板空表不是运行证据。单主、双核心、组合分开验收，组合覆盖引用与非加总计价显式化。",
+    "mtime": 1783857952.18196,
+    "source_hash": "c821adb9cc033f2a40c6a4135d0efaca8589ca79057beb3a7b98622eac278c39",
+    "read_chars": 4194,
+    "read_bytes": 7791,
+    "locators": [
+      "L9-L18",
+      "L39-L48",
+      "L60-L82"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.365630+00:00",
+    "mtime_ns": "1783857952181960105",
+    "size_bytes": 7791,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753200",
+      "size": 7791,
+      "mtime_ns": "1783857952181960105",
+      "ctime_ns": "1790670881955169519"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753200",
+      "size": 7791,
+      "mtime_ns": "1783857952181960105",
+      "ctime_ns": "1790670881955169519"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 114,
+    "total_text_chars": 4873,
+    "stat_stable": true,
+    "read_scope": "开头最小业务片段",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 2097
+    },
+    "usable_boundary": "仅读L1-L114；脚本/Schema/工程验收矩阵不作技术知识；不运行文内步骤、验证引用hash或宣称119已标准化。",
+    "knowledge": "标准化保留原子ID、五要素和已接受裁定，源提及须各有且仅有一个映射；模板空表不是运行证据。单主、双核心、组合分开验收，组合覆盖引用与非加总计价显式化。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753200",
+      "size": 7791,
+      "mtime_ns": "1783857952181960105",
+      "ctime_ns": "1790670881955169519"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/16_REVIEW批次1_穿透式验收报告.md",
+    "sorted_index": 24,
+    "record_id": "G0-024",
+    "status": "已分析",
+    "reason": "结构完整、主题相似或同编号都不足以把历史流程升为现行基线；旧L3可用于术语对齐与补洞，但需与当前流程/经营活动/RACI比对并由owner决定吸收位置。",
+    "mtime": 1783144564.0100272,
+    "source_hash": "a36d3bc403ad36ef4b886011114274e81b0283cbb3dc47cbba3e9891b24ce8cf",
+    "read_chars": 2346,
+    "read_bytes": 4830,
+    "locators": [
+      "L21-L34",
+      "L58-L67",
+      "L85-L114"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.366048+00:00",
+    "mtime_ns": "1783144564010027170",
+    "size_bytes": 4830,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753206",
+      "size": 4830,
+      "mtime_ns": "1783144564010027170",
+      "ctime_ns": "1790670862776839581"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753206",
+      "size": 4830,
+      "mtime_ns": "1783144564010027170",
+      "ctime_ns": "1790670862776839581"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 125,
+    "total_text_chars": 2346,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 1173
+    },
+    "usable_boundary": "Office抽取和相似度仅为报告自述；不复验引用文件，不把通过治理复核当正式基线放行。",
+    "knowledge": "结构完整、主题相似或同编号都不足以把历史流程升为现行基线；旧L3可用于术语对齐与补洞，但需与当前流程/经营活动/RACI比对并由owner决定吸收位置。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753206",
+      "size": 4830,
+      "mtime_ns": "1783144564010027170",
+      "ctime_ns": "1790670862776839581"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/183_TOI原子服务标准化v0.2.2执行与自验报告_20260712.md",
+    "sorted_index": 27,
+    "record_id": "G0-027",
+    "status": "低复用仅溯源",
+    "reason": "标准化执行自验回执自述机器检查通过，但仍有12个Accepted family缺口，且candidate_not_current等待再验收。",
+    "mtime": 1783866772.6835263,
+    "source_hash": "590956bf626cb5197d8c2b541bae48543f933a5e6d7d114e3aaed0da727c1e91",
+    "read_chars": 4131,
+    "read_bytes": 5053,
+    "locators": [
+      "L3-L12",
+      "L20-L27",
+      "L75-L79"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.366328+00:00",
+    "mtime_ns": "1783866772683526277",
+    "size_bytes": 5053,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753216",
+      "size": 5053,
+      "mtime_ns": "1783866772683526277",
+      "ctime_ns": "1790670846080554957"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753216",
+      "size": 5053,
+      "mtime_ns": "1783866772683526277",
+      "ctime_ns": "1790670846080554957"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 79,
+    "total_text_chars": 4131,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 2066
+    },
+    "usable_boundary": "仅保留候选/缺口/发布边界；119/535/1020及PASS不复算、不造知识原子、不认定实际交付或current。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753216",
+      "size": 5053,
+      "mtime_ns": "1783866772683526277",
+      "ctime_ns": "1790670846080554957"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/18_REVIEW批次2_佣金合规与保司渠道口径复核结果.md",
+    "sorted_index": 30,
+    "record_id": "G0-030",
+    "status": "已分析",
+    "reason": "佣金/渠道复核把内部经营背景与对保司培训需求、机构KA赋能候选分开；业务可用范围与客户可见范围需分别评估，剥离敏感结算/内部关系后仍须owner确认。",
+    "mtime": 1783145532.0657096,
+    "source_hash": "9951f7da27345bfd1a15fbd7cecae4825fc0dfc50f4a86c14da1e69cf5a5b81f",
+    "read_chars": 3919,
+    "read_bytes": 20155,
+    "locators": [
+      "L3-L10",
+      "L40-L47",
+      "L53-L58"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.366590+00:00",
+    "mtime_ns": "1783145532065709500",
+    "size_bytes": 20155,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753225",
+      "size": 20155,
+      "mtime_ns": "1783145532065709500",
+      "ctime_ns": "1784266830844028588"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753225",
+      "size": 20155,
+      "mtime_ns": "1783145532065709500",
+      "ctime_ns": "1784266830844028588"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 58,
+    "total_text_chars": 9409,
+    "stat_stable": true,
+    "read_scope": "开头最小业务片段",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 1960
+    },
+    "usable_boundary": "只读L1-L58，不声称逐项核完17件。旧文重复关系仅历史意见，不用于本轮同hash判重；不输出法律或监管结论。",
+    "knowledge": "佣金/渠道复核把内部经营背景与对保司培训需求、机构KA赋能候选分开；业务可用范围与客户可见范围需分别评估，剥离敏感结算/内部关系后仍须owner确认。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753225",
+      "size": 20155,
+      "mtime_ns": "1783145532065709500",
+      "ctime_ns": "1784266830844028588"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/19_REVIEW批次2_穿透式验收报告.md",
+    "sorted_index": 33,
+    "record_id": "G0-033",
+    "status": "低复用仅溯源",
+    "reason": "B2验收回执复述TOI/TOB候选边界与17件治理检查结果，未释放正式基线，主题已由本分片G0-030覆盖。",
+    "mtime": 1783145838.2924786,
+    "source_hash": "26b44dddd37902a2f1839b725352234f44a41ecccd20b8a18e84e26d4c73aeef",
+    "read_chars": 1995,
+    "read_bytes": 4043,
+    "locators": [
+      "L3-L18",
+      "L79-L110"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.367083+00:00",
+    "mtime_ns": "1783145838292478600",
+    "size_bytes": 4043,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753239",
+      "size": 4043,
+      "mtime_ns": "1783145838292478600",
+      "ctime_ns": "1784266939749015567"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753239",
+      "size": 4043,
+      "mtime_ns": "1783145838292478600",
+      "ctime_ns": "1784266939749015567"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 116,
+    "total_text_chars": 1995,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 998
+    },
+    "usable_boundary": "内容功能重叠但hash不同，不标重复；未读Office/PDF或验证旧哈希，不用回执增加独立事实权重。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753239",
+      "size": 4043,
+      "mtime_ns": "1783145838292478600",
+      "ctime_ns": "1784266939749015567"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/218_Carrie_step2_TOI_CASE001原始凭证索引扩展完成记录_20260720.md",
+    "sorted_index": 36,
+    "record_id": "G0-036",
+    "status": "低复用仅溯源",
+    "reason": "原始凭证索引扩展回执：合同结算审计用，排期海报内部用；进入索引不代表可外发或G7解除。",
+    "mtime": 1784532050.1548727,
+    "source_hash": "596fcc21c88773428e91249b20beb8bb437e05390cbba63ae4a9dd91476e6afe",
+    "read_chars": 1178,
+    "read_bytes": 2060,
+    "locators": [
+      "L7-L15",
+      "L28-L47"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.367508+00:00",
+    "mtime_ns": "1784532050154872700",
+    "size_bytes": 2060,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "4748163",
+      "size": 2060,
+      "mtime_ns": "1784532050154872700",
+      "ctime_ns": "1785467617896041919"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "4748163",
+      "size": 2060,
+      "mtime_ns": "1784532050154872700",
+      "ctime_ns": "1785467617896041919"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 54,
+    "total_text_chars": 1178,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 589
+    },
+    "usable_boundary": "只保留历史索引动作及用途边界，不验证15条原始凭证，不分析后续DB建议，不因记录数生成原子。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "4748163",
+      "size": 2060,
+      "mtime_ns": "1784532050154872700",
+      "ctime_ns": "1785467617896041919"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/220_Carrie_step4_216B字段与枚举标准化完成记录_20260720.md",
+    "sorted_index": 39,
+    "record_id": "G0-039",
+    "status": "技术排除",
+    "reason": "正文明确为DB前置字段字典、枚举及质量规则标准化完成记录，后续指向建表；本轮按技术工程排除，不提炼技术实现。",
+    "mtime": 1784532754.3847136,
+    "source_hash": "530f9fdb99968777fef3f8a11092c478d00edb33ed204e97db5cd2779c25c391",
+    "read_chars": 1419,
+    "read_bytes": 2305,
+    "locators": [
+      "L4-L14",
+      "L32-L48",
+      "L60-L67"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.367810+00:00",
+    "mtime_ns": "1784532754384713600",
+    "size_bytes": 2305,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "4748232",
+      "size": 2305,
+      "mtime_ns": "1784532754384713600",
+      "ctime_ns": "1785467635561699202"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "4748232",
+      "size": 2305,
+      "mtime_ns": "1784532754384713600",
+      "ctime_ns": "1785467635561699202"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 67,
+    "total_text_chars": 1419,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 710
+    },
+    "usable_boundary": "仅为类型辨识而读取，14字段/30枚举/13规则不验收、不执行、不跟读SQL/CSV；不将候选状态升级。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "4748232",
+      "size": 2305,
+      "mtime_ns": "1784532754384713600",
+      "ctime_ns": "1785467635561699202"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/22_REVIEW批次3_穿透式验收报告.md",
+    "sorted_index": 42,
+    "record_id": "G0-042",
+    "status": "待核",
+    "reason": "报告表中读取失败0、文件本体抽取可信，但旧DOC仅hash与二进制关键词信号，明确无法Office级转换复核；整体读取/语义覆盖主张证据不足。",
+    "mtime": 1783147421.8115568,
+    "source_hash": "92687572bae40aa53cba74d105bf76902acae6252891b0a93c241e02786ae84a",
+    "read_chars": 2168,
+    "read_bytes": 4378,
+    "locators": [
+      "L24-L44",
+      "L92-L101"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.368195+00:00",
+    "mtime_ns": "1783147421811556816",
+    "size_bytes": 4378,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753255",
+      "size": 4378,
+      "mtime_ns": "1783147421811556816",
+      "ctime_ns": "1790670864155560937"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753255",
+      "size": 4378,
+      "mtime_ns": "1783147421811556816",
+      "ctime_ns": "1790670864155560937"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 107,
+    "total_text_chars": 2168,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 1084
+    },
+    "usable_boundary": "不是法律或版本已失效判断；旧DOC语义未核，其他格式成功自述不能代替它。保留该覆盖缺口，不跟读Office，也不把关键词当摘要。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753255",
+      "size": 4378,
+      "mtime_ns": "1783147421811556816",
+      "ctime_ns": "1790670864155560937"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/25_TOC客户专家咨询_GL25合规相关资料索引.md",
+    "sorted_index": 45,
+    "record_id": "G0-045",
+    "status": "已分析",
+    "reason": "专家咨询索引包含实际业务规则：区分专业意见主体与RW协调/归档，拆开咨询服务和内部转化支持，准备评估、准入、授权、记录及转办链；客户主动问保险事项应另转独立流程。",
+    "mtime": 1783156956.1675282,
+    "source_hash": "7c8f8e3ebb6c63f2e5ced53b26a885c148d8adf32058bd31f65042ef3a35fd4d",
+    "read_chars": 3536,
+    "read_bytes": 7994,
+    "locators": [
+      "L5-L27",
+      "L44-L59",
+      "L61-L73"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.368549+00:00",
+    "mtime_ns": "1783156956167528152",
+    "size_bytes": 7994,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753263",
+      "size": 7994,
+      "mtime_ns": "1783156956167528152",
+      "ctime_ns": "1790670886987880392"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753263",
+      "size": 7994,
+      "mtime_ns": "1783156956167528152",
+      "ctime_ns": "1790670886987880392"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 73,
+    "total_text_chars": 3536,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 1768
+    },
+    "usable_boundary": "仅总结2026-07内部历史合规观点，GL25适用范围、门槛和法务判断不验证；补三份底稿不等于逐项评估/审批已完成。",
+    "knowledge": "专家咨询索引包含实际业务规则：区分专业意见主体与RW协调/归档，拆开咨询服务和内部转化支持，准备评估、准入、授权、记录及转办链；客户主动问保险事项应另转独立流程。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753263",
+      "size": 7994,
+      "mtime_ns": "1783156956167528152",
+      "ctime_ns": "1790670886987880392"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/41_Phase0_TOB_TOI执行验收报告.md",
+    "sorted_index": 48,
+    "record_id": "G0-048",
+    "status": "低复用仅溯源",
+    "reason": "Phase0盘点三件套条件通过的执行回执；TOB细化与TOI框架设计分开，补源、owner、签批及版本冻结仍列待办。",
+    "mtime": 1783161137.018382,
+    "source_hash": "679a162b0c7e46762f86cd8ce4b9bd67119c2863060ba96b721bf5b0173848f8",
+    "read_chars": 1077,
+    "read_bytes": 1887,
+    "locators": [
+      "L5-L18",
+      "L33-L38"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.368857+00:00",
+    "mtime_ns": "1783161137018382072",
+    "size_bytes": 1887,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753292",
+      "size": 1887,
+      "mtime_ns": "1783161137018382072",
+      "ctime_ns": "1790670879785175608"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753292",
+      "size": 1887,
+      "mtime_ns": "1783161137018382072",
+      "ctime_ns": "1790670879785175608"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 38,
+    "total_text_chars": 1077,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 539
+    },
+    "usable_boundary": "154文件/112hash是历史自述不复验；本轮不把条件通过变正式报告批准，无新增原子。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753292",
+      "size": 1887,
+      "mtime_ns": "1783161137018382072",
+      "ctime_ns": "1790670879785175608"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/45_Phase0_TOB_TOI项目化配置验收报告.md",
+    "sorted_index": 51,
+    "record_id": "G0-051",
+    "status": "低复用仅溯源",
+    "reason": "项目化配置验收记录把目录/RACI可用于配置与财务、客户交付、正式汇总源等未放行分开。",
+    "mtime": 1783166905.8793783,
+    "source_hash": "0c6bc306ab66cfb645a67371a1d32f265e799d9dde1ae0f5223c47f96c5d0958",
+    "read_chars": 1124,
+    "read_bytes": 2094,
+    "locators": [
+      "L5-L7",
+      "L18-L34"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.369108+00:00",
+    "mtime_ns": "1783166905879378318",
+    "size_bytes": 2094,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753300",
+      "size": 2094,
+      "mtime_ns": "1783166905879378318",
+      "ctime_ns": "1790670874695489244"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753300",
+      "size": 2094,
+      "mtime_ns": "1783166905879378318",
+      "ctime_ns": "1790670874695489244"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 41,
+    "total_text_chars": 1124,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 562
+    },
+    "usable_boundary": "未读取其列的三个45源件或旧15项；仅溯源本回执，green不能解释为对客或财务承诺批准。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753300",
+      "size": 2094,
+      "mtime_ns": "1783166905879378318",
+      "ctime_ns": "1790670874695489244"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/57_Roy权益资产财务字段确认任务书.md",
+    "sorted_index": 54,
+    "record_id": "G0-054",
+    "status": "已分析",
+    "reason": "财务确认不要求一次填齐价格数字，而要求每项资产明确价格、成本、毛利、预算、入账归因及财务状态；pending/blocked须说明原因和下一责任人，外部承诺默认no。",
+    "mtime": 1783173603.1999586,
+    "source_hash": "8a90312b676e5c97923527c0df22db0fda464bc9cf875d7be92ee175e09b3796",
+    "read_chars": 1746,
+    "read_bytes": 3348,
+    "locators": [
+      "L35-L56",
+      "L71-L78"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.369351+00:00",
+    "mtime_ns": "1783173603199958600",
+    "size_bytes": 3348,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753325",
+      "size": 3348,
+      "mtime_ns": "1783173603199958600",
+      "ctime_ns": "1784266830695687842"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753325",
+      "size": 3348,
+      "mtime_ns": "1783173603199958600",
+      "ctime_ns": "1784266830695687842"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 78,
+    "total_text_chars": 1746,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 873
+    },
+    "usable_boundary": "内部任务书而非财务认可；not_applicable与缺失不同，不代填数值、回写Gate或确认现行收费。",
+    "knowledge": "财务确认不要求一次填齐价格数字，而要求每项资产明确价格、成本、毛利、预算、入账归因及财务状态；pending/blocked须说明原因和下一责任人，外部承诺默认no。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753325",
+      "size": 3348,
+      "mtime_ns": "1783173603199958600",
+      "ctime_ns": "1784266830695687842"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/67_TOI候选证据预盘点_20260704.md",
+    "sorted_index": 57,
+    "record_id": "G0-057",
+    "status": "低复用仅溯源",
+    "reason": "四类候选证据预盘点主要为内部叙事、合规背景、合作提案和缺源链的导航/状态说明；与G0-060配套保留。",
+    "mtime": 1783176057.5791795,
+    "source_hash": "580a4734d0998ed435bd62ae667bb09ddb945cdb575944c368670715e7a9d7ce",
+    "read_chars": 1260,
+    "read_bytes": 2354,
+    "locators": [
+      "L6-L12",
+      "L14-L34"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.369611+00:00",
+    "mtime_ns": "1783176057579179525",
+    "size_bytes": 2354,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753335",
+      "size": 2354,
+      "mtime_ns": "1783176057579179525",
+      "ctime_ns": "1790670854634703031"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753335",
+      "size": 2354,
+      "mtime_ns": "1783176057579179525",
+      "ctime_ns": "1790670854634703031"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 34,
+    "total_text_chars": 1260,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 630
+    },
+    "usable_boundary": "历史source_absent只指当时正式报告源，不推断无业务事实或今天仍缺源，不跟读引用。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753335",
+      "size": 2354,
+      "mtime_ns": "1783176057579179525",
+      "ctime_ns": "1790670854634703031"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/78_TOI真实运营案例证据化任务清单_20260705.md",
+    "sorted_index": 60,
+    "record_id": "G0-060",
+    "status": "已分析",
+    "reason": "案例证据化和正式价值报告走两条线：缺匿名汇总报告源不等于无业务合作。案例应有对象期间、需求、交付、执行、完成确认、指标与边界，先补事实再写价值结论。",
+    "mtime": 1783224012.1849632,
+    "source_hash": "cd7b9fa30855b675ee9b56a76dee4f8547670dbb22e2d77ade437b3eb7e29f33",
+    "read_chars": 1982,
+    "read_bytes": 4556,
+    "locators": [
+      "L3-L14",
+      "L25-L36",
+      "L40-L59",
+      "L71-L85"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.369850+00:00",
+    "mtime_ns": "1783224012184963300",
+    "size_bytes": 4556,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753346",
+      "size": 4556,
+      "mtime_ns": "1783224012184963300",
+      "ctime_ns": "1784266893757290635"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753346",
+      "size": 4556,
+      "mtime_ns": "1783224012184963300",
+      "ctime_ns": "1784266893757290635"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 85,
+    "total_text_chars": 1982,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 991
+    },
+    "usable_boundary": "合作存在、名称更正及源状态为任务书历史自述；未访问凭证，不确认实际课次/款项，不把内部案例升级外发。",
+    "knowledge": "案例证据化和正式价值报告走两条线：缺匿名汇总报告源不等于无业务合作。案例应有对象期间、需求、交付、执行、完成确认、指标与边界，先补事实再写价值结论。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753346",
+      "size": 4556,
+      "mtime_ns": "1783224012184963300",
+      "ctime_ns": "1784266893757290635"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_TOB站会议程_20260709_v2.md",
+    "sorted_index": 63,
+    "record_id": "G0-063",
+    "status": "已分析",
+    "reason": "站会议程细分机构对RW季度验收和RW对供应商月度验收，服务费对外与成本对内分层；机构接口必须由机构认可，不能由RW单方指派。候选SLA还需供应商确认。",
+    "mtime": 1783565735.9649558,
+    "source_hash": "7ec395a9b86a1f6a4bc51fc35fa386f6f46cda7afdb772f6941dc4430b7de302",
+    "read_chars": 2025,
+    "read_bytes": 3858,
+    "locators": [
+      "L8-L13",
+      "L19-L32",
+      "L34-L40"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.370122+00:00",
+    "mtime_ns": "1783565735964955765",
+    "size_bytes": 3858,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "1753370",
+      "size": 3858,
+      "mtime_ns": "1783565735964955765",
+      "ctime_ns": "1784266932120745504"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "1753370",
+      "size": 3858,
+      "mtime_ns": "1783565735964955765",
+      "ctime_ns": "1784266932120745504"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 40,
+    "total_text_chars": 2025,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 1013
+    },
+    "usable_boundary": "T+10/T+5是该版历史约定非当前SLA；人员调整、合同问题和Gate回写均不当现况，本轮不恢复旧风险或任命。",
+    "knowledge": "站会议程细分机构对RW季度验收和RW对供应商月度验收，服务费对外与成本对内分层；机构接口必须由机构认可，不能由RW单方指派。候选SLA还需供应商确认。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "1753370",
+      "size": 3858,
+      "mtime_ns": "1783565735964955765",
+      "ctime_ns": "1784266932120745504"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/NAV01_TOI_TOC模型底稿与HTML展示总入口_v1.0_20260806/review_list.md",
+    "sorted_index": 66,
+    "record_id": "G0-066",
+    "status": "低复用仅溯源",
+    "reason": "展示入口复核清单仅记录实例、派生、历史快照和导航治理，强调派生页非SSOT、草稿非上线。",
+    "mtime": 1785988259.756592,
+    "source_hash": "327174c6513349c5df9a50fbe88ff01c046855712249475d32309d8df7d1ed04",
+    "read_chars": 374,
+    "read_bytes": 662,
+    "locators": [
+      "L5-L11"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.370505+00:00",
+    "mtime_ns": "1785988259756592035",
+    "size_bytes": 662,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5591376",
+      "size": 662,
+      "mtime_ns": "1785988259756592035",
+      "ctime_ns": "1790670854471751168"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5591376",
+      "size": 662,
+      "mtime_ns": "1785988259756592035",
+      "ctime_ns": "1790670854471751168"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 11,
+    "total_text_chars": 374,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 187
+    },
+    "usable_boundary": "所谓相同hash是该清单自述，未跟读目标，不据其判本轮重复；统计不是内容验收。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5591376",
+      "size": 662,
+      "mtime_ns": "1785988259756592035",
+      "ctime_ns": "1790670854471751168"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC02_香港管家服务标准手册及人才画像_v0.1_20260806/acceptance_report.md",
+    "sorted_index": 69,
+    "record_id": "G0-069",
+    "status": "低复用仅溯源",
+    "reason": "服务手册与人才画像自验回执，说明可联合评审而非上线；25项及Excel/渲染检查均为产物自述。",
+    "mtime": 1786000902.5541594,
+    "source_hash": "6fae2af13916e58c32fb28783e2978ab78244382d69e4efde5736a5298c5c89e",
+    "read_chars": 578,
+    "read_bytes": 1540,
+    "locators": [
+      "L3-L20",
+      "L22-L28"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.370907+00:00",
+    "mtime_ns": "1786000902554159429",
+    "size_bytes": 1540,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5623563",
+      "size": 1540,
+      "mtime_ns": "1786000902554159429",
+      "ctime_ns": "1786000915456421648"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5623563",
+      "size": 1540,
+      "mtime_ns": "1786000902554159429",
+      "ctime_ns": "1786000915456421648"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 28,
+    "total_text_chars": 578,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 289
+    },
+    "usable_boundary": "不读工作簿或重验版式，资源/SLA/价格待确认；仅保存交付出处，不新增服务原子。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5623563",
+      "size": 1540,
+      "mtime_ns": "1786000902554159429",
+      "ctime_ns": "1786000915456421648"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC03_香港管家外宣服务文案_移民公司确认版_v0.2_20260806/review_list.md",
+    "sorted_index": 72,
+    "record_id": "G0-072",
+    "status": "已分析",
+    "reason": "供应方确认应逐项回答描述准确性、直接承接/联合/转介及专业边界；有问题要给可替换文案，并写明牌照、授权或合作方，未确认项不进入对客稿。",
+    "mtime": 1786001366.9029484,
+    "source_hash": "4f2c1bb259be8492f8468ae8487df0cf024dda3e3909c8871e9f1d04c7398730",
+    "read_chars": 231,
+    "read_bytes": 637,
+    "locators": [
+      "L3-L9"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.371220+00:00",
+    "mtime_ns": "1786001366902948263",
+    "size_bytes": 637,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5625065",
+      "size": 637,
+      "mtime_ns": "1786001366902948263",
+      "ctime_ns": "1786001380655833918"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5625065",
+      "size": 637,
+      "mtime_ns": "1786001366902948263",
+      "ctime_ns": "1786001380655833918"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 9,
+    "total_text_chars": 231,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 116
+    },
+    "usable_boundary": "这是确认问题和回传要求，不是移民公司已答复或已承诺供给；不据此确认法律资质。",
+    "knowledge": "供应方确认应逐项回答描述准确性、直接承接/联合/转介及专业边界；有问题要给可替换文案，并写明牌照、授权或合作方，未确认项不进入对客稿。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5625065",
+      "size": 637,
+      "mtime_ns": "1786001366902948263",
+      "ctime_ns": "1786001380655833918"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.2_20260806/acceptance_report.md",
+    "sorted_index": 75,
+    "record_id": "G0-075",
+    "status": "低复用仅溯源",
+    "reason": "人才画像v0.2页面/结构验收允许提交评审，不代表正式制度、牌照、人员录用或Gate变化。",
+    "mtime": 1786004250.1227658,
+    "source_hash": "b0958b1844d16125c68524fb522dd3a184540eed0c6154938d56ebc583fe204b",
+    "read_chars": 658,
+    "read_bytes": 1601,
+    "locators": [
+      "L5-L14",
+      "L23-L27"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.371557+00:00",
+    "mtime_ns": "1786004250122765704",
+    "size_bytes": 1601,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5633774",
+      "size": 1601,
+      "mtime_ns": "1786004250122765704",
+      "ctime_ns": "1786004267882270096"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5633774",
+      "size": 1601,
+      "mtime_ns": "1786004250122765704",
+      "ctime_ns": "1786004267882270096"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 28,
+    "total_text_chars": 658,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 329
+    },
+    "usable_boundary": "保留历史回执，页面检查和输出HTML指纹未重验，年限/薪酬/预算仍为待确认。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5633774",
+      "size": 1601,
+      "mtime_ns": "1786004250122765704",
+      "ctime_ns": "1786004267882270096"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.3_20260806/review_list.md",
+    "sorted_index": 78,
+    "record_id": "G0-078",
+    "status": "已分析",
+    "reason": "人才发展确认要区分晋升硬条件和培养目标，预算覆盖考试、续牌、进修与津贴；运营需跟踪有效期、暂停、机构许可和服务权限，避免证书数量替代实际可服务范围。",
+    "mtime": 1786005000.9804487,
+    "source_hash": "5effa94846a905c771bcfff1a69159ac73f0bae18446952d7c34521017db62ff",
+    "read_chars": 272,
+    "read_bytes": 724,
+    "locators": [
+      "L3-L8"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.371878+00:00",
+    "mtime_ns": "1786005000980448722",
+    "size_bytes": 724,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5635704",
+      "size": 724,
+      "mtime_ns": "1786005000980448722",
+      "ctime_ns": "1790670874543995470"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5635704",
+      "size": 724,
+      "mtime_ns": "1786005000980448722",
+      "ctime_ns": "1790670874543995470"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 9,
+    "total_text_chars": 272,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 136
+    },
+    "usable_boundary": "牌照顺序仅建议，未核适用法规或HR决定，不把待确认清单视为已生效制度。",
+    "knowledge": "人才发展确认要区分晋升硬条件和培养目标，预算覆盖考试、续牌、进修与津贴；运营需跟踪有效期、暂停、机构许可和服务权限，避免证书数量替代实际可服务范围。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5635704",
+      "size": 724,
+      "mtime_ns": "1786005000980448722",
+      "ctime_ns": "1790670874543995470"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC06_香港管家服务介绍及内容具体化确认版_v0.4_20260806/acceptance_report.md",
+    "sorted_index": 81,
+    "record_id": "G0-081",
+    "status": "低复用仅溯源",
+    "reason": "v0.4自验记录改写范围及工作簿检查，自称仅达到可送移民公司确认，不代表供给/价格/上线批准。",
+    "mtime": 1786004374.3567064,
+    "source_hash": "d0b1bc2d3d1e3fbd8f4f310760526eb651f93e4bec7ec1637479f880b0f6f69a",
+    "read_chars": 388,
+    "read_bytes": 954,
+    "locators": [
+      "L3-L18"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.372223+00:00",
+    "mtime_ns": "1786004374356706380",
+    "size_bytes": 954,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5634134",
+      "size": 954,
+      "mtime_ns": "1786004374356706380",
+      "ctime_ns": "1790670897766817591"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5634134",
+      "size": 954,
+      "mtime_ns": "1786004374356706380",
+      "ctime_ns": "1790670897766817591"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 18,
+    "total_text_chars": 388,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 194
+    },
+    "usable_boundary": "无新增独立业务知识，保留修改边界和回执出处，不读XLSX，不复验公式渲染。",
+    "knowledge": null,
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5634134",
+      "size": 954,
+      "mtime_ns": "1786004374356706380",
+      "ctime_ns": "1790670897766817591"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC07_香港管家客户服务模块确认版_v0.5_20260806/review_list.md",
+    "sorted_index": 84,
+    "record_id": "G0-084",
+    "status": "已分析",
+    "reason": "服务模块需先确认是真实可提供服务而非内部动作，再明确管家/合作方/地域/时效/资源，并映射权益次数、SKU、收费及取消规则；产品、运营、专业与品牌分别确认。",
+    "mtime": 1786005011.794791,
+    "source_hash": "a259bb816a7542399f77eda0ee1bba3fd4ce16e7ef57af44c9ed8e88dd53fed4",
+    "read_chars": 176,
+    "read_bytes": 470,
+    "locators": [
+      "L3-L7"
+    ],
+    "token_count": null,
+    "checked_at": "2026-11-13T02:39:04.372589+00:00",
+    "mtime_ns": "1786005011794790983",
+    "size_bytes": 470,
+    "stat_before": {
+      "device": "16777231",
+      "inode": "5635749",
+      "size": 470,
+      "mtime_ns": "1786005011794790983",
+      "ctime_ns": "1790670901814317923"
+    },
+    "stat_after": {
+      "device": "16777231",
+      "inode": "5635749",
+      "size": 470,
+      "mtime_ns": "1786005011794790983",
+      "ctime_ns": "1790670901814317923"
+    },
+    "hash_algorithm": "sha256",
+    "read_lines": 7,
+    "total_text_chars": 176,
+    "stat_stable": true,
+    "read_scope": "全文",
+    "token_proxy": {
+      "method": "ceil(read_chars/2)，非真实token",
+      "value": 88
+    },
+    "usable_boundary": "75模块为待确认对象数量，不是75个已可售服务或原子，未读取相关工作簿。",
+    "knowledge": "服务模块需先确认是真实可提供服务而非内部动作，再明确管家/合作方/地域/时效/资源，并映射权益次数、SKU、收费及取消规则；产品、运营、专业与品牌分别确认。",
+    "current_execution_verified": false,
+    "candidate_cards": [],
+    "published_at": null,
+    "read_metrics_scope": "本次唯一文件快照，字符含换行；不是模型token或累计I/O",
+    "final_stat": {
+      "device": "16777231",
+      "inode": "5635749",
+      "size": 470,
+      "mtime_ns": "1786005011794790983",
+      "ctime_ns": "1790670901814317923"
+    },
+    "final_stat_stable": true,
+    "hash_revalidated": true,
+    "stat_precision_note": "纳秒与inode按十进制字符串保存；复核快照字节hash与首次实际阅读一致，前后stat精确相等"
+  }
+]

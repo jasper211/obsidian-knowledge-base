@@ -1,0 +1,2657 @@
+[
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/00_审计/RW四对象权益模块拆分矩阵_TOI_TOB_TOA_TOC.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "RW四对象权益模块拆分矩阵_TOI_TOB_TOA_TOC.md",
+    "mtime": "2026-07-03T23:44:03.518668-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/00_审计/RW权益体系项目化审计报告.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "RW权益体系项目化审计报告.md",
+    "mtime": "2026-07-03T15:08:30.105392-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/01_RW服务合同/_INDEX.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "_INDEX.md",
+    "mtime": "2026-07-03T14:05:57.814823-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/02_RW权益服务项目/_INDEX.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "_INDEX.md",
+    "mtime": "2026-07-03T14:05:57.818855-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-26_会议纪要：香港国际学校亲子研学活动核心事项确认与后续安排-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "Amanda05-26_会议纪要：香港国际学校亲子研学活动核心事项确认与后续安排-总结.md",
+    "mtime": "2026-05-29T12:30:24.242661-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-26_项目复盘会：金融垂直领域AI原生公司建设项目进展与落地规划-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-26_项目复盘会：金融垂直领域AI原生公司建设项目进展与落地规划-总结.md",
+    "mtime": "2026-05-29T12:30:27.705809-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-27_业务例会：国内多区域保险机构业务跟进与工作推进-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-27_业务例会：国内多区域保险机构业务跟进与工作推进-总结.md",
+    "mtime": "2026-05-29T12:30:21.482759-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-27_工作备忘录：保险业务系统调整、数据管理与AI工具落地规划-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-27_工作备忘录：保险业务系统调整、数据管理与AI工具落地规划-总结.md",
+    "mtime": "2026-05-29T12:30:22.876784-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-28_业务梳理纪要：保险经纪业务模式、收益规则、合规要求及账务管理-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-28_业务梳理纪要：保险经纪业务模式、收益规则、合规要求及账务管理-总结.md",
+    "mtime": "2026-05-29T12:30:18.526478-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-28_合作洽谈摘要：永明高净值客户体系搭建相关合作对接-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-28_合作洽谈摘要：永明高净值客户体系搭建相关合作对接-总结.md",
+    "mtime": "2026-05-29T12:30:15.830095-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-28_财务对账规则说明及公司运营财务情况分析纪要-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-28_财务对账规则说明及公司运营财务情况分析纪要-总结.md",
+    "mtime": "2026-05-29T12:30:13.427743-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-29_工作会议：银行业务处理、团队管理规则、财务体系建设及后续工作安排-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-29_工作会议：银行业务处理、团队管理规则、财务体系建设及后续工作安排-总结.md",
+    "mtime": "2026-05-29T12:30:12.011163-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-29_推理笔记：保险行业培训体系建设、人员管理及业务推进相关问题梳理-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-29_推理笔记：保险行业培训体系建设、人员管理及业务推进相关问题梳理-总结.md",
+    "mtime": "2026-05-29T12:30:08.434957-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-29_项目纪要：永明全流程培训体系搭建合作项目-总结.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-29_项目纪要：永明全流程培训体系搭建合作项目-总结.md",
+    "mtime": "2026-05-29T12:30:07.037003-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-26_会议纪要：香港国际学校亲子研学活动核心事项确认与后续安排-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "Amanda05-26_会议纪要：香港国际学校亲子研学活动核心事项确认与后续安排-总结.md",
+    "mtime": "2026-05-29T12:30:25.814794-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-26_会议纪要：香港国际学校亲子研学活动核心事项确认与后续安排-总结(2).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "Amanda05-26_会议纪要：香港国际学校亲子研学活动核心事项确认与后续安排-总结.md",
+    "mtime": "2026-05-29T12:30:26.060205-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-26_项目复盘会：金融垂直领域AI原生公司建设项目进展与落地规划-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-26_项目复盘会：金融垂直领域AI原生公司建设项目进展与落地规划-总结.md",
+    "mtime": "2026-05-29T12:30:30.309653-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-27_工作备忘录：保险业务系统调整、数据管理与AI工具落地规划-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-27_工作备忘录：保险业务系统调整、数据管理与AI工具落地规划-总结.md",
+    "mtime": "2026-05-29T12:30:24.775214-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-28_业务梳理纪要：保险经纪业务模式、收益规则、合规要求及账务管理-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-28_业务梳理纪要：保险经纪业务模式、收益规则、合规要求及账务管理-总结.md",
+    "mtime": "2026-05-29T12:30:20.445418-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-28_合作洽谈摘要：永明高净值客户体系搭建相关合作对接-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-28_合作洽谈摘要：永明高净值客户体系搭建相关合作对接-总结.md",
+    "mtime": "2026-05-29T12:30:17.102285-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-28_财务对账规则说明及公司运营财务情况分析纪要-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-28_财务对账规则说明及公司运营财务情况分析纪要-总结.md",
+    "mtime": "2026-05-29T12:30:14.779403-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-29_工作会议：银行业务处理、团队管理规则、财务体系建设及后续工作安排-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-29_工作会议：银行业务处理、团队管理规则、财务体系建设及后续工作安排-总结.md",
+    "mtime": "2026-05-29T12:30:12.383594-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-29_推理笔记：保险行业培训体系建设、人员管理及业务推进相关问题梳理-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-29_推理笔记：保险行业培训体系建设、人员管理及业务推进相关问题梳理-总结.md",
+    "mtime": "2026-05-29T12:30:10.659501-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-29_项目纪要：永明全流程培训体系搭建合作项目-总结(1).md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "Amanda05-29_项目纪要：永明全流程培训体系搭建合作项目-总结.md",
+    "mtime": "2026-05-29T12:30:08.694804-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/_INDEX.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "会议与经营协同",
+    "duplicate_name_key": "_INDEX.md",
+    "mtime": "2026-07-03T14:05:57.820853-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/管家服务/香港家庭生活管家_人才招聘画像_v0.3_20260806.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港家庭生活管家_人才招聘画像_v0.3_20260806.html",
+    "mtime": "2026-08-06T22:16:22.105518-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/续签档案/TOC续签证据完整字段映射图-V5.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "TOC续签证据完整字段映射图-V5.html",
+    "mtime": "2026-08-22T10:51:20.262486-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出/产品卡开发进度与分工讨论_总结报告.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡开发进度与分工讨论_总结报告.md",
+    "mtime": "2026-08-05T23:48:18.788006-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出/续签证据档案_AI自动化系统产品蓝图_v1.0.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "续签证据档案_AI自动化系统产品蓝图_v1.0.md",
+    "mtime": "2026-08-05T23:48:18.079007-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出/荻邦香港_三产品项目推进布局_v1.0.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "荻邦香港_三产品项目推进布局_v1.0.md",
+    "mtime": "2026-08-05T23:48:17.342350-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出/荻邦香港_对话与决策记录.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "荻邦香港_对话与决策记录.md",
+    "mtime": "2026-08-05T23:48:18.761175-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出/荻邦香港_战略资料筛选报告_v1.0.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "荻邦香港_战略资料筛选报告_v1.0.md",
+    "mtime": "2026-08-05T23:48:17.258038-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/管家/香港客户关怀及生活礼宾服务_SOP评审稿.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港客户关怀及生活礼宾服务_SOP评审稿.html",
+    "mtime": "2026-08-05T22:55:53.486943-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/管家/香港管家项目_对话记录.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港管家项目_对话记录.md",
+    "mtime": "2026-08-05T23:49:24.535229-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦续签证据档案/对话记录-2026-08-04.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "对话记录-2026-08-04.md",
+    "mtime": "2026-08-05T22:45:05.978562-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦续签证据档案/续签档案项目_Codex对话记录_持续更新.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "续签档案项目_Codex对话记录_持续更新.md",
+    "mtime": "2026-08-05T23:42:14.513528-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/outputs/续签证据档案_AI自动化系统产品蓝图_v1.0.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "续签证据档案_AI自动化系统产品蓝图_v1.0.md",
+    "mtime": "2026-08-05T22:45:06.798734-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/outputs/荻邦香港_三产品项目推进布局_v1.0.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "荻邦香港_三产品项目推进布局_v1.0.md",
+    "mtime": "2026-08-05T22:45:07.661653-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/outputs/荻邦香港_战略资料筛选报告_v1.0.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "荻邦香港_战略资料筛选报告_v1.0.md",
+    "mtime": "2026-08-05T22:45:08.352139-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/project-workbench/荻邦香港_项目进度工作台.html",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "荻邦香港_项目进度工作台.html",
+    "mtime": "2026-08-05T22:45:08.558829-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/获邦身份终局规划/Codex当前对话导出-2026-08-04/outputs/当前对话记录.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "当前对话记录.md",
+    "mtime": "2026-08-05T22:45:34.699184-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/获邦身份终局规划/当前对话记录.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "当前对话记录.md",
+    "mtime": "2026-08-05T22:54:04.002909-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港_项目进度工作台.html",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "荻邦香港_项目进度工作台.html",
+    "mtime": "2026-07-29T05:03:15.236494-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/RW原型_Zapier自动化清单_v1.0.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "RW原型_Zapier自动化清单_v1.0.md",
+    "mtime": "2026-07-03T13:02:24.625185-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/RW系统_PRD_v1.0.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "RW系统_PRD_v1.0.md",
+    "mtime": "2026-07-02T23:46:02.551488-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/SKU_PIPELINE_LOOP_v1.0.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "SKU_PIPELINE_LOOP_v1.0.md",
+    "mtime": "2026-07-02T13:49:40.331329-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/SKU_PIPELINE_SPEC_v1.0.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "SKU_PIPELINE_SPEC_v1.0.md",
+    "mtime": "2026-07-02T13:49:32.009211-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/_INDEX.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "_INDEX.md",
+    "mtime": "2026-07-03T14:05:57.821854-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/compass_artifact_wf-ddc815d9-e1d3-4492-948c-f1e3049aa181_text_markdown.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "compass_artifact_wf-ddc815d9-e1d3-4492-948c-f1e3049aa181_text_markdown.md",
+    "mtime": "2026-07-03T02:27:32.912341-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/产品卡_续签证据档案管理.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_续签证据档案管理.html",
+    "mtime": "2026-07-17T04:08:24.484469-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/方法论卡_SKU原料生产流水线.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "方法论卡_SKU原料生产流水线.md",
+    "mtime": "2026-07-02T13:50:15.080074-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益三轴模型_进入香港.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "权益三轴模型_进入香港.html",
+    "mtime": "2026-07-02T13:42:50.150053-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系_三阶段结构总览.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "权益体系_三阶段结构总览.html",
+    "mtime": "2026-07-02T23:17:32.927755-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_专属落地管家.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_专属落地管家.html",
+    "mtime": "2026-07-03T03:38:19.748235-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_两地税务合规.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_两地税务合规.html",
+    "mtime": "2026-07-03T03:38:19.909099-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_企业主套件.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_企业主套件.html",
+    "mtime": "2026-07-03T03:38:19.849597-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_口碑大使计划.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_口碑大使计划.html",
+    "mtime": "2026-07-03T03:38:19.932714-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_子女教育陪跑.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_子女教育陪跑.html",
+    "mtime": "2026-07-03T03:38:19.804589-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_家庭医疗守护.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_家庭医疗守护.html",
+    "mtime": "2026-07-03T03:38:19.779093-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_财富传承通道.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_财富传承通道.html",
+    "mtime": "2026-07-03T03:38:19.888698-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_身份终局规划.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_身份终局规划.html",
+    "mtime": "2026-07-03T03:38:19.869622-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_陪读家长支持计划.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "产品卡_陪读家长支持计划.html",
+    "mtime": "2026-07-03T03:38:19.824910-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益结构模型_融入香港.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "权益结构模型_融入香港.html",
+    "mtime": "2026-07-02T23:17:39.173799-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益结构模型_链接香港.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "权益结构模型_链接香港.html",
+    "mtime": "2026-07-02T14:05:18.092484-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/融入阶段_核心项SOP手册.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "融入阶段_核心项SOP手册.md",
+    "mtime": "2026-07-02T23:36:17.882092-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/裂变机制册_口碑大使_v1.0.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "裂变机制册_口碑大使_v1.0.md",
+    "mtime": "2026-07-03T11:42:04.756685-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/话术手册_十卡客户口径_v1.0.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "话术手册_十卡客户口径_v1.0.md",
+    "mtime": "2026-07-03T11:41:59.031234-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/货币型内嵌_场景合规矩阵.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "货币型内嵌_场景合规矩阵.html",
+    "mtime": "2026-07-02T11:12:48.472870-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/进入阶段_核心项SOP手册.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "进入阶段_核心项SOP手册.md",
+    "mtime": "2026-07-02T23:18:03.452939-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/链接阶段_核心项SOP手册.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "链接阶段_核心项SOP手册.md",
+    "mtime": "2026-07-03T11:41:53.292270-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/05_佣金相关文档/_INDEX.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "_INDEX.md",
+    "mtime": "2026-07-03T14:05:57.823856-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/00_启动总控台.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "00_启动总控台.md",
+    "mtime": "2026-07-04T10:02:46.109293-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/01_项目章程_Project_Charter.md",
+    "status": "已分析来源关联",
+    "reason": "008-012已处理；不是当前事实批准",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "01_项目章程_Project_Charter.md",
+    "mtime": "2026-07-04T08:07:13.868271-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/02_0周启动会议议程.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "02_0周启动会议议程.md",
+    "mtime": "2026-07-04T07:33:06.223092-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/03_Phase0_治理冻结执行清单.md",
+    "status": "已分析来源关联",
+    "reason": "008-012已处理；不是当前事实批准",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "03_Phase0_治理冻结执行清单.md",
+    "mtime": "2026-07-04T08:07:13.873297-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/04_MVP_Backlog_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "04_MVP_Backlog_v0.1.md",
+    "mtime": "2026-07-04T04:46:16.666189-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/05_风险与决策登记册.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "05_风险与决策登记册.md",
+    "mtime": "2026-07-12T08:06:35.345819-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/06_资料基线与引用清单.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "06_资料基线与引用清单.md",
+    "mtime": "2026-08-05T22:52:39.696355-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/07_四对象分类视图复核意见.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "07_四对象分类视图复核意见.md",
+    "mtime": "2026-07-03T23:56:49.808912-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/08_四对象分类视图重构任务清单_for_agent.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "08_四对象分类视图重构任务清单_for_agent.md",
+    "mtime": "2026-07-03T23:58:57.032414-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/09_Codex项目化配置最佳实践与待办.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "09_Codex项目化配置最佳实践与待办.md",
+    "mtime": "2026-07-04T06:54:32.251698-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/100_Phase0_owner每日跟进与介入机制_20260706.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "100_Phase0_owner每日跟进与介入机制_20260706.md",
+    "mtime": "2026-07-06T10:09:59.548382-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/104_owner_agent_loop任务卡模板_20260706.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "104_owner_agent_loop任务卡模板_20260706.md",
+    "mtime": "2026-07-06T10:14:35.691023-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/105_MARK项目负责人介入地图_20260706.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "105_MARK项目负责人介入地图_20260706.md",
+    "mtime": "2026-07-06T10:28:56.356877-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/107_TOI对保司交付方案标准_Phase0-3_20260707.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "107_TOI对保司交付方案标准_Phase0-3_20260707.md",
+    "mtime": "2026-07-06T11:37:36.345458-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/109_TOI对保司交付标准_owner_agent任务清单_20260707.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "109_TOI对保司交付标准_owner_agent任务清单_20260707.md",
+    "mtime": "2026-07-06T11:37:36.358721-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/10_四对象分类视图_v2验收报告.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "10_四对象分类视图_v2验收报告.md",
+    "mtime": "2026-07-04T00:12:38.000644-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/110_TOI权益产品化框架_对标TOC_20260707.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "110_TOI权益产品化框架_对标TOC_20260707.md",
+    "mtime": "2026-07-06T13:03:56.907966-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/113_TOI产品卡模板_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "113_TOI产品卡模板_v0.1.md",
+    "mtime": "2026-07-06T12:00:05.295522-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/114_Phase0财务字段确认完成日报_20260708.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "114_Phase0财务字段确认完成日报_20260708.md",
+    "mtime": "2026-07-08T05:58:36.972940-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/115_MARK_INPUT_TOI新模型结构化读取报告_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "115_MARK_INPUT_TOI新模型结构化读取报告_20260712.md",
+    "mtime": "2026-07-11T21:29:04.035758-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/115_合同主体矩阵草案_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "115_合同主体矩阵草案_v0.1.md",
+    "mtime": "2026-07-08T05:58:21.404488-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/115_合同主体矩阵草案_v0.2.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "115_合同主体矩阵草案_v0.2.md",
+    "mtime": "2026-07-28T23:17:47.954221-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/116_TOI_CASE005财务字段确认任务书.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "116_TOI_CASE005财务字段确认任务书.md",
+    "mtime": "2026-07-08T05:47:46.010770-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/117_TOI规划替代与升级建议_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "117_TOI规划替代与升级建议_20260712.md",
+    "mtime": "2026-07-11T21:29:04.040756-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/118_TOI新模型owner确认任务清单_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "118_TOI新模型owner确认任务清单_20260712.md",
+    "mtime": "2026-07-11T21:29:04.050830-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/119_TOI产品化框架_v1.0_基于mark_input_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "119_TOI产品化框架_v1.0_基于mark_input_20260712.md",
+    "mtime": "2026-07-11T22:52:58.620341-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/11_Codex_Agent任务模板.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "11_Codex_Agent任务模板.md",
+    "mtime": "2026-07-04T03:15:11.141623-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/122_TOI模型SSOT落地验收报告_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "122_TOI模型SSOT落地验收报告_20260712.md",
+    "mtime": "2026-07-11T22:58:31.269461-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/123_TOI候选产品包与新增原子业务确认_v0.2_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "123_TOI候选产品包与新增原子业务确认_v0.2_20260712.md",
+    "mtime": "2026-07-12T02:00:39.627119-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/123_TOI候选产品包与新增原子业务确认_v0.3_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "123_TOI候选产品包与新增原子业务确认_v0.3_20260712.md",
+    "mtime": "2026-07-12T03:45:20.167060-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/124_TOI架构决策记录_ADR_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "124_TOI架构决策记录_ADR_20260712.md",
+    "mtime": "2026-07-12T01:50:15.113194-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/125_TOI模型变更管理规范_Change_Policy_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "125_TOI模型变更管理规范_Change_Policy_20260712.md",
+    "mtime": "2026-07-12T01:50:15.115195-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/127_TOI模型权威层级修正_ADR_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "127_TOI模型权威层级修正_ADR_20260712.md",
+    "mtime": "2026-07-12T03:49:13.497193-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/128_TOI模型变更管理规范_v1.1_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "128_TOI模型变更管理规范_v1.1_20260712.md",
+    "mtime": "2026-07-12T03:27:46.913791-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/12_Agent执行记录.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "12_Agent执行记录.md",
+    "mtime": "2026-07-12T08:06:35.357821-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/130_TOI新建21原子开发任务清单_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "130_TOI新建21原子开发任务清单_20260712.md",
+    "mtime": "2026-07-12T03:38:38.592907-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/131_TOI业务模型v3.3架构决策_ADR_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "131_TOI业务模型v3.3架构决策_ADR_20260712.md",
+    "mtime": "2026-07-12T04:13:01.768645-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/132_TOI业务模型v3.3重构任务书_for_agent_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "132_TOI业务模型v3.3重构任务书_for_agent_20260712.md",
+    "mtime": "2026-07-12T04:13:01.769646-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/137_TOI业务模型v3.3重构执行与自验报告_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "137_TOI业务模型v3.3重构执行与自验报告_20260712.md",
+    "mtime": "2026-07-12T04:21:41.199830-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/13_立项前REVIEW复核批次排序_客户MVP最后.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "13_立项前REVIEW复核批次排序_客户MVP最后.md",
+    "mtime": "2026-07-04T01:53:13.613734-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/149_TOI全量119最终交付物MECE分析与分类建议_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "149_TOI全量119最终交付物MECE分析与分类建议_20260712.md",
+    "mtime": "2026-07-12T05:06:17.207441-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/14_REVIEW批次1_合同主体与机构流程边界复核_for_agent.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "14_REVIEW批次1_合同主体与机构流程边界复核_for_agent.md",
+    "mtime": "2026-07-04T00:21:28.108684-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/150_TOI_23个混合原子主交付判断规则与处理建议_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "150_TOI_23个混合原子主交付判断规则与处理建议_20260712.md",
+    "mtime": "2026-07-12T07:00:11.035885-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/152_TOI原子交付架构决策_ADR_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "152_TOI原子交付架构决策_ADR_20260712.md",
+    "mtime": "2026-07-12T07:00:11.036883-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/153_TOI原子服务定义规范_ATOM_SERVICE_SPEC_v1.1_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "153_TOI原子服务定义规范_ATOM_SERVICE_SPEC_v1.1_20260712.md",
+    "mtime": "2026-07-12T07:01:06.194257-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/156_TOI全量119原子服务标准化任务书_v1.1_for_agent_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "156_TOI全量119原子服务标准化任务书_v1.1_for_agent_20260712.md",
+    "mtime": "2026-07-12T07:05:52.181960-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/15_REVIEW批次1_合同主体与机构流程边界复核结果.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "15_REVIEW批次1_合同主体与机构流程边界复核结果.md",
+    "mtime": "2026-07-04T00:49:12.834181-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/162_TOI原子服务标准化Codex穿透验收报告_20260712.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "162_TOI原子服务标准化Codex穿透验收报告_20260712.md",
+    "mtime": "2026-07-12T08:03:40.819983-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/163_TOI原子服务标准化v0.2语义修订任务书_for_agent_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "163_TOI原子服务标准化v0.2语义修订任务书_for_agent_20260712.md",
+    "mtime": "2026-07-12T08:07:52.685248-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/169_TOI原子服务标准化v0.2_Codex穿透验收报告_20260712.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "169_TOI原子服务标准化v0.2_Codex穿透验收报告_20260712.md",
+    "mtime": "2026-07-12T08:40:00.423255-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/16_REVIEW批次1_穿透式验收报告.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "16_REVIEW批次1_穿透式验收报告.md",
+    "mtime": "2026-07-04T00:56:04.010027-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/170_TOI原子服务v0.2语义例外复核清单_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "170_TOI原子服务v0.2语义例外复核清单_20260712.md",
+    "mtime": "2026-07-12T08:33:55.259222-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/171_TOI原子服务标准化v0.2.1定向语义修订任务书_for_agent_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "171_TOI原子服务标准化v0.2.1定向语义修订任务书_for_agent_20260712.md",
+    "mtime": "2026-07-12T08:40:15.709598-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/177_TOI原子服务标准化v0.2.1_Codex穿透验收报告_20260712.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "177_TOI原子服务标准化v0.2.1_Codex穿透验收报告_20260712.md",
+    "mtime": "2026-07-12T09:10:45.001896-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/178_TOI原子服务标准化v0.2.2合同一致性修订任务书_for_agent_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "178_TOI原子服务标准化v0.2.2合同一致性修订任务书_for_agent_20260712.md",
+    "mtime": "2026-07-12T09:11:53.891389-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/17_REVIEW批次2_佣金合规与保司渠道口径复核_for_agent.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "17_REVIEW批次2_佣金合规与保司渠道口径复核_for_agent.md",
+    "mtime": "2026-07-04T01:01:09.542931-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/183_TOI原子服务标准化v0.2.2执行与自验报告_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "183_TOI原子服务标准化v0.2.2执行与自验报告_20260712.md",
+    "mtime": "2026-07-12T09:32:52.683526-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/184_TOI原子服务标准化v0.2.2_Codex穿透验收报告_20260712.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "184_TOI原子服务标准化v0.2.2_Codex穿透验收报告_20260712.md",
+    "mtime": "2026-07-12T09:48:50.795532-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/185A_TOI业务模型v3.3.1整合任务书算术勘误_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "185A_TOI业务模型v3.3.1整合任务书算术勘误_20260712.md",
+    "mtime": "2026-07-12T10:13:53.708272-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/185_TOI业务模型v3.3.1后标准化整合任务书_for_agent_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "185_TOI业务模型v3.3.1后标准化整合任务书_for_agent_20260712.md",
+    "mtime": "2026-07-12T09:50:32.675692-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/189_TOI_v3.3.1待Owner与MARK裁定事项_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "189_TOI_v3.3.1待Owner与MARK裁定事项_20260712.md",
+    "mtime": "2026-07-12T10:20:08.729912-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/18_REVIEW批次2_佣金合规与保司渠道口径复核结果.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "18_REVIEW批次2_佣金合规与保司渠道口径复核结果.md",
+    "mtime": "2026-07-04T01:12:12.065710-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/190A_TOI业务模型v3.3.1依赖阻断审计报告_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "190A_TOI业务模型v3.3.1依赖阻断审计报告_20260712.md",
+    "mtime": "2026-07-12T10:02:44.435869-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/190_TOI业务模型v3.3.1整合执行与自验报告_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "190_TOI业务模型v3.3.1整合执行与自验报告_20260712.md",
+    "mtime": "2026-07-12T10:20:39.288258-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/191_TOI业务模型v3.3.1_Codex最终验收报告_20260712.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "191_TOI业务模型v3.3.1_Codex最终验收报告_20260712.md",
+    "mtime": "2026-07-12T10:23:48.341803-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/192_TOI业务模型v3.3.1正式发布决定与切换记录_20260712.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "192_TOI业务模型v3.3.1正式发布决定与切换记录_20260712.md",
+    "mtime": "2026-07-12T10:37:47.057914-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/194_TOI业务模型v3.3.1_Current发布验收报告_20260712.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "194_TOI业务模型v3.3.1_Current发布验收报告_20260712.md",
+    "mtime": "2026-07-12T10:41:27.956944-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/195_Amanda任务跟踪台账_主清单_20260713.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "195_Amanda任务跟踪台账_主清单_20260713.md",
+    "mtime": "2026-10-04T06:00:23.448312-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/196R_Amanda对T8-D1判定回复_20260714.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "196R_Amanda对T8-D1判定回复_20260714.md",
+    "mtime": "2026-07-14T00:18:26.711507-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/196_MARK审阅包_TRK014-016合规治理_20260713.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "196_MARK审阅包_TRK014-016合规治理_20260713.md",
+    "mtime": "2026-07-13T22:36:40.505160-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/197_TRK013_Carrie任务说明书_JF字段确认_20260714.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "197_TRK013_Carrie任务说明书_JF字段确认_20260714.md",
+    "mtime": "2026-07-13T23:15:15.497725-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/197_TRK013_菲菲任务说明书_JF字段确认_20260713.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "197_TRK013_菲菲任务说明书_JF字段确认_20260713.md",
+    "mtime": "2026-07-13T00:43:12.299725-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/198_Carrie任务跟踪台账_20260714.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "198_Carrie任务跟踪台账_20260714.md",
+    "mtime": "2026-07-20T02:49:53.341033-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/19_REVIEW批次2_穿透式验收报告.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "19_REVIEW批次2_穿透式验收报告.md",
+    "mtime": "2026-07-04T01:17:18.292479-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/201_TRK013_Carrie回复_JF保单镜像字段确认_20260714.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "201_TRK013_Carrie回复_JF保单镜像字段确认_20260714.md",
+    "mtime": "2026-07-14T02:19:25.178530-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/202_业务条款标准版本_付款条款更新_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "202_业务条款标准版本_付款条款更新_v0.1.md",
+    "mtime": "2026-07-14T08:43:10.107553-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/203_TOI内部交付台账_机制说明_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "203_TOI内部交付台账_机制说明_v0.1.md",
+    "mtime": "2026-07-15T01:18:47.347497-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/203_TOI内部交付台账_机制说明_v0.2.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "203_TOI内部交付台账_机制说明_v0.2.md",
+    "mtime": "2026-07-20T01:26:48.024249-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/205_TOI交付台账_U编号挑选对照表_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "205_TOI交付台账_U编号挑选对照表_v0.1.md",
+    "mtime": "2026-07-20T01:24:10.510007-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/206_CR提请_38册子与179主表建立映射_20260720.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "206_CR提请_38册子与179主表建立映射_20260720.md",
+    "mtime": "2026-08-02T22:55:57.269263-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/206_GL25与IA_inducement_服务分层合规研究_20260715.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "206_GL25与IA_inducement_服务分层合规研究_20260715.md",
+    "mtime": "2026-07-15T05:11:38.323392-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/206_TRK013_Q3保单开立日期技术确认_20260715.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "206_TRK013_Q3保单开立日期技术确认_20260715.md",
+    "mtime": "2026-07-15T05:10:55.795090-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/207R_产品卡清洗_内部合规底稿_20260717.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "207R_产品卡清洗_内部合规底稿_20260717.md",
+    "mtime": "2026-07-17T04:40:29.906962-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/207_TRK013_MARK判断包_Q1Q2_IA合规暂缓_20260715.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "207_TRK013_MARK判断包_Q1Q2_IA合规暂缓_20260715.md",
+    "mtime": "2026-07-15T05:10:57.595367-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/207_产品卡_续签证据档案管理_GL25诱因风险_20260715.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "207_产品卡_续签证据档案管理_GL25诱因风险_20260715.md",
+    "mtime": "2026-07-15T05:13:13.426753-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/208_GL25第6节与两份操守守则_补查报告_20260717.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "208_GL25第6节与两份操守守则_补查报告_20260717.md",
+    "mtime": "2026-07-17T02:29:08.086790-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/209_GL25_§5.3合理性评估_服务分层_Teresa_20260717.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "209_GL25_§5.3合理性评估_服务分层_Teresa_20260717.md",
+    "mtime": "2026-07-17T03:52:48.385823-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/20_REVIEW批次3_非客户宣导与培训口径复核_for_agent.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "20_REVIEW批次3_非客户宣导与培训口径复核_for_agent.md",
+    "mtime": "2026-07-04T01:19:56.975079-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/210_RW业财拉通自动化方案_v0.9.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "210_RW业财拉通自动化方案_v0.9.md",
+    "mtime": "2026-07-20T08:19:39.295065-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/211_RW业财拉通方案v0.9_待办分配表_20260718.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "211_RW业财拉通方案v0.9_待办分配表_20260718.md",
+    "mtime": "2026-07-19T04:17:04.422728-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/213_Carrie_OWN06-10与TRK013_Q2确认记录_20260720.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "213_Carrie_OWN06-10与TRK013_Q2确认记录_20260720.md",
+    "mtime": "2026-07-20T01:15:36.925894-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/214_Carrie_OBG7数据标准化接手边界确认_20260720.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "214_Carrie_OBG7数据标准化接手边界确认_20260720.md",
+    "mtime": "2026-07-20T01:27:24.373303-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/215_Carrie_carrier相关任务主动认领边界清单_20260720.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "215_Carrie_carrier相关任务主动认领边界清单_20260720.md",
+    "mtime": "2026-07-20T01:44:45.295277-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/216A_OBG7_G7B_数据结构预设计_v0.1_20260720.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "216A_OBG7_G7B_数据结构预设计_v0.1_20260720.md",
+    "mtime": "2026-07-20T01:50:10.911295-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/216_Carrie_当前可立即执行任务清单_20260720.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "216_Carrie_当前可立即执行任务清单_20260720.md",
+    "mtime": "2026-07-20T01:50:08.945127-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/217_Carrie_step1_证据与候选源hash补齐完成记录_20260720.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "217_Carrie_step1_证据与候选源hash补齐完成记录_20260720.md",
+    "mtime": "2026-07-20T01:56:10.877887-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/217_Teresa_OBG7A_TOI外发合规边界确认_20260729.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "217_Teresa_OBG7A_TOI外发合规边界确认_20260729.md",
+    "mtime": "2026-07-29T02:37:11.126192-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/218_Carrie_step2_TOI_CASE001原始凭证索引扩展完成记录_20260720.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "218_Carrie_step2_TOI_CASE001原始凭证索引扩展完成记录_20260720.md",
+    "mtime": "2026-07-20T02:20:50.154873-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/218_Teresa_T01_P0-1佣金迁出RW合规意见_20260729.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "218_Teresa_T01_P0-1佣金迁出RW合规意见_20260729.md",
+    "mtime": "2026-07-29T03:08:00.622204-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/219_Carrie_step3_TOI_CASE002候选材料索引扩展完成记录_20260720.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "219_Carrie_step3_TOI_CASE002候选材料索引扩展完成记录_20260720.md",
+    "mtime": "2026-07-20T02:27:36.369603-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/219_Teresa_T02_P0-2关联交易合规边界意见_20260729.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "219_Teresa_T02_P0-2关联交易合规边界意见_20260729.md",
+    "mtime": "2026-07-29T03:09:19.154733-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/21_REVIEW批次3_非客户宣导与培训口径复核结果.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "21_REVIEW批次3_非客户宣导与培训口径复核结果.md",
+    "mtime": "2026-07-04T01:28:21.649095-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/220_Carrie_step4_216B字段与枚举标准化完成记录_20260720.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "220_Carrie_step4_216B字段与枚举标准化完成记录_20260720.md",
+    "mtime": "2026-07-20T02:32:34.384714-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/220_Teresa_T03_can_be_committed_externally合规分级规则_20260729.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "220_Teresa_T03_can_be_committed_externally合规分级规则_20260729.md",
+    "mtime": "2026-07-29T04:39:59.838601-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/221A_toi_evidence_index_DB建表草案_v0.1_20260720.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "221A_toi_evidence_index_DB建表草案_v0.1_20260720.md",
+    "mtime": "2026-07-20T02:36:43.433971-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/221_Carrie_step5_DB建表草案完成记录_20260720.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "221_Carrie_step5_DB建表草案完成记录_20260720.md",
+    "mtime": "2026-07-20T02:36:48.623581-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/221_Teresa_T04_PDPO数据管控与108对齐确认_20260729.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "221_Teresa_T04_PDPO数据管控与108对齐确认_20260729.md",
+    "mtime": "2026-07-29T04:40:21.134638-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/222_Carrie_step6_seed数据包与入库校验完成记录_20260720.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "222_Carrie_step6_seed数据包与入库校验完成记录_20260720.md",
+    "mtime": "2026-07-20T02:44:35.070464-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/222_RW深圳WFOE设立建议书_v0.1_20260720.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "222_RW深圳WFOE设立建议书_v0.1_20260720.md",
+    "mtime": "2026-07-30T23:21:42.264284-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/223_Carrie_step7_敏感性人工复核清单完成记录_20260720.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "223_Carrie_step7_敏感性人工复核清单完成记录_20260720.md",
+    "mtime": "2026-07-20T02:48:20.429367-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/223_提请Mark评审会_业财拉通综合_v1.0_20260803.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "223_提请Mark评审会_业财拉通综合_v1.0_20260803.md",
+    "mtime": "2026-08-06T08:58:00.591848-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/223_请求Mark评审会_业财拉通_v1.0_20260803.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "223_请求Mark评审会_业财拉通_v1.0_20260803.md",
+    "mtime": "2026-08-03T01:12:36.598465-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/224_公司经营板块划分与核算口径_Roy_v1.0_20260804.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "224_公司经营板块划分与核算口径_Roy_v1.0_20260804.md",
+    "mtime": "2026-08-06T08:49:55.805692-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/224_公司经营板块划分与核算口径_Roy_v2.0_20260806.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "224_公司经营板块划分与核算口径_Roy_v2.0_20260806.md",
+    "mtime": "2026-08-06T08:57:47.814749-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/22_REVIEW批次3_穿透式验收报告.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "22_REVIEW批次3_穿透式验收报告.md",
+    "mtime": "2026-07-04T01:43:41.811557-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/23_REVIEW批次5_客户交付与MVP口径复核_for_agent.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "23_REVIEW批次5_客户交付与MVP口径复核_for_agent.md",
+    "mtime": "2026-07-04T01:52:58.051966-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/24_REVIEW批次5_客户交付与MVP口径复核结果.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "24_REVIEW批次5_客户交付与MVP口径复核结果.md",
+    "mtime": "2026-07-04T02:13:33.103165-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/25_REVIEW批次5_穿透式验收报告.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "25_REVIEW批次5_穿透式验收报告.md",
+    "mtime": "2026-07-04T02:29:54.392002-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/25_TOC客户专家咨询_GL25合规相关资料索引.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "25_TOC客户专家咨询_GL25合规相关资料索引.md",
+    "mtime": "2026-07-04T04:22:36.167528-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/26_B5客户口径权益包MVP清洗任务清单.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "26_B5客户口径权益包MVP清洗任务清单.md",
+    "mtime": "2026-07-04T03:12:07.432689-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/27_0周立项会决策包.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "27_0周立项会决策包.md",
+    "mtime": "2026-07-04T07:33:57.016549-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/28R_Phase1准入Gate状态刷新_20260714.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "28R_Phase1准入Gate状态刷新_20260714.md",
+    "mtime": "2026-07-16T21:30:23.564657-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/28_Phase0正式基线冻结候选与Gate清单.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "28_Phase0正式基线冻结候选与Gate清单.md",
+    "mtime": "2026-07-04T08:07:48.939286-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/29_立项前缺口收口确认.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "29_立项前缺口收口确认.md",
+    "mtime": "2026-07-04T06:54:32.257969-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/31_权益部门_LayerB重新定位与项目规划.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "31_权益部门_LayerB重新定位与项目规划.md",
+    "mtime": "2026-07-04T04:41:14.354377-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/32_LayerB战略拍板确认单.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "32_LayerB战略拍板确认单.md",
+    "mtime": "2026-07-04T04:46:16.681198-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/32_TOC客户专家咨询_GL25原则机制流程_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "32_TOC客户专家咨询_GL25原则机制流程_v0.1.md",
+    "mtime": "2026-07-04T04:20:53.167318-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/33_TOC客户专家咨询_GL25合理评估台账_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "33_TOC客户专家咨询_GL25合理评估台账_v0.1.md",
+    "mtime": "2026-07-17T04:25:41.606201-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/34_TOC客户专家咨询_交付留痕模板_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "34_TOC客户专家咨询_交付留痕模板_v0.1.md",
+    "mtime": "2026-07-04T04:22:02.311856-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/35_MVP顺序修正_TOB_TOI优先.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "35_MVP顺序修正_TOB_TOI优先.md",
+    "mtime": "2026-07-04T04:40:11.382465-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/36_Phase0_TOB_TOI样本盘点与三件套任务清单_for_agent.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "36_Phase0_TOB_TOI样本盘点与三件套任务清单_for_agent.md",
+    "mtime": "2026-07-04T05:13:16.662694-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/37_TOB_TOI已运营场景穿透式盘点结果.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "37_TOB_TOI已运营场景穿透式盘点结果.md",
+    "mtime": "2026-07-04T05:32:17.015389-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/38_权益资产治理台账_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "38_权益资产治理台账_v0.1.md",
+    "mtime": "2026-07-04T05:32:17.016388-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/39_TOB机构运营规范化包_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "39_TOB机构运营规范化包_v0.1.md",
+    "mtime": "2026-07-04T05:32:17.017391-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/40_TOI保司价值证明包_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "40_TOI保司价值证明包_v0.1.md",
+    "mtime": "2026-07-11T20:49:22.829412-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/41_Phase0_TOB_TOI执行验收报告.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "41_Phase0_TOB_TOI执行验收报告.md",
+    "mtime": "2026-07-04T05:32:17.018382-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/42_Codex验收_Phase0_TOB_TOI输出复核.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "42_Codex验收_Phase0_TOB_TOI输出复核.md",
+    "mtime": "2026-07-04T05:37:05.374111-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/43_TOI正式匿名汇总报表源补齐任务清单_for_agent.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "43_TOI正式匿名汇总报表源补齐任务清单_for_agent.md",
+    "mtime": "2026-07-04T05:39:33.494796-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/43_TOI正式匿名汇总报表源补齐结果.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "43_TOI正式匿名汇总报表源补齐结果.md",
+    "mtime": "2026-07-04T06:28:56.172884-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/44_Codex验收_TOI正式匿名汇总报表源补齐复核.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "44_Codex验收_TOI正式匿名汇总报表源补齐复核.md",
+    "mtime": "2026-07-04T07:27:07.926524-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/45_Phase0_TOB_TOI项目化配置包v0.2任务清单_for_agent.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "45_Phase0_TOB_TOI项目化配置包v0.2任务清单_for_agent.md",
+    "mtime": "2026-07-04T06:55:19.243603-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/45_Phase0_TOB_TOI项目化配置验收报告.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "45_Phase0_TOB_TOI项目化配置验收报告.md",
+    "mtime": "2026-07-04T07:08:25.879378-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/45_SHARED权益资产字段冻结与变更规则_v0.2.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "45_SHARED权益资产字段冻结与变更规则_v0.2.md",
+    "mtime": "2026-07-04T07:08:25.878378-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/45_TOB服务目录与验收口径_v0.2.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "45_TOB服务目录与验收口径_v0.2.md",
+    "mtime": "2026-07-04T07:08:25.874540-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/45_TOI价值证明框架与报表模板_v0.2.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "45_TOI价值证明框架与报表模板_v0.2.md",
+    "mtime": "2026-07-11T20:49:33.181813-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/46_Codex验收_Phase0_TOB_TOI项目化配置包v0.2复核.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "46_Codex验收_Phase0_TOB_TOI项目化配置包v0.2复核.md",
+    "mtime": "2026-07-04T07:25:14.798511-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/47_0周执行启动包.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "47_0周执行启动包.md",
+    "mtime": "2026-07-04T07:32:39.822778-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/50_0周启动会议纪要模板.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "50_0周启动会议纪要模板.md",
+    "mtime": "2026-07-04T08:08:02.505739-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/51_0周正式启动留痕.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "51_0周正式启动留痕.md",
+    "mtime": "2026-07-04T08:06:51.499099-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/53_Phase0首轮执行日报_20260704.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "53_Phase0首轮执行日报_20260704.md",
+    "mtime": "2026-07-04T10:02:25.769639-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/55_TOI内部价值证明模板_v0.1.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "55_TOI内部价值证明模板_v0.1.md",
+    "mtime": "2026-07-04T08:56:37.020924-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/56R_字段冻结执行表v0.3_回写说明_20260715.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "56R_字段冻结执行表v0.3_回写说明_20260715.md",
+    "mtime": "2026-07-15T00:43:13.067856-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/57_Roy权益资产财务字段确认任务书.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "57_Roy权益资产财务字段确认任务书.md",
+    "mtime": "2026-07-04T09:00:03.199959-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/59_Phase0今日四项确认_20260704.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "59_Phase0今日四项确认_20260704.md",
+    "mtime": "2026-07-04T08:56:30.978244-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/60_Roy等待期非财务推进清单_20260704.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "60_Roy等待期非财务推进清单_20260704.md",
+    "mtime": "2026-07-04T09:11:57.964207-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/61_TOB每日15分钟站会记录_20260704.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "61_TOB每日15分钟站会记录_20260704.md",
+    "mtime": "2026-07-04T09:11:57.966204-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/63_TOB执行证据补齐任务清单_20260704.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "63_TOB执行证据补齐任务清单_20260704.md",
+    "mtime": "2026-07-04T09:19:36.285618-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/64_TOB既有候选证据预盘点_20260704.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "64_TOB既有候选证据预盘点_20260704.md",
+    "mtime": "2026-07-04T09:28:15.361133-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/65_TOB下一次15分钟站会检查单_20260704.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "65_TOB下一次15分钟站会检查单_20260704.md",
+    "mtime": "2026-07-04T09:28:15.362131-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/66_OB工作区与原始资料池关系确认_20260704.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "66_OB工作区与原始资料池关系确认_20260704.md",
+    "mtime": "2026-07-04T09:36:06.197438-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/67_TOI候选证据预盘点_20260704.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "67_TOI候选证据预盘点_20260704.md",
+    "mtime": "2026-07-04T09:40:57.579180-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/68_SHARED候选证据预盘点_20260704.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "68_SHARED候选证据预盘点_20260704.md",
+    "mtime": "2026-07-04T09:40:57.581670-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/69_TOI_SHARED下一次检查单_20260704.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "69_TOI_SHARED下一次检查单_20260704.md",
+    "mtime": "2026-07-04T09:40:57.583675-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/71_跨域候选证据检查纪要_20260704.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "71_跨域候选证据检查纪要_20260704.md",
+    "mtime": "2026-07-04T09:45:19.354620-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/74_候选证据物理归类完成记录_20260704.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "74_候选证据物理归类完成记录_20260704.md",
+    "mtime": "2026-07-04T11:50:06.412379-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/75_TOB-EVD-001需求诊断与目标确认收件箱复核_20260705.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "75_TOB-EVD-001需求诊断与目标确认收件箱复核_20260705.md",
+    "mtime": "2026-07-04T11:49:01.477148-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/76_TOB执行证据收件箱补全验收_20260705.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "76_TOB执行证据收件箱补全验收_20260705.md",
+    "mtime": "2026-07-04T13:34:07.344605-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/78_TOI真实运营案例证据化任务清单_20260705.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "78_TOI真实运营案例证据化任务清单_20260705.md",
+    "mtime": "2026-07-04T23:00:12.184963-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/80_TOI外发Gate与source_absent边界说明_20260705.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "80_TOI外发Gate与source_absent边界说明_20260705.md",
+    "mtime": "2026-07-04T23:00:12.187958-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/81_TOI真实案例grep结果与候选证据归档_20260705.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "81_TOI真实案例grep结果与候选证据归档_20260705.md",
+    "mtime": "2026-07-04T23:00:12.182961-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/85_Amanda同事工作文件夹交叉比对初步结论_20260705.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "85_Amanda同事工作文件夹交叉比对初步结论_20260705.md",
+    "mtime": "2026-07-04T23:00:12.191039-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/86_Amanda资料接入后项目逻辑调整建议_20260705.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "86_Amanda资料接入后项目逻辑调整建议_20260705.md",
+    "mtime": "2026-07-04T23:02:55.993728-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/88_TOI-CASE-001太保香港口径确认_20260705.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "88_TOI-CASE-001太保香港口径确认_20260705.md",
+    "mtime": "2026-07-04T22:59:51.441360-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/90_Amanda强候选证据物理归类完成记录_20260705.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "90_Amanda强候选证据物理归类完成记录_20260705.md",
+    "mtime": "2026-07-04T22:59:51.443364-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/93_Amanda_owner确认表_批次1_使用说明_20260706.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "93_Amanda_owner确认表_批次1_使用说明_20260706.md",
+    "mtime": "2026-07-05T12:50:50.905272-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/94_TOI_SHARED证据收件箱核心流程模板验收_20260706.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "94_TOI_SHARED证据收件箱核心流程模板验收_20260706.md",
+    "mtime": "2026-07-05T14:16:37.668160-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/97_TOI_CASE_004_005轻量案例包补齐验收_20260706.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOI价值证明",
+    "duplicate_name_key": "97_TOI_CASE_004_005轻量案例包补齐验收_20260706.md",
+    "mtime": "2026-07-05T14:56:25.055003-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_Phase0-3任务跟进面板生成记录_20260706.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "99_Phase0-3任务跟进面板生成记录_20260706.md",
+    "mtime": "2026-07-06T10:00:42.976629-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_RISK-TOB-001_合同模板PwC残留_20260707.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "99_RISK-TOB-001_合同模板PwC残留_20260707.md",
+    "mtime": "2026-07-16T23:17:13.061744-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_TOB站会议程_20260708首场_v1.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "99_TOB站会议程_20260708首场_v1.md",
+    "mtime": "2026-07-07T03:03:52.697957-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_TOB站会议程_20260709_v2.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "99_TOB站会议程_20260709_v2.md",
+    "mtime": "2026-07-08T21:55:35.964956-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_TOB站会议程_20260713_v3.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "99_TOB站会议程_20260713_v3.md",
+    "mtime": "2026-07-13T01:22:48.001078-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_WK0-05_Amanda只挂资产_可下放清单_20260707.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "99_WK0-05_Amanda只挂资产_可下放清单_20260707.md",
+    "mtime": "2026-07-07T04:27:23.374183-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_WK0-05_TOB服务目录owner点名表_说明与待办_20260707.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOB机构交付",
+    "duplicate_name_key": "99_WK0-05_TOB服务目录owner点名表_说明与待办_20260707.md",
+    "mtime": "2026-07-07T02:16:07.446693-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_新动力台账_Roy财务字段口径确认_交接说明_20260707.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "99_新动力台账_Roy财务字段口径确认_交接说明_20260707.md",
+    "mtime": "2026-07-07T04:02:00.360444-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_权益部门组织补位待办表_20260708.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "99_权益部门组织补位待办表_20260708.md",
+    "mtime": "2026-07-08T04:52:08.488611-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/AGENTS.md",
+    "status": "技术风险隔离",
+    "reason": "文件名技术信号，未读正文，不认定语义核验完成",
+    "theme": "资产治理与项目边界",
+    "duplicate_name_key": "AGENTS.md",
+    "mtime": "2026-07-04T00:12:37.992836-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/NAV01_TOI_TOC模型底稿与HTML展示总入口_v1.0_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-05T22:50:59.740707-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/NAV01_TOI_TOC模型底稿与HTML展示总入口_v1.0_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-05T22:51:32.192906-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/NAV01_TOI_TOC模型底稿与HTML展示总入口_v1.0_20260806/index.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "index.html",
+    "mtime": "2026-08-05T22:50:59.707870-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/NAV01_TOI_TOC模型底稿与HTML展示总入口_v1.0_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-05T22:50:59.756592-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC01_香港管家服务架构图_v1.0_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T02:04:48.599278-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC01_香港管家服务架构图_v1.0_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T02:04:48.599922-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC01_香港管家服务架构图_v1.0_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T02:04:48.599794-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC01_香港管家服务架构图_v1.0_20260806/香港管家服务架构图_v1.0_20260806.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港管家服务架构图_v1.0_20260806.html",
+    "mtime": "2026-08-06T02:03:48.288873-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC02_香港管家服务标准手册及人才画像_v0.1_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T02:21:42.553050-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC02_香港管家服务标准手册及人才画像_v0.1_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T02:21:42.554159-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC02_香港管家服务标准手册及人才画像_v0.1_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T02:11:51.810627-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC02_香港管家服务标准手册及人才画像_v0.1_20260806/香港管家人才画像_v0.1_20260806.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港管家人才画像_v0.1_20260806.md",
+    "mtime": "2026-08-06T02:11:00.227103-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC02_香港管家服务标准手册及人才画像_v0.1_20260806/香港管家服务项目标准手册_v0.1_20260806.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港管家服务项目标准手册_v0.1_20260806.md",
+    "mtime": "2026-08-06T02:11:00.226375-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC03_香港管家外宣服务文案_移民公司确认版_v0.2_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T02:29:26.902242-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC03_香港管家外宣服务文案_移民公司确认版_v0.2_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T02:29:26.903118-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC03_香港管家外宣服务文案_移民公司确认版_v0.2_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T02:29:26.902948-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.1_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T03:00:08.244303-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.1_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T03:00:08.245315-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.1_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T02:49:43.641794-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.1_20260806/香港家庭生活管家_人才招聘画像_v0.1_20260806.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港家庭生活管家_人才招聘画像_v0.1_20260806.html",
+    "mtime": "2026-08-06T02:57:05.926638-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.2_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T03:17:30.120630-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.2_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T03:17:30.122766-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.2_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T03:17:30.121927-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.2_20260806/香港家庭生活管家_人才招聘画像_v0.2_20260806.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港家庭生活管家_人才招聘画像_v0.2_20260806.html",
+    "mtime": "2026-08-06T03:13:03.137739-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.3_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T03:30:00.979896-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.3_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T03:31:54.535956-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.3_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T03:30:00.980449-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.3_20260806/香港家庭生活管家_人才招聘画像_v0.3_20260806.html",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "香港家庭生活管家_人才招聘画像_v0.3_20260806.html",
+    "mtime": "2026-08-06T03:28:45.057560-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC05_香港管家服务内容结构化确认版_v0.3_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T03:06:24.586614-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC05_香港管家服务内容结构化确认版_v0.3_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T03:06:24.588182-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC05_香港管家服务内容结构化确认版_v0.3_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T03:06:24.587737-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC06_香港管家服务介绍及内容具体化确认版_v0.4_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T03:19:34.355510-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC06_香港管家服务介绍及内容具体化确认版_v0.4_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T03:19:34.356706-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC06_香港管家服务介绍及内容具体化确认版_v0.4_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T03:19:34.356259-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC07_香港管家客户服务模块确认版_v0.5_20260806/README.md",
+    "status": "业务候选待内容核定",
+    "reason": "仅路径初分，非正文准入或完成",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "README.md",
+    "mtime": "2026-08-06T03:30:11.794112-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC07_香港管家客户服务模块确认版_v0.5_20260806/acceptance_report.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "acceptance_report.md",
+    "mtime": "2026-08-06T03:30:11.794933-05:00",
+    "content_read_allowed": false
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC07_香港管家客户服务模块确认版_v0.5_20260806/review_list.md",
+    "status": "治理证据暂缓",
+    "reason": "低复用/过程证据，按需溯源，不逐件造原子",
+    "theme": "TOC服务与人才",
+    "duplicate_name_key": "review_list.md",
+    "mtime": "2026-08-06T03:30:11.794791-05:00",
+    "content_read_allowed": false
+  }
+]

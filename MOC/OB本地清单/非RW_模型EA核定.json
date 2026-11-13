@@ -1,0 +1,288 @@
+{
+  "roots": [
+    "/Users/a112233/Desktop/业务模型",
+    "/Users/a112233/Desktop/流程架构项目_jasper"
+  ],
+  "reads": [
+    {
+      "path": "/Users/a112233/Desktop/业务模型/README_目录说明.md",
+      "mtime": 1789371771.7086353,
+      "mtime_utc": "2026-09-14T07:42:51.708635+00:00",
+      "source_hash": "b5252e8190db333f7a6a09caf523eed77aac1cec8be5082a02f42b390d3161b5",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 12064920,
+        "size": 13975,
+        "mtime_ns": 1789371771708635400,
+        "ctime_ns": 1790664177584472902
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 12064920,
+        "size": 13975,
+        "mtime_ns": 1789371771708635400,
+        "ctime_ns": 1790664177584472902
+      },
+      "stable": true,
+      "read_bytes": 13975,
+      "read_chars": 7253,
+      "lines": 201,
+      "token_count": null,
+      "token_proxy": 3627,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/价值流建模/价值流定义_ACC002_P4_价值流L3映射分析逻辑与标准_v1.1正式发布稿.md",
+      "mtime": 1786082371.581747,
+      "mtime_utc": "2026-08-07T05:59:31.581747+00:00",
+      "source_hash": "3b021fd07be504a7695b57817bcabca4638f6ec347572d68bfe6b328dd118616",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 5802203,
+        "size": 4447,
+        "mtime_ns": 1786082371581747100,
+        "ctime_ns": 1786082384323828540
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 5802203,
+        "size": 4447,
+        "mtime_ns": 1786082371581747100,
+        "ctime_ns": 1786082384323828540
+      },
+      "stable": true,
+      "read_bytes": 4447,
+      "read_chars": 2535,
+      "lines": 88,
+      "token_count": null,
+      "token_proxy": 1268,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/价值流建模/价值流定义_ACC001_D1价值节点清单修订说明_v0.1.md",
+      "mtime": 1785573631.4732504,
+      "mtime_utc": "2026-08-01T08:40:31.473250+00:00",
+      "source_hash": "f274327108ab418b1a8d149e3b6a40df6647758080c888ddc2a5316efbd57439",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 4875435,
+        "size": 3332,
+        "mtime_ns": 1785573631473250500,
+        "ctime_ns": 1785589332312304936
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 4875435,
+        "size": 3332,
+        "mtime_ns": 1785573631473250500,
+        "ctime_ns": 1785589332312304936
+      },
+      "stable": true,
+      "read_bytes": 3332,
+      "read_chars": 1970,
+      "lines": 63,
+      "token_count": null,
+      "token_proxy": 985,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/价值流建模/价值流定义_ACC002_75码价值流差异与安全处置_v0.1.md",
+      "mtime": 1785931310.9227614,
+      "mtime_utc": "2026-08-05T12:01:50.922761+00:00",
+      "source_hash": "5a9436eba5b709990d52e559fd8bac434bb75a4b3ed839c0bc089f6352a655e7",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 5476145,
+        "size": 3929,
+        "mtime_ns": 1785931310922761500,
+        "ctime_ns": 1785936664193376793
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 5476145,
+        "size": 3929,
+        "mtime_ns": 1785931310922761500,
+        "ctime_ns": 1785936664193376793
+      },
+      "stable": true,
+      "read_bytes": 3929,
+      "read_chars": 2132,
+      "lines": 82,
+      "token_count": null,
+      "token_proxy": 1066,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/价值流建模/价值流定义_价值节点清单_消歧版_V4.0.md",
+      "mtime": 1781252510.3595552,
+      "mtime_utc": "2026-06-12T08:21:50.359555+00:00",
+      "source_hash": "2b7dd4deec569bbc291523465a16aad8ef2e9de0147b9e50e016bd8f8d6ae37a",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 1756035,
+        "size": 41850,
+        "mtime_ns": 1781252510359555206,
+        "ctime_ns": 1784266934139646843
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 1756035,
+        "size": 41850,
+        "mtime_ns": 1781252510359555206,
+        "ctime_ns": 1784266934139646843
+      },
+      "stable": true,
+      "read_bytes": 41850,
+      "read_chars": 25614,
+      "lines": 580,
+      "token_count": null,
+      "token_proxy": 12807,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/价值链L1建模/价值链L1建模_V0_待补清单.md",
+      "mtime": 1779465508.0120237,
+      "mtime_utc": "2026-05-22T15:58:28.012024+00:00",
+      "source_hash": "24e5b601ef9dc36b5f76efa0a125a4a09fee92f70599e5268f14c6747ff142de",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 1756042,
+        "size": 8831,
+        "mtime_ns": 1779465508012023640,
+        "ctime_ns": 1784266915844190909
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 1756042,
+        "size": 8831,
+        "mtime_ns": 1779465508012023640,
+        "ctime_ns": 1784266915844190909
+      },
+      "stable": true,
+      "read_bytes": 8831,
+      "read_chars": 4535,
+      "lines": 171,
+      "token_count": null,
+      "token_proxy": 2268,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/10_标准与基线/01_作业指引/D09交付包形态与收口流程对齐说明_v1_20260830.md",
+      "mtime": 1788083438.2366107,
+      "mtime_utc": "2026-08-30T09:50:38.236611+00:00",
+      "source_hash": "0d8cf0febabaee0a7d47982f6088a8dc92886392b1562a10e04edf1e0843fe22",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 12065724,
+        "size": 5787,
+        "mtime_ns": 1788083438236610651,
+        "ctime_ns": 1790670228120920000
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 12065724,
+        "size": 5787,
+        "mtime_ns": 1788083438236610651,
+        "ctime_ns": 1790670228120920000
+      },
+      "stable": true,
+      "read_bytes": 5787,
+      "read_chars": 3035,
+      "lines": 110,
+      "token_count": null,
+      "token_proxy": 1518,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/10_标准与基线/01_作业指引/D09主责协作指引_v1.0_20260826.md",
+      "mtime": 1788155375.33986,
+      "mtime_utc": "2026-08-31T05:49:35.339860+00:00",
+      "source_hash": "daa0532ce8a5bd6678db30cfe29533fbc31365799711f7a6f0c1a0db9adf600a",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 12065133,
+        "size": 11268,
+        "mtime_ns": 1788155375339859900,
+        "ctime_ns": 1790664244974176699
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 12065133,
+        "size": 11268,
+        "mtime_ns": 1788155375339859900,
+        "ctime_ns": 1790664244974176699
+      },
+      "stable": true,
+      "read_bytes": 11268,
+      "read_chars": 5585,
+      "lines": 243,
+      "token_count": null,
+      "token_proxy": 2793,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/10_标准与基线/04_执行路径与批次/D09来源收口执行路径_v2.0_20260826.md",
+      "mtime": 1787731958.3224604,
+      "mtime_utc": "2026-08-26T08:12:38.322460+00:00",
+      "source_hash": "2c839ae1db26fa7e9026765959e767e72e897152f73bf3be694a181aeab17d1b",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 12047840,
+        "size": 12854,
+        "mtime_ns": 1787731958322460412,
+        "ctime_ns": 1790670228939944173
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 12047840,
+        "size": 12854,
+        "mtime_ns": 1787731958322460412,
+        "ctime_ns": 1790670228939944173
+      },
+      "stable": true,
+      "read_bytes": 12854,
+      "read_chars": 7275,
+      "lines": 196,
+      "token_count": null,
+      "token_proxy": 3638,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/README_工作包规范.md",
+      "mtime": 1788154995.8661017,
+      "mtime_utc": "2026-08-31T05:43:15.866102+00:00",
+      "source_hash": "122c244e03a443a5e46797dd01655d128e95d34618291258592d2132616d6e1e",
+      "first_stat": {
+        "dev": 16777231,
+        "ino": 12059152,
+        "size": 8741,
+        "mtime_ns": 1788154995866101700,
+        "ctime_ns": 1790663341639533107
+      },
+      "after_stat": {
+        "dev": 16777231,
+        "ino": 12059152,
+        "size": 8741,
+        "mtime_ns": 1788154995866101700,
+        "ctime_ns": 1790663341639533107
+      },
+      "stable": true,
+      "read_bytes": 8741,
+      "read_chars": 4307,
+      "lines": 146,
+      "token_count": null,
+      "token_proxy": 2154,
+      "token_proxy_method": "ceil(unicode_chars/2), not actual tokens",
+      "status": "已读取待语义处置"
+    }
+  ]
+}

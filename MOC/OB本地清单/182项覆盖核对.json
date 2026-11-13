@@ -1,0 +1,14 @@
+{
+  "expected": 182,
+  "records": 182,
+  "missing_shards": [],
+  "missing_paths": [],
+  "unexpected": [],
+  "duplicates": [],
+  "statuses": {
+    "已分析": 165,
+    "待核": 15,
+    "重复": 2
+  },
+  "coverage_complete": true
+}

@@ -1,0 +1,2482 @@
+[
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目",
+    "decision": "限定保留",
+    "reason": "既有最大范围；EA仅价值链价值流",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.agents",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.claude",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.codex",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.codex_tmp",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.git",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.stfolder",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.stignore.bak",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.sync-conflict-20260708-090857-TB35XCK.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.sync-conflict-20260708-170842-TB35XCK.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.sync-conflict-20260708-170858-TB35XCK.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.sync-conflict-20260708-170859-TB35XCK.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.sync-conflict-20260708-170902-TB35XCK.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.sync-conflict-20260708-173254-TB35XCK.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.sync-conflict-20260730-221405-TB35XCK.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/.sync-conflict-20260826-012520-TB35XCK.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/00_审计",
+    "decision": "保留筛类型",
+    "reason": "既有RW准入目录",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/00_索引",
+    "decision": "保留筛类型",
+    "reason": "既有RW准入目录",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/01_RW服务合同",
+    "decision": "保留筛类型",
+    "reason": "既有RW准入目录",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/02_RW权益服务项目",
+    "decision": "保留筛类型",
+    "reason": "既有RW准入目录",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA",
+    "decision": "保留筛类型",
+    "reason": "既有RW准入目录",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC",
+    "decision": "保留筛类型",
+    "reason": "既有RW准入目录",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/05_佣金相关文档",
+    "decision": "保留筛类型",
+    "reason": "既有RW准入目录",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/06_四对象分类视图_v2",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+    "decision": "保留筛类型",
+    "reason": "既有RW准入目录",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/08_RW_OB_工作区",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/AGENTS.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/scratch",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/summary.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/tmp",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）",
+    "decision": "待核",
+    "reason": "既有最大范围；EA仅价值链价值流",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.archify",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.claude",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.continue",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.stfolder",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-094834-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-095142-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-095728-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-100049-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-105214-UD2IBAX.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-152556-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261014-021106-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261014-100758-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261014-101120-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261014-133814-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.vector-cache.json",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/10_部署与运行_Deploy_and_Run",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/AGENT生态与目录索引.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/A_大模型接手准则",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/CLAUDE.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/eg-frontend",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/obsidian-mcp-server",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/process-db-mcp",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-本地Demo",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-本地Demo.zip",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-第二版本地Demo",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-第二版本地Demo-优化版.zip",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-第二版本地Demo-真实数据试点版.zip",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-第二版本地Demo.zip",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/初代-中代本体规划和搭建",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261012-040106-UD2IBAX.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261012-090544-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261012-120104-UD2IBAX.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261012-170310-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-015141-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-032100-UD2IBAX.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-082032-UD2IBAX.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-094834-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-095141-J7UDUY6.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-162219-UD2IBAX.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/00_EE方法论标准",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/07_项目立项启动工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/AI工程能力整改项目工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Jasper工作文档（不含EA项目）工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/OB",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/OB-VNW协同工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/P&L_EA小组Jasper工作区",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/VNW双方向_EA流程卡片化课题",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/_PTA指挥中心",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/_tmp_ocr.swift",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/_tmp_ocr2.swift",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/command_center_ssot工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/daily_sensing_fixture工作区",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/evidence_persist_fixture工作区",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/fingerprint_drift_fixture工作区",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/office_fixture工作区",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/流程架构项目_jasper工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/规则分析_价值节点工作区",
+    "decision": "待核不递归",
+    "reason": "在用/实验/镜像待核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目：EG",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper",
+    "decision": "限定保留",
+    "reason": "既有最大范围；EA仅价值链价值流",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/.obsidian",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/.stfolder",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/.stignore",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/00_治理与元模型",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/08_任务与跟进",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper/_tmp_probe.docx",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型",
+    "decision": "待核",
+    "reason": "既有最大范围；EA仅价值链价值流",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/.claude",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/.codex_tmp_p12",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/.codex_work",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/.stfolder",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/.workbuddy",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/00_总控",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/10_标准与基线",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/20_工作包",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/90_归档",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/README_目录说明.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/业务模型/outputs",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/AI 培训",
+    "decision": "待核",
+    "reason": "既有最大范围；EA仅价值链价值流",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/AI 培训/.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/AI 培训/7月11日-12日课件-副本.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/AI 培训/复杂巨系统建模工具-白皮书2023-06-06.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同",
+    "decision": "待核",
+    "reason": "既有最大范围；EA仅价值链价值流",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20080905 - Independent Broker's Contract - MassMutual Asia Limited  (now YF Life).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20090201 - Manulife Broker's Agreement with DWML (formerly known as RFSL).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20091106 - Broker's Agreement - Sun Life Hong Kong Limited.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20110315 - Broker Agreement with DWML (formerly known as RFSL).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20130314 - AXA Letter Instruction on Comm Disclosure - RFSL (now DWML).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20141107 - Intermediary Business Agreement - Realife Financial Service Ltd..pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20151030 - Broker Agreement btw China Life Insurance (Overseas) Co Ltd & FFWML - signed.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20151111 - China Life Broker Agreement - Realife Financial Services Limited.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20151112-axa_broker contract.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20160101_Manulife Agreement (FFWM).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20160316 - MassMutual Asia Limited - Independent Broker's Contract - FFWML (SIGNED)(YF Life).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20160525_FPI Agreement (FFWM).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20160615 - FWD Broker Agreement with FFWML (signed).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20160629_Generali Life Agreement_FFWM.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20160712_Agreement (FFWM) (CTF Life).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20161121 - Sun Life Broker's Agreement - FFWML (signed).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20161125_Broker Agreement_888030 Fortune Freedoness Wealth Management Ltd.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20171127 - Cigna Broker's Agreement with FFWML.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20180126_富通保险_九富保险服务有限公司.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20180320_Broker Agreement _CPIC (Realife).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20180403_BOC_Broker Agreement (FFWM).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20181109 - Broker Agreement - Chubb Life & DWML.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20190313 - Broker Agreement - Zurich Intl Life Ltd & FFWML (signed).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20190611_Well Link Agreement (FFWM).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20210218 - Bupa's Business Agreement (signed).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20210716 - Broker Agreement - Zurich Life Insurance (HK) Ltd & FFWML - signed.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20211214 - Assicurazioni Generali HKB Broker's agreement) (signed) - DWML (signed).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20220209 - AXA_Broker Contract - Fortune Uniwin Fin. Gp. Ltd.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20220420 - Broker Agreement.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20220522_Confidential Company Agents Agreement (Btw JF & Sunlife).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20230417 - SunLife Brokers Agt - Fortune Uniwin (signed).pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20240425_新加坡永明-Distribution agreement(盖章）.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20240509- Broker Agreement_China Taiping Life Insurance_DW.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20250825_Broker Agreement_Well Link.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/20260225.1.1Broker Agreement Sandy Chow Signed.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/Blue_Complete_with_Docusign_Distribution_Agreement_20250722.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/CPI Broker Agreement - Fortune Uniwin  signed.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/牌照和保司合同/Signed InternationalDistributorAgreement Delightful Wealth Management Limited.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区",
+    "decision": "待核",
+    "reason": "既有最大范围；EA仅价值链价值流",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/2026年8月热点Top10_五大类别.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/2026年9月热点Top10_五大类别.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/2026年9月热点_五类.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/CL_insurance_license.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/CL的保險牌照_持牌保险中介人登记册.pdf",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/Claude Code工作全貌_20260928",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/GPT.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/JEV盲测_20对_待裁定.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/Janice同步项目_交接给AI执行.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/Janice电脑_同步设置步骤.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/Jev配置与调用备忘.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/K3版本",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/U020_Jev热点精排验证",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/U020_前端demo_8904风格_20260922窗口.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/U020_热点候选合集_20260823-0922_v0.1.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/WPS镜像Syncthing同步失败_反馈运维.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/chaya电脑_同步设置步骤.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/codex-A版本",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/deepseek版",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/u020_buckets.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/u020_jev_score.py",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/u020_jev_scores.json",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/u020_templates.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/video_kaihong_full____",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/交接件_独立复跑说明.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/复跑_202609_五大类别热点Top10_报告.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/复跑_检索留痕清单.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/复跑_自报覆盖清单.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/姚电脑_SFTP连接步骤.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/姚电脑_Syncthing安装步骤.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/对照分析_20260924",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/截屏2026-08-12 22.50.33.png",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/截屏2026-09-01 21.39.46.png",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/截屏2026-09-01 21.50.42.png",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/截屏2026-09-01 21.58.28.png",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/文章链接.xlsx",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/月度热点报告_生成指令.md",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/服务器访问范围说明_WPSIN账号.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/模块0_20260923.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/模块0_v2_20260923.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/模块1_v2_20260923.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/模块1_目标态_20260923.html",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/给运维_MoMo只读监控账号.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/给运维_Syncthing后台权限申请.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/给运维_加公钥_chaya_in账号.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/给运维_换新公钥_chaya_in账号.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/给运维_新建Janice账号与目录.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/给运维_确认SFTP连接方式.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/给运维_补充请求_chaya云盘目录.txt",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/蓝象项目_十项底层来源_服务器检索全貌.xlsx",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/临时工作区/蓝象项目_十项底层来源_真实文件结构说明.xlsx",
+    "decision": "待核不递归",
+    "reason": "项目状态/主源/敏感/技术边界未核",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:03:19.289744-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/.DS_Store",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/.localized",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/20260901T041201_session.md",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/2027开门红_双主线销售培训_完整版_男声_v2_同步修正版.mp4",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/2027畅学1班_课表与教材预习对照.xlsx",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/AI协同建造者_V5宣讲稿_Jasper.docx",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/DW RO邮件同步",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/P&L_EA小组Jasper",
+    "decision": "排除",
+    "reason": "既有排除/测试工程/OB自身/隐藏入口",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/PDA交接包_v0.22.0_20261012.zip",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/RW产品体系设计及Uniwin新动力协议方案.zip",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/u20-workflow.html",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/workbuddy",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/安盛白名单伙伴合规支持 · 第二轮讨论稿.pptx",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/对外版PPT_2026Q4储蓄险合作方案_十四页_v1_20261007.pptx",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/截屏2026-10-20 23.32.28.png",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/截屏2026-10-28 21.05.12.png",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/截屏2026-11-03 00.12.16.png",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/截屏2026-11-03 00.22.57.png",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/截屏2026-11-04 01.25.16.png",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/截屏2026-11-05 01.36.17.png",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/数据字典_保单事实表.xlsx",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/未命名.rtf",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/梯子",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/流程架构项目_jasper.code-workspace",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/理财师客户KYC调查问卷_v1.xlsx",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/画板_DrawBoard",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/给蓝象的资料包_清单_v0.1.xlsx",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/钟明秀.xlsx",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/鹈鹕骑自行车.html",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  },
+  {
+    "path": "/Users/a112233/Desktop/鹈鹕骑自行车_v2.html",
+    "decision": "待核不递归",
+    "reason": "桌面剩余入口，归属未核，不读正文",
+    "checked": "2026-11-12T20:10:40.873141-06:00",
+    "content_read_allowed": false,
+    "review_status": "待核",
+    "discovered": "2026-11-12T20:10:40.873141-06:00",
+    "batch": "20261112T201040873141"
+  }
+]

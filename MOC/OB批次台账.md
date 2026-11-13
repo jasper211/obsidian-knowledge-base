@@ -19,3 +19,4 @@
 | OB-LOCAL-RW-007 | ROOT-RW-L | 招聘HTML选定片段 | 2026-11-11T15:22:40.385983Z | 1 | 历史招聘评估门槛 | 0 | James | 限定独立核查通过，非全文 | [[OB批次/OB-LOCAL-RW-007]] | null |
 | OB-LOCAL-RW-008 | ROOT-RW-L | 根层12名分流、章程L1–85 | 检查截至2026-11-11T19:27:26Z | 1正文 | 历史项目定位与阶段边界 | 0 | James | 限定独立核查通过 | [[OB批次/OB-LOCAL-RW-008]] | null |
 | OB-LOCAL-RW-009 | ROOT-RW-L | 同章程L86–208续读 | 检查截至2026-11-11T23:30:05Z | 1续读 | 目标、建议与审批边界 | 0 | James | 限定独立核查通过 | [[OB批次/OB-LOCAL-RW-009]] | null |
+| OB-LOCAL-RW-010 | ROOT-RW-L | 会议议程L1–132 | 检查截至2026-11-12T03:31:46Z | 1 | 历史议程/空白模板，低增量 | 0 | James | 限定独立核查通过 | [[OB批次/OB-LOCAL-RW-010]] | null |

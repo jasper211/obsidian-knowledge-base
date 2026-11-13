@@ -1,0 +1,132 @@
+{
+  "checked_utc": "2026-11-13T02:58:49.226Z",
+  "timezone": "America/Chicago",
+  "purpose": "Existing RW unresolved records only; no source access or promotion.",
+  "count": 17,
+  "pending": [
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-28_财务对账规则说明及公司运营财务情况分析纪要-总结.md",
+      "status": "待核",
+      "reason": "L8期间范围自相矛盾；L22总支出370万而其中结算700余万，虽称账期错位仍未给出对账桥接。RW=Runway与S0-120的RIGHTWAY实体关系亦未核，保留待核，不用差额推定。",
+      "ledger": "分片0_处置.json",
+      "record_hash": "c4f27d755a9fae1e4be5950ce8e2f6666a619d7a3068c16fbafb81af9703a624"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-28_业务梳理纪要：保险经纪业务模式、收益规则、合规要求及账务管理-总结(1).md",
+      "status": "待核",
+      "reason": "L38/L54-L55称内部收入、外部毛利，L39引语却纠正为两个都是收入；RW与NGM合约主体关系未消歧。仅读至L85，规避监管/监管红线等判断不采纳。",
+      "ledger": "分片0_处置.json",
+      "record_hash": "f24b20ed3445dfd724979fa819062411f578c77ed6afaa641a02dca79eb6339a"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-29_推理笔记：保险行业培训体系建设、人员管理及业务推进相关问题梳理-总结(1).md",
+      "status": "待核",
+      "reason": "标题MCI、引语安cia、结构字段永明及友邦参考被混写；讲师3/30-40与1:7或1:20适用人群不明确，不能推出目标编制或覆盖率。实体和分母均待核，不靠标签强配机构。",
+      "ledger": "分片0_处置.json",
+      "record_hash": "19dc04321c4ba6f02878bfb690459efbf2f39cad07c5fced1509562d25e8ea7b"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/compass_artifact_wf-ddc815d9-e1d3-4492-948c-f1e3049aa181_text_markdown.md",
+      "status": "待核",
+      "reason": "同一片段L7把转介费写封顶，L48又写基准与额外披露，关键监管主张内在张力未解；统计/法律主张和双实体判断均未核。本次不读引用法规，研究结论待核。",
+      "ledger": "分片0_处置.json",
+      "record_hash": "9a880610c48e969ee806ad9ddde301b0ee9b34c2c8dd91a90dba22f20f6f0dcd"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_身份终局规划.html",
+      "status": "待核",
+      "reason": "T13同时称受养人独立计时与主申获批受养人随之，适用条件不明；税费差、年龄硬窗口及身份效力缺适用版本。不形成现行办理规则，整卡主张待核。",
+      "ledger": "分片0_处置.json",
+      "record_hash": "22917d64973bd7c6b39e8d4eb625f3cad4663d50aeba8572268b96ab5b04bed2"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/221_Teresa_T04_PDPO数据管控与108对齐确认_20260729.md",
+      "status": "待核",
+      "reason": "L56授权访问写业务owner+PMO+Teresa，L65却限定Roy+Teresa并禁止运营，未交代范围关系却称完全一致；访问规则存在实质歧义。期限、法律状态及已合规结论不采纳，技术实施未分析。",
+      "ledger": "分片0_处置.json",
+      "record_hash": "96de10d94ecc66c83b2cf10a450ffce7339d1cdfdc2749d0cf5e3275f965b48f"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/28R_Phase1准入Gate状态刷新_20260714.md",
+      "status": "待核",
+      "reason": "标题截至7-17但L17/L20仍写明天7-15；G7表内黄、后文已可过，黄项汇总漏G7，分项绿红重复计数口径不明。不能确定统一时点的准入状态，保留待核不刷新Gate。",
+      "ledger": "分片0_处置.json",
+      "record_hash": "e888670a30f024f87958fb49ac47eff202bafaae771b624ac3764f2dc1c05a07"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-29_项目纪要：永明全流程培训体系搭建合作项目-总结(1).md",
+      "status": "待核",
+      "reason": "最小正文复核仍见永明/永英实体混用；无法在不跟随引用的授权范围内消歧，仅隔离实体归属与具体执行，不因人员叙述名称隔离",
+      "ledger": "分片1_处置.json",
+      "record_hash": "645b558c3c2ee79fe4442394d44db456df407f884c18342585e16fe2c91e9825"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-28_业务梳理纪要：保险经纪业务模式、收益规则、合规要求及账务管理-总结.md",
+      "status": "待核",
+      "reason": "实体消歧与原文规则冲突：久富/玖富/九付等称谓及多转接主体不能仅凭本片统一；续期剩余4期示例与按产品期限分摊的表述并置。补读后另见凭证差额与缺乏真实服务支撑的问题，以及原财务档案权限限制；不由该纪要推定结算规则有效。",
+      "ledger": "分片2_处置.json",
+      "record_hash": "b3237630f47bd55efbb6a7085d8b851c14cccadbe3d1239b0bf7b261ea5c3ed2"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-26_项目复盘会：金融垂直领域AI原生公司建设项目进展与落地规划-总结(1).md",
+      "status": "待核",
+      "reason": "技术实现与跨企业业务混合；已补核业财组织和结算业务片段，但标为enterprise_wide/不限或跨线，缺少将这些主体及决策归到RW权益服务的明确关联；不由存放路径代替实体归属。",
+      "ledger": "分片2_处置.json",
+      "record_hash": "94a89f37325fc746ff272043a93c6b3d33e36a2672e4808e500881c6ddec41b5"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/190A_TOI业务模型v3.3.1依赖阻断审计报告_20260712.md",
+      "status": "待核",
+      "reason": "正文确认为artifact-tool依赖加载、构建工具与哈希验收的技术阻断报告，不是业务规则分析对象；仅定位失败边界。",
+      "ledger": "分片2_处置.json",
+      "record_hash": "a9ca5619fa7382a008868c0fbbf9365f07fb53fea6910923bc827d5eefd76764"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/196_MARK审阅包_TRK014-016合规治理_20260713.md",
+      "status": "待核",
+      "reason": "源内冲突待核：M3总览和L46-L50为知悉且Teresa执行，但LAW-003表仍要求拍板，L192行动清单仍以M3拍板机构为触发并交Amanda执行；历史L2展示APE/达标率与此前案例限制有差异，空白最终签名不构成批准。",
+      "ledger": "分片2_处置.json",
+      "record_hash": "83d394abf0f69b1e5d20c141d6bc1c06a843209b58f58de0039b4ac60ff80f6d"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-26_项目复盘会：金融垂直领域AI原生公司建设项目进展与落地规划-总结.md",
+      "status": "待核",
+      "reason": "正文跨经验引擎、EA、数据与组织改造，混入技术能力断言及具体人员/股权安排；位于RW根不证明其中跨项目结论归属RW，无法据必要片段划清RW业务事实范围，隔离；不是因治理或人员裁定主题名称拒读",
+      "ledger": "分片3_处置.json",
+      "record_hash": "f6be2b03fe657b00bfa3e0514f4afc355bc6a66d4373f7090090456e76f52578"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/续签档案/TOC续签证据完整字段映射图-V5.html",
+      "status": "待核",
+      "reason": "续签证据完整字段映射图，数据结构/技术且可能含个人证据字段；不读正文、不假分析，隔离即本轮处置完成",
+      "ledger": "分片3_处置.json",
+      "record_hash": "b5f9384100d81423bb4007dafe613acb9693b144abffaa3bd44c7a0690e8a15a"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/115_合同主体矩阵草案_v0.2.md",
+      "status": "待核",
+      "reason": "真实版本及T8裁定冲突：标题v0.6、状态v0.7待评审与T8已结案并存；源文主体/责任链不能据此唯一确定，隔离不擅自裁决",
+      "ledger": "分片3_处置.json",
+      "record_hash": "3ad29a126b7285a430bf46966ea65735c93830014d66ec9d47699b21bfe37538"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/22_REVIEW批次3_穿透式验收报告.md",
+      "status": "待核",
+      "reason": "报告表中读取失败0、文件本体抽取可信，但旧DOC仅hash与二进制关键词信号，明确无法Office级转换复核；整体读取/语义覆盖主张证据不足。",
+      "ledger": "治理0_处置.json",
+      "record_hash": "b40944b0b28d26829224e926858ded790aab558827ab007de7afdba4dac1e3fc"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/116_TOI_CASE005财务字段确认任务书.md",
+      "status": "待核",
+      "reason": "同文先写RIGHTWAY非RW，后又要求确认RIGHTWAY是否RW签约实体；付款5日/30日差异由作者自行给优先解释，原合同未核，不能合并成已确认财务规则。",
+      "ledger": "治理2_处置.json",
+      "record_hash": "f4b478deaf93efe43ca8ef74522b179d5292aa1d6ec3c3902028cad354e7dc10"
+    }
+  ],
+  "token_usage": null,
+  "proxy": {
+    "vault_ledgers_read": 7,
+    "source_files_read": 0
+  }
+}

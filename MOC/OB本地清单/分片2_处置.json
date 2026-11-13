@@ -1,0 +1,2465 @@
+[
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-26_会议纪要：香港国际学校亲子研学活动核心事项确认与后续安排-总结.md",
+    "index": 2,
+    "status": "已分析",
+    "reason": "稳定阅读全文并完成逐文语义分析；仅历史资料理解，不代表执行/批准/外发",
+    "source_hash": "c2f75fed058bde4ca2a8a9ce1a4993857847280f28560fbac6d4d97c8f4bf06f",
+    "mtime": 1780075824.2426615,
+    "locators": [
+      "L71-L92",
+      "L101-L122",
+      "L130-L153"
+    ],
+    "read_chars": 6055,
+    "read_bytes": 13935,
+    "token_count": null,
+    "token_proxy_chars_div4": 1514,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752232,
+      "size": 13935,
+      "mtime_ns": 1780075824242661476,
+      "ctime_ns": 1790670772946210649
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752232,
+      "size": 13935,
+      "mtime_ns": 1780075824242661476,
+      "ctime_ns": 1790670772946210649
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 6055,
+    "external_verification": false,
+    "themes": [
+      "研学内容与资源确认"
+    ],
+    "knowledge": "历史AI纪要将儿童两日课程、家长讲座、学校分享大纲列为宣发前置；品牌露出不等于学校盖章认证，午餐和场地尚需日期锁定后确认。1:8仅为当时口述配比，非本轮验证的安全标准。",
+    "model_review_lines": "1-155",
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "analysis_scope": "全文阅读，业务设计分析；现行事实与专业意见不核验",
+    "extracted_chars": 6055
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-28_业务梳理纪要：保险经纪业务模式、收益规则、合规要求及账务管理-总结.md",
+    "index": 6,
+    "status": "待核",
+    "reason": "实体消歧与原文规则冲突：久富/玖富/九付等称谓及多转接主体不能仅凭本片统一；续期剩余4期示例与按产品期限分摊的表述并置。补读后另见凭证差额与缺乏真实服务支撑的问题，以及原财务档案权限限制；不由该纪要推定结算规则有效。",
+    "source_hash": "71433855ae1426c676a8175cde1712565df97fb308326fe11887f5920776a553",
+    "mtime": 1780075818.5264776,
+    "locators": [
+      "L1-L231"
+    ],
+    "read_chars": 10452,
+    "read_bytes": 27484,
+    "token_count": null,
+    "token_proxy_chars_div4": 2613,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752236,
+      "size": 27484,
+      "mtime_ns": 1780075818526477575,
+      "ctime_ns": 1790670771971483036
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752236,
+      "size": 27484,
+      "mtime_ns": 1780075818526477575,
+      "ctime_ns": 1790670771971483036
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": false,
+    "model_review_chars": 10452,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "实体消歧与原文规则冲突：久富/玖富/九付等称谓及多转接主体不能仅凭本片统一；续期剩余4期示例与按产品期限分摊的表述并置。补读后另见凭证差额与缺乏真实服务支撑的问题，以及原财务档案权限限制；不由该纪要推定结算规则有效。"
+    ],
+    "analysis_scope": "最小内容辨识与隔离",
+    "safe_observation": "可辨认费率随成本调整、应收与实收分工的历史叙述；不输出主体流转或佣金规则，不将规避监管/填补凭证差额建议当作可执行知识，不调取其银行流水引用。",
+    "model_review_lines": [
+      "L1-L231"
+    ],
+    "reviewed_line_count": 231,
+    "source_line_count": 231,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 10452
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/2026-05/Amanda05-29_推理笔记：保险行业培训体系建设、人员管理及业务推进相关问题梳理-总结.md",
+    "index": 10,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "3a24835e136827d7727b23684cb53650940fc390fd117b92b68bf3689de9ddb4",
+    "mtime": 1780075808.4349568,
+    "locators": [
+      "L1-L175"
+    ],
+    "read_chars": 10044,
+    "read_bytes": 27023,
+    "token_count": null,
+    "token_proxy_chars_div4": 2511,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752240,
+      "size": 27023,
+      "mtime_ns": 1780075808434956700,
+      "ctime_ns": 1784266922827947077
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752240,
+      "size": 27023,
+      "mtime_ns": 1780075808434956700,
+      "ctime_ns": 1784266922827947077
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 10044,
+    "external_verification": false,
+    "model_review_lines": [
+      "L1-L175"
+    ],
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "个人评价、机构表现断言、技术工具细节及法律绝对判断不纳入主题；原文淘宝/太保等名称不自行纠正。"
+    ],
+    "themes": [
+      "培训运营与分层"
+    ],
+    "knowledge": "培训不是一次外聘讲师：源文建议课程大纲、授权、课后评分与讲师档案组成闭环；按新人、待激活及绩优群体分层，标准课程与典范分享分工，督导归属和培训供给分开。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "reviewed_line_count": 175,
+    "source_line_count": 175,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 10044
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-26_项目复盘会：金融垂直领域AI原生公司建设项目进展与落地规划-总结(1).md",
+    "index": 14,
+    "status": "待核",
+    "reason": "技术实现与跨企业业务混合；已补核业财组织和结算业务片段，但标为enterprise_wide/不限或跨线，缺少将这些主体及决策归到RW权益服务的明确关联；不由存放路径代替实体归属。",
+    "source_hash": "cf5dce11478caad39137a9df9d3ed62d5e78ddc8fa0c578ff46f43b67c0592ec",
+    "mtime": 1780075830.3096526,
+    "locators": [
+      "L1-L63",
+      "L559-L587",
+      "L1107-L1138"
+    ],
+    "read_chars": 56059,
+    "read_bytes": 127851,
+    "token_count": null,
+    "token_proxy_chars_div4": 14015,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752244,
+      "size": 127851,
+      "mtime_ns": 1780075830309652566,
+      "ctime_ns": 1790670758855996048
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752244,
+      "size": 127851,
+      "mtime_ns": 1780075830309652566,
+      "ctime_ns": 1790670758855996048
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": false,
+    "model_review_chars": 5470,
+    "external_verification": false,
+    "model_review_lines": [
+      "L1-L63",
+      "L559-L587",
+      "L1107-L1138"
+    ],
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "技术实现与跨企业业务混合；已补核业财组织和结算业务片段，但标为enterprise_wide/不限或跨线，缺少将这些主体及决策归到RW权益服务的明确关联；不由存放路径代替实体归属。"
+    ],
+    "analysis_scope": "最小内容辨识与隔离",
+    "safe_observation": "仅保留同源数据与内测后商业化的纪要意图，未纳入RW主题结论；其余技术投入/人员数据不展开。",
+    "reviewed_line_count": 124,
+    "source_line_count": 1330,
+    "unreviewed_line_count": 1206,
+    "extracted_chars": 56059
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/Amanda05-28_财务对账规则说明及公司运营财务情况分析纪要-总结(1).md",
+    "index": 18,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "43f7d7ecc480d2bf3976bd2786fec205360ad2058448b7060e3bc5d567d597ba",
+    "mtime": 1780075814.7794034,
+    "locators": [
+      "L1-L65"
+    ],
+    "read_chars": 6577,
+    "read_bytes": 14619,
+    "token_count": null,
+    "token_proxy_chars_div4": 1645,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752248,
+      "size": 14619,
+      "mtime_ns": 1780075814779403500,
+      "ctime_ns": 1784266893894228328
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752248,
+      "size": 14619,
+      "mtime_ns": 1780075814779403500,
+      "ctime_ns": 1784266893894228328
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 2807,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "标题为2026年纪要但信号按2025年安排且写2025年底失效，时间自洽性待核；实体别名和金额不认定为现行财务事实。"
+    ],
+    "themes": [
+      "业财口径与成本"
+    ],
+    "knowledge": "历史纪要认为高比例同行分成改变固定收入计提的承受力；银行流水混有往来款、垫付与费用，不能直接当运营成本，需分类后分别规划固定费用和浮动资金。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L65"
+    ],
+    "reviewed_line_count": 65,
+    "source_line_count": 162,
+    "unreviewed_line_count": 97,
+    "extracted_chars": 6577
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/管家服务/香港家庭生活管家_人才招聘画像_v0.3_20260806.html",
+    "index": 22,
+    "status": "已分析",
+    "reason": "稳定阅读全文并完成逐文语义分析；仅历史资料理解，不代表执行/批准/外发",
+    "source_hash": "845e81970a47aafab8a12de20f5bf6093f7eb013e7aacbdf44b531a9af615a58",
+    "mtime": 1786072582.1055179,
+    "locators": [
+      "T24-T85",
+      "T88-T149",
+      "T199-T214",
+      "T253-T340"
+    ],
+    "read_chars": 9118,
+    "read_bytes": 57981,
+    "token_count": null,
+    "token_proxy_chars_div4": 2280,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 7318710,
+      "size": 57981,
+      "mtime_ns": 1786072582105517814,
+      "ctime_ns": 1787749756411625279
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 7318710,
+      "size": 57981,
+      "mtime_ns": 1786072582105517814,
+      "ctime_ns": 1787749756411625279
+    },
+    "stat_stable": true,
+    "locator_kind": "清洗HTML文本行T（剔除script/style/template；不执行）",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 9118,
+    "external_verification": false,
+    "themes": [
+      "管家服务组织",
+      "人才成长与招聘"
+    ],
+    "knowledge": "v0.3提出先招服务与学习能力，再按服务半径培养1+N+1复合资质；区分个人牌照和组织资格，晋升依服务案例、复杂度、诚信与带教而非销售额；公司SLA、排班、薪酬和人数仍待确认。",
+    "model_review_lines": "1-340",
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "analysis_scope": "全文阅读，业务设计分析；现行事实与专业意见不核验",
+    "extracted_chars": 9118
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出/荻邦香港_对话与决策记录.md",
+    "index": 26,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "5d0e25668a724f949ed2c9db92db5ea1e66023c308ec40dec48a8f99ecafe616",
+    "mtime": 1785991698.7611754,
+    "locators": [
+      "L1-L71"
+    ],
+    "read_chars": 1533,
+    "read_bytes": 3919,
+    "token_count": null,
+    "token_proxy_chars_div4": 384,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 5599378,
+      "size": 3919,
+      "mtime_ns": 1785991698761175394,
+      "ctime_ns": 1790670758186587840
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 5599378,
+      "size": 3919,
+      "mtime_ns": 1785991698761175394,
+      "ctime_ns": 1790670758186587840
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1532,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "工作台实现、同步指令与任务数不作为执行授权或功能核验；不跟随Excel引用。"
+    ],
+    "themes": [
+      "三产品收敛与交付深度"
+    ],
+    "knowledge": "三产品分别聚焦续签证据、落地管家、身份终局；P1先区分指引、预约、节点陪同、全程陪同及车辆服务，再反推SOP和招聘；P2的AI访谈整理/报告初稿保留人工最终判断。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L71"
+    ],
+    "reviewed_line_count": 71,
+    "source_line_count": 71,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 1533
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/outputs/荻邦香港_战略资料筛选报告_v1.0.md",
+    "index": 30,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "8d06f211b8edd9992643e367780cddd3ef2cd9489023f20523dd1bfbcfee9890",
+    "mtime": 1785987908.3521392,
+    "locators": [
+      "L1-L100"
+    ],
+    "read_chars": 5294,
+    "read_bytes": 12714,
+    "token_count": null,
+    "token_proxy_chars_div4": 1324,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 5599392,
+      "size": 12714,
+      "mtime_ns": 1785987908352139285,
+      "ctime_ns": 1787749753126189549
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 5599392,
+      "size": 12714,
+      "mtime_ns": 1785987908352139285,
+      "ctime_ns": 1787749753126189549
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 2554,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "49文件错位/重复的判断是报告自身历史结果，不移植到本片同名实体文件；服务对象和付费方假设未商业验证。"
+    ],
+    "themes": [
+      "三产品收敛与交付深度"
+    ],
+    "knowledge": "资料筛选报告主张先内部经纪行和存量客户试点，再对保司正式合作；14项/会议13项证据清单有差异，管家4小时、21天及配比只能作为待验证设计参数。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L100"
+    ],
+    "reviewed_line_count": 100,
+    "source_line_count": 228,
+    "unreviewed_line_count": 128,
+    "extracted_chars": 5294
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/方法论卡_SKU原料生产流水线.md",
+    "index": 34,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "8df53b418dc723100cde26313b37dc66d1766c239ea51f2c0c810869083a6a26",
+    "mtime": 1783018215.0800743,
+    "locators": [
+      "L1-L81"
+    ],
+    "read_chars": 2528,
+    "read_bytes": 5071,
+    "token_count": null,
+    "token_proxy_chars_div4": 632,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752278,
+      "size": 5071,
+      "mtime_ns": 1783018215080074310,
+      "ctime_ns": 1790670728081816490
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752278,
+      "size": 5071,
+      "mtime_ns": 1783018215080074310,
+      "ctime_ns": 1790670728081816490
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 2527,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "源文自称已校准但明确试点未执行双遍打标且缺客户访谈；试点数字和监管断言未复核。"
+    ],
+    "themes": [
+      "权益建模与证据治理"
+    ],
+    "knowledge": "SKU候选生产先定阶段、客群、粒度，以需求、供给、监管、能力四路收集锚点，按生活域与时机查漏，再双遍打标、筛选及用户确认；纯推断保留C标，不作为已证结论。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L81"
+    ],
+    "reviewed_line_count": 81,
+    "source_line_count": 81,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 2528
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_两地税务合规.html",
+    "index": 38,
+    "status": "已分析",
+    "reason": "稳定阅读全文并完成逐文语义分析；仅历史资料理解，不代表执行/批准/外发",
+    "source_hash": "d3278c74b42345ae7c05a766153f52c6e853cfaea855514093aca095b10b27c9",
+    "mtime": 1783067899.9090989,
+    "locators": [
+      "T5-T21",
+      "T23-T31"
+    ],
+    "read_chars": 1127,
+    "read_bytes": 5986,
+    "token_count": null,
+    "token_proxy_chars_div4": 282,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752284,
+      "size": 5986,
+      "mtime_ns": 1783067899909098863,
+      "ctime_ns": 1790670728099588079
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752284,
+      "size": 5986,
+      "mtime_ns": 1783067899909098863,
+      "ctime_ns": 1790670728099588079
+    },
+    "stat_stable": true,
+    "locator_kind": "清洗HTML文本行T（剔除script/style/template；不执行）",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1127,
+    "external_verification": false,
+    "themes": [
+      "税务服务与持续档案"
+    ],
+    "knowledge": "历史PC-09把年度报税提醒、年度居民身份评估、身份事件复评、文档留存串联；CPA独立委聘收费，RW承担节奏和档案，非保险附带税务结论。法规和市场证据评级未经本轮核验。",
+    "model_review_lines": "1-31",
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "analysis_scope": "全文阅读，业务设计分析；现行事实与专业意见不核验",
+    "extracted_chars": 1127
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益体系产品卡/产品卡_家庭医疗守护.html",
+    "index": 42,
+    "status": "已分析",
+    "reason": "稳定阅读全文并完成逐文语义分析；仅历史资料理解，不代表执行/批准/外发",
+    "source_hash": "b9baecb5fa3be4ddcab69196218cfb5cbd5240bc62e7c11bea35c4d50dd6dfce",
+    "mtime": 1783067899.7790933,
+    "locators": [
+      "T5-T22",
+      "T24-T32"
+    ],
+    "read_chars": 1315,
+    "read_bytes": 6556,
+    "token_count": null,
+    "token_proxy_chars_div4": 329,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752288,
+      "size": 6556,
+      "mtime_ns": 1783067899779093265,
+      "ctime_ns": 1790670719151199114
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752288,
+      "size": 6556,
+      "mtime_ns": 1783067899779093265,
+      "ctime_ns": 1790670719151199114
+    },
+    "stat_stable": true,
+    "locator_kind": "清洗HTML文本行T（剔除script/style/template；不执行）",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1315,
+    "external_verification": false,
+    "themes": [
+      "医疗权益激活与专业分工"
+    ],
+    "knowledge": "历史PC-03把已含权益激活与自营引荐补位分开，按周年和健康事件触发协办；管家不解读报告或承诺医疗结果，授权先于健康档案。使用率到续保率是待验证经营假设，不是已证因果。",
+    "model_review_lines": "1-32",
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "analysis_scope": "全文阅读，业务设计分析；现行事实与专业意见不核验",
+    "extracted_chars": 1315
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/权益结构模型_融入香港.html",
+    "index": 46,
+    "status": "已分析",
+    "reason": "稳定阅读全文并完成逐文语义分析；仅历史资料理解，不代表执行/批准/外发",
+    "source_hash": "bdaf03f0d5b58bd8059fedcb54c32aeb081b3900b3ba0fda0fef9a382dfa9e38",
+    "mtime": 1783052259.1737986,
+    "locators": [
+      "T3-T14",
+      "T15-T67",
+      "T68-T73"
+    ],
+    "read_chars": 977,
+    "read_bytes": 6798,
+    "token_count": null,
+    "token_proxy_chars_div4": 245,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752292,
+      "size": 6798,
+      "mtime_ns": 1783052259173798561,
+      "ctime_ns": 1790670747323410501
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752292,
+      "size": 6798,
+      "mtime_ns": 1783052259173798561,
+      "ctime_ns": 1790670747323410501
+    },
+    "stat_stable": true,
+    "locator_kind": "清洗HTML文本行T（剔除script/style/template；不执行）",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 977,
+    "external_verification": false,
+    "themes": [
+      "家庭生命周期产品结构"
+    ],
+    "knowledge": "历史融入阶段37项由4货币、21服务、0第三方折扣、12信息组成，重心转为身份、传承及事件触发；不能把第三方折扣为零理解为保费礼遇消失，源文仍在货币类列二代保单折扣。",
+    "model_review_lines": "1-73",
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "analysis_scope": "全文阅读，业务设计分析；现行事实与专业意见不核验",
+    "extracted_chars": 977
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/话术手册_十卡客户口径_v1.0.md",
+    "index": 50,
+    "status": "已分析",
+    "reason": "稳定阅读全文并完成逐文语义分析；仅历史资料理解，不代表执行/批准/外发",
+    "source_hash": "a07e6b7bbba4279e1f34b10684662fd4e54928b5b93dfcd52d6a27bd2c91b876",
+    "mtime": 1783096919.0312338,
+    "locators": [
+      "L3-L19",
+      "L31-L40",
+      "L52-L59",
+      "L69-L101",
+      "L105-L107"
+    ],
+    "read_chars": 3803,
+    "read_bytes": 9476,
+    "token_count": null,
+    "token_proxy_chars_div4": 951,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1752299,
+      "size": 9476,
+      "mtime_ns": 1783096919031233787,
+      "ctime_ns": 1790670728048699920
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1752299,
+      "size": 9476,
+      "mtime_ns": 1783096919031233787,
+      "ctime_ns": 1790670728048699920
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 3803,
+    "external_verification": false,
+    "themes": [
+      "客户沟通与转介边界"
+    ],
+    "knowledge": "十卡以客户问题组织开场、问答、红线应答，保单问题转持牌同事；医疗未达档不顺推加保、社群场外转办、证据缺口不造假。文中硬窗口、比例、费用、时效与法律断言不是本轮确认事实。",
+    "model_review_lines": "1-107",
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "analysis_scope": "全文阅读，业务设计分析；现行事实与专业意见不核验",
+    "extracted_chars": 3803
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/00_启动总控台.md",
+    "index": 54,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "0c3c1e2e55eaed245a0ed295e68c717a019b1a78242d0f1f736b84d1b0ef29d0",
+    "mtime": 1783177366.109293,
+    "locators": [
+      "L1-L90"
+    ],
+    "read_chars": 6875,
+    "read_bytes": 13269,
+    "token_count": null,
+    "token_proxy_chars_div4": 1719,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753134,
+      "size": 13269,
+      "mtime_ns": 1783177366109293000,
+      "ctime_ns": 1784266944504742654
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753134,
+      "size": 13269,
+      "mtime_ns": 1783177366109293000,
+      "ctime_ns": 1784266944504742654
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 2900,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "只读前90行业务范围；已验收、已启动与源码能力均为历史文件自述，不复验后续索引。"
+    ],
+    "themes": [
+      "Phase0范围与成熟度"
+    ],
+    "knowledge": "启动总控台将RW定位为权益资产产品化、入账和交付的事业线，P0先规范TOB/TOI已运营场景，TOC作为成熟度准备；共享底座和四对象前台不是一次全量上线。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L90"
+    ],
+    "reviewed_line_count": 90,
+    "source_line_count": 181,
+    "unreviewed_line_count": 91,
+    "extracted_chars": 6875
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/07_四对象分类视图复核意见.md",
+    "index": 58,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "8200242ac0b93ad6738d06e8aef2b43f6b589f5dc8a8b4c5c2d5a8ec4a69ccbd",
+    "mtime": 1783141009.8089116,
+    "locators": [
+      "L1-L90"
+    ],
+    "read_chars": 2924,
+    "read_bytes": 6206,
+    "token_count": null,
+    "token_proxy_chars_div4": 731,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753141,
+      "size": 6206,
+      "mtime_ns": 1783141009808911561,
+      "ctime_ns": 1790670833600100823
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753141,
+      "size": 6206,
+      "mtime_ns": 1783141009808911561,
+      "ctime_ns": 1790670833600100823
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1618,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "241/451等数量为历史统计，不是本轮重新盘点。"
+    ],
+    "themes": [
+      "权益建模与证据治理"
+    ],
+    "knowledge": "四对象目录是多标签复制的阅读视图，不是新SSOT；一个源可服务多个对象，需以manifest追溯，而不能由某个目录位置决定唯一归属或冻结状态。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L90"
+    ],
+    "reviewed_line_count": 90,
+    "source_line_count": 154,
+    "unreviewed_line_count": 64,
+    "extracted_chars": 2924
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/107_TOI对保司交付方案标准_Phase0-3_20260707.md",
+    "index": 62,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "f402aa1062b602b572a666f25996b0e818bc9183b99f824225c5e7d8d73ad026",
+    "mtime": 1783355856.3454583,
+    "locators": [
+      "L1-L89"
+    ],
+    "read_chars": 3027,
+    "read_bytes": 6209,
+    "token_count": null,
+    "token_proxy_chars_div4": 757,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753151,
+      "size": 6209,
+      "mtime_ns": 1783355856345458300,
+      "ctime_ns": 1784266956995163934
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753151,
+      "size": 6209,
+      "mtime_ns": 1783355856345458300,
+      "ctime_ns": 1784266956995163934
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 3026,
+    "external_verification": false,
+    "model_review_lines": [
+      "L1-L89"
+    ],
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "2026-07-07建议稿；source_absent及案例状态只代表当时记载。"
+    ],
+    "themes": [
+      "TOI价值证明与发布层级"
+    ],
+    "knowledge": "TOI从L0证据控制、L1内部底稿、L2受控沟通、L3正式汇总到L4合作提案分层；Phase0先做事实证据和指标口径，正式匿名源、owner、脱敏及审批齐备才升级报告。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "reviewed_line_count": 89,
+    "source_line_count": 89,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 3027
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/115_合同主体矩阵草案_v0.1.md",
+    "index": 66,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "9b43012429ca98a0f17bb88354be9cff038a6ddbee84e1e9fe25dec0f41e6d6f",
+    "mtime": 1783508301.4044878,
+    "locators": [
+      "L1-L90"
+    ],
+    "read_chars": 4436,
+    "read_bytes": 7458,
+    "token_count": null,
+    "token_proxy_chars_div4": 1109,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753161,
+      "size": 7458,
+      "mtime_ns": 1783508301404487800,
+      "ctime_ns": 1784266938521263611
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753161,
+      "size": 7458,
+      "mtime_ns": 1783508301404487800,
+      "ctime_ns": 1784266938521263611
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 4150,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "RW=RIGHTWAY为Roy历史确认而法律全称仍待Teresa，VAS及TP签约链未决；不合并其他纪要中的音译主体，不验证注册号。"
+    ],
+    "themes": [
+      "主体分工与业财闭环"
+    ],
+    "knowledge": "合同矩阵把服务、收款、开票、责任主体拆开；TOB多项收款开票仍待定，内部培训与模板资产可无收款；课程收入按验收确认与回款线分开记录。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L90"
+    ],
+    "reviewed_line_count": 90,
+    "source_line_count": 98,
+    "unreviewed_line_count": 8,
+    "extracted_chars": 4436
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/123_TOI候选产品包与新增原子业务确认_v0.2_20260712.md",
+    "index": 70,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "b8bc5a1405e0dea38c29fd0dc775adeaec791da61949998b32c98a19e473e97c",
+    "mtime": 1783839639.6271188,
+    "locators": [
+      "L1-L109"
+    ],
+    "read_chars": 6719,
+    "read_bytes": 11901,
+    "token_count": null,
+    "token_proxy_chars_div4": 1680,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753174,
+      "size": 11901,
+      "mtime_ns": 1783839639627118825,
+      "ctime_ns": 1790670903587813001
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753174,
+      "size": 11901,
+      "mtime_ns": 1783839639627118825,
+      "ctime_ns": 1790670903587813001
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 6718,
+    "external_verification": false,
+    "model_review_lines": [
+      "L1-L109"
+    ],
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "21新原子删除/合并/转域/候选处置后来被S074明确纠正；不得作为最终目标边界。"
+    ],
+    "themes": [
+      "目标能力与当前交付"
+    ],
+    "knowledge": "v3.1历史业务确认将8包分为1采用、5修改后采用、2暂缓；案例只能证明有物理映射的原子，不能证明整包；价格和外发与装配分开。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "reviewed_line_count": 109,
+    "source_line_count": 109,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 6719
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/127_TOI模型权威层级修正_ADR_20260712.md",
+    "index": 74,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "032d03a8b4a9aaf234cc04c80680cc4c5b9d040d8b93bdfeb3f4b8caa007555b",
+    "mtime": 1783846153.497193,
+    "locators": [
+      "L1-L90"
+    ],
+    "read_chars": 4071,
+    "read_bytes": 7173,
+    "token_count": null,
+    "token_proxy_chars_div4": 1018,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753179,
+      "size": 7173,
+      "mtime_ns": 1783846153497193100,
+      "ctime_ns": 1784266940664602999
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753179,
+      "size": 7173,
+      "mtime_ns": 1783846153497193100,
+      "ctime_ns": 1784266940664602999
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 3174,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "Accepted和引用Office哈希为源文自述，不核原工作簿；未读其90行之后内容。"
+    ],
+    "themes": [
+      "目标能力与当前交付"
+    ],
+    "knowledge": "ADR区分119目标能力、98存量、25当前SKU和8目标采购包；缺证只降低成熟度或要求建设，不删除高层已定义能力；依赖SHARED不替代TOI归属。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L90"
+    ],
+    "reviewed_line_count": 90,
+    "source_line_count": 116,
+    "unreviewed_line_count": 26,
+    "extracted_chars": 4071
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/149_TOI全量119最终交付物MECE分析与分类建议_20260712.md",
+    "index": 78,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "f978ada6a4fd93545d016862e64a5b7921dbb166f33c873f8c3c5dc526194c3e",
+    "mtime": 1783850777.207441,
+    "locators": [
+      "L1-L122"
+    ],
+    "read_chars": 3407,
+    "read_bytes": 6559,
+    "token_count": null,
+    "token_proxy_chars_div4": 852,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753192,
+      "size": 6559,
+      "mtime_ns": 1783850777207441000,
+      "ctime_ns": 1784266943438556882
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753192,
+      "size": 6559,
+      "mtime_ns": 1783850777207441000,
+      "ctime_ns": 1784266943438556882
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 3406,
+    "external_verification": false,
+    "model_review_lines": [
+      "L1-L122"
+    ],
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "119/635/1020为源文统计；60%/40%为候选阈值，不是批准的业务价值度量。"
+    ],
+    "themes": [
+      "购买对象与验收结构"
+    ],
+    "knowledge": "交付物形态不能等同服务类型，原子可含主次形态或混合组合；U020既有内容资产也有时间线/日历，不能按最大次数舍弃辅助物；主形态须看购买结果和验收对象。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "reviewed_line_count": 122,
+    "source_line_count": 122,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 3407
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/153_TOI原子服务定义规范_ATOM_SERVICE_SPEC_v1.1_20260712.md",
+    "index": 82,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "02ded7127aa4c33d0112443c21bb3b31a4a8052b134935967b74dc24557a132d",
+    "mtime": 1783857666.1942573,
+    "locators": [
+      "L1-L218"
+    ],
+    "read_chars": 4678,
+    "read_bytes": 9194,
+    "token_count": null,
+    "token_proxy_chars_div4": 1170,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753197,
+      "size": 9194,
+      "mtime_ns": 1783857666194257200,
+      "ctime_ns": 1784266939054337393
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753197,
+      "size": 9194,
+      "mtime_ns": 1783857666194257200,
+      "ctime_ns": 1784266939054337393
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 4677,
+    "external_verification": false,
+    "model_review_lines": [
+      "L1-L218"
+    ],
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "Active是历史规范状态；不意味着119项实物已完成或现行权威已验证。"
+    ],
+    "themes": [
+      "购买对象与验收结构"
+    ],
+    "knowledge": "规范采用原子和交付物两层记录，保留五要素及源提及；单主、双核心、组合方案分别定义验收，组合组件不得加总覆盖；目标深度L1-L4与建设成熟度独立。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "reviewed_line_count": 218,
+    "source_line_count": 218,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 4678
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/190A_TOI业务模型v3.3.1依赖阻断审计报告_20260712.md",
+    "index": 86,
+    "status": "待核",
+    "reason": "正文确认为artifact-tool依赖加载、构建工具与哈希验收的技术阻断报告，不是业务规则分析对象；仅定位失败边界。",
+    "source_hash": "3723b06f00249c92c05651900051ba1256838234a6984d56b78eed6860023957",
+    "mtime": 1783868564.435869,
+    "locators": [
+      "L1-L90"
+    ],
+    "read_chars": 3504,
+    "read_bytes": 5158,
+    "token_count": null,
+    "token_proxy_chars_div4": 876,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753226,
+      "size": 5158,
+      "mtime_ns": 1783868564435868978,
+      "ctime_ns": 1790670880366724824
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753226,
+      "size": 5158,
+      "mtime_ns": 1783868564435868978,
+      "ctime_ns": 1790670880366724824
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": false,
+    "model_review_chars": 3449,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "正文确认为artifact-tool依赖加载、构建工具与哈希验收的技术阻断报告，不是业务规则分析对象；仅定位失败边界。"
+    ],
+    "analysis_scope": "最小内容辨识与隔离",
+    "safe_observation": "BLOCKED为当次技术执行记录，不推定119原子模型被取消或源业务发生变化。",
+    "model_review_lines": [
+      "L1-L90"
+    ],
+    "reviewed_line_count": 90,
+    "source_line_count": 91,
+    "unreviewed_line_count": 1,
+    "extracted_chars": 3504
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/196_MARK审阅包_TRK014-016合规治理_20260713.md",
+    "index": 90,
+    "status": "待核",
+    "reason": "源内冲突待核：M3总览和L46-L50为知悉且Teresa执行，但LAW-003表仍要求拍板，L192行动清单仍以M3拍板机构为触发并交Amanda执行；历史L2展示APE/达标率与此前案例限制有差异，空白最终签名不构成批准。",
+    "source_hash": "bba56c423fdb9d7cc871c58a3983eb41792816273fb23de7b7e722d5cd528b30",
+    "mtime": 1784000200.5051603,
+    "locators": [
+      "L1-L213"
+    ],
+    "read_chars": 6857,
+    "read_bytes": 12679,
+    "token_count": null,
+    "token_proxy_chars_div4": 1715,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753234,
+      "size": 12679,
+      "mtime_ns": 1784000200505160331,
+      "ctime_ns": 1790670856074720516
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753234,
+      "size": 12679,
+      "mtime_ns": 1784000200505160331,
+      "ctime_ns": 1790670856074720516
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": false,
+    "model_review_chars": 6856,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "源内冲突待核：M3总览和L46-L50为知悉且Teresa执行，但LAW-003表仍要求拍板，L192行动清单仍以M3拍板机构为触发并交Amanda执行；历史L2展示APE/达标率与此前案例限制有差异，空白最终签名不构成批准。"
+    ],
+    "analysis_scope": "最小内容辨识与隔离",
+    "safe_observation": "可辨明内部财务回填不等于外发、L2需最终签核；不采纳风险为零或各法律绝对判断，不将其作为放行依据。",
+    "model_review_lines": [
+      "L1-L213"
+    ],
+    "reviewed_line_count": 213,
+    "source_line_count": 213,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 6857
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/201_TRK013_Carrie回复_JF保单镜像字段确认_20260714.md",
+    "index": 94,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "2c7a9b0e6751c69caaaceb31259cacc9feb351c5e6ebe5c7e039756bfd95d0a0",
+    "mtime": 1784013565.1785302,
+    "locators": [
+      "L1-L78"
+    ],
+    "read_chars": 3292,
+    "read_bytes": 6150,
+    "token_count": null,
+    "token_proxy_chars_div4": 823,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753241,
+      "size": 6150,
+      "mtime_ns": 1784013565178530200,
+      "ctime_ns": 1784266959654259313
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753241,
+      "size": 6150,
+      "mtime_ns": 1784013565178530200,
+      "ctime_ns": 1784266959654259313
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 3291,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "仅分析字段用途与责任；数据库类型、派生实现、外部数据字典及实际保单数据不纳入业务结论，不读取被引服务器Office。"
+    ],
+    "themes": [
+      "数据最小化与业务口径"
+    ],
+    "knowledge": "保单镜像回复将可派生与可冻结分开：档位计价基准、周年日期锚点、开立日期定义待业务合规确认，RW接收标签而非底层保费/APE。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L78"
+    ],
+    "reviewed_line_count": 78,
+    "source_line_count": 78,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 3292
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/205_TOI交付台账_U编号挑选对照表_v0.1.md",
+    "index": 98,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "ae2dd3b111b7cc8a5c6aefd5f903f90db28d5a40c3f62f9506a114a792ed158c",
+    "mtime": 1784528650.5100067,
+    "locators": [
+      "L1-L90"
+    ],
+    "read_chars": 4463,
+    "read_bytes": 8729,
+    "token_count": null,
+    "token_proxy_chars_div4": 1116,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 4748203,
+      "size": 8729,
+      "mtime_ns": 1784528650510006750,
+      "ctime_ns": 1785467633811859740
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 4748203,
+      "size": 8729,
+      "mtime_ns": 1784528650510006750,
+      "ctime_ns": 1785467633811859740
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 2019,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "一场一编号且挑最接近的源文规则可能损失复合交付，须保留实际动作说明，不据此自动改模型或强配歧义原子。"
+    ],
+    "themes": [
+      "交付登记与证据粒度"
+    ],
+    "knowledge": "台账按实际产出而不是合同名称选原子，公众号项目按每次视频/文章/分发产出记录；编号识别服务不裁定归属，课程按主题和实际教学区别。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L90"
+    ],
+    "reviewed_line_count": 90,
+    "source_line_count": 187,
+    "unreviewed_line_count": 97,
+    "extracted_chars": 4463
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/207_TRK013_MARK判断包_Q1Q2_IA合规暂缓_20260715.md",
+    "index": 102,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "52444b0a5bc55788822d0c6b9c3b7f55fa41fbad30930e3e1f91baeb7a3daa14",
+    "mtime": 1784110257.595367,
+    "locators": [
+      "L1-L77"
+    ],
+    "read_chars": 2369,
+    "read_bytes": 4211,
+    "token_count": null,
+    "token_proxy_chars_div4": 593,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753249,
+      "size": 4211,
+      "mtime_ns": 1784110257595366900,
+      "ctime_ns": 1784266964336287508
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753249,
+      "size": 4211,
+      "mtime_ns": 1784110257595366900,
+      "ctime_ns": 1784266964336287508
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 2368,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "这是历史风险判断和备选方案，不是本轮IA法律结论，也未证后续最终选择。"
+    ],
+    "themes": [
+      "数据最小化与业务口径"
+    ],
+    "knowledge": "7月15日判断包暂缓档位标签和周年月，分别担心保单价值挂钩与续保触发；提出统一服务、自选包、B2B合同范围等替代维度；开立日期另记为生效日期且仅内部留痕。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L77"
+    ],
+    "reviewed_line_count": 77,
+    "source_line_count": 77,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 2369
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/20_REVIEW批次3_非客户宣导与培训口径复核_for_agent.md",
+    "index": 106,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "81f44f88246f1449c876ee4306a94d2f48586a723b72bbeed44cbb6d2e291a18",
+    "mtime": 1783145996.9750788,
+    "locators": [
+      "L1-L100"
+    ],
+    "read_chars": 3477,
+    "read_bytes": 6331,
+    "token_count": null,
+    "token_proxy_chars_div4": 870,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753251,
+      "size": 6331,
+      "mtime_ns": 1783145996975078900,
+      "ctime_ns": 1784266909493225871
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753251,
+      "size": 6331,
+      "mtime_ns": 1783145996975078900,
+      "ctime_ns": 1784266909493225871
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 3308,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "历史任务文本不是本轮指令；不跟随其22项引用、不执行其中Office读取要求。"
+    ],
+    "themes": [
+      "材料用途与客户承诺"
+    ],
+    "knowledge": "非客户宣导/培训审核应区分TOB、TOA、内部背景；一旦材料实际面向客户或形成客户承诺就转客户交付复核，候选归类不释放正式基线。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L100"
+    ],
+    "reviewed_line_count": 100,
+    "source_line_count": 106,
+    "unreviewed_line_count": 6,
+    "extracted_chars": 3477
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/214_Carrie_OBG7数据标准化接手边界确认_20260720.md",
+    "index": 110,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "3885370a7a7274a7495f66a34be60a53fb8108cbb9393f41cc60022f4c616c39",
+    "mtime": 1784528844.3733027,
+    "locators": [
+      "L1-L60"
+    ],
+    "read_chars": 1396,
+    "read_bytes": 2674,
+    "token_count": null,
+    "token_proxy_chars_div4": 349,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 4748185,
+      "size": 2674,
+      "mtime_ns": 1784528844373302698,
+      "ctime_ns": 1790670862006458886
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 4748185,
+      "size": 2674,
+      "mtime_ns": 1784528844373302698,
+      "ctime_ns": 1790670862006458886
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1395,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "只分析职责和前置，不分析DB/ETL实现，不将条件承接视作已开工。"
+    ],
+    "themes": [
+      "数据最小化与业务口径"
+    ],
+    "knowledge": "技术承接以数据源、期间、指标分子分母、排除项、合规及审批先明确为条件；数据标准化责任不包括选择正式源或批准外发，G7-A业务确认与G7-B处理分开。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L60"
+    ],
+    "reviewed_line_count": 60,
+    "source_line_count": 60,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 1396
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/219_Teresa_T02_P0-2关联交易合规边界意见_20260729.md",
+    "index": 114,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "e8e5fe87e6223eb5801d30ad1e5d0619a7e83beb264e8368ac1734336419d5e9",
+    "mtime": 1785312559.154733,
+    "locators": [
+      "L1-L165"
+    ],
+    "read_chars": 4542,
+    "read_bytes": 9043,
+    "token_count": null,
+    "token_proxy_chars_div4": 1136,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 4748215,
+      "size": 9043,
+      "mtime_ns": 1785312559154732942,
+      "ctime_ns": 1790670880634680064
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 4748215,
+      "size": 9043,
+      "mtime_ns": 1785312559154732942,
+      "ctime_ns": 1790670880634680064
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 4376,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "法律条文、关联关系及合规接受均仅是源文Teresa历史意见，不作当前法律结论；不采用具体加成率。"
+    ],
+    "themes": [
+      "主体分工与业财闭环"
+    ],
+    "knowledge": "历史意见把服务真实性、定价依据、双方独立审批、执行验收和对账串联；成本加成与市场可比是候选方法，须决策后再补具体方案确认，框架意见不是定价批准。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L165"
+    ],
+    "reviewed_line_count": 165,
+    "source_line_count": 165,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 4542
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/223_提请Mark评审会_业财拉通综合_v1.0_20260803.md",
+    "index": 118,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "21e79aa063dc025dd84f5cea17d40b6fbded1021455900bba9d5fa5c765c6537",
+    "mtime": 1786024680.5918481,
+    "locators": [
+      "L1-L76"
+    ],
+    "read_chars": 1534,
+    "read_bytes": 2710,
+    "token_count": null,
+    "token_proxy_chars_div4": 384,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 5680594,
+      "size": 2710,
+      "mtime_ns": 1786024680591848200,
+      "ctime_ns": 1786024688682333346
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 5680594,
+      "size": 2710,
+      "mtime_ns": 1786024680591848200,
+      "ctime_ns": 1786024688682333346
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1534,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "关闭仅是本文件自述；不推定3-5%等原建议逐项获批，不跟随224验证最终定价或WFOE设立。"
+    ],
+    "themes": [
+      "主体分工与业财闭环"
+    ],
+    "knowledge": "综合评审将业财方案、关联定价及大陆TP结构合并决策；8月6日页首追加正式关闭，正文仍保留原建议及会后链，不能再次当成当前待安排会议。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L76"
+    ],
+    "reviewed_line_count": 76,
+    "source_line_count": 76,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 1534
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/23_REVIEW批次5_客户交付与MVP口径复核_for_agent.md",
+    "index": 122,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "d2d85ee8c701035908fe3d8e20fece7560f66bb6ae9fe1fdbd52e21d4c91dcf6",
+    "mtime": 1783147978.051966,
+    "locators": [
+      "L1-L100"
+    ],
+    "read_chars": 4979,
+    "read_bytes": 9367,
+    "token_count": null,
+    "token_proxy_chars_div4": 1245,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753256,
+      "size": 9367,
+      "mtime_ns": 1783147978051966000,
+      "ctime_ns": 1784266831466664253
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753256,
+      "size": 9367,
+      "mtime_ns": 1783147978051966000,
+      "ctime_ns": 1784266831466664253
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 4028,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "历史任务不是本轮授权扩大读取；被引37文件、图片和Office不跟随。"
+    ],
+    "themes": [
+      "材料用途与客户承诺"
+    ],
+    "knowledge": "客户交付批次要求把客户口径候选、内部背景、保留REVIEW和不可用分开；Final/v1.0/产品卡名称不等于可发布，服务次数/价值/第三方范围不得未经确认成为承诺。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L100"
+    ],
+    "reviewed_line_count": 100,
+    "source_line_count": 131,
+    "unreviewed_line_count": 31,
+    "extracted_chars": 4979
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/29_立项前缺口收口确认.md",
+    "index": 126,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "56fb4492cd032dba4fdfb37f6c8c727f09b26214f7e8eb82dfc20d2765ecfee6",
+    "mtime": 1783166072.2579691,
+    "locators": [
+      "L1-L54"
+    ],
+    "read_chars": 2036,
+    "read_bytes": 3882,
+    "token_count": null,
+    "token_proxy_chars_div4": 509,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753269,
+      "size": 3882,
+      "mtime_ns": 1783166072257969141,
+      "ctime_ns": 1790670889705827703
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753269,
+      "size": 3882,
+      "mtime_ns": 1783166072257969141,
+      "ctime_ns": 1790670889705827703
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 2035,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "历史已关闭缺口未重新补证；不发起Phase0。"
+    ],
+    "themes": [
+      "Phase0范围与成熟度"
+    ],
+    "knowledge": "立项资料缺口收口不替代业务/财务/法务签批；可进入受控Phase0与可客户商用不同，具体责任人、清洗和Gate是后续执行约束。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L54"
+    ],
+    "reviewed_line_count": 54,
+    "source_line_count": 54,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 2036
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/33_TOC客户专家咨询_GL25合理评估台账_v0.1.md",
+    "index": 130,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "64157b04c5bd5460b81e1c476fdb7c91cd01e82a4249815a929b407fc8248f53",
+    "mtime": 1784280341.6062007,
+    "locators": [
+      "L1-L78"
+    ],
+    "read_chars": 4272,
+    "read_bytes": 8576,
+    "token_count": null,
+    "token_proxy_chars_div4": 1068,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 2431037,
+      "size": 8576,
+      "mtime_ns": 1784280341606200700,
+      "ctime_ns": 1784280408034864824
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 2431037,
+      "size": 8576,
+      "mtime_ns": 1784280341606200700,
+      "ctime_ns": 1784280408034864824
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 4271,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "A13出现7月17日Pass但仍列ILAS及测算缺口，保留范围限制；不能升级为全产品或全TOC放行，GL25判断只转述历史。"
+    ],
+    "themes": [
+      "材料用途与客户承诺"
+    ],
+    "knowledge": "合理评估台账将Conditional定义为可清洗审批而非可发布，Hold不得客户可见；主体、边界、保单关系、费用、授权和批准话术都要明示。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L78"
+    ],
+    "reviewed_line_count": 78,
+    "source_line_count": 78,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 4272
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/38_权益资产治理台账_v0.1.md",
+    "index": 134,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "5b9cc077e86575704a83944cd629ce1b8eaa056f236c6d30d5f546aac0847357",
+    "mtime": 1783161137.0163877,
+    "locators": [
+      "L1-L31"
+    ],
+    "read_chars": 3067,
+    "read_bytes": 5509,
+    "token_count": null,
+    "token_proxy_chars_div4": 767,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753284,
+      "size": 5509,
+      "mtime_ns": 1783161137016387701,
+      "ctime_ns": 1790670861865820248
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753284,
+      "size": 5509,
+      "mtime_ns": 1783161137016387701,
+      "ctime_ns": 1790670861865820248
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 3035,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "候选台账不构成报价或现行财务冻结，TOI待补源不填差额。"
+    ],
+    "themes": [
+      "主体分工与业财闭环"
+    ],
+    "knowledge": "权益资产不仅是服务名，还要同时记录对象、owner、供应、财务状态、外发状态和证据；机构资产不自动变客户权益，模板与正式报告分别受控。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L31"
+    ],
+    "reviewed_line_count": 31,
+    "source_line_count": 31,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 3067
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/47_0周执行启动包.md",
+    "index": 138,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "dfd42a5b78d438385a1b8adc3d5095f061e4683b23c8e6e156b873abe455bce3",
+    "mtime": 1783168359.822778,
+    "locators": [
+      "L1-L73"
+    ],
+    "read_chars": 1966,
+    "read_bytes": 3652,
+    "token_count": null,
+    "token_proxy_chars_div4": 492,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753306,
+      "size": 3652,
+      "mtime_ns": 1783168359822777986,
+      "ctime_ns": 1790670868585428697
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753306,
+      "size": 3652,
+      "mtime_ns": 1783168359822777986,
+      "ctime_ns": 1790670868585428697
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1965,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "历史启动安排非本轮执行授权，排期过期不自动延期或重启。"
+    ],
+    "themes": [
+      "Phase0范围与成熟度"
+    ],
+    "knowledge": "启动包限定资产治理、TOB目录RACI和TOI内部框架三条线，TOC交付及正式报表继续红灯；点名、会议追认和24小时台账回写服务于责任落实。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L73"
+    ],
+    "reviewed_line_count": 73,
+    "source_line_count": 73,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 1966
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/59_Phase0今日四项确认_20260704.md",
+    "index": 142,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "79d0762335539857b61dffc39ec1f14adeceb1393b122c46f27965d7faf4a159",
+    "mtime": 1783173390.9782438,
+    "locators": [
+      "L1-L52"
+    ],
+    "read_chars": 818,
+    "read_bytes": 1660,
+    "token_count": null,
+    "token_proxy_chars_div4": 205,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753327,
+      "size": 1660,
+      "mtime_ns": 1783173390978243900,
+      "ctime_ns": 1784266916032220802
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753327,
+      "size": 1660,
+      "mtime_ns": 1783173390978243900,
+      "ctime_ns": 1784266916032220802
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 817,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "等待Roy是7月4日记录；S090记7月8日内部回填已完成，不能当当前仍未回复。"
+    ],
+    "themes": [
+      "Phase0范围与成熟度"
+    ],
+    "knowledge": "四项确认把9流程15分钟站会、TOI内部框架、财务等回填和品牌角色临时安排锁在当日小范围；财务可承诺默认no，不以角色占位替真人责任。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L52"
+    ],
+    "reviewed_line_count": 52,
+    "source_line_count": 52,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 818
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/66_OB工作区与原始资料池关系确认_20260704.md",
+    "index": 146,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "bea2b7c9c1dabcde12ef383ed7ee60e9902c18dfc2e37a010ea36eed5cac691b",
+    "mtime": 1783175766.197438,
+    "locators": [
+      "L1-L42"
+    ],
+    "read_chars": 777,
+    "read_bytes": 1621,
+    "token_count": null,
+    "token_proxy_chars_div4": 195,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753334,
+      "size": 1621,
+      "mtime_ns": 1783175766197438000,
+      "ctime_ns": 1784266941006091079
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753334,
+      "size": 1621,
+      "mtime_ns": 1783175766197438000,
+      "ctime_ns": 1784266941006091079
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 776,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "本轮沿用的是历史业务逻辑，不执行原文件站会或补证任务。"
+    ],
+    "themes": [
+      "交付登记与证据粒度"
+    ],
+    "knowledge": "OB是执行工作台，旧资料是素材/证据源；穿透阅读、候选映射、owner确认、Gate判断之后才成为可采用证据，不从目录存在直接推正式证明。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L42"
+    ],
+    "reviewed_line_count": 42,
+    "source_line_count": 42,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 777
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/76_TOB执行证据收件箱补全验收_20260705.md",
+    "index": 150,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "ac378e06dc49071b1308fdf2982caea6b590004aa9958a3d8bb2889fe40fd495",
+    "mtime": 1783190047.3446047,
+    "locators": [
+      "L1-L53"
+    ],
+    "read_chars": 1499,
+    "read_bytes": 3059,
+    "token_count": null,
+    "token_proxy_chars_div4": 375,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753344,
+      "size": 3059,
+      "mtime_ns": 1783190047344604700,
+      "ctime_ns": 1784266838942845719
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753344,
+      "size": 3059,
+      "mtime_ns": 1783190047344604700,
+      "ctime_ns": 1784266838942845719
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1498,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "结构验收与业务验收分开；文件数及后续进展未经本轮核验。"
+    ],
+    "themes": [
+      "交付登记与证据粒度"
+    ],
+    "knowledge": "9个TOB收件箱结构验收通过只表明流程、SOP、模板、确认/Gate和风险边界齐备；1-7仍缺机构真实实例，8只内部，9待财务，下一步从补结构转补实例。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L53"
+    ],
+    "reviewed_line_count": 53,
+    "source_line_count": 53,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 1499
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/86_Amanda资料接入后项目逻辑调整建议_20260705.md",
+    "index": 154,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "6dbce4234c88203eeac496fa2397b922c69ab18ae6f85b17a951c95080346586",
+    "mtime": 1783224175.9937277,
+    "locators": [
+      "L1-L63"
+    ],
+    "read_chars": 2048,
+    "read_bytes": 4112,
+    "token_count": null,
+    "token_proxy_chars_div4": 512,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753354,
+      "size": 4112,
+      "mtime_ns": 1783224175993727800,
+      "ctime_ns": 1784266923466332984
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753354,
+      "size": 4112,
+      "mtime_ns": 1783224175993727800,
+      "ctime_ns": 1784266923466332984
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 2047,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "原文太平洋到太保香港纠正仅保留为该源的确认记录，不扩展修正其他别名，不读取敏感底账引用。"
+    ],
+    "themes": [
+      "交付登记与证据粒度"
+    ],
+    "knowledge": "Amanda材料先入候选源池，经收件箱、owner与Gate再回写正式资料；路由绿色和源池增强不解除客户或正式TOI外发红灯。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L63"
+    ],
+    "reviewed_line_count": 63,
+    "source_line_count": 63,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 2048
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/97_TOI_CASE_004_005轻量案例包补齐验收_20260706.md",
+    "index": 158,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "1c0a1319ea6ba9b884c1af1dad70a683d9cf0b49210594341b9316d0836d1f86",
+    "mtime": 1783281385.0550032,
+    "locators": [
+      "L1-L41"
+    ],
+    "read_chars": 1336,
+    "read_bytes": 2648,
+    "token_count": null,
+    "token_proxy_chars_div4": 334,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753365,
+      "size": 2648,
+      "mtime_ns": 1783281385055003166,
+      "ctime_ns": 1790670903868182449
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753365,
+      "size": 2648,
+      "mtime_ns": 1783281385055003166,
+      "ctime_ns": 1790670903868182449
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 1335,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "课程、活动、财务事实仍需原证据，本轮不跟随；7月6日待确认与后续阶段区别保留。"
+    ],
+    "themes": [
+      "TOI价值证明与发布层级"
+    ],
+    "knowledge": "两轻量案例包用README、采用判定表、脱敏Gate和检索范围组织证据，使owner能判断资源运营或课程交付事实；补包通过不等于财务归因、正式报告或外发获批。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L41"
+    ],
+    "reviewed_line_count": 41,
+    "source_line_count": 41,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 1336
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/99_WK0-05_TOB服务目录owner点名表_说明与待办_20260707.md",
+    "index": 162,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "b2c6aec0e4b04e1ce2275d90d05b7a1937675ddba702c6b55924ad0b2116f1c4",
+    "mtime": 1783408567.4466927,
+    "locators": [
+      "L1-L31"
+    ],
+    "read_chars": 880,
+    "read_bytes": 1570,
+    "token_count": null,
+    "token_proxy_chars_div4": 220,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 1753374,
+      "size": 1570,
+      "mtime_ns": 1783408567446692705,
+      "ctime_ns": 1790670861123476323
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 1753374,
+      "size": 1570,
+      "mtime_ns": 1783408567446692705,
+      "ctime_ns": 1790670861123476323
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 879,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "模板风险是历史记录，不复验合同实物；不输出未核法律实体映射。"
+    ],
+    "themes": [
+      "主体分工与业财闭环"
+    ],
+    "knowledge": "10资产owner_named只解决责任承接，机构侧接口、财务和合同仍另关；合同模板残留第三方品牌及甲乙方主体需重写对齐，不能因已点名就签约。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "L1-L31"
+    ],
+    "reviewed_line_count": 31,
+    "source_line_count": 31,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 880
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/NAV01_TOI_TOC模型底稿与HTML展示总入口_v1.0_20260806/index.html",
+    "index": 166,
+    "status": "已分析",
+    "reason": "已实际阅读所列业务片段并完成语义核定；历史意见/内部规则，不代表现行事实批准",
+    "source_hash": "ce4a9424c92c4cf241f62c2a4e92ba508fbd37080b6ea4445a1c8aa8f34c630e",
+    "mtime": 1785988259.7078702,
+    "locators": [
+      "T1-T35"
+    ],
+    "read_chars": 572,
+    "read_bytes": 196258,
+    "token_count": null,
+    "token_proxy_chars_div4": 143,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 5591391,
+      "size": 196258,
+      "mtime_ns": 1785988259707870244,
+      "ctime_ns": 1790670886675506534
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 5591391,
+      "size": 196258,
+      "mtime_ns": 1785988259707870244,
+      "ctime_ns": 1790670886675506534
+    },
+    "stat_stable": true,
+    "locator_kind": "清洗HTML文本行T（剔除script/style/template；不执行）",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 572,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [
+      "仅剔除脚本后的35行可见文本；脚本动态目录不执行，193 Current和125实例为导航历史自述，列表空态不代表源文件缺失。"
+    ],
+    "themes": [
+      "权益建模与证据治理"
+    ],
+    "knowledge": "静态导航把主文件、派生阅读副本、历史快照区分，明示不改变模型或外发状态；HTML页面入口不是SSOT或真实客户上线证明。",
+    "analysis_scope": "所列业务片段；未审阅部分不宣称全文核验",
+    "model_review_lines": [
+      "T1-T35"
+    ],
+    "reviewed_line_count": 35,
+    "source_line_count": 35,
+    "unreviewed_line_count": 0,
+    "extracted_chars": 572
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC02_香港管家服务标准手册及人才画像_v0.1_20260806/香港管家人才画像_v0.1_20260806.md",
+    "index": 170,
+    "status": "已分析",
+    "reason": "稳定阅读全文并完成逐文语义分析；仅历史资料理解，不代表执行/批准/外发",
+    "source_hash": "82b37597a3ef103b7a2d64876a7062bf3825e6a24e14341c07659abd608eecc7",
+    "mtime": 1786000260.2271032,
+    "locators": [
+      "L9-L33",
+      "L68-L103",
+      "L105-L125"
+    ],
+    "read_chars": 3073,
+    "read_bytes": 8025,
+    "token_count": null,
+    "token_proxy_chars_div4": 769,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 5621123,
+      "size": 8025,
+      "mtime_ns": 1786000260227103324,
+      "ctime_ns": 1786000273642888531
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 5621123,
+      "size": 8025,
+      "mtime_ns": 1786000260227103324,
+      "ctime_ns": 1786000273642888531
+    },
+    "stat_stable": true,
+    "locator_kind": "原始Markdown行L",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 3073,
+    "external_verification": false,
+    "themes": [
+      "管家服务组织",
+      "岗位能力与上岗"
+    ],
+    "knowledge": "主责管家是需求诊断到结单的单一接口，不要求独自专业执行25项；八维能力配合情景和实操考核，四周按规则学习、跟岗、低风险独立、多事项统筹递进。权重及通过线为建议，未证明已有人员达标。",
+    "model_review_lines": "1-125",
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "analysis_scope": "全文阅读，业务设计分析；现行事实与专业意见不核验",
+    "extracted_chars": 3073
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.1_20260806/香港家庭生活管家_人才招聘画像_v0.1_20260806.html",
+    "index": 174,
+    "status": "已分析",
+    "reason": "稳定阅读全文并完成逐文语义分析；仅历史资料理解，不代表执行/批准/外发",
+    "source_hash": "63a926e94a89c3a9f8ae8a328ff288069ca68ffd5c4e03f5d10d2cd6f0c1a428",
+    "mtime": 1786003025.9266381,
+    "locators": [
+      "T21-T82",
+      "T119-T177",
+      "T196-T205"
+    ],
+    "read_chars": 4988,
+    "read_bytes": 36341,
+    "token_count": null,
+    "token_proxy_chars_div4": 1247,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 5630857,
+      "size": 36341,
+      "mtime_ns": 1786003025926638124,
+      "ctime_ns": 1786003039548922939
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 5630857,
+      "size": 36341,
+      "mtime_ns": 1786003025926638124,
+      "ctime_ns": 1786003039548922939
+    },
+    "stat_stable": true,
+    "locator_kind": "清洗HTML文本行T（剔除script/style/template；不执行）",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": true,
+    "model_review_chars": 4988,
+    "external_verification": false,
+    "themes": [
+      "招聘评估与试点"
+    ],
+    "knowledge": "v0.1将岗位画像转成六环节招聘流程、至少两名面试官独立评分及四种实操作品；红线单独否决，建议先招一名资深负责人跑真实服务单，未确认排班、SLA及招聘数量，不是已发布招聘。",
+    "model_review_lines": "1-205",
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "analysis_scope": "全文阅读，业务设计分析；现行事实与专业意见不核验",
+    "extracted_chars": 4988
+  },
+  {
+    "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/TOC04_香港管家人才招聘画像_v0.3_20260806/香港家庭生活管家_人才招聘画像_v0.3_20260806.html",
+    "index": 178,
+    "status": "重复",
+    "reason": "与本分片已读取源字节SHA-256相同",
+    "source_hash": "845e81970a47aafab8a12de20f5bf6093f7eb013e7aacbdf44b531a9af615a58",
+    "mtime": 1786004925.05756,
+    "locators": [
+      "SHA-256全文件字节一致；业务定位承接index=22"
+    ],
+    "read_chars": 9118,
+    "read_bytes": 57981,
+    "token_count": null,
+    "token_proxy_chars_div4": 2280,
+    "project_evidence": "项目入口队列.json: /Users/a112233/Desktop/Rw权益项目 限定保留；本项在其下。非当前业务有效性证明",
+    "source_kind": "历史业务设计/纪要，非当前执行核验",
+    "stat_before": {
+      "dev": 16777231,
+      "ino": 5635564,
+      "size": 57981,
+      "mtime_ns": 1786004925057559849,
+      "ctime_ns": 1786004977257465201
+    },
+    "stat_after": {
+      "dev": 16777231,
+      "ino": 5635564,
+      "size": 57981,
+      "mtime_ns": 1786004925057559849,
+      "ctime_ns": 1786004977257465201
+    },
+    "stat_stable": true,
+    "locator_kind": "清洗HTML文本行T（剔除script/style/template；不执行）",
+    "duplicate_of": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/管家服务/香港家庭生活管家_人才招聘画像_v0.3_20260806.html",
+    "inventory_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+    "read_metric_scope": "单次最终取证快照；read_bytes为hash读取字节，read_chars/extracted_chars为解析文本字符，model_review_chars为实际审阅片段字符；非累计I/O或真实token",
+    "hash_algorithm": "SHA-256",
+    "hash_unavailable_reason": null,
+    "analysis_completed": false,
+    "model_review_chars": 0,
+    "external_verification": false,
+    "scope_clarification": "治理/财务/合规业务内容可分析；2026-11-12用户澄清后复核",
+    "unresolved_parts": [],
+    "extracted_chars": 9118
+  }
+]

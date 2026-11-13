@@ -1,0 +1,11 @@
+{
+  "checked": "2026-11-12T20:10:40.873141-06:00",
+  "project_rows": 248,
+  "file_rows": 871,
+  "failures": [],
+  "content_candidates": 295,
+  "reference_rows": 240,
+  "scope": "Desktop直接入口、7个既有根、Jasper项目工作区入口已枚举；RW八准入子树元数据扫描；待核项目不递归，非全部本地文件验收",
+  "batch": "20261112T201040873141",
+  "pending_rows": 464
+}
