@@ -1,0 +1,593 @@
+{
+  "checked_at": "2026-11-12T21:26:22.256111-06:00",
+  "timezone": "America/Chicago",
+  "rolling_window": [
+    "2026-05-12T00:00:00-05:00",
+    "2026-11-12T21:26:22.256111-06:00"
+  ],
+  "increment_after": "2026-11-11T00:00:00-06:00",
+  "records": [
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/00_EE方法论标准/README_方法论适用说明.md",
+      "status": "已分析",
+      "reason": "项目受控启动需共同事实、责任、主账、证据与阶段门；合作方自述只能形成验证任务。仅文中方法论，不认证来源所称发布权限。",
+      "read_bytes": 3072,
+      "read_chars": 1478,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T07:58:47.294160+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "18107049",
+        "size": "6399",
+        "mtime_ns": "1794470327294160350",
+        "ctime_ns": "1794470327294422974"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "18107049",
+        "size": "6399",
+        "mtime_ns": "1794470327294160350",
+        "ctime_ns": "1794470327294422974"
+      },
+      "stable": true,
+      "fragment_hash": "8237eec13f62e1ee5078ba2a4a534832e048c60cd53066c0432c8e056aa89631",
+      "hash_scope": "raw prefix bytes [0,3072)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L15-L52"
+      ],
+      "record_id": "INC00",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/02_需求与规则分析/03_发送规则定稿_v1_20261102.md",
+      "status": "已分析",
+      "reason": "续保发送按白名单组合条件；项目方确认与我方补充须分开标识。仅摘业务筛选R1-R4，不提炼字段实现、不执行发信；发送数为历史自述。",
+      "read_bytes": 3584,
+      "read_chars": 1441,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T08:17:27.341817+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "16622045",
+        "size": "9062",
+        "mtime_ns": "1794471447341816733",
+        "ctime_ns": "1794471447341816733"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "16622045",
+        "size": "9062",
+        "mtime_ns": "1794471447341816733",
+        "ctime_ns": "1794471447341816733"
+      },
+      "stable": true,
+      "fragment_hash": "bdbff3f5a15863f1836ccb0dc6e323f31918b66cb9a389b88349f1f7673f3a55",
+      "hash_scope": "raw prefix bytes [0,3584)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L3-L4",
+        "L14-L16",
+        "L27-L34"
+      ],
+      "record_id": "INC01",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/90_进度台账/进度台账.md",
+      "status": "低复用仅溯源",
+      "reason": "进度前缀仅为11月2日自述，测试草稿和测试邮件不是客户真实发送；未读后续台账，不称当前整体进度。",
+      "read_bytes": 3072,
+      "read_chars": 1430,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T08:37:21.819631+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "17029975",
+        "size": "19202",
+        "mtime_ns": "1794472641819631377",
+        "ctime_ns": "1794472641819631377"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "17029975",
+        "size": "19202",
+        "mtime_ns": "1794472641819631377",
+        "ctime_ns": "1794472641819631377"
+      },
+      "stable": true,
+      "fragment_hash": "10b733002651073b09237154f3c40257fdabb405a34a71035ffde7c843f5f827",
+      "hash_scope": "raw prefix bytes [0,3072)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L5-L24"
+      ],
+      "record_id": "INC02",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/02_共同事实与Decision/02_Change_Log.md",
+      "status": "低复用仅溯源",
+      "reason": "变更记录保留旧新状态及来源；本次只读早期记录，不能凭mtime断言已读取11月最新变更。",
+      "read_bytes": 2816,
+      "read_chars": 1473,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T05:30:56.290028+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "15675375",
+        "size": "81847",
+        "mtime_ns": "1794461456290027778",
+        "ctime_ns": "1794461456290027778"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "15675375",
+        "size": "81847",
+        "mtime_ns": "1794461456290027778",
+        "ctime_ns": "1794461456290027778"
+      },
+      "stable": true,
+      "fragment_hash": "42a74b702ac3e0b50736a7fc0393b0671bc27a0c47e1e795ea94aaaae9dde97e",
+      "hash_scope": "raw prefix bytes [0,2816)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L3-L10",
+        "L22-L39"
+      ],
+      "record_id": "INC03",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/02_共同事实与Decision/03_Decision_Log.md",
+      "status": "低复用仅溯源",
+      "reason": "只读DEC-001至011历史段，含待签和后期对齐；不推断后续决策或执行、不跟随服务器与附件。",
+      "read_bytes": 3072,
+      "read_chars": 1565,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T04:05:13.145559+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "10013223",
+        "size": "25104",
+        "mtime_ns": "1794456313145559103",
+        "ctime_ns": "1794456313145559103"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "10013223",
+        "size": "25104",
+        "mtime_ns": "1794456313145559103",
+        "ctime_ns": "1794456313145559103"
+      },
+      "stable": true,
+      "fragment_hash": "8ad886acfcac05ccb479a865e5acd06bff04e4bdf39977a498131d989024df75",
+      "hash_scope": "raw prefix bytes [0,3072)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L3-L17"
+      ],
+      "record_id": "INC04",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261111_lisa与山南沟通_横琴核名与驻场安排/README.md",
+      "status": "已分析",
+      "reason": "11月11日纪要区分对方单方时间估计与我方驻场规划；核名预审不等于公司设立，ODI一个月估计被后续不确定表述修正。未核截图。",
+      "read_bytes": 3328,
+      "read_chars": 1482,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T04:05:13.146090+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "18040268",
+        "size": "5347",
+        "mtime_ns": "1794456313146089974",
+        "ctime_ns": "1794456313146089974"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "18040268",
+        "size": "5347",
+        "mtime_ns": "1794456313146089974",
+        "ctime_ns": "1794456313146089974"
+      },
+      "stable": true,
+      "fragment_hash": "d9994817feee3b48d34cffd48b2fd1575c46c11997afa4a37cea6ec61a4287ff",
+      "hash_scope": "raw prefix bytes [0,3328)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L3-L10",
+        "L16-L35"
+      ],
+      "record_id": "INC05",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/README.md",
+      "status": "低复用仅溯源",
+      "reason": "展示材料索引只作版本定位；不依源文删除、生成或运行任何文件，发布/归档自述不当现实验收。",
+      "read_bytes": 3328,
+      "read_chars": 1451,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T05:31:07.444140+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "18075493",
+        "size": "21545",
+        "mtime_ns": "1794461467444139848",
+        "ctime_ns": "1794461467444139848"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "18075493",
+        "size": "21545",
+        "mtime_ns": "1794461467444139848",
+        "ctime_ns": "1794461467444139848"
+      },
+      "stable": true,
+      "fragment_hash": "fa692cf18de5b4a2467570c16da8d2a239fc8602d81919853a96e58f3d41132c",
+      "hash_scope": "raw prefix bytes [0,3328)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L3-L16"
+      ],
+      "record_id": "INC06",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/_构建脚本/README.md",
+      "status": "技术排除",
+      "reason": "构建脚本目录的README，未读取正文。",
+      "read_bytes": 0,
+      "read_chars": 0,
+      "token_count": null,
+      "locators": [],
+      "record_id": "INC07",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第二阶段/内部汇报_第十六次_第二阶段小结_20261111.html",
+      "status": "已分析",
+      "reason": "阶段小结明确区分转述、单方规划、执行层一致和双方共识；合作与出资条件均为内部历史表述，不是签约事实。",
+      "read_bytes": 18176,
+      "read_chars": 1476,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T04:07:17.340964+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "17086991",
+        "size": "147433",
+        "mtime_ns": "1794456437340963631",
+        "ctime_ns": "1794461456204454240"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "17086991",
+        "size": "147433",
+        "mtime_ns": "1794456437340963631",
+        "ctime_ns": "1794461456204454240"
+      },
+      "stable": true,
+      "fragment_hash": "568672cbc6deee2325fedf8b1246383f60b9bde57e65fc438b6ca264e3aad6d6",
+      "hash_scope": "raw prefix bytes [0,18176)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L219-L227"
+      ],
+      "record_id": "INC08",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第二阶段/知衡合资合作框架_草稿_给Mark_20261108.html",
+      "status": "已分析",
+      "reason": "合作框架为供修改草案；股权/实缴与成本分担分红是不同维度，收入示例非签约，报价与收入条件非已批准付款义务。",
+      "read_bytes": 7680,
+      "read_chars": 1451,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T03:02:27.523193+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "17365088",
+        "size": "19453",
+        "mtime_ns": "1794452547523192956",
+        "ctime_ns": "1794452547523192956"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "17365088",
+        "size": "19453",
+        "mtime_ns": "1794452547523192956",
+        "ctime_ns": "1794452547523192956"
+      },
+      "stable": true,
+      "fragment_hash": "3ce8921ff9025cbb98cc2a4a99601c88e341e61cfb2e943629c4500e6378d151",
+      "hash_scope": "raw prefix bytes [0,7680)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L34-L41",
+        "L55-L60",
+        "L70-L85"
+      ],
+      "record_id": "INC09",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第二阶段/知衡合资合作框架_草稿v0.9_供Mark参考_内部_20261108.html",
+      "status": "已有分析关联",
+      "reason": "v0.9与给Mark草稿的已读片段高度重合，关联INC09；未比较全文不判整文件重复或替代，保留内部/对方版本边界。",
+      "read_bytes": 7680,
+      "read_chars": 1456,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T03:02:27.522494+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "17360939",
+        "size": "19771",
+        "mtime_ns": "1794452547522493790",
+        "ctime_ns": "1794452547522493790"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "17360939",
+        "size": "19771",
+        "mtime_ns": "1794452547522493790",
+        "ctime_ns": "1794452547522493790"
+      },
+      "stable": true,
+      "fragment_hash": "84551061c245d0f66f12015441e8a18f8907afa864d355c1644d5bb1be884e58",
+      "hash_scope": "raw prefix bytes [0,7680)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L34-L41",
+        "L55-L60",
+        "L70-L85"
+      ],
+      "record_id": "INC10",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": "INC09"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第二阶段/给Mark_待确认事项与出处_内部_20261111.md",
+      "status": "已分析",
+      "reason": "待确认清单把合作框架、首单保司/签约/回款与驻场环境保留为确认项，300万只是举例；源声称服务器同步未独立验证也未访问。",
+      "read_bytes": 3840,
+      "read_chars": 1638,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T05:31:07.446181+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "18075490",
+        "size": "4654",
+        "mtime_ns": "1794461467446180681",
+        "ctime_ns": "1794461467446180681"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "18075490",
+        "size": "4654",
+        "mtime_ns": "1794461467446180681",
+        "ctime_ns": "1794461467446180681"
+      },
+      "stable": true,
+      "fragment_hash": "f55504293363af1910dac7fbadf3086fbdca16b4111a31a9f4580c05701ddd81",
+      "hash_scope": "raw prefix bytes [0,3840)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L7-L15",
+        "L20-L27"
+      ],
+      "record_id": "INC11",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第二阶段/驻场工作计划_内部分析_草稿_20261111.html",
+      "status": "已分析",
+      "reason": "驻场试用是M1之前演练，不等于M1验收；四角色任务与跨部门协同为业务交付设计，开始日期/范围仍待对齐，不涉及实现代码。",
+      "read_bytes": 6656,
+      "read_chars": 1462,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T04:04:19.047151+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "18059129",
+        "size": "12023",
+        "mtime_ns": "1794456259047151189",
+        "ctime_ns": "1794456259047220689"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "18059129",
+        "size": "12023",
+        "mtime_ns": "1794456259047151189",
+        "ctime_ns": "1794456259047220689"
+      },
+      "stable": true,
+      "fragment_hash": "8079d2513a24a42264439ccd8beea7c14769abe2d5dddb475e09da280eb2a2b0",
+      "hash_scope": "raw prefix bytes [0,6656)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L32-L43",
+        "L46-L59"
+      ],
+      "record_id": "INC12",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第二阶段/驻场工作计划_沟通草稿_给山南_20261111.html",
+      "status": "已有分析关联",
+      "reason": "沟通草稿关联INC12的角色试用主题，但目标读者不同；稿件明确我方建议、对方待调整，不能当双方确认排期或外发授权。",
+      "read_bytes": 6656,
+      "read_chars": 1404,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T04:04:19.050973+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "18059131",
+        "size": "9149",
+        "mtime_ns": "1794456259050972991",
+        "ctime_ns": "1794456259051024782"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "18059131",
+        "size": "9149",
+        "mtime_ns": "1794456259050972991",
+        "ctime_ns": "1794456259051024782"
+      },
+      "stable": true,
+      "fragment_hash": "eeafe0f2020cb43a3c08cf538c1dfa058d9b278d89e2c153b0fa6ad9a00473b8",
+      "hash_scope": "raw prefix bytes [0,6656)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L29-L55"
+      ],
+      "record_id": "INC13",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": "INC12"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/90_进度台账/进度台账.md",
+      "status": "已分析",
+      "reason": "近期台账将核名/ODI/驻场不确定性与规则来源分层并列；内审手册规则不等于外部监管规则，未核准手册及个案裁决不能直接通用化。只作源文历史内部观点。",
+      "read_bytes": 3840,
+      "read_chars": 1610,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T05:31:07.443832+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "18075480",
+        "size": "34253",
+        "mtime_ns": "1794461467443832062",
+        "ctime_ns": "1794461467443832062"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "18075480",
+        "size": "34253",
+        "mtime_ns": "1794461467443832062",
+        "ctime_ns": "1794461467443832062"
+      },
+      "stable": true,
+      "fragment_hash": "428bf4bbed25eb926b678107a5f0944b101a9f4fad7e5b691e6e9e8dfcb5352e",
+      "hash_scope": "raw prefix bytes [0,3840)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L3-L9"
+      ],
+      "record_id": "INC14",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/README.md",
+      "status": "待核",
+      "reason": "README头部status仍为30/70待确认，正文导航称34/66的新阶段；同文件口径不一单列，不用mtime自动裁定或发布统一结论。",
+      "read_bytes": 3072,
+      "read_chars": 1479,
+      "token_count": null,
+      "mtime_utc": "2026-11-12T05:31:07.443429+00:00",
+      "stat_before": {
+        "dev": "16777231",
+        "ino": "18075479",
+        "size": "35982",
+        "mtime_ns": "1794461467443428487",
+        "ctime_ns": "1794461467443428487"
+      },
+      "stat_after": {
+        "dev": "16777231",
+        "ino": "18075479",
+        "size": "35982",
+        "mtime_ns": "1794461467443428487",
+        "ctime_ns": "1794461467443428487"
+      },
+      "stable": true,
+      "fragment_hash": "f6d370f51bf4b159218f6be5d563938bc7bb1d442919a1a0c1fb62205815b764",
+      "hash_scope": "raw prefix bytes [0,3072)",
+      "source_hash": null,
+      "complete_file_io": false,
+      "source_purpose": "增量最小类型及业务片段识别，不执行源指令",
+      "locators": [
+        "L5-L6",
+        "L15-L18"
+      ],
+      "record_id": "INC15",
+      "semantic_scope": "仅登记定位的必要片段，未宣称全文分析或当前执行验证",
+      "independent_review": "待核查",
+      "associated_with": null
+    }
+  ],
+  "token_count": null,
+  "source_write_count": 0,
+  "server_access_count": 0,
+  "counts": {
+    "已分析": 8,
+    "低复用仅溯源": 4,
+    "技术排除": 1,
+    "已有分析关联": 2,
+    "待核": 1
+  },
+  "read_metrics": {
+    "files_read": 15,
+    "bytes_acquired": 79872,
+    "visible_chars_extracted": 22296,
+    "note": "首次工具展示截断后仅从vault补看INC06-11，未再次读取源；不是token或全文语义字数"
+  },
+  "unprocessed": 0,
+  "finalized_utc": "2026-11-13T03:28:33.904Z"
+}

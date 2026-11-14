@@ -1,0 +1,2467 @@
+{
+  "schema_version": "1.0",
+  "batch_id": "其他60再核定",
+  "scope": "非RW_其他核定.json file_decisions中待核20及敏感待核40；目录与文件混合入口，不是60份正文",
+  "input_snapshots": {
+    "MOC/OB本地清单/非RW_其他核定.json": "767a1defd7c0ba1b1d5bea432d577024187f2520f3ef870b44c4a3dc240e67e5",
+    "MOC/OB本地清单/项目入口队列.json": "1ee68bdaaef5ac6cce8c16ad15419a78ea6fd61b3b3e32b0de3346e2cd19b976",
+    "MOC/OB执行与独立核查协议_2026-11-10.md": "f8c312193986b1b66a4024a8c221fa45ef1ce6bcedd240a526d24f251e972436",
+    "MOC/OB本地最大范围与完成门槛.md": "f9dc834c054c6a3eff3e92b4ee6c9c92578b8a718d3d6cc096e4f56197b9c42e",
+    "MOC/OB本地项目取舍_2026-11-10.md": "c33ada7e3b25379706e220e12799f9732474c6dc17e4fd213e2a38b9f323f0b8",
+    "MOC/非RW_其他业务主题.md": "8b223172078e4acea4e11166da297fc79eb2ccef11d41d612f4015943e271634"
+  },
+  "records": [
+    {
+      "id": "O60-001",
+      "path": "/Users/a112233/Desktop/20260901T041201_session.md",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有记录仅有会话入口和84字节元数据，未取得项目归属证据；既不能据session名称判定技术，也不能视为业务在用。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/2",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/220",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需现有治理记录将该精确路径绑定到项目、用途及主源；不是请求读取会话正文。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G01",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-002",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "根仅有直接层目录清单，旧报告明确未见根级治理说明；没有在用、实验或主源关系证据。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/11",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/621",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需项目状态及业务范围的治理证据；目录新旧和mtime不构成准入。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G02",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-003",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目/01_编目",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "编目子目录没有独立归属证据，根项目亦未准入；不把编目名称当业务知识范围。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/13",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/623",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需根项目归属及该子项与主源/派生索引关系。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G02",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-004",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目/02_百科",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "百科子目录没有独立归属证据；可能为资料聚合但无证据判定，不据名称在用或重复。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/14",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/624",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需根项目状态及该子项来源边界。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G02",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-005",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目/03_项目视图",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "项目视图子目录没有指明具体项目和权威来源；不得把视图当主源。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/15",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/625",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需项目映射及视图/原始来源关系。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G02",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-006",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目/04_分析与对比",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "分析与对比子目录缺对象和目的证据；名称不足以直接裁为测试或正式业务。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/16",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/626",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需治理说明界定业务比较或实验用途。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G02",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-007",
+      "path": "/Users/a112233/Desktop/临时工作区",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "暂存根已见业务候选、明确实验、工具等混合入口，不能整根准入或整根实验排除。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/22",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/165",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需按精确子路径已有证据分别归属，未知子树数量继续null。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G03",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-008",
+      "path": "/Users/a112233/Desktop/临时工作区/2026年8月热点Top10_五大类别.html",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有治理摘记仅证明8月五类新闻整理，没有独立非RW项目、Owner或主源证据。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/24",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/167",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        },
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/24/admission_evidence",
+          "supports": "旧治理定位L2、L25–27，仅作为已存摘记复审，未重读源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需将该精确路径绑定项目及主源；不以金融主题推为RW或其他项目。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G04",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-009",
+      "path": "/Users/a112233/Desktop/临时工作区/2026年9月热点Top10_五大类别.html",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有摘记自称matrix-v1检索与快照，引用未核；不能把该自述作为项目归属或事实验证。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/25",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/168",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        },
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/25/admission_evidence",
+          "supports": "旧治理定位L2、L27–30，仅作为已存摘记复审，未重读源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需已有治理映射与权威版本关系；不跟随报告引用。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G04",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-010",
+      "path": "/Users/a112233/Desktop/临时工作区/2026年9月热点_五类.html",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有摘记自述公开检索且非项目冻结库，仍未证明独立非RW归属；既往完整字节读取不补足归属证据。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/26",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/169",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        },
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/26/admission_evidence",
+          "supports": "旧治理定位L2、L25–27，仅作为已存摘记复审，未重读源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需项目与主源映射，不能由非冻结推为实验或在用。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G04",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-011",
+      "path": "/Users/a112233/Desktop/临时工作区/K3版本",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "只有K3版本目录元数据，没有证据把目录内容与四份明确实验文件逐项关联；不将模型版本名作为实验定论。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/35",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/178",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需该目录的用途或与已确认实验的精确关联证据。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G06",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-012",
+      "path": "/Users/a112233/Desktop/临时工作区/codex-A版本",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "只有codex-A版本目录元数据，不能以工具名判断整个子树工程、实验或业务在用。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/41",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/184",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需目录用途及主源关系证据。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G06",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-013",
+      "path": "/Users/a112233/Desktop/临时工作区/deepseek版",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "只有deepseek版目录元数据，旧四份实验的结论不能外推覆盖整个目录。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/42",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/185",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需该目录与实验或正式项目的精确关联。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G06",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-014",
+      "path": "/Users/a112233/Desktop/临时工作区/video_kaihong_full____",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "仅目录入口而非已核实视频文件；不能用video名称替代类型核验，也不展开媒体。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/47",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/190",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需现有清单证据说明入口类型及归属；不得因名称自动分类全部子项。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G06",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-015",
+      "path": "/Users/a112233/Desktop/临时工作区/对照分析_20260924",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "只有对照分析目录名称，没有证明其与已排除独立复跑的具体关联；不凭名称强判实验。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/54",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/197",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需已存治理关联说明该目录用途，不需扩大权限。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G06",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-016",
+      "path": "/Users/a112233/Desktop/临时工作区/月度热点报告_生成指令.md",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有摘记表明月度热点生成提示和联网执行方法，但无法区分业务任务规范与工具操作或实验附件；不执行指令。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/60",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/203",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        },
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/60/admission_evidence",
+          "supports": "旧治理定位L1–14，仅作为已存摘记复审，未重读源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需项目用途及内容类型的治理证据；现摘记不足以裁为技术实现。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G04",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-017",
+      "path": "/Users/a112233/Desktop/临时工作区/模块0_20260923.html",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有摘记表明内部规则确认中间层及WorkBuddy输入，未证明独立非RW归属；工具引用不足以排除全部业务规则。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/62",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/205",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        },
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/62/admission_evidence",
+          "supports": "旧治理定位L2、L38–50，仅作为已存摘记复审，未重读源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需该文件归属与业务规则/技术采集边界的现有证据。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G05",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-018",
+      "path": "/Users/a112233/Desktop/临时工作区/模块0_v2_20260923.html",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有摘记为内部规则确认稿和WorkBuddy需求线索；v2名称不证明批准或替代前版。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/63",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/206",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        },
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/63/admission_evidence",
+          "supports": "旧治理定位L2、L39–53，仅作为已存摘记复审，未重读源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需归属及版本替代证据，不依据名称选择现行稿。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G05",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-019",
+      "path": "/Users/a112233/Desktop/临时工作区/模块1_v2_20260923.html",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有摘记为未发布内部审阅稿，引用模块0/JEV；未发布不等于实验，分类引用不证明技术文档。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/64",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/207",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        },
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/64/admission_evidence",
+          "supports": "旧治理定位L2、L24–35，仅作为已存摘记复审，未重读源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需项目主源映射与批准用途，不跟读模块引用。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G05",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-020",
+      "path": "/Users/a112233/Desktop/临时工作区/模块1_目标态_20260923.html",
+      "old_status": "待核",
+      "new_status": "继续证据待核",
+      "reason": "既有摘记为未发布目标态及JEV/DEC-13引用；目标态不等于现行执行，仍缺项目消歧。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/65",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/208",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L19-L21,L37,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        },
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/65/admission_evidence",
+          "supports": "旧治理定位L3、L43–52，仅作为已存摘记复审，未重读源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": null,
+      "evidence_gap": "需项目主源及草案用途证据，不补读DEC-13。",
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列",
+      "missing_evidence_group": "G05",
+      "workflow_state": "证据不足封存，无自动下一步"
+    },
+    {
+      "id": "O60-021",
+      "path": "/Users/a112233/Desktop/牌照和保司合同",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "仅保留合同资料目录入口引用，不批准项目在用、目录展开或任何合同正文。子项分别处置，不把父目录引用当整树准入。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/87",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/125",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-022",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/.DS_Store",
+      "old_status": "敏感待核",
+      "new_status": "排除",
+      "reason": "项目入口队列原始decision已为排除，属于隐藏系统元数据；旧分片按父目录统一标敏感待核过宽，本轮恢复边界排除，不读取。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/88",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/126",
+          "supports": "原始decision=排除；后续敏感待核为分片归类，未改写历史事实"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29,L43-L49",
+          "supports": "先项目与类型，待核不晋升，规则明确的处置不需人工许可"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-023",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20080905 - Independent Broker's Contract - MassMutual Asia Limited  (now YF Life).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/89",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/127",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-024",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20090201 - Manulife Broker's Agreement with DWML (formerly known as RFSL).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/90",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/128",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-025",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20091106 - Broker's Agreement - Sun Life Hong Kong Limited.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/91",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/129",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-026",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20110315 - Broker Agreement with DWML (formerly known as RFSL).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/92",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/130",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-027",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20130314 - AXA Letter Instruction on Comm Disclosure - RFSL (now DWML).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/93",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/131",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-028",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20141107 - Intermediary Business Agreement - Realife Financial Service Ltd..pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/94",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/132",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-029",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20151030 - Broker Agreement btw China Life Insurance (Overseas) Co Ltd & FFWML - signed.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/95",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/133",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-030",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20151111 - China Life Broker Agreement - Realife Financial Services Limited.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/96",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/134",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-031",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20151112-axa_broker contract.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/97",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/135",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-032",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20160101_Manulife Agreement (FFWM).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/98",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/136",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-033",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20160316 - MassMutual Asia Limited - Independent Broker's Contract - FFWML (SIGNED)(YF Life).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/99",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/137",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-034",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20160525_FPI Agreement (FFWM).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/100",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/138",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-035",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20160615 - FWD Broker Agreement with FFWML (signed).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/101",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/139",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-036",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20160629_Generali Life Agreement_FFWM.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/102",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/140",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-037",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20160712_Agreement (FFWM) (CTF Life).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/103",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/141",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-038",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20161121 - Sun Life Broker's Agreement - FFWML (signed).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/104",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/142",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-039",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20161125_Broker Agreement_888030 Fortune Freedoness Wealth Management Ltd.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/105",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/143",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-040",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20171127 - Cigna Broker's Agreement with FFWML.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/106",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/144",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-041",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20180126_富通保险_九富保险服务有限公司.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/107",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/145",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-042",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20180320_Broker Agreement _CPIC (Realife).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/108",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/146",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-043",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20180403_BOC_Broker Agreement (FFWM).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/109",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/147",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-044",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20181109 - Broker Agreement - Chubb Life & DWML.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/110",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/148",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-045",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20190313 - Broker Agreement - Zurich Intl Life Ltd & FFWML (signed).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/111",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/149",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-046",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20190611_Well Link Agreement (FFWM).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/112",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/150",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-047",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20210218 - Bupa's Business Agreement (signed).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/113",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/151",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-048",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20210716 - Broker Agreement - Zurich Life Insurance (HK) Ltd & FFWML - signed.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/114",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/152",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-049",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20211214 - Assicurazioni Generali HKB Broker's agreement) (signed) - DWML (signed).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/115",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/153",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-050",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20220209 - AXA_Broker Contract - Fortune Uniwin Fin. Gp. Ltd.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/116",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/154",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-051",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20220420 - Broker Agreement.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/117",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/155",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-052",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20220522_Confidential Company Agents Agreement (Btw JF & Sunlife).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/118",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/156",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-053",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20230417 - SunLife Brokers Agt - Fortune Uniwin (signed).pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/119",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/157",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-054",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20240425_新加坡永明-Distribution agreement(盖章）.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/120",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/158",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-055",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20240509- Broker Agreement_China Taiping Life Insurance_DW.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/121",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/159",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-056",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20250825_Broker Agreement_Well Link.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/122",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/160",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-057",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/20260225.1.1Broker Agreement Sandy Chow Signed.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/123",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/161",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-058",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/Blue_Complete_with_Docusign_Distribution_Agreement_20250722.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/124",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/162",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-059",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/CPI Broker Agreement - Fortune Uniwin  signed.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/125",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/163",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    },
+    {
+      "id": "O60-060",
+      "path": "/Users/a112233/Desktop/牌照和保司合同/Signed InternationalDistributorAgreement Delightful Wealth Management Limited.pdf",
+      "old_status": "敏感待核",
+      "new_status": "仅引用",
+      "reason": "现存清单已登记该PDF精确路径；按现行PDF仅引用规则保留路径引用即可，无需合同正文授权。不是确认合同内容、签署、效力、项目在用或现存可读。",
+      "evidence_locator": [
+        {
+          "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+          "locator": "/file_decisions/126",
+          "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+        },
+        {
+          "artifact": "MOC/OB本地清单/项目入口队列.json",
+          "locator": "/164",
+          "supports": "原始入口及admission_review；同一分片传播记录，不视为独立印证"
+        },
+        {
+          "artifact": "MOC/OB执行与独立核查协议_2026-11-10.md",
+          "locator": "L29",
+          "supports": "PDF仅引用不解析；不因敏感要求扩大权限"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "evidence_gap": null,
+      "source_accessed_this_round": false,
+      "source_read_bytes_this_round": 0,
+      "review_status": "待独立核查；未写入统一队列"
+    }
+  ],
+  "counts": {
+    "total": 60,
+    "old_status": {
+      "待核": 20,
+      "敏感待核": 40
+    },
+    "new_status": {
+      "继续证据待核": 20,
+      "仅引用": 39,
+      "排除": 1
+    },
+    "requires_user": 0
+  },
+  "analysis_needed_definition": {
+    "false": "当前处置为排除或仅路径引用，不需正文分析",
+    "null": "归属/类型证据不足，是否需要业务分析尚未成立；不代表授权读取"
+  },
+  "requires_user_definition": "本批无必须人工裁定的权限或业务冲突；证据不足维持局部隔离，不自动转换成授权申请。question均null。",
+  "read_metrics": {
+    "source_files_opened": 0,
+    "source_read_bytes": 0,
+    "source_stat_calls": 0,
+    "server_access": 0,
+    "contract_body_read": 0,
+    "technical_source_read": 0,
+    "token_count": null,
+    "scope": "只读取vault治理清单与报告；不把以前的源读取量计为本轮"
+  },
+  "coverage": {
+    "expected": 60,
+    "processed": 60,
+    "unique_paths": 60,
+    "missing": [],
+    "duplicates": [],
+    "pdf_reference": 38,
+    "directory_reference": 1,
+    "excluded_system_entry": 1,
+    "evidence_pending": 20,
+    "unknown_subtree_file_count": null
+  },
+  "audit_notes": [
+    "仅引用表示旧路径引用登记，不证明当前存在、MIME类型、mtime、权属、签署或法律效力；PDF分类依既有扩展名元数据，不做正文验证。",
+    "本批未读取源、未补hash、未stat外部入口；首次mtime窗口仅在后续合法准入时适用，不凭目录mtime排除或准入整个项目。",
+    "旧账本、统一队列与历史原文保持不变。本批不修正此前访问偏差，不声称历史全流程合规。",
+    "只复审vault证据，不将治理整理当新增业务知识；20待核缺口不按文件名强判，不以等待人工阻塞其他项。"
+  ],
+  "remaining_unknown": [
+    {
+      "id": "O60-001",
+      "path": "/Users/a112233/Desktop/20260901T041201_session.md",
+      "evidence_gap": "需现有治理记录将该精确路径绑定到项目、用途及主源；不是请求读取会话正文。"
+    },
+    {
+      "id": "O60-002",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目",
+      "evidence_gap": "需项目状态及业务范围的治理证据；目录新旧和mtime不构成准入。"
+    },
+    {
+      "id": "O60-003",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目/01_编目",
+      "evidence_gap": "需根项目归属及该子项与主源/派生索引关系。"
+    },
+    {
+      "id": "O60-004",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目/02_百科",
+      "evidence_gap": "需根项目状态及该子项来源边界。"
+    },
+    {
+      "id": "O60-005",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目/03_项目视图",
+      "evidence_gap": "需项目映射及视图/原始来源关系。"
+    },
+    {
+      "id": "O60-006",
+      "path": "/Users/a112233/Desktop/Grokbot本体项目/04_分析与对比",
+      "evidence_gap": "需治理说明界定业务比较或实验用途。"
+    },
+    {
+      "id": "O60-007",
+      "path": "/Users/a112233/Desktop/临时工作区",
+      "evidence_gap": "需按精确子路径已有证据分别归属，未知子树数量继续null。"
+    },
+    {
+      "id": "O60-008",
+      "path": "/Users/a112233/Desktop/临时工作区/2026年8月热点Top10_五大类别.html",
+      "evidence_gap": "需将该精确路径绑定项目及主源；不以金融主题推为RW或其他项目。"
+    },
+    {
+      "id": "O60-009",
+      "path": "/Users/a112233/Desktop/临时工作区/2026年9月热点Top10_五大类别.html",
+      "evidence_gap": "需已有治理映射与权威版本关系；不跟随报告引用。"
+    },
+    {
+      "id": "O60-010",
+      "path": "/Users/a112233/Desktop/临时工作区/2026年9月热点_五类.html",
+      "evidence_gap": "需项目与主源映射，不能由非冻结推为实验或在用。"
+    },
+    {
+      "id": "O60-011",
+      "path": "/Users/a112233/Desktop/临时工作区/K3版本",
+      "evidence_gap": "需该目录的用途或与已确认实验的精确关联证据。"
+    },
+    {
+      "id": "O60-012",
+      "path": "/Users/a112233/Desktop/临时工作区/codex-A版本",
+      "evidence_gap": "需目录用途及主源关系证据。"
+    },
+    {
+      "id": "O60-013",
+      "path": "/Users/a112233/Desktop/临时工作区/deepseek版",
+      "evidence_gap": "需该目录与实验或正式项目的精确关联。"
+    },
+    {
+      "id": "O60-014",
+      "path": "/Users/a112233/Desktop/临时工作区/video_kaihong_full____",
+      "evidence_gap": "需现有清单证据说明入口类型及归属；不得因名称自动分类全部子项。"
+    },
+    {
+      "id": "O60-015",
+      "path": "/Users/a112233/Desktop/临时工作区/对照分析_20260924",
+      "evidence_gap": "需已存治理关联说明该目录用途，不需扩大权限。"
+    },
+    {
+      "id": "O60-016",
+      "path": "/Users/a112233/Desktop/临时工作区/月度热点报告_生成指令.md",
+      "evidence_gap": "需项目用途及内容类型的治理证据；现摘记不足以裁为技术实现。"
+    },
+    {
+      "id": "O60-017",
+      "path": "/Users/a112233/Desktop/临时工作区/模块0_20260923.html",
+      "evidence_gap": "需该文件归属与业务规则/技术采集边界的现有证据。"
+    },
+    {
+      "id": "O60-018",
+      "path": "/Users/a112233/Desktop/临时工作区/模块0_v2_20260923.html",
+      "evidence_gap": "需归属及版本替代证据，不依据名称选择现行稿。"
+    },
+    {
+      "id": "O60-019",
+      "path": "/Users/a112233/Desktop/临时工作区/模块1_v2_20260923.html",
+      "evidence_gap": "需项目主源映射与批准用途，不跟读模块引用。"
+    },
+    {
+      "id": "O60-020",
+      "path": "/Users/a112233/Desktop/临时工作区/模块1_目标态_20260923.html",
+      "evidence_gap": "需项目主源及草案用途证据，不补读DEC-13。"
+    }
+  ],
+  "validation": {
+    "coverage": "60/60",
+    "independent_review": "尚未通过",
+    "old_ledgers_modified": false
+  },
+  "missing_evidence_groups": [
+    {
+      "group_id": "G01",
+      "title": "桌面散落会话",
+      "parent_project": "无可识别父项目",
+      "member_ids": [
+        "O60-001"
+      ],
+      "member_paths": [
+        "/Users/a112233/Desktop/20260901T041201_session.md"
+      ],
+      "missing_evidence": "精确会话路径与业务项目、用途及主源的映射",
+      "action_anchor": {
+        "kind": "已存在vault治理记录的接收挂点，不是已存在源文件入口",
+        "artifact": "MOC/OB本地清单/其他60再核定.json",
+        "locator": "/missing_evidence_groups/0",
+        "existing_evidence": [
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/2",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          }
+        ]
+      },
+      "source_evidence_entrypoint": null,
+      "automatic_next_step": false,
+      "hold_state": "证据不足封存；无自动下一步，不轮询、不重复读取、不自动申请扩大权限",
+      "reentry_trigger": "主控收到已授权且可定位的新治理证据，明确覆盖本组一个或多个精确path及缺失要素；只对被覆盖成员重新核定，未覆盖成员保持封存。",
+      "required_submission": {
+        "exact_paths": "必须列出本组对应绝对path，不接受仅同主题/父目录类推",
+        "evidence_locator": "提供vault已有或新获授权治理证据的精确文件及段落/记录定位",
+        "project_state": "明确在用/实验/结束/放弃及依据；非由mtime推定",
+        "scope_and_main_source": "项目边界、主源/派生关系；按本组缺证补充用途或版本依据"
+      },
+      "on_trigger": "仅核对新治理证据：明确禁区/实验则排除；仅引用类型则引用；证明业务范围后仍须类型、固定mtime及最小正文门槛。触发不等于正文授权。",
+      "non_triggers": [
+        "文件或目录mtime变化",
+        "相似名称或新增版本号",
+        "其他分片同类主题完成",
+        "旧队列状态原样传播"
+      ],
+      "requires_user": false,
+      "question": null
+    },
+    {
+      "group_id": "G02",
+      "title": "Grokbot父项目及4子入口",
+      "parent_project": "/Users/a112233/Desktop/Grokbot本体项目",
+      "member_ids": [
+        "O60-002",
+        "O60-003",
+        "O60-004",
+        "O60-005",
+        "O60-006"
+      ],
+      "member_paths": [
+        "/Users/a112233/Desktop/Grokbot本体项目",
+        "/Users/a112233/Desktop/Grokbot本体项目/01_编目",
+        "/Users/a112233/Desktop/Grokbot本体项目/02_百科",
+        "/Users/a112233/Desktop/Grokbot本体项目/03_项目视图",
+        "/Users/a112233/Desktop/Grokbot本体项目/04_分析与对比"
+      ],
+      "missing_evidence": "根项目状态、业务范围、主源及四子目录的派生/原始关系",
+      "action_anchor": {
+        "kind": "已存在vault治理记录的接收挂点，不是已存在源文件入口",
+        "artifact": "MOC/OB本地清单/其他60再核定.json",
+        "locator": "/missing_evidence_groups/1",
+        "existing_evidence": [
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/11",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/13",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/14",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/15",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/16",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          }
+        ]
+      },
+      "source_evidence_entrypoint": null,
+      "automatic_next_step": false,
+      "hold_state": "证据不足封存；无自动下一步，不轮询、不重复读取、不自动申请扩大权限",
+      "reentry_trigger": "主控收到已授权且可定位的新治理证据，明确覆盖本组一个或多个精确path及缺失要素；只对被覆盖成员重新核定，未覆盖成员保持封存。",
+      "required_submission": {
+        "exact_paths": "必须列出本组对应绝对path，不接受仅同主题/父目录类推",
+        "evidence_locator": "提供vault已有或新获授权治理证据的精确文件及段落/记录定位",
+        "project_state": "明确在用/实验/结束/放弃及依据；非由mtime推定",
+        "scope_and_main_source": "项目边界、主源/派生关系；按本组缺证补充用途或版本依据"
+      },
+      "on_trigger": "仅核对新治理证据：明确禁区/实验则排除；仅引用类型则引用；证明业务范围后仍须类型、固定mtime及最小正文门槛。触发不等于正文授权。",
+      "non_triggers": [
+        "文件或目录mtime变化",
+        "相似名称或新增版本号",
+        "其他分片同类主题完成",
+        "旧队列状态原样传播"
+      ],
+      "requires_user": false,
+      "question": null
+    },
+    {
+      "group_id": "G03",
+      "title": "临时工作区混合根",
+      "parent_project": "/Users/a112233/Desktop/临时工作区",
+      "member_ids": [
+        "O60-007"
+      ],
+      "member_paths": [
+        "/Users/a112233/Desktop/临时工作区"
+      ],
+      "missing_evidence": "按精确子路径分区的治理清单，而非整根业务或实验标签",
+      "action_anchor": {
+        "kind": "已存在vault治理记录的接收挂点，不是已存在源文件入口",
+        "artifact": "MOC/OB本地清单/其他60再核定.json",
+        "locator": "/missing_evidence_groups/2",
+        "existing_evidence": [
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/22",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          }
+        ]
+      },
+      "source_evidence_entrypoint": null,
+      "automatic_next_step": false,
+      "hold_state": "证据不足封存；无自动下一步，不轮询、不重复读取、不自动申请扩大权限",
+      "reentry_trigger": "主控收到已授权且可定位的新治理证据，明确覆盖本组一个或多个精确path及缺失要素；只对被覆盖成员重新核定，未覆盖成员保持封存。",
+      "required_submission": {
+        "exact_paths": "必须列出本组对应绝对path，不接受仅同主题/父目录类推",
+        "evidence_locator": "提供vault已有或新获授权治理证据的精确文件及段落/记录定位",
+        "project_state": "明确在用/实验/结束/放弃及依据；非由mtime推定",
+        "scope_and_main_source": "项目边界、主源/派生关系；按本组缺证补充用途或版本依据"
+      },
+      "on_trigger": "仅核对新治理证据：明确禁区/实验则排除；仅引用类型则引用；证明业务范围后仍须类型、固定mtime及最小正文门槛。触发不等于正文授权。",
+      "non_triggers": [
+        "文件或目录mtime变化",
+        "相似名称或新增版本号",
+        "其他分片同类主题完成",
+        "旧队列状态原样传播"
+      ],
+      "requires_user": false,
+      "question": null
+    },
+    {
+      "group_id": "G04",
+      "title": "月度热点与生成指令",
+      "parent_project": "/Users/a112233/Desktop/临时工作区",
+      "member_ids": [
+        "O60-008",
+        "O60-009",
+        "O60-010",
+        "O60-016"
+      ],
+      "member_paths": [
+        "/Users/a112233/Desktop/临时工作区/2026年8月热点Top10_五大类别.html",
+        "/Users/a112233/Desktop/临时工作区/2026年9月热点Top10_五大类别.html",
+        "/Users/a112233/Desktop/临时工作区/2026年9月热点_五类.html",
+        "/Users/a112233/Desktop/临时工作区/月度热点报告_生成指令.md"
+      ],
+      "missing_evidence": "四个精确路径的项目绑定、主源、正式任务/实验用途及生成指令的业务/技术边界",
+      "action_anchor": {
+        "kind": "已存在vault治理记录的接收挂点，不是已存在源文件入口",
+        "artifact": "MOC/OB本地清单/其他60再核定.json",
+        "locator": "/missing_evidence_groups/3",
+        "existing_evidence": [
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/24",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/25",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/26",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/60",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          }
+        ]
+      },
+      "source_evidence_entrypoint": null,
+      "automatic_next_step": false,
+      "hold_state": "证据不足封存；无自动下一步，不轮询、不重复读取、不自动申请扩大权限",
+      "reentry_trigger": "主控收到已授权且可定位的新治理证据，明确覆盖本组一个或多个精确path及缺失要素；只对被覆盖成员重新核定，未覆盖成员保持封存。",
+      "required_submission": {
+        "exact_paths": "必须列出本组对应绝对path，不接受仅同主题/父目录类推",
+        "evidence_locator": "提供vault已有或新获授权治理证据的精确文件及段落/记录定位",
+        "project_state": "明确在用/实验/结束/放弃及依据；非由mtime推定",
+        "scope_and_main_source": "项目边界、主源/派生关系；按本组缺证补充用途或版本依据"
+      },
+      "on_trigger": "仅核对新治理证据：明确禁区/实验则排除；仅引用类型则引用；证明业务范围后仍须类型、固定mtime及最小正文门槛。触发不等于正文授权。",
+      "non_triggers": [
+        "文件或目录mtime变化",
+        "相似名称或新增版本号",
+        "其他分片同类主题完成",
+        "旧队列状态原样传播"
+      ],
+      "requires_user": false,
+      "question": null
+    },
+    {
+      "group_id": "G05",
+      "title": "模块0/1草案及版本",
+      "parent_project": "/Users/a112233/Desktop/临时工作区",
+      "member_ids": [
+        "O60-017",
+        "O60-018",
+        "O60-019",
+        "O60-020"
+      ],
+      "member_paths": [
+        "/Users/a112233/Desktop/临时工作区/模块0_20260923.html",
+        "/Users/a112233/Desktop/临时工作区/模块0_v2_20260923.html",
+        "/Users/a112233/Desktop/临时工作区/模块1_v2_20260923.html",
+        "/Users/a112233/Desktop/临时工作区/模块1_目标态_20260923.html"
+      ],
+      "missing_evidence": "四稿的项目归属、业务规则与工具输入边界、版本替代及批准用途",
+      "action_anchor": {
+        "kind": "已存在vault治理记录的接收挂点，不是已存在源文件入口",
+        "artifact": "MOC/OB本地清单/其他60再核定.json",
+        "locator": "/missing_evidence_groups/4",
+        "existing_evidence": [
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/62",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/63",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/64",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/65",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          }
+        ]
+      },
+      "source_evidence_entrypoint": null,
+      "automatic_next_step": false,
+      "hold_state": "证据不足封存；无自动下一步，不轮询、不重复读取、不自动申请扩大权限",
+      "reentry_trigger": "主控收到已授权且可定位的新治理证据，明确覆盖本组一个或多个精确path及缺失要素；只对被覆盖成员重新核定，未覆盖成员保持封存。",
+      "required_submission": {
+        "exact_paths": "必须列出本组对应绝对path，不接受仅同主题/父目录类推",
+        "evidence_locator": "提供vault已有或新获授权治理证据的精确文件及段落/记录定位",
+        "project_state": "明确在用/实验/结束/放弃及依据；非由mtime推定",
+        "scope_and_main_source": "项目边界、主源/派生关系；按本组缺证补充用途或版本依据"
+      },
+      "on_trigger": "仅核对新治理证据：明确禁区/实验则排除；仅引用类型则引用；证明业务范围后仍须类型、固定mtime及最小正文门槛。触发不等于正文授权。",
+      "non_triggers": [
+        "文件或目录mtime变化",
+        "相似名称或新增版本号",
+        "其他分片同类主题完成",
+        "旧队列状态原样传播"
+      ],
+      "requires_user": false,
+      "question": null
+    },
+    {
+      "group_id": "G06",
+      "title": "版本/对照/视频子入口",
+      "parent_project": "/Users/a112233/Desktop/临时工作区",
+      "member_ids": [
+        "O60-011",
+        "O60-012",
+        "O60-013",
+        "O60-014",
+        "O60-015"
+      ],
+      "member_paths": [
+        "/Users/a112233/Desktop/临时工作区/K3版本",
+        "/Users/a112233/Desktop/临时工作区/codex-A版本",
+        "/Users/a112233/Desktop/临时工作区/deepseek版",
+        "/Users/a112233/Desktop/临时工作区/video_kaihong_full____",
+        "/Users/a112233/Desktop/临时工作区/对照分析_20260924"
+      ],
+      "missing_evidence": "五子入口各自用途和与已确认实验或业务项目的精确关系；不由名称外推",
+      "action_anchor": {
+        "kind": "已存在vault治理记录的接收挂点，不是已存在源文件入口",
+        "artifact": "MOC/OB本地清单/其他60再核定.json",
+        "locator": "/missing_evidence_groups/5",
+        "existing_evidence": [
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/35",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/41",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/42",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/47",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          },
+          {
+            "artifact": "MOC/OB本地清单/非RW_其他核定.json",
+            "locator": "/file_decisions/54",
+            "supports": "本条旧状态、路径、旧理由及历史治理摘记"
+          }
+        ]
+      },
+      "source_evidence_entrypoint": null,
+      "automatic_next_step": false,
+      "hold_state": "证据不足封存；无自动下一步，不轮询、不重复读取、不自动申请扩大权限",
+      "reentry_trigger": "主控收到已授权且可定位的新治理证据，明确覆盖本组一个或多个精确path及缺失要素；只对被覆盖成员重新核定，未覆盖成员保持封存。",
+      "required_submission": {
+        "exact_paths": "必须列出本组对应绝对path，不接受仅同主题/父目录类推",
+        "evidence_locator": "提供vault已有或新获授权治理证据的精确文件及段落/记录定位",
+        "project_state": "明确在用/实验/结束/放弃及依据；非由mtime推定",
+        "scope_and_main_source": "项目边界、主源/派生关系；按本组缺证补充用途或版本依据"
+      },
+      "on_trigger": "仅核对新治理证据：明确禁区/实验则排除；仅引用类型则引用；证明业务范围后仍须类型、固定mtime及最小正文门槛。触发不等于正文授权。",
+      "non_triggers": [
+        "文件或目录mtime变化",
+        "相似名称或新增版本号",
+        "其他分片同类主题完成",
+        "旧队列状态原样传播"
+      ],
+      "requires_user": false,
+      "question": null
+    }
+  ],
+  "missing_evidence_group_policy": "20项按共同缺证聚合6组；全部无已识别可安全自动读取的源治理入口。现有vault记录是接收与核查挂点，不是读取授权。证据不足封存，取消无新证据循环复核；只在精确新治理证据进入后局部再入。"
+}

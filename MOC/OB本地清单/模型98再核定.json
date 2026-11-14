@@ -1,0 +1,5502 @@
+{
+  "schema_version": "model98-reassessment-v1",
+  "created_at": "2026-11-13T03:51:13.712Z",
+  "integration": "仅供主控追加reassessment_review；本轮不修改旧账本/统一队列。records仅文件，scope_decisions仅目录范围。",
+  "inputs": [
+    {
+      "path": "MOC/OB本地清单/非RW_模型EA核定.json",
+      "sha256": "d631039e251297a30ada010f646ceb44f89f83f3715726fdb7bf589551d886fe"
+    },
+    {
+      "path": "MOC/OB本地清单/模型续批_C.json",
+      "sha256": "4307068a7beedeadb1914f4d5b960e08dd680d806827b2d279ce1bac3150fcbb"
+    }
+  ],
+  "records": [
+    {
+      "id": "R001",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_D09P02_Party与法律实体发布执行单及确认回执_v1.0.md",
+      "old_status": "敏感标识隔离_未作业务分析",
+      "new_status": "仅引用_主体登记明细不扩读",
+      "reason": "定位到公司法定登记标识和逐主体名单；本轮保守隔离，不摄入登记明细或据此确认主体资格。公司登记标识本身不自动等于个人敏感数据；本轮只引用材料范围，不确认主体资格，不因同片段判断整文重复。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/0",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/1",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1521
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R002",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_D09P03-D09P05主体关系域来源验真与执行单_20260821.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "主体关系业务与生产库结构核验混合；识别片段后停止，不分析生产聚合数据或工程结论。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/1",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/2",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1297
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R003",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_D09P08-D09P10产品域来源验真与执行单_20260821.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "产品业务与生产表、代理键及结构检查混合；识别后停止，不据工程结果形成产品事实。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/2",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/3",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1571
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R004",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_业务数据中台数字标准化资料包_v1.0_20260822/governance/业务模型经营系统_D09P01字典层拆分与三方回读候选_20260821.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "正文定位为TECHNICAL_READBACK_PASS及三方引擎回读候选，工程与治理混合；停止业务分析。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/3",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/21",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1747
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R005",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_业务数据中台数字标准化资料包_v1.0_20260822/governance/业务模型经营系统_D09P02_Party与法律实体发布执行单及确认回执_v1.0.md",
+      "old_status": "敏感标识隔离_未作业务分析",
+      "new_status": "仅引用_主体登记明细不扩读",
+      "reason": "与B002识别片段相同，含法定登记标识；保守隔离，不因副本重复而摄入主体明细。公司登记标识本身不自动等于个人敏感数据；本轮只引用材料范围，不确认主体资格，不因同片段判断整文重复。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/4",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/23",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1521
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R006",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_业务数据中台数字标准化资料包_v1.0_20260822/governance/业务模型经营系统_D09P02_Party与法律实体来源预扫描_20260821.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "预扫描主要为生产表聚合和字段缺口技术核对；仅类型识别，不作主体核验或技术分析。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/5",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/24",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1293
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R007",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_业务数据中台数字标准化资料包_v1.0_20260822/governance/业务模型经营系统_业务数据中台数字标准化资料包与执行索引_v1.0.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "数据中台数字标准、系统表/API和业务治理混合；仅识别后停止，不摄入工程建设规范。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/6",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/37",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1158
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R008",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_业务数据中台数字标准化资料包_v1.0_20260822/governance/业务模型经营系统_四类十二细分_中台发布执行单与确认回执_v1.0.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "正文是物理对象/API/发布环境执行模板，业务分类与系统发布混合；空发布栏非发布事实。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/7",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/38",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1256
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R009",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/01_指令与任务书/Mark资料包_v1.0_20260822/业务模型经营系统_业务数据中台数字标准化资料包_v1.0_20260822/governance/业务模型经营系统_四类十二细分_独立核验与三方回读记录_20260819.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "文内三方生产回读、SQL和引擎校验混合；识别后停止，不分析或复算工程结果。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/8",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/39",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1892
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R010",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/04_需求与来源明细台账/业务模型经营系统_执行单交付对象全量复核_v1.0_20260825.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "对象/字段机器比对与业务作业权威混合；只作类型识别，不分析工程建模差异。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/9",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/81",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1216
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R011",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/06_会议与决策纪要/业务模型经营系统_发表头前裁定回执_v1.0_20260825.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "字段增删/结构落地与业务裁定混合，停止工程分析；文内硬阻塞清零不作实际发布或专业签署证明。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/10",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/91",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1741
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R012",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_PMO协助修正执行记录_路径状态与P10重绑_20260909.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "路径/公式/哈希重绑工程执行与状态治理混合；最小定位后停止，不分析技术修正。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/11",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/104",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1271
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R013",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie增量修正与封包更新清单_v2_20260909.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "哈希/公式/字段回写封包变更表，工程与业务状态混合；停止分析，只留识别片段指纹。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/12",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/110",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1835
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R014",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie统一修正回写封包清单_v1_20260909.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "公式修复、Office字节变化及封包清单，工程混合；不验证哈希变化成因，不做业务分析。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/13",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/111",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1897
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R015",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie统一封包清单_v3_20260909.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "v3工程封包增量、上游哈希重绑与PMO记录混合，停止分析；不采完成声明。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/14",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/114",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1862
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R016",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie统一封包清单_v4_20260911.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "v4工程字段及哈希修正记录，混合类型识别即止，不复算或判断完成。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/15",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/115",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 2003
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R017",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie统一封包清单_v5_20260911.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "v5技术遗漏修复/字典单元格回写与业务规则混合，不作业务知识依据。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/16",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/116",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1818
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R018",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie统一封包清单_v6_20260914.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "v6建模、逻辑对象和封包哈希混合，停止分析；例外关闭自述不晋升。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/17",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/117",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 2127
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R019",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie统一封包清单_v7_20260914.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "v7字段族/依赖/封包修正与例外拆分混合，仅溯源，不分析工程实现。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/18",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/118",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 2010
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R020",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie统一封包清单_v8_20260914.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "v8字段取值/版本绑定与封包技术变更混合，不把初拟值域当批准基线。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/19",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/119",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1983
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R021",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA_Carrie统一封包清单_v9_20260914.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "v9表头重生/判重及日志工程变更混合，仅类型识别，完成自述不视为执行验证。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/20",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/120",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 2067
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R022",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/07_分发与回收台账/D09_UA修正批次_变更说明_R01-R10_20260907.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "逐单元格原值新值、公式与版本工程修正混合，识别后停止，不采执行完成结论。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/21",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/123",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1844
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R023",
+      "path": "/Users/a112233/Desktop/业务模型/00_总控/08_阻断与开放问题/[OPEN]_P06母单元binding落库_对齐待裁定单_v1_20260902.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "P06 binding落库/seed与发布时点工程待裁定单；识别后停止，不分析部署或解除RELEASE_HOLD。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/22",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/144",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1532
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R024",
+      "path": "/Users/a112233/Desktop/业务模型/10_标准与基线/01_作业指引/90_归档/20260914_六组残留收口前/业务模型经营系统_D09来源收口作业指引_v3.0.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "归档作业指引混合旧JSON投影与工程回读语境；识别后停止，入口已被后续明确降历史。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/23",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/146",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2800,
+        "read_chars": 1326
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R025",
+      "path": "/Users/a112233/Desktop/业务模型/10_标准与基线/01_作业指引/业务模型经营系统_D09来源收口作业指引_v3.0.md",
+      "old_status": "工程混合隔离_仅类型识别",
+      "new_status": "技术混合排除_业务采集范围外",
+      "reason": "首段按治理指引识别，定点补读发现生产表统计、引擎回读与业务方法混合后停止；不作业务主题依据、不全读取hash。已有类型辨识足以排除本轮业务采集；不等待人批准、不复读工程段，不断言整篇无业务内容。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/24",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/152",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 10600,
+        "read_chars": 4145
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R026",
+      "path": "/Users/a112233/Desktop/业务模型/10_标准与基线/02_目标数据模型/03_导出物/经营模型要读哪些表.html",
+      "old_status": "类型待核",
+      "new_status": "技术分支排除_仅元数据",
+      "reason": "README明确此分支含ER/主外键/字段实现，业务语义与技术工程混合；未读正文，不假作技术或业务分析。按已记录治理分支边界排除正文采集，非凭文件名判断全文；未读事实保留。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/25",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/155",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R027",
+      "path": "/Users/a112233/Desktop/业务模型/10_标准与基线/02_目标数据模型/业务模型经营系统_现状列清单与字段校准判定_v0.1_20260825.md",
+      "old_status": "类型待核",
+      "new_status": "技术分支排除_仅元数据",
+      "reason": "README明确此分支含ER/主外键/字段实现，业务语义与技术工程混合；未读正文，不假作技术或业务分析。按已记录治理分支边界排除正文采集，非凭文件名判断全文；未读事实保留。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/26",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/156",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R028",
+      "path": "/Users/a112233/Desktop/业务模型/10_标准与基线/02_目标数据模型/业务模型经营系统_经营模型要读哪些表_v1.0_20260826.md",
+      "old_status": "类型待核",
+      "new_status": "技术分支排除_仅元数据",
+      "reason": "README明确此分支含ER/主外键/字段实现，业务语义与技术工程混合；未读正文，不假作技术或业务分析。按已记录治理分支边界排除正文采集，非凭文件名判断全文；未读事实保留。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/27",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/157",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R029",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P02_Party与法律实体/02_原始材料/原件/[EVIDENCE]_Roy负责13家公司_注册证据核验总表_20260822.md",
+      "old_status": "待核",
+      "new_status": "历史冲突收录_非当前有效性",
+      "reason": "汇总“有效”标记与部分证件期间及待确认项并存，可直接收录这个历史冲突。分别记录汇总时点、证件期间和当前资格未知，不验证原证件，不要求用户裁定后才能收录。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/28",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/191",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 6217,
+        "read_chars": 4480
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R030",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P02_Party与法律实体/02_原始材料/原件/秘书公司主体台账.md",
+      "old_status": "待核",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "主体台账出现内部档案含个人身份资料警示，而A18索引称无PII；最小读取后停止深入，个人详细资料/访问边界不清。未为hash读全文件。。具体个人资料警示不能被无PII标签解除；只有继续正文准入需要明确脱敏边界。本轮元数据处置完成，原已读事实保留。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/29",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/199",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 8897,
+        "read_chars": 5707
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R031",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P02_Party与法律实体/02_原始材料/原件/秘书公司主体资料清单.md",
+      "old_status": "待核",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "资料索引混有个人主体及KYC/身份资料入口，A18无PII标记不足以放行全量；停止展开2879项索引，保留片段哈希，不跟随引用。。具体个人资料警示不能被无PII标签解除；只有继续正文准入需要明确脱敏边界。本轮元数据处置完成，原已读事实保留。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/30",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/201",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 7598,
+        "read_chars": 4656
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R032",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P11_经纪分销授权/00_在途/发出/RO邮件草稿/P11_DW_RO_保司全称确认_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "证据待补_仅引用不扩读",
+      "reason": "现存记录仅有笼统敏感标签，缺该文件具体内容/权限边界定位；不能凭文件名确认PII或直接放行。保留未打开事实，只引用元数据；后续先补已有权属或脱敏边界证据，不要求用户裁定业务观点。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/31",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/332",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/4",
+          "role": "原C记录及逐行字符定位"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "source_accessed": false,
+        "read_bytes": 0,
+        "read_chars": null,
+        "access_deviation": false,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C005",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": false,
+          "read_bytes": 0,
+          "read_bytes_missing_reason": null,
+          "access_deviation": false,
+          "access_stage": "未打开正文即隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/evidence",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R033",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P11_经纪分销授权/00_在途/发出/RO邮件草稿/P11_EGW_RO_保司全称确认_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "证据待补_仅引用不扩读",
+      "reason": "现存记录仅有笼统敏感标签，缺该文件具体内容/权限边界定位；不能凭文件名确认PII或直接放行。保留未打开事实，只引用元数据；后续先补已有权属或脱敏边界证据，不要求用户裁定业务观点。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/32",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/333",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/5",
+          "role": "原C记录及逐行字符定位"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "source_accessed": false,
+        "read_bytes": 0,
+        "read_chars": null,
+        "access_deviation": false,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C006",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": false,
+          "read_bytes": 0,
+          "read_bytes_missing_reason": null,
+          "access_deviation": false,
+          "access_stage": "未打开正文即隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/evidence",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R034",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P11_经纪分销授权/00_在途/发出/RO邮件草稿/P11_UNIWIN_RO_保司全称确认_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "证据待补_仅引用不扩读",
+      "reason": "现存记录仅有笼统敏感标签，缺该文件具体内容/权限边界定位；不能凭文件名确认PII或直接放行。保留未打开事实，只引用元数据；后续先补已有权属或脱敏边界证据，不要求用户裁定业务观点。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/33",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/334",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/6",
+          "role": "原C记录及逐行字符定位"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "source_accessed": false,
+        "read_bytes": 0,
+        "read_chars": null,
+        "access_deviation": false,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C007",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": false,
+          "read_bytes": 0,
+          "read_bytes_missing_reason": null,
+          "access_deviation": false,
+          "access_stage": "未打开正文即隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/evidence",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R035",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P12_MGA联合运营/02_原始材料/原件/Carrie受限确认邮件登记_20260824.md",
+      "old_status": "敏感隔离",
+      "new_status": "证据待补_仅引用不扩读",
+      "reason": "现存记录仅有笼统敏感标签，缺该文件具体内容/权限边界定位；不能凭文件名确认PII或直接放行。保留未打开事实，只引用元数据；后续先补已有权属或脱敏边界证据，不要求用户裁定业务观点。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/34",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/419",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/34",
+          "role": "原C记录及逐行字符定位"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "source_accessed": false,
+        "read_bytes": 0,
+        "read_chars": null,
+        "access_deviation": false,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C035",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": false,
+          "read_bytes": 0,
+          "read_bytes_missing_reason": null,
+          "access_deviation": false,
+          "access_stage": "未打开正文即隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/evidence",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R036",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P12_MGA联合运营/02_原始材料/原件/P12-ARC-022_合同_永明TA_第二补充协议签署页受控回读_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "证据待补_仅引用不扩读",
+      "reason": "现存记录仅有笼统敏感标签，缺该文件具体内容/权限边界定位；不能凭文件名确认PII或直接放行。保留未打开事实，只引用元数据；后续先补已有权属或脱敏边界证据，不要求用户裁定业务观点。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/35",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/420",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/35",
+          "role": "原C记录及逐行字符定位"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "source_accessed": false,
+        "read_bytes": 0,
+        "read_chars": null,
+        "access_deviation": false,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C036",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": false,
+          "read_bytes": 0,
+          "read_bytes_missing_reason": null,
+          "access_deviation": false,
+          "access_stage": "未打开正文即隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/evidence",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R037",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P12_MGA联合运营/02_原始材料/原件/人员_联合运营_IA三名TR公开查询核验记录_20260824.md",
+      "old_status": "敏感隔离",
+      "new_status": "证据待补_仅引用不扩读",
+      "reason": "现存记录仅有笼统敏感标签，缺该文件具体内容/权限边界定位；不能凭文件名确认PII或直接放行。保留未打开事实，只引用元数据；后续先补已有权属或脱敏边界证据，不要求用户裁定业务观点。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/36",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/425",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/39",
+          "role": "原C记录及逐行字符定位"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "source_accessed": false,
+        "read_bytes": 0,
+        "read_chars": null,
+        "access_deviation": false,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C040",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": false,
+          "read_bytes": 0,
+          "read_bytes_missing_reason": null,
+          "access_deviation": false,
+          "access_stage": "未打开正文即隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/evidence",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R038",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P12_MGA联合运营/02_原始材料/原件/人员_联合运营_天誉人员名单及IA挂牌核验登记_待补证.md",
+      "old_status": "敏感隔离",
+      "new_status": "证据待补_仅引用不扩读",
+      "reason": "现存记录仅有笼统敏感标签，缺该文件具体内容/权限边界定位；不能凭文件名确认PII或直接放行。保留未打开事实，只引用元数据；后续先补已有权属或脱敏边界证据，不要求用户裁定业务观点。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/37",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/429",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/40",
+          "role": "原C记录及逐行字符定位"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "source_accessed": false,
+        "read_bytes": 0,
+        "read_chars": null,
+        "access_deviation": false,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C041",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": false,
+          "read_bytes": 0,
+          "read_bytes_missing_reason": null,
+          "access_deviation": false,
+          "access_stage": "未打开正文即隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/evidence",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R039",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P12_MGA联合运营/04_底稿/P12人员事实移交请求_P18_两轴映射及接收_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "敏感明细排除_保留已读审计",
+      "reason": "C组主题报告明确C050整字节读取后识别个人明细。直接排除明细摄入，保留1720字节已访问及偏差，不重读、不改记未读；移交请求题名不能代替业务证据。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/38",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/449",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/49",
+          "role": "原C记录及逐行字符定位"
+        },
+        {
+          "vault_file": "MOC/模型业务主题_C.md",
+          "section": "范围、读量与访问偏差",
+          "role": "个人明细识别与已读偏差"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "source_accessed": true,
+        "read_bytes": 1720,
+        "read_chars": null,
+        "access_deviation": true,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C050",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": true,
+          "read_bytes": 1720,
+          "read_bytes_missing_reason": null,
+          "access_deviation": true,
+          "access_stage": "已完整字节读取后隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R040",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P13_牌照与受监管动作/03_核验与退回/[BLOCKER]_P13-BLOCK-P02-EXT_外部持牌实体未进入P02_20260827.md",
+      "old_status": "待核",
+      "new_status": "历史冲突收录_非当前绑定规则",
+      "reason": "并列收录C072以party=license一对一登记解释阻断关闭、C062/C063对外部合作方进入P02范围的不同说法。对象集合或版本替代未证实，不拼成当前绑定规则；历史收录无需用户选择哪方正确。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/39",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/516",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/71",
+          "role": "原C记录及逐行字符定位"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/61",
+          "role": "冲突对照 C062"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/62",
+          "role": "冲突对照 C063"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 2564,
+        "read_chars": 683,
+        "access_deviation": "初轮类型语义核定前为hash完整读取字节；不符合最小读取要求；后续仅复用已提取片段，未重读源"
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R041",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P17_KYC与适当性/04_底稿/P13正式数据集建设_20260902/P13_P11-P13当前关系对账_v1.0_20260902.md",
+      "old_status": "待核",
+      "new_status": "历史冲突收录_不合并实体",
+      "reason": "并列收录此材料将FTL/CTF作为不同实体或合同缺口、C010称历史更名的冲突。区分名称标准化、法人身份、合同关系与佣金配置粒度；不合并ID、不验证当前授权，历史收录不等待人决策。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/40",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/618",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/119",
+          "role": "原C记录及逐行字符定位"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/9",
+          "role": "冲突对照 C010"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 3039,
+        "read_chars": 1051,
+        "access_deviation": "初轮类型语义核定前为hash完整读取字节；不符合最小读取要求；后续仅复用已提取片段，未重读源"
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R042",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P17_KYC与适当性/04_底稿/P13正式数据集建设_20260902/P13_正式数据集独立审计与补料请求_v1.0_20260902.md",
+      "old_status": "待核",
+      "new_status": "历史冲突收录_不合并实体",
+      "reason": "并列收录此材料将FTL/CTF作为不同实体或合同缺口、C010称历史更名的冲突。区分名称标准化、法人身份、合同关系与佣金配置粒度；不合并ID、不验证当前授权，历史收录不等待人决策。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/41",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/621",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/120",
+          "role": "原C记录及逐行字符定位"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/9",
+          "role": "冲突对照 C010"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": true,
+        "read_bytes": 4242,
+        "read_chars": 782,
+        "access_deviation": "初轮类型语义核定前为hash完整读取字节；不符合最小读取要求；后续仅复用已提取片段，未重读源"
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R043",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P17_KYC与适当性/04_底稿/P17正式数据表建设_20260902/P17_客户外键候选源核验记录_v1.0_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "证据待补_仅引用不扩读",
+      "reason": "现存记录仅有笼统敏感标签，缺该文件具体内容/权限边界定位；不能凭文件名确认PII或直接放行。保留未打开事实，只引用元数据；后续先补已有权属或脱敏边界证据，不要求用户裁定业务观点。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/42",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/663",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/模型续批_C.json",
+          "json_pointer": "/records/127",
+          "role": "原C记录及逐行字符定位"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "source_accessed": false,
+        "read_bytes": 0,
+        "read_chars": null,
+        "access_deviation": false,
+        "audit_ref": "MOC/OB本地清单/模型续批_C.json#/restricted_access_audit/C128",
+        "restricted_access_audit": {
+          "provenance": "本会话净化前Cartifact逐项记录的现存缓存；直接恢复原ID、full_bytes_acquired和read_bytes，非差额推定，未访问源文件。",
+          "source_accessed": false,
+          "read_bytes": 0,
+          "read_bytes_missing_reason": null,
+          "access_deviation": false,
+          "access_stage": "未打开正文即隔离",
+          "review_status": "待James独立核查；不声明读取合规"
+        }
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/evidence",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R044",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/发出/D09P18_Mark复验后当前执行任务_v1_20260911.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/43",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/724",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R045",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/发出/P18_Fiona提交指引_v1.1_20260904.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/44",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/726",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R046",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/发出/P18_Fiona提交模板_V1.2整合说明_20260911.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/45",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/727",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R047",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/发出/_发布清单.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/46",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/737",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R048",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/P18_Carrie执行回执_20260914.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/47",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/739",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R049",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/P18_系统责任与采用边界_用户确认及PMO回写说明_20260914.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/48",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/740",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R050",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[CONFIRM]_Carrie_P18来源确认事项_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/49",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/741",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R051",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[CONFIRM]_Fiona_P18来源确认事项_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/50",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/744",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R052",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[CONFIRM]_Ivan_P18确认单回应_person_type映射_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/51",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/746",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R053",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[CONFIRM]_MOMO_P18来源确认事项_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/52",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/748",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R054",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[CONFIRM]_Teresa_P18来源确认事项_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/53",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/749",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R055",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[REPLY]_Carrie_P18来源确认回复_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/54",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/750",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R056",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[REPLY]_Ivan_P18_UA-07逐行来源核对回执_20260908.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/55",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/751",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R057",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[REPLY]_Ivan_P18_系统Owner与入口确认清单_20260911.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/56",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/752",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R058",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[REPLY]_Ivan_致Carrie_五开口答复_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/57",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/753",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R059",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[REPLY]_Teresa_P18合规确认回复_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/58",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/754",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R060",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[SUBMITTED]_Fancy_三系统治理信息反馈_20260911.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/59",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/755",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R061",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填/[SUBMITTED]_Fiona_P18来源确认反馈_20260911.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/60",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/756",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R062",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/02_原始材料/原件/HR基线数据模板V5.9_版本说明.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/61",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/763",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R063",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/02_原始材料/原件/HR基线数据模板V5.9_版本说明_r2_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/62",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/764",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R064",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/02_原始材料/原件/[DATA]_归属表20260720与HR基线V5.7逐人比对报告_20260824.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/63",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/766",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R065",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/02_原始材料/索引/HR基线数据模板V5.8_版本说明.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/64",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/768",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R066",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/D09P18_回复Carrie_V5.9四项确认与订正口径_20260901.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/65",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/769",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R067",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/D09P18_回复HR_V5.9纠错与person_type对齐_20260901.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/66",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/770",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R068",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[BRIEF]_Fancy_D09项目入门说明_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/67",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/771",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R069",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[CHECKLIST]_Momo_Fancy_业务系统交接确认清单_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/68",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/773",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R070",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[FINAL]_OQ-P18-02_高权批准依据边界专业结论_v1.0_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/69",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/774",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R071",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[FINAL]_P18-06_高风险动作职责分离矩阵_v1.0_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/70",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/775",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R072",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[FINAL]_高权限审批与补偿控制流程_v1.0_20260902.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/71",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/776",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R073",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[IN_REVIEW]_P18-06_高风险动作职责分离矩阵_v0.2_20260901.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/72",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/777",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R074",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[IN_REVIEW]_P18-08_敏感数据文件导出及AI访问合规边界_v0.2_20260901.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/73",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/778",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R075",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[IN_REVIEW]_高权限审批与补偿控制流程_v0.2_20260901.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/74",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/779",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R076",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[WORKING]_P18-18_来源收口登记表_HR域_袁林_20260825.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/75",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/780",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R077",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[WORKING]_P18数据范围解析与实名提交者_20260826.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/76",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/781",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R078",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[WORKING]_袁林_P18_三系统账号清单分析_20260828.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/77",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/782",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R079",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[WORKING]_袁林_P18_三系统账号清单分析_20260903.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/78",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/783",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R080",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[WORKING]_袁林_P18来源确认底稿_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/79",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/784",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R081",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿/[WORKING]_高权限审批与补偿控制流程_v0.1_20260827.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/80",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/785",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R082",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/90_归档/00_在途/发出/20260911_复验派单替代/D09P18_TeresaPMO当前待执行任务_v3_20260908.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/81",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/788",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R083",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/⚠_PII警示_必读.md",
+      "old_status": "敏感隔离",
+      "new_status": "边界待决_脱敏范围",
+      "reason": "既有README L135-L139明确P18包级PII和单独权限，账本无脱敏最小读取边界。保留未读状态，不因题名像治理规则而越界，也不推定每篇都含PII；仅映射同一父范围问题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/82",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/791",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "current_task_blocker": false
+      }
+    },
+    {
+      "id": "R084",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/Roy_草稿结论_P02BLK003_P15_P16_20260831.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/83",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/816",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R085",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/Roy_逐项确认清单_P02BLK003_P15_P16_20260831.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/84",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/817",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R086",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/[BLOCKED]_P16-SRC-002_金额样本待上游_20260902.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/85",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/818",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R087",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/[FILLED]_P02-BLK-003_角色确认表_Roy_11家_20260901.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/86",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/819",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R088",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/[FILLED]_P15_P16_来源回填_Roy_9行_真实路径_20260901.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/87",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/820",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R089",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/[FILLED]_稳定键登记_Roy_11家_框架_20260902.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/88",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/821",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R090",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/[PROGRESS]_Roy进展汇报_20260901.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/89",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/822",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R091",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/[RECEIPT]_P12材料索要回执_Roy_20260901.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/90",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/823",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R092",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/P11_Mark签署准备清单_DRAFT_v0.5_20260902.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/91",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/939",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R093",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/P11_Mark签署准备清单_DRAFT_v0.6_20260902.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/92",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/940",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R094",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/P11_两张数据表_冻结Manifest_DRAFT_v0.5_20260902.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/93",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/941",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R095",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/P11_两张数据表_冻结Manifest_DRAFT_v0.6_20260902.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/94",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/942",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R096",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/P11_可靠回填数据交付包_Manifest_DRAFT_v0.7_20260902.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/95",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/949",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R097",
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/P11_可靠回填数据交付包_Manifest_DRAFT_v0.8_20260902.md",
+      "old_status": "归属待核",
+      "new_status": "仅引用_权威性未确立",
+      "reason": "既有治理未赋予outputs权威位置，可直接保留非权威候选元数据引用，不等用户给目录贴在用/实验标签。不凭文件名、mtime或与工作包同名判断主源、技术类型、重复；不生成未读正文主题。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/96",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/950",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state",
+          "role": "治理归属和边界"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "content_read": false,
+        "read_bytes": 0,
+        "read_chars": 0
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R098",
+      "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/价值流建模/价值流定义_价值节点清单_消歧版_V4.0.md",
+      "old_status": "混合范围隔离",
+      "new_status": "范围排除_混合旧流程与工程",
+      "reason": "标题虽为价值节点，实质混有旧财务支付流程、工程实现与未经核实法规断言；此次读取范围过宽，整份不产主题原子，不能以目录名放行。。保留过量读取审计，不复读、不验证法规，不作为验收欠账。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/unresolved/97",
+          "role": "原隔离理由"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/file_decisions/1688",
+          "fields": [
+            "reason",
+            "locators",
+            "evidence"
+          ],
+          "role": "已取得证据及原源定位；空定位不补造"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "analysis_needed_scope": "本轮不追加正文；原隔离/前置缺证/现实未知保留，非未来免授权",
+      "prior_read_state": {
+        "read_bytes": 41850,
+        "read_chars": 25614
+      },
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    }
+  ],
+  "scope_decisions": [
+    {
+      "id": "S-OUTPUTS",
+      "path": "/Users/a112233/Desktop/业务模型/outputs",
+      "kind": "directory_scope",
+      "old_status": "未准入权威归属子树",
+      "new_status": "元数据引用范围_不确立主源",
+      "reason": "权威位置缺证不等于整个子树是实验或技术。279项仅引用、23项工程类型排除、14项本轮改为非权威候选引用；不从outputs名称认定主源。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/coverage_gaps/31"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "known_descendant_files": 316,
+      "matched_inventory_files": 316,
+      "inventory_status_counts": {
+        "归属待核": 14,
+        "工程或结构文件排除": 23,
+        "仅元数据引用": 279
+      },
+      "overlap_with_records98": 14,
+      "record_ids": [
+        "R084",
+        "R085",
+        "R086",
+        "R087",
+        "R088",
+        "R089",
+        "R090",
+        "R091",
+        "R092",
+        "R093",
+        "R094",
+        "R095",
+        "R096",
+        "R097"
+      ],
+      "unseen_descendant_files": null,
+      "unknown_note": "可见库存快照不是本轮穷尽扫描，未见后代未知不记0",
+      "new_independent_file_work_items": 0,
+      "acceptance_debt": false,
+      "content_admission": "不整体放行",
+      "mapped_new_entry_directories": 47,
+      "analysis_needed_scope": "本轮不追加正文；不证明全部文件敏感或技术"
+    },
+    {
+      "id": "S-P18",
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计",
+      "kind": "directory_scope",
+      "old_status": "明确PII包尚未建立脱敏读取边界",
+      "new_status": "限定保留_脱敏边界待决",
+      "reason": "既有治理明确包级PII与单独权限。27项仅引用、1项工程类型排除、40项正文候选隔离，不把68项全部变成待分析清单。",
+      "evidence_locator": [
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/coverage_gaps/32"
+        },
+        {
+          "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+          "json_pointer": "/project_state"
+        }
+      ],
+      "requires_user": false,
+      "analysis_needed": false,
+      "known_descendant_files": 68,
+      "matched_inventory_files": 68,
+      "inventory_status_counts": {
+        "敏感隔离": 40,
+        "仅元数据引用": 27,
+        "工程或结构文件排除": 1
+      },
+      "overlap_with_records98": 40,
+      "record_ids": [
+        "R044",
+        "R045",
+        "R046",
+        "R047",
+        "R048",
+        "R049",
+        "R050",
+        "R051",
+        "R052",
+        "R053",
+        "R054",
+        "R055",
+        "R056",
+        "R057",
+        "R058",
+        "R059",
+        "R060",
+        "R061",
+        "R062",
+        "R063",
+        "R064",
+        "R065",
+        "R066",
+        "R067",
+        "R068",
+        "R069",
+        "R070",
+        "R071",
+        "R072",
+        "R073",
+        "R074",
+        "R075",
+        "R076",
+        "R077",
+        "R078",
+        "R079",
+        "R080",
+        "R081",
+        "R082",
+        "R083"
+      ],
+      "unseen_descendant_files": null,
+      "unknown_note": "可见库存快照不是本轮穷尽扫描，未见后代未知不记0",
+      "new_independent_file_work_items": 0,
+      "acceptance_debt": false,
+      "content_admission": "不整体放行",
+      "mapped_new_entry_directories": 17,
+      "conditional_reentry": {
+        "policy_ref": "#/reentry_policies/privacy",
+        "optional_scope_choice_id": "OPT-PRIVACY",
+        "current_task_blocker": false
+      },
+      "analysis_needed_scope": "本轮不追加正文；不证明全部文件敏感或技术"
+    }
+  ],
+  "new_entry_scope_mappings": [
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/242"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/243"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/发出",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/244"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/00_在途/回填",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/245"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/01_交付包",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/246"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/02_原始材料",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/247"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/02_原始材料/原件",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/248"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/02_原始材料/索引",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/249"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/03_核验与退回",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/250"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/04_底稿",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/251"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/05_脱敏复核件",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/252"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/90_归档",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/253"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/90_归档/00_在途",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/254"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/90_归档/00_在途/发出",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/255"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/90_归档/00_在途/发出/20260911_复验派单替代",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/256"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/90_归档/20260914_六组残留收口前",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/257"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/20_工作包/D09P18_人员、组织、账户、权限、撤权与审计/90_归档/20260914_系统责任回写前",
+      "scope_id": "S-P18",
+      "old_status": "敏感隔离",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/258"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/01a046de-fd72-7033-b18f-d13fa8285ada",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/266"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/01a05d17-2008-76e3-91cd-ac1e6a2ccf42",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/267"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/owner_update_20260831",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/268"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_fcs_readback_20260903",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/269"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_fcs_readback_20260903/previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/270"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_fcs_readback_20260903/previews/owner",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/271"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_fcs_readback_20260903/previews/six",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/272"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_fcs_readback_20260903/previews/tracker",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/273"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_mark_role_confirmation_20260903",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/274"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/275"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902/final_previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/276"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902/final_previews/six",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/277"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902/final_previews/task",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/278"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902/final_previews/tracker",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/279"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902/source_previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/280"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902/source_previews/six_v16",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/281"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902/source_previews/task_v10",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/282"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_nga_confirmation_20260902/source_previews/tracker_v18",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/283"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_owner_reassignment_20260902",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/284"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_owner_reassignment_20260902/previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/285"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_owner_reassignment_20260902/previews/master",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/286"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_owner_reassignment_20260902/previews/roy",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/287"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_owner_reassignment_20260902/previews/service",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/288"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_role_update_20260903",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/289"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p02_roy_payee_confirmation_20260903",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/290"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_conditional_signoff_20260901",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/291"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_conditional_signoff_20260901/previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/292"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_entitlement_evidence_update_20260901",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/293"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_entitlement_evidence_update_20260901/previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/294"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_entitlement_source_correction_20260901",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/295"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_entitlement_source_correction_20260901/previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/296"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_mark_signoff_ready_v27_20260902",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/297"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_mark_signoff_ready_v27_20260902/previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/298"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/299"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/previews_v0.1",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/300"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/previews_v0.2",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/301"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/previews_v0.3",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/302"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/previews_v0.4",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/303"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/previews_v0.5",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/304"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/previews_v0.6",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/305"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/previews_v0.7",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/306"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p11_two_import_tables_goal/previews_v0.8",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/307"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p15_merge_20260902",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/308"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p15_merge_20260902/previews",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/309"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p18-teresa-20260901",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/310"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p18-teresa-20260901/_preview",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/311"
+      }
+    },
+    {
+      "path": "/Users/a112233/Desktop/业务模型/outputs/p18-teresa-final-20260902",
+      "scope_id": "S-OUTPUTS",
+      "old_status": "子树待核",
+      "new_status": "仅下属映射_不另计工作量",
+      "reason": "继承父子树范围，不计新增文件、独立人问题或验收欠账",
+      "requires_user": false,
+      "evidence_locator": {
+        "vault_file": "MOC/OB本地清单/非RW_模型EA核定.json",
+        "json_pointer": "/new_entries/312"
+      }
+    }
+  ],
+  "counts": {
+    "records": 98,
+    "unique_file_paths": 98,
+    "unprocessed_records": 0,
+    "new_status_counts": {
+      "仅引用_主体登记明细不扩读": 2,
+      "技术混合排除_业务采集范围外": 23,
+      "技术分支排除_仅元数据": 3,
+      "历史冲突收录_非当前有效性": 1,
+      "边界待决_脱敏范围": 42,
+      "证据待补_仅引用不扩读": 8,
+      "敏感明细排除_保留已读审计": 1,
+      "历史冲突收录_非当前绑定规则": 1,
+      "历史冲突收录_不合并实体": 2,
+      "仅引用_权威性未确立": 14,
+      "范围排除_混合旧流程与工程": 1
+    },
+    "direct_disposition_records": 98,
+    "further_analysis_or_boundary_records": 0,
+    "requires_user_records": 0,
+    "evidence_gap_records_without_user_decision": 8,
+    "user_question_groups": 0,
+    "historical_conflict_records_collected": 4,
+    "scope_decisions": 2,
+    "mapped_directories_not_work_items": 64,
+    "new_source_reads": 0,
+    "current_analysis_needed_records": 0,
+    "optional_scope_choices": 1,
+    "conditional_reentry_boundary_records": 42,
+    "retained_prerequisite_evidence_gap_records": 8,
+    "retained_evidence_or_boundary_gap_records": 50,
+    "count_semantics": "98为已有处置，不是证据充分；当前必决/必分析0，未来边界42与前置缺证8保留。"
+  },
+  "user_questions": [],
+  "remaining_layers": {
+    "file_disposition_unprocessed": 0,
+    "evidence_gap_record_ids": [
+      "R032",
+      "R033",
+      "R034",
+      "R035",
+      "R036",
+      "R037",
+      "R038",
+      "R043"
+    ],
+    "privacy_boundary_record_ids": [
+      "R030",
+      "R031",
+      "R044",
+      "R045",
+      "R046",
+      "R047",
+      "R048",
+      "R049",
+      "R050",
+      "R051",
+      "R052",
+      "R053",
+      "R054",
+      "R055",
+      "R056",
+      "R057",
+      "R058",
+      "R059",
+      "R060",
+      "R061",
+      "R062",
+      "R063",
+      "R064",
+      "R065",
+      "R066",
+      "R067",
+      "R068",
+      "R069",
+      "R070",
+      "R071",
+      "R072",
+      "R073",
+      "R074",
+      "R075",
+      "R076",
+      "R077",
+      "R078",
+      "R079",
+      "R080",
+      "R081",
+      "R082",
+      "R083"
+    ],
+    "historical_current_truth_unresolved_record_ids": [
+      "R029",
+      "R040",
+      "R041",
+      "R042"
+    ],
+    "historical_current_truth_is_user_blocker": false,
+    "metadata_only_content_unknown_record_ids": [
+      "R001",
+      "R005",
+      "R084",
+      "R085",
+      "R086",
+      "R087",
+      "R088",
+      "R089",
+      "R090",
+      "R091",
+      "R092",
+      "R093",
+      "R094",
+      "R095",
+      "R096",
+      "R097"
+    ],
+    "unexpanded_scope_gaps": [
+      {
+        "path": "/Users/a112233/Desktop/业务模型/.stfolder",
+        "kind": "隐藏或链接不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 0,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/业务模型/.codex_tmp_p12",
+        "kind": "隐藏或链接不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 1,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/业务模型/.claude",
+        "kind": "隐藏或链接不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 2,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/业务模型/.codex_work",
+        "kind": "隐藏或链接不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 3,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/业务模型/.workbuddy",
+        "kind": "隐藏或链接不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 4,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/.stfolder",
+        "kind": "隐藏或链接不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 5,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/.obsidian",
+        "kind": "隐藏或链接不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 6,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/数据库/参考数据",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 7,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/数据库/归档",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 8,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/_归档/根目录遗留文件",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 9,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/L3流程库/_archive",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 10,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/校验与上下文/_归档",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 11,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/汇报与方法论",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 12,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/前端展示数据底座",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 13,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent与Skill体系",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 14,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/_历史遗留（5月）",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 15,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/02_信号提取基线",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 16,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/_误执行归档",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 17,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/协同工作区",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 18,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/EA_Pipeline矩阵图",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 19,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/05_SOP",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 20,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/Agent规划与搭建",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 21,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/04_规则与GAP产出",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 22,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/延展_同行经代NBRD",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 23,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/03_访谈准备与执行",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 24,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/00_标准与方法论",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 25,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/EA_P0",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 26,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/01_价值节点清单",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 27,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/02_过程成果-工作产出/规则分析（Jasper）/S2_真KPI数据建设",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 28,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/权威数据/_归档",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 29,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      },
+      {
+        "path": "/Users/a112233/Desktop/流程架构项目_jasper/03_发布成果-交付物/治理规范/_归档",
+        "kind": "EA非价值链价值流子树不展开",
+        "descendant_files": null,
+        "requires_admission": false,
+        "ledger_index": 30,
+        "new_status": "范围排除或隐藏不展开_非验收欠账",
+        "reason": "保持既有范围限制，未展开内部数量仍未知",
+        "requires_user": false,
+        "acceptance_debt": false
+      }
+    ],
+    "unexpanded_descendant_files": null,
+    "counts_not_additive": "两子树316/68与98文件、64目录映射重叠，不得相加；历史事实未知与准入剩余不同。",
+    "current_required_user_decisions": 0,
+    "current_required_new_source_analysis": 0,
+    "privacy_boundary_scope": "未来改变用途再入条件，非本轮必决",
+    "evidence_gap_scope": "8项仍缺前置证据，未获准正文，非当前待正文分析",
+    "optional_scope_choice_ids": [
+      "OPT-PRIVACY"
+    ]
+  },
+  "audit_notes": [
+    "仅复用vault账本及主题记录，无新源正文或源stat、服务器、Office访问。",
+    "本轮历史再归纳非新全文分析，不验证现实法人/合同/牌照或法规，不宣称验收。",
+    "原读取字段缺失/false/true及实际量原样保留，不用隔离状态覆盖读取事实。",
+    "C17全组13未读/4已读后隔离保持；本98仅含敏感子集8未读+1已读C050，其他技术记录不强纳入98。",
+    "初轮治理整字节读取、V4混合后隔离、C组先完整hash后辨识均不追认最小性。",
+    "输入hash仅针对vault证据，无新源hash；实际token未知不估算。",
+    "本轮requires_user/analysis_needed均false；未来授权放conditional_reentry，隔离缺证保留。",
+    "技术排除是范围决定，不断言整篇无业务；仅引用不是已分析。",
+    "James退回常规字段修复：不改变42隔离、8缺证，不称全量已证实敏感，不追认历史读取合规。"
+  ],
+  "token_count": null,
+  "new_source_read_bytes": 0,
+  "new_source_read_chars": 0,
+  "optional_scope_choices": [
+    {
+      "id": "OPT-PRIVACY",
+      "required": false,
+      "requires_user": false,
+      "default": "本轮不摄入受限正文，继续隔离/仅元数据",
+      "alternative": "未来新用途指定获准脱敏业务边界后再入",
+      "question": "若继续受限正文收录，请资料权属人指定P18及秘书档案中允许AI读取的脱敏副本或具体行段、允许保留的业务字段，并确认排除个人身份、KYC、账号及高权限明细；未指定部分继续不读。整个目录授权不能代替最小片段边界。",
+      "applies_to_record_ids": [
+        "R030",
+        "R031",
+        "R044",
+        "R045",
+        "R046",
+        "R047",
+        "R048",
+        "R049",
+        "R050",
+        "R051",
+        "R052",
+        "R053",
+        "R054",
+        "R055",
+        "R056",
+        "R057",
+        "R058",
+        "R059",
+        "R060",
+        "R061",
+        "R062",
+        "R063",
+        "R064",
+        "R065",
+        "R066",
+        "R067",
+        "R068",
+        "R069",
+        "R070",
+        "R071",
+        "R072",
+        "R073",
+        "R074",
+        "R075",
+        "R076",
+        "R077",
+        "R078",
+        "R079",
+        "R080",
+        "R081",
+        "R082",
+        "R083"
+      ],
+      "applies_to_scopes": [
+        "S-P18"
+      ],
+      "independent_question_count": 0,
+      "not_additive": "42文件与P18范围共用1可选选择，不算43问题"
+    }
+  ],
+  "reentry_policies": {
+    "privacy": {
+      "trigger": "未来明确改变用途，拟摄入受限正文",
+      "authorization_condition": "若继续受限正文收录，请资料权属人指定P18及秘书档案中允许AI读取的脱敏副本或具体行段、允许保留的业务字段，并确认排除个人身份、KYC、账号及高权限明细；未指定部分继续不读。整个目录授权不能代替最小片段边界。",
+      "requires_authorization_on_reentry": true,
+      "default_action": "默认不读，不自动重入；可选范围选择OPT-PRIVACY",
+      "current_task_blocker": false
+    },
+    "evidence": {
+      "trigger": "新用途及精确对应path的前置证据到达",
+      "prerequisite": "权属、类型或脱敏边界；笼统敏感标签及文件名不代替",
+      "default_action": "未获准，当前不读；不自动轮询或补正文",
+      "current_task_blocker": false
+    }
+  },
+  "field_definitions": {
+    "requires_user": "仅本轮是否必须用户决策；未来授权另列",
+    "analysis_needed": "仅本轮是否必须新增正文分析；false不是缺口消失或获准",
+    "conditional_reentry": "未来用途及前置条件，非自动下一步",
+    "unknown": "未知数量仍null，不改0"
+  },
+  "revision": {
+    "previous_artifact_sha256": "62023ee48cbf83706c3c586355e849b3a86dc59322a35137446f4514f05f2932",
+    "reason": "当前必决/必分析与未来条件分离",
+    "audit_locator": "MOC/OB本地清单/待核批量核定独立核查.md#模型98及Jasper正式产物核查",
+    "independent_recheck": "修复后待复核"
+  }
+}

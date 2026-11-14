@@ -1,0 +1,4952 @@
+{
+  "schema_version": "jasper-reassessment-1",
+  "batch_id": "JASPER-REASSESS-FIRST12-INC15",
+  "review_layer": "reassessment_review",
+  "status": "本批逐项处置完成；仍有敏感隔离和入口证据未知，未独立验收",
+  "authority": "本轮用户授权仅既有账本范围批量核定；历史冲突允许保留双说，技术/实验不摄入；未知不伪判排除。",
+  "scope_definition": {
+    "records": "仅首窗原12份待核与增量INC15，共13份",
+    "entry_decisions": "旧68入口中62个未整体准入入口，以及11个细化子项中10个未准入子项，共72；不是72个新项目",
+    "scope_decisions": "既有88个子树/隐藏边界，逐条沿用或纠偏；不是88份正文分析",
+    "not_reprocessed": "原345候选不重跑；增量除INC15既有证据外15项不再核定；已准入6入口与1个价值节点子范围不重派",
+    "root_boundary": "Jasper根仅容器；不全盘扫描，不扩大全根正文准入"
+  },
+  "records": [
+    {
+      "id": "R-J079",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/保司PitchBook_素材/繁體PPT源文件_v0.1/project/slides/s09.html",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "低复用仅溯源",
+      "reason": "现有vault记录明确统计分母和原表未核。剔除该数字主张即可完成处置，不需用户裁出正确占比；不将有疑问的统计用于业务主题。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J079]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 2,
+              "line_end": 3
+            }
+          ],
+          "source_hash": "03fbc67b763b6bb5a7689d4d28f3176bf23f0579e02a533255058e41647199a8",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1791431521777095070",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不复用占比、排名或市场推断；仅保留来源不足标记。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J117",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/历史存档/给程阳_十项来源数据结构说明_v0.1/README_状态与待校准项.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "敏感隔离",
+      "reason": "现有记录已说明真实示例身份/财务值与用途限制。业务概念无需这些实际值；本轮不新读、不输出实际值，敏感隔离保留，不把“不外发”误作所有治理内容禁读。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J117]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 7
+            },
+            {
+              "line_start": 9,
+              "line_end": 9
+            },
+            {
+              "line_start": 11,
+              "line_end": 11
+            },
+            {
+              "line_start": 13,
+              "line_end": 14
+            },
+            {
+              "line_start": 16,
+              "line_end": 16
+            },
+            {
+              "line_start": 18,
+              "line_end": 18
+            },
+            {
+              "line_start": 20,
+              "line_end": 26
+            }
+          ],
+          "source_hash": "aa43b55ee1f743d8a5fd0eaa7853ee7f5b6e28d062bff2e2f62b34f808a7a35a",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1790659192349970057",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "仅按vault登记保留用途边界；不传播实体细节或脱敏映射。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J118",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/_内部_制作与核验记录_v1_不随包外发.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "敏感隔离",
+      "reason": "既有最小片段含个人/渠道身份及加工细节；现有安全摘要不足以逐字段证明去标识，且任务不需要个案数据。保持隔离而非伪称已脱敏。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J118]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 1
+            },
+            {
+              "line_start": 3,
+              "line_end": 3
+            }
+          ],
+          "source_hash": "8758388bbd4f4846f2c1a259565121b92abad8d82ce45d006588d9579ecce9cb",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1791600252449957684",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不输出原文、个案数据或映射；不要求用户裁定无关身份。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J132",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/_内部_制作与核验记录_v1_不随包外发.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "敏感隔离",
+      "reason": "既有制作记录提示客户身份残留。用抽象的一致性/授权原则已可复用，不必读取残留实际值；本项仍隔离，不宣称来源违规或数据已清理。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J132]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 1
+            },
+            {
+              "line_start": 3,
+              "line_end": 5
+            }
+          ],
+          "source_hash": "60da4a93e084ec8288d0945268921f40aa9f4cb5b664a56fb61bc0bff6968a27",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1791597760987276485",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "仅记录限制，禁用身份、保单及个人支付内容。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J138",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/四案资料包_外发口径单_v0.2_Jasper已定_待Mark与RO签认_20261009.html",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "已有分析关联（历史双说）",
+      "reason": "vault已登记前置更新称签认关闭、保留正文仍要求签认，两层状态可以并存为历史记录。可总结版本更新与授权证据分离，不替任一说法裁真，也不据此扩大读取或外发权限。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J138]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 49,
+              "line_end": 49
+            },
+            {
+              "line_start": 53,
+              "line_end": 54
+            },
+            {
+              "line_start": 58,
+              "line_end": 62
+            },
+            {
+              "line_start": 66,
+              "line_end": 66
+            },
+            {
+              "line_start": 68,
+              "line_end": 71
+            }
+          ],
+          "source_hash": "1d79b3dcff8410c8071ce34cecd138a3c6be3cc7316492b7d70285a7342d9811",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1791623547842474032",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "已关联旧主题的权限分层，不新增分析计数",
+      "usable_boundary": "只分析两层文字的历史状态，不确认签署人、正式授权范围、当前外发许可。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J181",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260912_首次沟通会/原始材料/EV-010_录音信号提取_20260912.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "低复用仅溯源",
+      "reason": "AI提取的实体/日期可靠性已有负面记录；把它降为线索和错误记录即可，不需重新还原录音或要求用户为整份摘要背书。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J181]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 20
+            }
+          ],
+          "source_hash": "36f011eebb4c76b186348916366b1f72e3087417ceeb15d148509bbfc752a024",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1789440981932297946",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不据自动信号表建立正式事实、责任或时点；无新事实原子。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J186",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260916_第二次工作会议/原始材料/EV-013_会议报告_20260916.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "低复用仅溯源",
+      "reason": "实体称谓未消歧，不能用于真实主体与流程映射；本轮无须消歧即可停止事实提炼，保留摘要存在及可信度限制。未知实体仍未知，不改判内容真实。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J186]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 11
+            }
+          ],
+          "source_hash": "b9291fa06a1591241ddc8aa6531a0bc3bd9c77786a9ac1c186ab60b69a6a195e",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1789532812729220558",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不补猜公司、人物、监管机构；不跨案合并，不称已纠正原报告。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J207",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261009_第八次沟通/原始材料/EV-035_下半场智能摘要_20261009.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "低复用仅溯源",
+      "reason": "vault指出两案被混同且数量缺源；隔开案例和统计主张后仅留摘要线索。无需用户裁真实案件归属，不将低可信摘要重复包装为分析。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J207]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 1
+            },
+            {
+              "line_start": 3,
+              "line_end": 8
+            },
+            {
+              "line_start": 10,
+              "line_end": 10
+            },
+            {
+              "line_start": 12,
+              "line_end": 12
+            },
+            {
+              "line_start": 14,
+              "line_end": 21
+            }
+          ],
+          "source_hash": "8fc3a8f9158125740bd7aab695410a2f59d6c68b69bbfc476112d961e78900bb",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1791529169440133476",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不用其中数值或主体关系；两案映射仍未证实。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J227",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261029_Mark与lisa通话_战略定位与合作模式/README.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "低复用仅溯源",
+      "reason": "纪要缺逐字稿且角色归属冲突；作为历史记录可保留而无须选一方为真。合作原则已有其他合规业务记录覆盖，本项不新增分工结论。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J227]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 1
+            },
+            {
+              "line_start": 3,
+              "line_end": 13
+            },
+            {
+              "line_start": 15,
+              "line_end": 15
+            },
+            {
+              "line_start": 17,
+              "line_end": 19
+            }
+          ],
+          "source_hash": "c1877e8e4de0f220e00c21cbdef9aec408d611784706f5fc027eda7d345da96e",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1793342124173967990",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不把说话人、角色或双方共识定案；不从文件名补身份。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J246",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261105_第十六次_Mark会见童总后内部传达/原始材料/EV-070_Plaud智能摘要_20261105.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "低复用仅溯源",
+      "reason": "AI摘要中地点、股比、时间及资金均担含义不一致，既有账本已有传达记录供历史主题定位。保留摘要误差而非强行对齐，不需要本轮用户选择正确资金口径。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J246]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 1
+            },
+            {
+              "line_start": 3,
+              "line_end": 3
+            },
+            {
+              "line_start": 5,
+              "line_end": 5
+            },
+            {
+              "line_start": 7,
+              "line_end": 16
+            }
+          ],
+          "source_hash": "4299923d494cc9d65c6954f62092c2859bb300fa710fc5cdfb07b1477ef40ee8",
+          "fragment_hash": null,
+          "hash_scope": "full_file",
+          "mtime_ns": "1793930463956708773",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不采用摘要金额、比例或期限，不把传达记录关联称同hash重复。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J314",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/A3_最小必要数据集_字段表_v2.0_含样例.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "技术排除",
+      "reason": "已取得的类型证据明确为数仓结构和实测字段/样例，属于本轮不摄入的技术材料；因此可按类型排除，不必先解决历史取样授权。授权衔接仍未证实，不因排除而推定合规。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J314]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 9
+            },
+            {
+              "line_start": 11,
+              "line_end": 11
+            },
+            {
+              "line_start": 13,
+              "line_end": 13
+            },
+            {
+              "line_start": 15,
+              "line_end": 15
+            },
+            {
+              "line_start": 17,
+              "line_end": 17
+            },
+            {
+              "line_start": 19,
+              "line_end": 19
+            },
+            {
+              "line_start": 21,
+              "line_end": 22
+            },
+            {
+              "line_start": 24,
+              "line_end": 24
+            },
+            {
+              "line_start": 26,
+              "line_end": 26
+            },
+            {
+              "line_start": 28,
+              "line_end": 28
+            },
+            {
+              "line_start": 30,
+              "line_end": 33
+            },
+            {
+              "line_start": 35,
+              "line_end": 35
+            },
+            {
+              "line_start": 37,
+              "line_end": 37
+            }
+          ],
+          "source_hash": null,
+          "fragment_hash": "4b2f5ea75b8c38a4f5b002cf770d0d460384da21d8d47c3095a63b29904530d9",
+          "hash_scope": "prefix_bytes",
+          "mtime_ns": "1789445315386559582",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不读取、输出结构/样例/查询，不用样例真实性或脱敏自述证明许可。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-J323",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/_历史版本/A3_最小必要数据集_字段表_v1.0.md",
+      "scope": "首窗待核文件",
+      "old_status": "待核",
+      "new_status": "技术排除",
+      "reason": "历史字段表含查询建议及隐私防护阻断记录，技术类型已明确；业务分析无需该实现材料，可排除。旧授权/阻断事实保留，非用户现在必须回答的问题。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "file_decisions[evidence_id=J323]",
+          "fields": [
+            "reason",
+            "locators",
+            "read_events"
+          ],
+          "historical_source_locators": [
+            {
+              "line_start": 1,
+              "line_end": 9
+            },
+            {
+              "line_start": 11,
+              "line_end": 11
+            },
+            {
+              "line_start": 13,
+              "line_end": 14
+            },
+            {
+              "line_start": 16,
+              "line_end": 17
+            },
+            {
+              "line_start": 19,
+              "line_end": 19
+            },
+            {
+              "line_start": 21,
+              "line_end": 21
+            },
+            {
+              "line_start": 23,
+              "line_end": 23
+            },
+            {
+              "line_start": 25,
+              "line_end": 35
+            }
+          ],
+          "source_hash": null,
+          "fragment_hash": "e9d12bb3e4d18c7665c1f892130e207f5bf1bd66e300fffaae8a5bef3a006f99",
+          "hash_scope": "prefix_bytes",
+          "mtime_ns": "1789444153442948129",
+          "evidence_level": "既有执行记录；本轮未新核源"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "本轮无需新增事实分析",
+      "usable_boundary": "不执行查询、不绕过防护、不恢复取样；不评价历史访问法律性质。",
+      "historical_fact_resolution": "未裁真实事实/当前权限；仅完成摄入处置",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "R-INC15",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/README.md",
+      "scope": "INC15增量待核文件",
+      "old_status": "待核",
+      "new_status": "已有分析关联（历史双说）",
+      "reason": "既有增量记录明确README头部30/70待确认、正文导航34/66新阶段。可将头部/正文版本状态分别保存，作为入口不同步的历史例子；不以mtime或导航位置裁定正式股权，故不必维持全文分析阻塞。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/Jasper16增量核定.json",
+          "record_selector": "records[record_id=INC15]",
+          "fields": [
+            "reason",
+            "locators",
+            "stat_before",
+            "fragment_hash"
+          ],
+          "historical_source_locators": [
+            "L5-L6",
+            "L15-L18"
+          ],
+          "fragment_hash": "f6d370f51bf4b159218f6be5d563938bc7bb1d442919a1a0c1fb62205815b764",
+          "source_hash": null,
+          "hash_scope": "raw prefix bytes [0,3072)",
+          "mtime_ns": "1794461467443428487",
+          "evidence_level": "既有增量执行记录；非独立验证"
+        },
+        {
+          "vault_path": "MOC/Jasper增量主题_2026-11-12.md",
+          "section": "隔离与维护",
+          "use": "确认原隔离理由；不扩读README"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "已关联旧主题的合作口径分层，不新增分析计数",
+      "usable_boundary": "两种比例只用于记录文字分歧，不表达现行股比、实缴或分润；不合并为唯一真相。",
+      "historical_fact_resolution": "当前正式口径仍未验证；本轮不承担签约或业务裁决",
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    }
+  ],
+  "entry_decisions": [
+    {
+      "id": "RE-E000",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "容器分组核定",
+      "new_status": "容器分组核定",
+      "reason": "沿用既有账本已明确的边界，不重新读取。旧队列包含Jasper根；仅登记最大候选容器，按下属入口及已有治理证据分组，不意味着全根正文准入。仅六个限定目录进入文件分流，其他边界不变。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E000]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G001]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E001",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E001]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E002",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.archify",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E002]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E003",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.claude",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E003]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E004",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.continue",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E004]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E005",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.stfolder",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E005]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E006",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-094834-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E006]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E007",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-095142-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E007]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E008",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-095728-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E008]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E009",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-100049-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E009]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E010",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-105214-UD2IBAX.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E010]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E011",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261013-152556-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E011]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E012",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261014-021106-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E012]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E013",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261014-100758-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E013]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E014",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261014-101120-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E014]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E015",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.sync-conflict-20261014-133814-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E015]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E016",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/.vector-cache.json",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E016]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E017",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/10_部署与运行_Deploy_and_Run",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "技术排除",
+      "new_status": "技术排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用用户工程/部署运行边界；不读正文、不以mtime认定在用",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E017]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E018",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/AGENT生态与目录索引.md",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "治理入口仅识别",
+      "new_status": "治理入口仅识别",
+      "reason": "沿用既有账本已明确的边界，不重新读取。目录归属索引用于辨别权威/派生入口；识别工程混合后不继续扩展，不计业务分析",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E018]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G001]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E020",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/CLAUDE.md",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "低复用仅溯源",
+      "new_status": "低复用仅溯源",
+      "reason": "沿用既有账本已明确的边界，不重新读取。此前元数据检查为空文件；无业务正文，非项目",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E020]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E021",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "分组核定",
+      "new_status": "容器分组核定（子项未知保留）",
+      "reason": "已由治理证据拆分工程整改、参考库和归档；工程排除，其他缺状态证据的子项保留未知，不整体准入或整体排除。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E021]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G012]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G013]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G014]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E022",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E022]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E023",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/eg-frontend",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E023]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E024",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/obsidian-mcp-server",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E024]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E025",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/process-db-mcp",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E025]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E026",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-本地Demo",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "实验排除",
+      "new_status": "实验排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。使用说明确认纯模拟展示、无生产连接；识别后不递归或执行",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E026]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G003]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E027",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-本地Demo.zip",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "仅元数据",
+      "new_status": "仅元数据",
+      "reason": "沿用既有账本已明确的边界，不重新读取。压缩包非准入正文类型，不展开、不跟随同名Demo内容",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E027]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E028",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-第二版本地Demo",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "实验混合隔离",
+      "new_status": "实验排除",
+      "reason": "既有说明证实Demo及真实数据试点混合；本轮明确不摄入实验实现，故可排除，无须先检查敏感内部输入。排除不代表内容全为模拟或许可已核。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E028]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G004]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E029",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-第二版本地Demo-优化版.zip",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "仅元数据",
+      "new_status": "仅元数据",
+      "reason": "沿用既有账本已明确的边界，不重新读取。压缩包非准入正文类型，不展开、不跟随同名Demo内容",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E029]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E030",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-第二版本地Demo-真实数据试点版.zip",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "仅元数据",
+      "new_status": "仅元数据",
+      "reason": "沿用既有账本已明确的边界，不重新读取。压缩包非准入正文类型，不展开、不跟随同名Demo内容",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E030]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E031",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/保险合规引擎-第二版本地Demo.zip",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "仅元数据",
+      "new_status": "仅元数据",
+      "reason": "沿用既有账本已明确的边界，不重新读取。压缩包非准入正文类型，不展开、不跟随同名Demo内容",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E031]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E032",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/初代-中代本体规划和搭建",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "实验排除",
+      "new_status": "实验排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。README仅模板与两例试验、未批量导入，含RW归档；非已确认在用业务项目",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E032]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G005]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E033",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "容器拆分",
+      "new_status": "容器拆分",
+      "reason": "沿用既有账本已明确的边界，不重新读取。生态索引说明原为PTA派生产物容器，后续业务子项目按自己的入口分别辨识，不能整体镜像或整体准入",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E033]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G001]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E034",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E034]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E035",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261012-040106-UD2IBAX.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E035]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E036",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261012-090544-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E036]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E037",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261012-120104-UD2IBAX.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E037]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E038",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261012-170310-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E038]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E039",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-015141-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E039]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E040",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-032100-UD2IBAX.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E040]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E041",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-082032-UD2IBAX.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E041]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E042",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-094834-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E042]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E043",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-095141-J7UDUY6.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E043]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E044",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/.sync-conflict-20261013-162219-UD2IBAX.DS_Store",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。隐藏入口沿用边界，不读取、不核hash",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E044]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E046",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/07_项目立项启动工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "派生技术排除",
+      "new_status": "派生技术排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。生态索引说明PTA派生工作区；目录仅runs/reports/state产物，未见独立业务入口，不分析运行报告",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E046]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G001]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E047",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/AI工程能力整改项目工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "派生技术排除",
+      "new_status": "派生技术排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。PTA派生工作区；对应主项目README明确工程能力整改，识别后停止",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E047]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G001]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G012]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E048",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Jasper工作文档（不含EA项目）工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "派生技术排除",
+      "new_status": "派生技术排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。生态索引与目录元数据表明PTA任务/扫描状态产物，不把状态文件当业务项目",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E048]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G001]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E049",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/OB",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E049]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E050",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/OB-VNW协同工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。用户明确OB与工程边界；不读正文、不递归",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E050]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E051",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/P&L_EA小组Jasper工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E051]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E052",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "主源关系分项待核",
+      "new_status": "容器分组核定（子项未知保留）",
+      "reason": "已有记录足以确认父目录不是统一业务项目或统一镜像：技术/实验子项可排除，业务子项与未知子项分别保留。父容器处置可完成，不要求先裁真所有子项的主源关系。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E052]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G016]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G017]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G018]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G019]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G020]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E053",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/VNW双方向_EA流程卡片化课题",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "技术及旧EA排除",
+      "new_status": "技术及旧EA排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。最小课题入口说明L3/L4到本体卡片化；传统流程工程不在本轮价值链/价值流保留范围",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E053]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G015]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E054",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/_PTA指挥中心",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "派生技术排除",
+      "new_status": "派生技术排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。生态索引及仅cross_project_latest.json目录项表明运行汇总，非独立业务项目",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E054]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G001]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E055",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/_tmp_ocr.swift",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "非准入类型",
+      "new_status": "非准入类型",
+      "reason": "沿用既有账本已明确的边界，不重新读取。Swift非业务MD/HTML；仅入口边界不读正文",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E055]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E056",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/_tmp_ocr2.swift",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "非准入类型",
+      "new_status": "非准入类型",
+      "reason": "沿用既有账本已明确的边界，不重新读取。Swift非业务MD/HTML；仅入口边界不读正文",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E056]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E057",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/command_center_ssot工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "派生技术排除",
+      "new_status": "派生技术排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。生态索引与runs/reports目录项表明派生运行产物，不计项目与分析",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E057]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G001]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E058",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/daily_sensing_fixture工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E058]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E059",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/evidence_persist_fixture工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E059]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E060",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/fingerprint_drift_fixture工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E060]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E061",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/office_fixture工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "边界排除",
+      "new_status": "边界排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。沿用旧取舍的明确排除及本轮用户边界，不读取",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E061]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E063",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/流程架构项目_jasper工作区",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "旧EA派生排除",
+      "new_status": "旧EA派生排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。入口指向L3/KPI传统流程任务，未有独立当前价值链业务准入证据；不跟引用",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E063]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G011]",
+          "use": "只引用既有治理识别记录，不读其原path"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RE-E067",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目：EG",
+      "scope": "旧入口未整体正文准入",
+      "old_status": "用户明确排除",
+      "new_status": "用户明确排除",
+      "reason": "沿用既有账本已明确的边界，不重新读取。用户本轮明确排除EG，覆盖旧队列错误待核；不读任何EG正文",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "entry_decisions[id=E067]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "仅项目/边界判定，不计业务分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS01",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/AI工程能力整改项目",
+      "scope": "既有父入口子项细化",
+      "old_status": "技术排除",
+      "new_status": "技术排除",
+      "reason": "既有入口类型证据足以维持不摄入，无需业务正文核查。入口自述16周工程整改及Agent系统；识别后不扩读",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/AI工程能力整改项目]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G012]",
+          "use": "只引用vault记录，不新读原README"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "技术/实验不摄入，无需业务分析",
+      "unresolved_kind": null,
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS02",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Mark_AI经验合集学习参考",
+      "scope": "既有父入口子项细化",
+      "old_status": "待核",
+      "new_status": "待核（证据不足）",
+      "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。参考工具箱入口未证明在用业务采用，保持待核、不递归 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Mark_AI经验合集学习参考]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G013]",
+          "use": "只引用vault记录，不新读原README"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_disposition": "未准入；若后续续办，先补已有治理/主源证据，不能直接启动业务正文",
+      "unresolved_kind": "项目状态/主源证据未知，非权限或业务决定",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS03",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/旧规则归档",
+      "scope": "既有父入口子项细化",
+      "old_status": "待核",
+      "new_status": "待核（证据不足）",
+      "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。仅目录项，未找到必要在用业务证据；不以归档名称直接判业务失效 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/旧规则归档]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_disposition": "未准入；若后续续办，先补已有治理/主源证据，不能直接启动业务正文",
+      "unresolved_kind": "项目状态/主源证据未知，非权限或业务决定",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS04",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/FDE项目",
+      "scope": "既有父入口子项细化",
+      "old_status": "技术/实验排除",
+      "new_status": "技术/实验排除",
+      "reason": "既有入口类型证据足以维持不摄入，无需业务正文核查。README区分代理测试与已确认需求，未视为已实施业务",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/FDE项目]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G016]",
+          "use": "只引用vault记录，不新读原README"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "技术/实验不摄入，无需业务分析",
+      "unresolved_kind": null,
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS05",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/RWC",
+      "scope": "既有父入口子项细化",
+      "old_status": "实验排除",
+      "new_status": "实验排除",
+      "reason": "既有入口类型证据足以维持不摄入，无需业务正文核查。README明确前端模拟Demo/移交只读，未进入生产",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/RWC]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G019]",
+          "use": "只引用vault记录，不新读原README"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "技术/实验不摄入，无需业务分析",
+      "unresolved_kind": null,
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS06",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U020_月度行情热点解读",
+      "scope": "既有父入口子项细化",
+      "old_status": "技术实践排除",
+      "new_status": "技术实践排除",
+      "reason": "既有入口类型证据足以维持不摄入，无需业务正文核查。README明确独立实践、交叉验证实施；只记录声明的外部权威关系，不访问主源",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U020_月度行情热点解读]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G020]",
+          "use": "只引用vault记录，不新读原README"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "技术/实验不摄入，无需业务分析",
+      "unresolved_kind": null,
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS07",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U020_监管知识库对接",
+      "scope": "既有父入口子项细化",
+      "old_status": "技术排除",
+      "new_status": "技术排除",
+      "reason": "既有入口类型证据足以维持不摄入，无需业务正文核查。README明确归档评测、未接入主业务，停止实现分析",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U020_监管知识库对接]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G018]",
+          "use": "只引用vault记录，不新读原README"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "技术/实验不摄入，无需业务分析",
+      "unresolved_kind": null,
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS08",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U021_国际金融与宏观经济专题",
+      "scope": "既有父入口子项细化",
+      "old_status": "待核",
+      "new_status": "待核（证据不足）",
+      "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。仅发现目录，缺必要主源/独立在用证据，不把RW名称或mtime当镜像依据 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U021_国际金融与宏观经济专题]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_disposition": "未准入；若后续续办，先补已有治理/主源证据，不能直接启动业务正文",
+      "unresolved_kind": "项目状态/主源证据未知，非权限或业务决定",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS09",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U022_中国经济改革与城市化解读",
+      "scope": "既有父入口子项细化",
+      "old_status": "RW业务主源关系待核",
+      "new_status": "待核（证据不足）",
+      "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。README自述服务启动材料与待人审状态，证明不是纯复制标签；本轮非RW任务不自动摄入RW业务 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U022_中国经济改革与城市化解读]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        },
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "governance_reads[id=G017]",
+          "use": "只引用vault记录，不新读原README"
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_disposition": "未准入；若后续续办，先补已有治理/主源证据，不能直接启动业务正文",
+      "unresolved_kind": "项目状态/主源证据未知，非权限或业务决定",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RS10",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/原子服务设计",
+      "scope": "既有父入口子项细化",
+      "old_status": "待核",
+      "new_status": "待核（证据不足）",
+      "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。仅发现容器，缺主源关系和当前采用证据，不递归 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "new_subprojects[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/原子服务设计]",
+          "fields": [
+            "decision",
+            "reason",
+            "evidence",
+            "source_relationship"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_disposition": "未准入；若后续续办，先补已有治理/主源证据，不能直接启动业务正文",
+      "unresolved_kind": "项目状态/主源证据未知，非权限或业务决定",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    }
+  ],
+  "scope_decisions": [
+    {
+      "id": "RB001",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB002",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB003",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/eval",
+      "old_status": "技术测试",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/eval]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB004",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/pilot",
+      "old_status": "试点实体数据未明确脱敏",
+      "new_status": "待核（试点数据性质未知）",
+      "reason": "仅有试点实体数据未明确脱敏的边界记录，没有足够证据证明是纯技术/合成实验或已获准业务文本；保留未知，不因pilot名称伪判排除，不新读试点材料。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/pilot]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_disposition": "若继续则先取得不含个案数据的项目/类型证明，当前禁止直接正文分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB005",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/precheck",
+      "old_status": "技术校验",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/precheck]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB006",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/schema",
+      "old_status": "技术schema",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/schema]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB007",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/workbench",
+      "old_status": "技术实现边界",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/workbench]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB008",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB009",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/00_原始材料_含客户数据仅本地",
+      "old_status": "明确客户数据边界",
+      "new_status": "敏感隔离",
+      "reason": "沿用既有客户数据/限定用途边界，当前主题分析不需要个案原料；不为证明敏感而读入内容，不将未核内容冒充已分析。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/00_原始材料_含客户数据仅本地]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB010",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB011",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/workflow-renewal-reminder-20261104/visual-check",
+      "old_status": "技术视觉测试",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/workflow-renewal-reminder-20261104/visual-check]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB012",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.1_已取代/visual-check",
+      "old_status": "技术视觉测试",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.1_已取代/visual-check]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB013",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.2_已取代/visual-check",
+      "old_status": "技术视觉测试",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.2_已取代/visual-check]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB014",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.3_已取代/visual-check",
+      "old_status": "技术视觉测试",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.3_已取代/visual-check]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB015",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.4_已取代/visual-check",
+      "old_status": "技术视觉测试",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.4_已取代/visual-check]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB016",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.5_已取代/visual-check",
+      "old_status": "技术视觉测试",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/03_工作流图/历史存档/workflow-renewal-reminder-v0.5_已取代/visual-check]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB017",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/06_程序",
+      "old_status": "技术程序",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/06_程序]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB018",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/07_运行输出_含客户数据仅本地",
+      "old_status": "明确客户数据边界",
+      "new_status": "敏感隔离",
+      "reason": "沿用既有客户数据/限定用途边界，当前主题分析不需要个案原料；不为证明敏感而读入内容，不将未核内容冒充已分析。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/07_运行输出_含客户数据仅本地]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB019",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/08_工作台原型",
+      "old_status": "实验原型",
+      "new_status": "实验排除",
+      "reason": "既有账本已明确实验原型或同源Demo属性；按现规则不摄入，不必先读取实现或内部样例。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/08_工作台原型]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB020",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/09_安装包",
+      "old_status": "技术安装包",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区/09_安装包]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB021",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB022",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.sync-conflict-20261010-040856-UD2IBAX.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.sync-conflict-20261010-040856-UD2IBAX.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB023",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.sync-conflict-20261010-090822-UD2IBAX.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.sync-conflict-20261010-090822-UD2IBAX.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB024",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.sync-conflict-20261010-170819-UD2IBAX.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.sync-conflict-20261010-170819-UD2IBAX.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB025",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.sync-conflict-20261012-132742-J7UDUY6.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/.sync-conflict-20261012-132742-J7UDUY6.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB026",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/00_共同事实与启动材料/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/00_共同事实与启动材料/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB027",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/00_共同事实与启动材料/监管咨询回复_标准包_v1.0_流程培训包_风险中台_20260920/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/00_共同事实与启动材料/监管咨询回复_标准包_v1.0_流程培训包_风险中台_20260920/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB028",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/00_共同事实与启动材料/监管咨询回复_标准包_v1.0_流程培训包_风险中台_20260920/监管咨询回复_标准包_v1.0/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/00_共同事实与启动材料/监管咨询回复_标准包_v1.0_流程培训包_风险中台_20260920/监管咨询回复_标准包_v1.0/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB029",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/00_共同事实与启动材料/蓝象方材料/.~保险合规智能体空间-知衡产品介绍_20261013.pptx",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/00_共同事实与启动材料/蓝象方材料/.~保险合规智能体空间-知衡产品介绍_20261013.pptx]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB030",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/02_项目启动与推进/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/02_项目启动与推进/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB031",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB032",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/保司PitchBook_素材/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/保司PitchBook_素材/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB033",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/保司PitchBook_素材/繁體PPT源文件_v0.1/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/保司PitchBook_素材/繁體PPT源文件_v0.1/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB034",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/保司PitchBook_素材/繁體PPT源文件_v0.1/project/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/保司PitchBook_素材/繁體PPT源文件_v0.1/project/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB035",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB036",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB037",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/_脚本",
+      "old_status": "技术脚本",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/_脚本]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB038",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/外发包_v2/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/外发包_v2/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB039",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/外发包_v2/DW2026Q1_样板案/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/外发包_v2/DW2026Q1_样板案/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB040",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW投诉/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW投诉/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB041",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW投诉/_脚本",
+      "old_status": "技术脚本",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW投诉/_脚本]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB042",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW投诉/外发包_v1/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW投诉/外发包_v1/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB043",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW投诉/外发包_v1/DW投诉_样板案/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW投诉/外发包_v1/DW投诉_样板案/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB044",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB045",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/_脚本",
+      "old_status": "技术脚本",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/_脚本]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB046",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/外发包_v1.2/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/外发包_v1.2/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB047",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/外发包_v1.2/UNI延期申请_样板案/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/外发包_v1.2/UNI延期申请_样板案/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB048",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB049",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/_脚本",
+      "old_status": "技术脚本",
+      "new_status": "技术排除",
+      "reason": "沿用账本已登记的技术实现/校验/程序/测试边界；只裁本轮不摄入，不对未读子树做业务有效性判断。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/_脚本]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB050",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/外发包_v1/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/外发包_v1/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB051",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/外发包_v1/宏利年度尽调_样板案/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/外发包_v1/宏利年度尽调_样板案/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB052",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/外发包_v1.1/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/外发包_v1.1/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB053",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/外发包_v1.1/宏利年度尽调_样板案/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/宏利年度尽调/外发包_v1.1/宏利年度尽调_样板案/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB054",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB055",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的案例卷样例_v0.1/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的案例卷样例_v0.1/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB056",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的案例卷样例_v0.1/给蓝象的案例卷样例_v0.1/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的案例卷样例_v0.1/给蓝象的案例卷样例_v0.1/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB057",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的资料包_v0.2/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的资料包_v0.2/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB058",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的资料包_v0.2/给蓝象的资料包_v0.2/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的资料包_v0.2/给蓝象的资料包_v0.2/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB059",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的资料包_v0.2/给蓝象的资料包_v0.2/组1_IA季度数据调查/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20260922_给蓝象的资料包_v0.2/给蓝象的资料包_v0.2/组1_IA季度数据调查/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB060",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20261018_给蓝象_IA监管知识库与DW-IA往来邮件/01_香港IA监管知识库/.~香港IA监管文件清单_蓝象版.xlsx",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20261018_给蓝象_IA监管知识库与DW-IA往来邮件/01_香港IA监管知识库/.~香港IA监管文件清单_蓝象版.xlsx]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB061",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20261018_给蓝象_IA监管知识库与DW-IA往来邮件/02_DW-IA往来邮件_脱敏/.~DW-IA往来邮件_清单与代号说明.xlsx",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/04_已传递归档/20261018_给蓝象_IA监管知识库与DW-IA往来邮件/02_DW-IA往来邮件_脱敏/.~DW-IA往来邮件_清单与代号说明.xlsx]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB062",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB063",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB064",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260912_首次沟通会/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260912_首次沟通会/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB065",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260916_第二次工作会议/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260916_第二次工作会议/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB066",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260921_第四次工作会议/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260921_第四次工作会议/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB067",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260930_我方内部会议_Mark团队/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20260930_我方内部会议_Mark团队/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB068",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261006_第七次工作会议/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261006_第七次工作会议/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB069",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261009_第八次沟通/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261009_第八次沟通/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB070",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261022_第十次沟通_会前会与安盛会晤/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261022_第十次沟通_会前会与安盛会晤/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB071",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261029_Mark与lisa通话_战略定位与合作模式/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261029_Mark与lisa通话_战略定位与合作模式/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB072",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261029_第十三次沟通_合作筹备对齐与产品对齐/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261029_第十三次沟通_合作筹备对齐与产品对齐/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB073",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261102_第十四次沟通_股比出资路径与业务边界/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261102_第十四次沟通_股比出资路径与业务边界/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB074",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261102_第十四次沟通_股比出资路径与业务边界/协议往来_20261102/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/20261102_第十四次沟通_股比出资路径与业务边界/协议往来_20261102/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB075",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB076",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第一阶段/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第一阶段/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB077",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第一阶段/.~AXA第二轮_讨论稿结构说明_20261021.pptx",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第一阶段/.~AXA第二轮_讨论稿结构说明_20261021.pptx]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB078",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第一阶段/.~知衡合规领航员_项目介绍_保司版_20261021.pptx",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第一阶段/.~知衡合规领航员_项目介绍_保司版_20261021.pptx]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB079",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第二阶段/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/05_周报与会议/会议展示材料/第二阶段/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB080",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB081",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/Demo交互复刻_Codex_20260924",
+      "old_status": "已由同源Demo说明确认实验",
+      "new_status": "实验排除",
+      "reason": "既有账本已明确实验原型或同源Demo属性；按现规则不摄入，不必先读取实现或内部样例。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/Demo交互复刻_Codex_20260924]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB082",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/Mark合规服务设计_20261004/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/Mark合规服务设计_20261004/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB083",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/Teresa内控要求库_公司级控制点清单_20260923/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/06_证据与交付/Teresa内控要求库_公司级控制点清单_20260923/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB084",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/90_EE准备稿归档",
+      "old_status": "工程准备稿",
+      "new_status": "待核（归档类型证据不足）",
+      "reason": "旧账本仅笼统标工程准备稿，缺少该子树具体类型证据；其他已读章程的业务治理性质不能直接证明本归档内容。纠正一概技术排除的推定，保留未知，不递归、不新读、不把治理名称本身当禁止理由。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/90_EE准备稿归档]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_disposition": "需该归档自身的最小类型/用途证据后再决定；本轮不新源读取",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB085",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/90_进度台账/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/90_进度台账/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB086",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/90_进度台账/同步记录/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/90_进度台账/同步记录/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB087",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/90_进度台账/同步记录/20260914_同步前备份/.DS_Store",
+      "old_status": "隐藏入口不读",
+      "new_status": "边界排除",
+      "reason": "沿用明确隐藏入口边界，既有账本列名足够；不读取、不跟随、不计算源hash。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/90_进度台账/同步记录/20260914_同步前备份/.DS_Store]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    },
+    {
+      "id": "RB088",
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/_仅合规留存",
+      "old_status": "用途受限留存",
+      "new_status": "敏感隔离",
+      "reason": "沿用既有客户数据/限定用途边界，当前主题分析不需要个案原料；不为证明敏感而读入内容，不将未核内容冒充已分析。",
+      "evidence_locator": [
+        {
+          "vault_path": "MOC/OB本地清单/非RW_Jasper核定.json",
+          "record_selector": "boundary_decisions[path=/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/_仅合规留存]",
+          "fields": [
+            "reason"
+          ]
+        }
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_disposition": "边界处置或既有分析关联，不计新增文件分析",
+      "recursive_admission": false,
+      "new_source_read_bytes": 0,
+      "new_source_read_chars": 0
+    }
+  ],
+  "counts": {
+    "file_records": 13,
+    "file_dispositions_completed": 13,
+    "file_unprocessed": 0,
+    "file_new_status": {
+      "低复用仅溯源": 6,
+      "敏感隔离": 3,
+      "已有分析关联（历史双说）": 2,
+      "技术排除": 2
+    },
+    "historical_business_analysis_records": 0,
+    "historical_association_records": 2,
+    "new_business_analysis_records": 0,
+    "new_theme_count": 0,
+    "file_sensitive_isolation": 3,
+    "file_analysis_needed": 0,
+    "entry_decisions": 72,
+    "entry_new_status": {
+      "容器分组核定": 1,
+      "边界排除": 38,
+      "技术排除": 3,
+      "治理入口仅识别": 1,
+      "低复用仅溯源": 1,
+      "容器分组核定（子项未知保留）": 2,
+      "实验排除": 4,
+      "仅元数据": 4,
+      "容器拆分": 1,
+      "派生技术排除": 5,
+      "技术及旧EA排除": 1,
+      "非准入类型": 2,
+      "旧EA派生排除": 1,
+      "用户明确排除": 1,
+      "待核（证据不足）": 5,
+      "技术/实验排除": 1,
+      "技术实践排除": 1
+    },
+    "entry_unknown": 5,
+    "scope_decisions": 88,
+    "scope_new_status": {
+      "边界排除": 65,
+      "技术排除": 16,
+      "待核（试点数据性质未知）": 1,
+      "敏感隔离": 3,
+      "实验排除": 2,
+      "待核（归档类型证据不足）": 1
+    },
+    "scope_unknown": 2,
+    "requires_user": 0,
+    "independent_acceptance": 0,
+    "new_project_admissions": 0,
+    "new_source_reads": 0,
+    "server_access": 0
+  },
+  "unresolved": {
+    "entry_paths": [
+      {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Mark_AI经验合集学习参考",
+        "new_status": "待核（证据不足）",
+        "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。参考工具箱入口未证明在用业务采用，保持待核、不递归 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。"
+      },
+      {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/旧规则归档",
+        "new_status": "待核（证据不足）",
+        "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。仅目录项，未找到必要在用业务证据；不以归档名称直接判业务失效 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。"
+      },
+      {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U021_国际金融与宏观经济专题",
+        "new_status": "待核（证据不足）",
+        "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。仅发现目录，缺必要主源/独立在用证据，不把RW名称或mtime当镜像依据 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。"
+      },
+      {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/U022_中国经济改革与城市化解读",
+        "new_status": "待核（证据不足）",
+        "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。README自述服务启动材料与待人审状态，证明不是纯复制标签；本轮非RW任务不自动摄入RW业务 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。"
+      },
+      {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/原子服务设计",
+        "new_status": "待核（证据不足）",
+        "reason": "现有vault记录不足以确认在用/主源，保留未知，不能用参考/归档名称或RW归属直接排除。仅发现容器，缺主源关系和当前采用证据，不递归 本轮只处理现证据可裁定的入口，不为归档或技术排除而强行读源。"
+      }
+    ],
+    "scope_paths": [
+      {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区/ontology/pilot",
+        "new_status": "待核（试点数据性质未知）",
+        "reason": "仅有试点实体数据未明确脱敏的边界记录，没有足够证据证明是纯技术/合成实验或已获准业务文本；保留未知，不因pilot名称伪判排除，不新读试点材料。"
+      },
+      {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/05_项目记录/90_EE准备稿归档",
+        "new_status": "待核（归档类型证据不足）",
+        "reason": "旧账本仅笼统标工程准备稿，缺少该子树具体类型证据；其他已读章程的业务治理性质不能直接证明本归档内容。纠正一概技术排除的推定，保留未知，不递归、不新读、不把治理名称本身当禁止理由。"
+      }
+    ],
+    "sensitive_file_paths": [
+      "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/历史存档/给程阳_十项来源数据结构说明_v0.1/README_状态与待校准项.md",
+      "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/DW_2026Q1/_内部_制作与核验记录_v1_不随包外发.md",
+      "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/03_待校准草稿/四案资料包/UNI_延期申请/_内部_制作与核验记录_v1_不随包外发.md"
+    ],
+    "historical_truth": "未裁统计、实体、当前签认或现行股比；低复用/历史双说是摄入处置，不代表这些事实已查真。",
+    "permission_history": "技术字段表的历史授权与取样衔接仍未确认；技术排除使本轮无需访问，不等于追认历史许可。"
+  },
+  "questions": [],
+  "requires_user_policy": "当前没有必须由用户作出的权限或业务决定：不取样、不外发、不交易，不需用户裁历史事实。项目证据缺口留待后续证据核定而非泛问用户。若将来请求真实取数、对外发送或正式执行，应另行向有权人提出具体范围问题；本轮不预设该请求。",
+  "analysis_needed_definition": "false表示本批已完成或无需新增分析；true仅在未准入入口/子树表示仍缺前置项目或类型证据，并不授权正文分析。13文件全为false，不表示历史事实全已核实。",
+  "supplementary_themes": [
+    {
+      "id": "RJ-T01",
+      "title": "更新说明与旧正文的授权状态分层",
+      "records": [
+        "R-J138"
+      ],
+      "claim": "前置说明的关闭状态与旧正文的签认要求可并存为历史两层；记录版本状态不要求裁定真实授权，不能自动继承或扩大权限。",
+      "applicable": "历史档案与知识整理中的版本边界；关联旧主题T05，非新增分析。",
+      "prohibited": "取数、外发、签署、角色授权或当前权限结论。"
+    },
+    {
+      "id": "RJ-T02",
+      "title": "项目入口头部与导航的口径分层",
+      "records": [
+        "R-INC15"
+      ],
+      "claim": "README头部30/70待确认与正文导航34/66新阶段分别登记；比例分歧不阻塞历史整理，也不产生当前统一口径。",
+      "applicable": "入口同步质量与历史记录维护；关联旧主题T06与增量I03，非新增分析。",
+      "prohibited": "按mtime、正文位置或版本号裁定现行股权/出资/分润；对真实金额补算。"
+    }
+  ],
+  "evidence_policy": {
+    "primary_inputs": [
+      "MOC/OB本地清单/非RW_Jasper核定.json",
+      "MOC/OB本地清单/Jasper16增量核定.json",
+      "MOC/非RW_Jasper业务主题.md",
+      "MOC/Jasper增量主题_2026-11-12.md"
+    ],
+    "additional_vault_search": [
+      "MOC/Jasper项目工作文档全量结构盘点_2026-08-13.md",
+      "MOC/Jasper项目工作区知识域定义.md"
+    ],
+    "additional_search_result": "未获得足以消除5个入口在用/主源缺口的新证据；未将历史结构盘点当当前采用证据。",
+    "locator_kind": "vault JSON稳定记录选择器+旧源行号；旧源行号及指纹仅继承，不宣称本轮重新stat/hash",
+    "source_read_method_this_batch": "无新源读取，无完整byte预hash；仅vault既有安全摘要/账本",
+    "prior_deviation": "旧批20治理与前313候选曾完整I/O后裁片段，偏差不能撤销。新结论仅限vault安全摘要，不传播技术/敏感原文；不以hash/稳定stat证明许可或独立验收。",
+    "fact_grade": "执行侧二次整理，不是新取证、源事实证明或独立核查",
+    "source_instructions_executed": false
+  },
+  "read_metrics": {
+    "new_source_files": 0,
+    "new_source_bytes": 0,
+    "new_source_chars": 0,
+    "source_stats_this_batch": 0,
+    "source_hashes_this_batch": 0,
+    "server_accesses": 0,
+    "actual_tokens": null,
+    "estimated_tokens": null,
+    "vault_io_chars": null,
+    "vault_io_bytes": null,
+    "note": "vault读取字符/字节未逐次完整计量，不用输出长度冒充I/O。继承指纹只作历史定位，不计本轮读取。"
+  },
+  "integration": {
+    "top_level_records_exactly": 13,
+    "project_decisions_key": "entry_decisions",
+    "subtree_decisions_key": "scope_decisions",
+    "status_field": "new_status",
+    "reason_field": "reason",
+    "old_ledgers_modified": false,
+    "shared_queue_modified": false,
+    "merge_target": "主控统一队列reassessment_review层",
+    "do_not_add_to_prior_238_as_acceptance": true,
+    "semantic_duplicates_not_marked_as_hash_duplicates": true
+  },
+  "remaining": {
+    "first13": {
+      "total": 13,
+      "dispositions_completed": 13,
+      "unprocessed": 0,
+      "pending_adjudication": 0,
+      "sensitive_not_ingested": 3,
+      "new_authorization_requests": 0,
+      "unverified_historical_facts": "仍未知，但不阻塞低复用/历史留档，不要求用户裁真"
+    },
+    "additional_boundaries": {
+      "entry_decisions_total": 72,
+      "scope_decisions_total": 88,
+      "unprocessed": 0,
+      "unknown_entry_evidence": 5,
+      "unknown_subtree_evidence": 2,
+      "remaining_evidence_gaps_total": 7,
+      "sensitive_scopes_not_ingested": 3,
+      "requires_user": 0
+    },
+    "newly_admitted_candidates": {
+      "total": 0,
+      "processed": 0,
+      "unprocessed": 0,
+      "note": "本轮未新增项目或文件准入，不存在已准入而未自动分析的尾项"
+    }
+  },
+  "theme_associations": [
+    {"record_id": "R-J138", "vault_path": "MOC/非RW_Jasper业务主题.md", "section": "T05 数据与传递权限", "new_analysis_count": 0},
+    {"record_id": "R-INC15", "vault_path": "MOC/非RW_Jasper业务主题.md", "section": "T06 合作与资金口径", "new_analysis_count": 0},
+    {"record_id": "R-INC15", "vault_path": "MOC/Jasper增量主题_2026-11-12.md", "section": "I03 合作、出资与交付的确认边界", "new_analysis_count": 0}
+  ],
+  "validation": {
+    "self_check_only": true,
+    "independent_review": "未进行",
+    "full_batch_disposition_not_full_source_verification": true,
+    "new_source_needed": false,
+    "unknown_retained": true,
+    "personal_or_technical_original_text_exported": false
+  }
+}

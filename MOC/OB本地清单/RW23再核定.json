@@ -1,0 +1,3740 @@
+{
+  "batch_id": "RW23再核定",
+  "schema_version": "1.0",
+  "scope_decisions": [
+    {
+      "id": "RW23_SCOPE_01",
+      "record_ids": ["R03", "R04"],
+      "requires_user": true,
+      "question": "荻邦项目工作台codex中的outputs及project-workbench，是既有准入业务交付副本，还是独立实验/工程项目？两路径合为一项范围选择，未确认前均不读。"
+    }
+  ],
+  "review_hold": "等待James实质核查；R05及A01为证据待补/隔离，不申请用户新权限；本轮不追加源读取。",
+  "created_utc": "2026-11-13T03:47:28.436897+00:00",
+  "input_ledger": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/OB知识库_vault/MOC/OB本地清单/295项处置明细.json",
+  "input_ledger_sha256": "8b2a4b9ca3fedaf9820983d9f6eb0a552f1f5aee9ce9131dc98b72106c627d92",
+  "window": [
+    "2026-05-10T05:00:00Z",
+    "2026-11-11T06:00:00Z"
+  ],
+  "records": [
+    {
+      "id": "R01",
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出/续签证据档案_AI自动化系统产品蓝图_v1.0.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "正文定位为续签准备度管理，明确不预测成功率、不承诺审批；仅提取服务边界。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出/续签证据档案_AI自动化系统产品蓝图_v1.0.md:L3-L4;L12;L25-L30"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1602,
+      "read_chars": 620,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 366,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 366,
+          "read_chars": 146,
+          "fragment_sha256": "514b632ab8a080c578387b8f6f06d97946d990e4eb0a46d2cb2ef11824ed9481",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 5599339,
+            "size": 17978,
+            "mode": 33188,
+            "mtime_ns": "1785991698079007387",
+            "ctime_ns": "1790670747410436999",
+            "mtime_utc": "2026-08-06T04:48:18.079007+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 5599339,
+            "size": 17978,
+            "mode": 33188,
+            "mtime_ns": "1785991698079007387",
+            "ctime_ns": "1790670747410436999",
+            "mtime_utc": "2026-08-06T04:48:18.079007+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 366,
+          "byte_end_exclusive": 1602,
+          "line_start": 9,
+          "line_end": 34,
+          "read_bytes": 1236,
+          "read_chars": 474,
+          "fragment_sha256": "262d3386cc5bf37f92473f16d01451e4417066ea9e872910b270aadd1250ebb5",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 5599339,
+            "size": 17978,
+            "mode": 33188,
+            "mtime_ns": "1785991698079007387",
+            "ctime_ns": "1790670747410436999",
+            "mtime_utc": "2026-08-06T04:48:18.079007+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 5599339,
+            "size": 17978,
+            "mode": 33188,
+            "mtime_ns": "1785991698079007387",
+            "ctime_ns": "1790670747410436999",
+            "mtime_utc": "2026-08-06T04:48:18.079007+00:00"
+          },
+          "stable": true,
+          "purpose": "business_fragment"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,366)",
+        "L9-L34; bytes[366,1602)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-08-05T23:48:18.079007-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 5599339,
+        "size": 17978,
+        "mode": 33188,
+        "mtime_ns": "1785991698079007387",
+        "ctime_ns": "1790670747410436999",
+        "mtime_utc": "2026-08-06T04:48:18.079007+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 5599339,
+        "size": 17978,
+        "mode": 33188,
+        "mtime_ns": "1785991698079007387",
+        "ctime_ns": "1790670747410436999",
+        "mtime_utc": "2026-08-06T04:48:18.079007+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 366,
+          "read_chars": 146
+        },
+        "business_fragment": {
+          "read_bytes": 1236,
+          "read_chars": 474
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/Codex输出",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 5599339,
+        "size": 17978,
+        "mode": 33188,
+        "mtime_ns": "1785991698079007387",
+        "ctime_ns": "1790670747410436999",
+        "mtime_utc": "2026-08-06T04:48:18.079007+00:00"
+      }
+    },
+    {
+      "id": "R02",
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦续签证据档案/续签档案项目_Codex对话记录_持续更新.md",
+      "old_status": "技术风险隔离",
+      "new_status": "低复用仅溯源",
+      "reason": "正文说明是用户可见对话归档；只确认档案用途，不展开对话、附件或个人材料。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦续签证据档案/续签档案项目_Codex对话记录_持续更新.md:L3-L6;L10-L20"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 635,
+      "read_chars": 415,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 296,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 296,
+          "read_chars": 128,
+          "fragment_sha256": "284526aa0b6157414d450c0e09ce50a060468fbf1ddc78560e5426fc56461efa",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 5599284,
+            "size": 108932,
+            "mode": 33188,
+            "mtime_ns": "1785991334513528125",
+            "ctime_ns": "1787749776033967254",
+            "mtime_utc": "2026-08-06T04:42:14.513528+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 5599284,
+            "size": 108932,
+            "mode": 33188,
+            "mtime_ns": "1785991334513528125",
+            "ctime_ns": "1787749776033967254",
+            "mtime_utc": "2026-08-06T04:42:14.513528+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 296,
+          "byte_end_exclusive": 635,
+          "line_start": 9,
+          "line_end": 20,
+          "read_bytes": 339,
+          "read_chars": 287,
+          "fragment_sha256": "0de5ea35a0748ff4c714350ed7965efe0982fafa5f60cb182216b68e60985888",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 5599284,
+            "size": 108932,
+            "mode": 33188,
+            "mtime_ns": "1785991334513528125",
+            "ctime_ns": "1787749776033967254",
+            "mtime_utc": "2026-08-06T04:42:14.513528+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 5599284,
+            "size": 108932,
+            "mode": 33188,
+            "mtime_ns": "1785991334513528125",
+            "ctime_ns": "1787749776033967254",
+            "mtime_utc": "2026-08-06T04:42:14.513528+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,296)",
+        "L9-L20; bytes[296,635)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-08-05T23:42:14.513528-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 5599284,
+        "size": 108932,
+        "mode": 33188,
+        "mtime_ns": "1785991334513528125",
+        "ctime_ns": "1787749776033967254",
+        "mtime_utc": "2026-08-06T04:42:14.513528+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 5599284,
+        "size": 108932,
+        "mode": 33188,
+        "mtime_ns": "1785991334513528125",
+        "ctime_ns": "1787749776033967254",
+        "mtime_utc": "2026-08-06T04:42:14.513528+00:00"
+      },
+      "status": "低复用仅溯源",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 635,
+          "read_chars": 415
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦续签证据档案",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 5599284,
+        "size": 108932,
+        "mode": 33188,
+        "mtime_ns": "1785991334513528125",
+        "ctime_ns": "1787749776033967254",
+        "mtime_utc": "2026-08-06T04:42:14.513528+00:00"
+      }
+    },
+    {
+      "id": "R03",
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/outputs/续签证据档案_AI自动化系统产品蓝图_v1.0.md",
+      "old_status": "技术风险隔离",
+      "new_status": "项目归属待核_未读正文",
+      "reason": "vault已有荻邦三产品业务项目证据，但未证明嵌套荻邦项目工作台codex是该业务交付副本还是独立实验/工程项目；不能仅据目录名定技术",
+      "evidence_locator": [
+        "MOC/RW业务主题_批量1.md:L23-L29",
+        "MOC/OB本地清单/项目入口队列.json:03_AMANDA仅父目录准入"
+      ],
+      "requires_user": true,
+      "question": "荻邦项目工作台codex中的outputs及project-workbench属于在用荻邦业务交付副本，还是独立实验/工程工作台？请给出项目归属/状态依据。",
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": false,
+      "source_hash": null,
+      "read_bytes": 0,
+      "read_chars": 0,
+      "content_read": false,
+      "fragments": [],
+      "locators": [],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-08-05T22:45:06.798734-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 5599202,
+        "size": 17978,
+        "mode": 33188,
+        "mtime_ns": "1785987906798733949",
+        "ctime_ns": "1790670728078219098",
+        "mtime_utc": "2026-08-06T03:45:06.798734+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "status": "项目归属待核_未读正文",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 0,
+          "read_chars": 0
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/outputs",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "stability": "not_read_project_scope_unresolved"
+    },
+    {
+      "id": "R04",
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/project-workbench/荻邦香港_项目进度工作台.html",
+      "old_status": "技术风险隔离",
+      "new_status": "项目归属待核_未读正文",
+      "reason": "vault已有荻邦三产品业务项目证据，但未证明嵌套荻邦项目工作台codex是该业务交付副本还是独立实验/工程项目；不能仅据目录名定技术",
+      "evidence_locator": [
+        "MOC/RW业务主题_批量1.md:L23-L29",
+        "MOC/OB本地清单/项目入口队列.json:03_AMANDA仅父目录准入"
+      ],
+      "requires_user": true,
+      "question": "荻邦项目工作台codex中的outputs及project-workbench属于在用荻邦业务交付副本，还是独立实验/工程工作台？请给出项目归属/状态依据。",
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": false,
+      "source_hash": null,
+      "read_bytes": 0,
+      "read_chars": 0,
+      "content_read": false,
+      "fragments": [],
+      "locators": [],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-08-05T22:45:08.558829-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 4748214,
+        "size": 52137,
+        "mode": 33188,
+        "mtime_ns": "1785987908558828830",
+        "ctime_ns": "1790670728035965214",
+        "mtime_utc": "2026-08-06T03:45:08.558829+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "status": "项目归属待核_未读正文",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 0,
+          "read_chars": 0
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港/荻邦项目工作台codex/project-workbench",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "stability": "not_read_project_scope_unresolved"
+    },
+    {
+      "id": "R05",
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港_项目进度工作台.html",
+      "old_status": "技术风险隔离",
+      "new_status": "类型证据不足待核",
+      "reason": "限量HTML前缀未获得可见业务正文；样式存在不能证明工程类型，停止扩读。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/荻邦香港_项目进度工作台.html:L1-L8;bytes[0,10000)"
+      ],
+    "requires_user": false,
+    "question": null,
+    "missing_evidence": "缺少可安全识别用途的可见正文或脱敏类型摘要；限量前缀不足以区分业务进度展示与工程日志。",
+    "next_condition": "交James实质核查证据缺口；本轮不追加源读取，不把补材料等同必须用户裁决。",
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 10494,
+      "read_chars": 470,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 494,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 494,
+          "read_chars": 470,
+          "fragment_sha256": "00f27e521590deb7541df2fcb6d923ce45444e2b0abf9aff374bc0fa47e48e8e",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 5599263,
+            "size": 52137,
+            "mode": 33188,
+            "mtime_ns": "1785319395236494033",
+            "ctime_ns": "1787749746876861408",
+            "mtime_utc": "2026-07-29T10:03:15.236494+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 5599263,
+            "size": 52137,
+            "mode": 33188,
+            "mtime_ns": "1785319395236494033",
+            "ctime_ns": "1787749746876861408",
+            "mtime_utc": "2026-07-29T10:03:15.236494+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 10000,
+          "line_start": 1,
+          "line_end": 12,
+          "read_bytes": 10000,
+          "read_chars": 0,
+          "fragment_sha256": "643a0311d052e0e25bedf5854f0834a799b2b37a3a1ab4e25ea76b3bb05ce3d3",
+          "hash_scope": "流式HTML前缀，非全文件；脚本样式隐藏区不作依据",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 5599263,
+            "size": 52137,
+            "mode": 33188,
+            "mtime_ns": "1785319395236494033",
+            "ctime_ns": "1787749746876861408",
+            "mtime_utc": "2026-07-29T10:03:15.236494+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 5599263,
+            "size": 52137,
+            "mode": 33188,
+            "mtime_ns": "1785319395236494033",
+            "ctime_ns": "1787749746876861408",
+            "mtime_utc": "2026-07-29T10:03:15.236494+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,494)",
+        "仅HTML前缀bytes[0,10000)，未获得可见业务正文"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-29T05:03:15.236494-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 5599263,
+        "size": 52137,
+        "mode": 33188,
+        "mtime_ns": "1785319395236494033",
+        "ctime_ns": "1787749746876861408",
+        "mtime_utc": "2026-07-29T10:03:15.236494+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 5599263,
+        "size": 52137,
+        "mode": 33188,
+        "mtime_ns": "1785319395236494033",
+        "ctime_ns": "1787749746876861408",
+        "mtime_utc": "2026-07-29T10:03:15.236494+00:00"
+      },
+      "status": "类型证据不足待核",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 10494,
+          "read_chars": 470
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 5599263,
+        "size": 52137,
+        "mode": 33188,
+        "mtime_ns": "1785319395236494033",
+        "ctime_ns": "1787749746876861408",
+        "mtime_utc": "2026-07-29T10:03:15.236494+00:00"
+      }
+    },
+    {
+      "id": "R06",
+      "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/RW原型_Zapier自动化清单_v1.0.md",
+      "old_status": "技术风险隔离",
+      "new_status": "技术确认排除",
+      "reason": "正文指定应用连接器、触发限制及自动化命名，已足以确认技术配置；立即停止。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/RW原型_Zapier自动化清单_v1.0.md:L3-L5"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 574,
+      "read_chars": 327,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 574,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 574,
+          "read_chars": 327,
+          "fragment_sha256": "3778f01acbc8cbfaa158a9d389045d829336dcec9cc0df3d5481723ffc7d313d",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1752262,
+            "size": 4940,
+            "mode": 33188,
+            "mtime_ns": "1783101744625184535",
+            "ctime_ns": "1790670718824297478",
+            "mtime_utc": "2026-07-03T18:02:24.625185+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1752262,
+            "size": 4940,
+            "mode": 33188,
+            "mtime_ns": "1783101744625184535",
+            "ctime_ns": "1790670718824297478",
+            "mtime_utc": "2026-07-03T18:02:24.625185+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,574)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-03T13:02:24.625185-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1752262,
+        "size": 4940,
+        "mode": 33188,
+        "mtime_ns": "1783101744625184535",
+        "ctime_ns": "1790670718824297478",
+        "mtime_utc": "2026-07-03T18:02:24.625185+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1752262,
+        "size": 4940,
+        "mode": 33188,
+        "mtime_ns": "1783101744625184535",
+        "ctime_ns": "1790670718824297478",
+        "mtime_utc": "2026-07-03T18:02:24.625185+00:00"
+      },
+      "status": "技术确认排除",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 574,
+          "read_chars": 327
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1752262,
+        "size": 4940,
+        "mode": 33188,
+        "mtime_ns": "1783101744625184535",
+        "ctime_ns": "1790670718824297478",
+        "mtime_utc": "2026-07-03T18:02:24.625185+00:00"
+      }
+    },
+    {
+      "id": "R07",
+      "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/SKU_PIPELINE_LOOP_v1.0.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "非代码围栏文字定义运行/停止治理与内外环路由；不分析围栏内容，不证明实际执行。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/SKU_PIPELINE_LOOP_v1.0.md:L2-L3;L21"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1481,
+      "read_chars": 782,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 290,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 290,
+          "read_chars": 150,
+          "fragment_sha256": "658022459e8fad59946663ce65a5a76e78c5772521a2350b7eec10c9692205e3",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1752268,
+            "size": 4321,
+            "mode": 33188,
+            "mtime_ns": "1783018180331329107",
+            "ctime_ns": "1790670719165121521",
+            "mtime_utc": "2026-07-02T18:49:40.331329+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1752268,
+            "size": 4321,
+            "mode": 33188,
+            "mtime_ns": "1783018180331329107",
+            "ctime_ns": "1790670719165121521",
+            "mtime_utc": "2026-07-02T18:49:40.331329+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 290,
+          "byte_end_exclusive": 1481,
+          "line_start": 9,
+          "line_end": 36,
+          "read_bytes": 1191,
+          "read_chars": 632,
+          "fragment_sha256": "9060cd5bdb9d8434a023b7aae3780d52aec7b15d058f748107ceb081ba3aad86",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1752268,
+            "size": 4321,
+            "mode": 33188,
+            "mtime_ns": "1783018180331329107",
+            "ctime_ns": "1790670719165121521",
+            "mtime_utc": "2026-07-02T18:49:40.331329+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1752268,
+            "size": 4321,
+            "mode": 33188,
+            "mtime_ns": "1783018180331329107",
+            "ctime_ns": "1790670719165121521",
+            "mtime_utc": "2026-07-02T18:49:40.331329+00:00"
+          },
+          "stable": true,
+          "purpose": "business_fragment"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,290)",
+        "L9-L36; bytes[290,1481)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-02T13:49:40.331329-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1752268,
+        "size": 4321,
+        "mode": 33188,
+        "mtime_ns": "1783018180331329107",
+        "ctime_ns": "1790670719165121521",
+        "mtime_utc": "2026-07-02T18:49:40.331329+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1752268,
+        "size": 4321,
+        "mode": 33188,
+        "mtime_ns": "1783018180331329107",
+        "ctime_ns": "1790670719165121521",
+        "mtime_utc": "2026-07-02T18:49:40.331329+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 290,
+          "read_chars": 150
+        },
+        "business_fragment": {
+          "read_bytes": 1191,
+          "read_chars": 632
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1752268,
+        "size": 4321,
+        "mode": 33188,
+        "mtime_ns": "1783018180331329107",
+        "ctime_ns": "1790670719165121521",
+        "mtime_utc": "2026-07-02T18:49:40.331329+00:00"
+      }
+    },
+    {
+      "id": "R08",
+      "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/SKU_PIPELINE_SPEC_v1.0.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "非代码围栏文字定义静态产物合同、客户权益阶段及空锚点约束；不分析YAML或校准统计。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC/SKU_PIPELINE_SPEC_v1.0.md:L2-L3;L22"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1612,
+      "read_chars": 962,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 383,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 383,
+          "read_chars": 195,
+          "fragment_sha256": "3c9aa8f0ccdc2c4aaf178c329c4e8ff1c08616c754fd3fbf42f25f3f5aeb11af",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1752269,
+            "size": 5204,
+            "mode": 33188,
+            "mtime_ns": "1783018172009211063",
+            "ctime_ns": "1790670718944440420",
+            "mtime_utc": "2026-07-02T18:49:32.009211+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1752269,
+            "size": 5204,
+            "mode": 33188,
+            "mtime_ns": "1783018172009211063",
+            "ctime_ns": "1790670718944440420",
+            "mtime_utc": "2026-07-02T18:49:32.009211+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 383,
+          "byte_end_exclusive": 1612,
+          "line_start": 9,
+          "line_end": 36,
+          "read_bytes": 1229,
+          "read_chars": 767,
+          "fragment_sha256": "d40558a75a4912f25973e9e171ce471c7912353b119c259687a032bd66fba2f9",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1752269,
+            "size": 5204,
+            "mode": 33188,
+            "mtime_ns": "1783018172009211063",
+            "ctime_ns": "1790670718944440420",
+            "mtime_utc": "2026-07-02T18:49:32.009211+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1752269,
+            "size": 5204,
+            "mode": 33188,
+            "mtime_ns": "1783018172009211063",
+            "ctime_ns": "1790670718944440420",
+            "mtime_utc": "2026-07-02T18:49:32.009211+00:00"
+          },
+          "stable": true,
+          "purpose": "business_fragment"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,383)",
+        "L9-L36; bytes[383,1612)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-02T13:49:32.009211-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1752269,
+        "size": 5204,
+        "mode": 33188,
+        "mtime_ns": "1783018172009211063",
+        "ctime_ns": "1790670718944440420",
+        "mtime_utc": "2026-07-02T18:49:32.009211+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1752269,
+        "size": 5204,
+        "mode": 33188,
+        "mtime_ns": "1783018172009211063",
+        "ctime_ns": "1790670718944440420",
+        "mtime_utc": "2026-07-02T18:49:32.009211+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 383,
+          "read_chars": 195
+        },
+        "business_fragment": {
+          "read_bytes": 1229,
+          "read_chars": 767
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/04_RW权益_TOC",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1752269,
+        "size": 5204,
+        "mode": 33188,
+        "mtime_ns": "1783018172009211063",
+        "ctime_ns": "1790670718944440420",
+        "mtime_utc": "2026-07-02T18:49:32.009211+00:00"
+      }
+    },
+    {
+      "id": "R09",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/09_Codex项目化配置最佳实践与待办.md",
+      "old_status": "技术风险隔离",
+      "new_status": "技术确认排除",
+      "reason": "正文用途为Codex持续配置及工具最佳实践，非业务交付规则；停止。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/09_Codex项目化配置最佳实践与待办.md:L4-L8"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 354,
+      "read_chars": 166,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 354,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 354,
+          "read_chars": 166,
+          "fragment_sha256": "6ad266c8671600757e459ab09d6bbab15db27148de97353804f0fbd226fcd2bd",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753143,
+            "size": 7942,
+            "mode": 33188,
+            "mtime_ns": "1783166072251698017",
+            "ctime_ns": "1790670886744642902",
+            "mtime_utc": "2026-07-04T11:54:32.251698+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753143,
+            "size": 7942,
+            "mode": 33188,
+            "mtime_ns": "1783166072251698017",
+            "ctime_ns": "1790670886744642902",
+            "mtime_utc": "2026-07-04T11:54:32.251698+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,354)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-04T06:54:32.251698-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753143,
+        "size": 7942,
+        "mode": 33188,
+        "mtime_ns": "1783166072251698017",
+        "ctime_ns": "1790670886744642902",
+        "mtime_utc": "2026-07-04T11:54:32.251698+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753143,
+        "size": 7942,
+        "mode": 33188,
+        "mtime_ns": "1783166072251698017",
+        "ctime_ns": "1790670886744642902",
+        "mtime_utc": "2026-07-04T11:54:32.251698+00:00"
+      },
+      "status": "技术确认排除",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 354,
+          "read_chars": 166
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753143,
+        "size": 7942,
+        "mode": 33188,
+        "mtime_ns": "1783166072251698017",
+        "ctime_ns": "1790670886744642902",
+        "mtime_utc": "2026-07-04T11:54:32.251698+00:00"
+      }
+    },
+    {
+      "id": "R10",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/11_Codex_Agent任务模板.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "正文是Phase0任务结果、上下文、原件保护、版本及人工确认约束，不因Agent名称排除。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/11_Codex_Agent任务模板.md:L3;L13;L27-L32"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1157,
+      "read_chars": 605,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 190,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 190,
+          "read_chars": 104,
+          "fragment_sha256": "2f5b02018cae2a8d9417f3d37273a57147ccad66b9fafb4acd690388a33dba5b",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753168,
+            "size": 1657,
+            "mode": 33188,
+            "mtime_ns": "1783152911141623020",
+            "ctime_ns": "1790670901236757181",
+            "mtime_utc": "2026-07-04T08:15:11.141623+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753168,
+            "size": 1657,
+            "mode": 33188,
+            "mtime_ns": "1783152911141623020",
+            "ctime_ns": "1790670901236757181",
+            "mtime_utc": "2026-07-04T08:15:11.141623+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 190,
+          "byte_end_exclusive": 1157,
+          "line_start": 9,
+          "line_end": 38,
+          "read_bytes": 967,
+          "read_chars": 501,
+          "fragment_sha256": "38701f8bcfa002bbad919eb189bbd9f8f6fb65b56c3ab85f35da19c12ce2419c",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753168,
+            "size": 1657,
+            "mode": 33188,
+            "mtime_ns": "1783152911141623020",
+            "ctime_ns": "1790670901236757181",
+            "mtime_utc": "2026-07-04T08:15:11.141623+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753168,
+            "size": 1657,
+            "mode": 33188,
+            "mtime_ns": "1783152911141623020",
+            "ctime_ns": "1790670901236757181",
+            "mtime_utc": "2026-07-04T08:15:11.141623+00:00"
+          },
+          "stable": true,
+          "purpose": "business_fragment"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,190)",
+        "L9-L38; bytes[190,1157)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-04T03:15:11.141623-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753168,
+        "size": 1657,
+        "mode": 33188,
+        "mtime_ns": "1783152911141623020",
+        "ctime_ns": "1790670901236757181",
+        "mtime_utc": "2026-07-04T08:15:11.141623+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753168,
+        "size": 1657,
+        "mode": 33188,
+        "mtime_ns": "1783152911141623020",
+        "ctime_ns": "1790670901236757181",
+        "mtime_utc": "2026-07-04T08:15:11.141623+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 190,
+          "read_chars": 104
+        },
+        "business_fragment": {
+          "read_bytes": 967,
+          "read_chars": 501
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753168,
+        "size": 1657,
+        "mode": 33188,
+        "mtime_ns": "1783152911141623020",
+        "ctime_ns": "1790670901236757181",
+        "mtime_utc": "2026-07-04T08:15:11.141623+00:00"
+      }
+    },
+    {
+      "id": "R11",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/162_TOI原子服务标准化Codex穿透验收报告_20260712.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "仅提取候选非现行、结构检查不能替代语义标准化验收的历史结论；未核验结构统计。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/162_TOI原子服务标准化Codex穿透验收报告_20260712.md:L3-L13"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1721,
+      "read_chars": 969,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 221,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 221,
+          "read_chars": 151,
+          "fragment_sha256": "dcf418e346966074ca62ad852d779b21dfa0165d933651a5e342b4f3fcca968a",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753202,
+            "size": 5669,
+            "mode": 33188,
+            "mtime_ns": "1783861420819982600",
+            "ctime_ns": "1784266942919329666",
+            "mtime_utc": "2026-07-12T13:03:40.819983+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753202,
+            "size": 5669,
+            "mode": 33188,
+            "mtime_ns": "1783861420819982600",
+            "ctime_ns": "1784266942919329666",
+            "mtime_utc": "2026-07-12T13:03:40.819983+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 221,
+          "byte_end_exclusive": 1673,
+          "line_start": 9,
+          "line_end": 31,
+          "read_bytes": 1500,
+          "read_chars": 818,
+          "fragment_sha256": "e052b5b3dd54daf9b4f6169b65f5af8924f43d341ef88b4d876e331ca9b99255",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753202,
+            "size": 5669,
+            "mode": 33188,
+            "mtime_ns": "1783861420819982600",
+            "ctime_ns": "1784266942919329666",
+            "mtime_utc": "2026-07-12T13:03:40.819983+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753202,
+            "size": 5669,
+            "mode": 33188,
+            "mtime_ns": "1783861420819982600",
+            "ctime_ns": "1784266942919329666",
+            "mtime_utc": "2026-07-12T13:03:40.819983+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,221)",
+        "L9-L31; bytes[221,1673)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-12T08:03:40.819983-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753202,
+        "size": 5669,
+        "mode": 33188,
+        "mtime_ns": "1783861420819982600",
+        "ctime_ns": "1784266942919329666",
+        "mtime_utc": "2026-07-12T13:03:40.819983+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753202,
+        "size": 5669,
+        "mode": 33188,
+        "mtime_ns": "1783861420819982600",
+        "ctime_ns": "1784266942919329666",
+        "mtime_utc": "2026-07-12T13:03:40.819983+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 1721,
+          "read_chars": 969
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753202,
+        "size": 5669,
+        "mode": 33188,
+        "mtime_ns": "1783861420819982600",
+        "ctime_ns": "1784266942919329666",
+        "mtime_utc": "2026-07-12T13:03:40.819983+00:00"
+      }
+    },
+    {
+      "id": "R12",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/169_TOI原子服务标准化v0.2_Codex穿透验收报告_20260712.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "仅提取候选与最终交付物语义验收的区分；无FAIL不等于正式接纳，未核验引用产物。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/169_TOI原子服务标准化v0.2_Codex穿透验收报告_20260712.md:L3-L13"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1733,
+      "read_chars": 1025,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 233,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 233,
+          "read_chars": 163,
+          "fragment_sha256": "e5e12351f1d101765530640244f36e3ffc35c356b2370b8edf5fc2ab0b0f8f10",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753204,
+            "size": 7090,
+            "mode": 33188,
+            "mtime_ns": "1783863600423255300",
+            "ctime_ns": "1784266933571955813",
+            "mtime_utc": "2026-07-12T13:40:00.423255+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753204,
+            "size": 7090,
+            "mode": 33188,
+            "mtime_ns": "1783863600423255300",
+            "ctime_ns": "1784266933571955813",
+            "mtime_utc": "2026-07-12T13:40:00.423255+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 233,
+          "byte_end_exclusive": 1711,
+          "line_start": 9,
+          "line_end": 31,
+          "read_bytes": 1500,
+          "read_chars": 862,
+          "fragment_sha256": "3a98ae8f8a42c409cc48ae10376ef95fdaa888e5de4da7e0a67a995e31f35809",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753204,
+            "size": 7090,
+            "mode": 33188,
+            "mtime_ns": "1783863600423255300",
+            "ctime_ns": "1784266933571955813",
+            "mtime_utc": "2026-07-12T13:40:00.423255+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753204,
+            "size": 7090,
+            "mode": 33188,
+            "mtime_ns": "1783863600423255300",
+            "ctime_ns": "1784266933571955813",
+            "mtime_utc": "2026-07-12T13:40:00.423255+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,233)",
+        "L9-L31; bytes[233,1711)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-12T08:40:00.423255-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753204,
+        "size": 7090,
+        "mode": 33188,
+        "mtime_ns": "1783863600423255300",
+        "ctime_ns": "1784266933571955813",
+        "mtime_utc": "2026-07-12T13:40:00.423255+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753204,
+        "size": 7090,
+        "mode": 33188,
+        "mtime_ns": "1783863600423255300",
+        "ctime_ns": "1784266933571955813",
+        "mtime_utc": "2026-07-12T13:40:00.423255+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 1733,
+          "read_chars": 1025
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753204,
+        "size": 7090,
+        "mode": 33188,
+        "mtime_ns": "1783863600423255300",
+        "ctime_ns": "1784266933571955813",
+        "mtime_utc": "2026-07-12T13:40:00.423255+00:00"
+      }
+    },
+    {
+      "id": "R13",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/177_TOI原子服务标准化v0.2.1_Codex穿透验收报告_20260712.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "仅提取交付物家族与合同对齐的业务验收缺口；不将源报告自述当实测。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/177_TOI原子服务标准化v0.2.1_Codex穿透验收报告_20260712.md:L3-L13"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1736,
+      "read_chars": 1012,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 236,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 236,
+          "read_chars": 166,
+          "fragment_sha256": "437632b9689a46f1527f0bc3b32ec739bb2ffa21eacbdf4848ee8515818cc091",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753209,
+            "size": 6488,
+            "mode": 33188,
+            "mtime_ns": "1783865445001895666",
+            "ctime_ns": "1790670857008825568",
+            "mtime_utc": "2026-07-12T14:10:45.001896+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753209,
+            "size": 6488,
+            "mode": 33188,
+            "mtime_ns": "1783865445001895666",
+            "ctime_ns": "1790670857008825568",
+            "mtime_utc": "2026-07-12T14:10:45.001896+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 236,
+          "byte_end_exclusive": 1620,
+          "line_start": 9,
+          "line_end": 27,
+          "read_bytes": 1500,
+          "read_chars": 846,
+          "fragment_sha256": "7ad4f40ab31ae7547c0ceb4ba62e8571ede2e2a135d4618d9a5f5283ab809e7c",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753209,
+            "size": 6488,
+            "mode": 33188,
+            "mtime_ns": "1783865445001895666",
+            "ctime_ns": "1790670857008825568",
+            "mtime_utc": "2026-07-12T14:10:45.001896+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753209,
+            "size": 6488,
+            "mode": 33188,
+            "mtime_ns": "1783865445001895666",
+            "ctime_ns": "1790670857008825568",
+            "mtime_utc": "2026-07-12T14:10:45.001896+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,236)",
+        "L9-L27; bytes[236,1620)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-12T09:10:45.001896-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753209,
+        "size": 6488,
+        "mode": 33188,
+        "mtime_ns": "1783865445001895666",
+        "ctime_ns": "1790670857008825568",
+        "mtime_utc": "2026-07-12T14:10:45.001896+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753209,
+        "size": 6488,
+        "mode": 33188,
+        "mtime_ns": "1783865445001895666",
+        "ctime_ns": "1790670857008825568",
+        "mtime_utc": "2026-07-12T14:10:45.001896+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 1736,
+          "read_chars": 1012
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753209,
+        "size": 6488,
+        "mode": 33188,
+        "mtime_ns": "1783865445001895666",
+        "ctime_ns": "1790670857008825568",
+        "mtime_utc": "2026-07-12T14:10:45.001896+00:00"
+      }
+    },
+    {
+      "id": "R14",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/184_TOI原子服务标准化v0.2.2_Codex穿透验收报告_20260712.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "报告声称内部标准化基线接纳，但明确非现行非外发，Owner/财务/合规/证据成熟度待办仍保留。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/184_TOI原子服务标准化v0.2.2_Codex穿透验收报告_20260712.md:L3-L7;L13"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1703,
+      "read_chars": 1160,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 253,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 253,
+          "read_chars": 189,
+          "fragment_sha256": "cc50f58b92024d6c88be69a319d6cd5e87eb5ed4196cf3c3e21b7dde968763fa",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753217,
+            "size": 4900,
+            "mode": 33188,
+            "mtime_ns": "1783867730795532226",
+            "ctime_ns": "1790670864395764655",
+            "mtime_utc": "2026-07-12T14:48:50.795532+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753217,
+            "size": 4900,
+            "mode": 33188,
+            "mtime_ns": "1783867730795532226",
+            "ctime_ns": "1790670864395764655",
+            "mtime_utc": "2026-07-12T14:48:50.795532+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 253,
+          "byte_end_exclusive": 1700,
+          "line_start": 9,
+          "line_end": 30,
+          "read_bytes": 1450,
+          "read_chars": 971,
+          "fragment_sha256": "339dec08f2fabc4366e12c439c4081e5284727b5acc987ee32dc39b1b6e78792",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753217,
+            "size": 4900,
+            "mode": 33188,
+            "mtime_ns": "1783867730795532226",
+            "ctime_ns": "1790670864395764655",
+            "mtime_utc": "2026-07-12T14:48:50.795532+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753217,
+            "size": 4900,
+            "mode": 33188,
+            "mtime_ns": "1783867730795532226",
+            "ctime_ns": "1790670864395764655",
+            "mtime_utc": "2026-07-12T14:48:50.795532+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,253)",
+        "L9-L30; bytes[253,1700)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-12T09:48:50.795532-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753217,
+        "size": 4900,
+        "mode": 33188,
+        "mtime_ns": "1783867730795532226",
+        "ctime_ns": "1790670864395764655",
+        "mtime_utc": "2026-07-12T14:48:50.795532+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753217,
+        "size": 4900,
+        "mode": 33188,
+        "mtime_ns": "1783867730795532226",
+        "ctime_ns": "1790670864395764655",
+        "mtime_utc": "2026-07-12T14:48:50.795532+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 1703,
+          "read_chars": 1160
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753217,
+        "size": 4900,
+        "mode": 33188,
+        "mtime_ns": "1783867730795532226",
+        "ctime_ns": "1790670864395764655",
+        "mtime_utc": "2026-07-12T14:48:50.795532+00:00"
+      }
+    },
+    {
+      "id": "R15",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/191_TOI业务模型v3.3.1_Codex最终验收报告_20260712.md",
+      "old_status": "技术风险隔离",
+      "new_status": "混合技术隔离",
+      "reason": "后续最小片段出现具体工具加载及产物生成实现，确认混合；停止，不提炼其工程验收或推广完成结论。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/191_TOI业务模型v3.3.1_Codex最终验收报告_20260712.md:L7;L11"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1431,
+      "read_chars": 1037,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 273,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 273,
+          "read_chars": 215,
+          "fragment_sha256": "26b8dd4607c386aa27acf8ceca46866c66a2f4ab07cf193f96fbae0b2ef8d8e7",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753228,
+            "size": 3781,
+            "mode": 33188,
+            "mtime_ns": "1783869828341802835",
+            "ctime_ns": "1790670864040657335",
+            "mtime_utc": "2026-07-12T15:23:48.341803+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753228,
+            "size": 3781,
+            "mode": 33188,
+            "mtime_ns": "1783869828341802835",
+            "ctime_ns": "1790670864040657335",
+            "mtime_utc": "2026-07-12T15:23:48.341803+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 273,
+          "byte_end_exclusive": 1431,
+          "line_start": 9,
+          "line_end": 34,
+          "read_bytes": 1158,
+          "read_chars": 822,
+          "fragment_sha256": "9b512a0187033f85e79a6aa20b378c25767a8be176cddbbd5d40f6d74ab4b86f",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753228,
+            "size": 3781,
+            "mode": 33188,
+            "mtime_ns": "1783869828341802835",
+            "ctime_ns": "1790670864040657335",
+            "mtime_utc": "2026-07-12T15:23:48.341803+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753228,
+            "size": 3781,
+            "mode": 33188,
+            "mtime_ns": "1783869828341802835",
+            "ctime_ns": "1790670864040657335",
+            "mtime_utc": "2026-07-12T15:23:48.341803+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,273)",
+        "L9-L34; bytes[273,1431)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-12T10:23:48.341803-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753228,
+        "size": 3781,
+        "mode": 33188,
+        "mtime_ns": "1783869828341802835",
+        "ctime_ns": "1790670864040657335",
+        "mtime_utc": "2026-07-12T15:23:48.341803+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753228,
+        "size": 3781,
+        "mode": 33188,
+        "mtime_ns": "1783869828341802835",
+        "ctime_ns": "1790670864040657335",
+        "mtime_utc": "2026-07-12T15:23:48.341803+00:00"
+      },
+      "status": "混合技术隔离",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 1431,
+          "read_chars": 1037
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753228,
+        "size": 3781,
+        "mode": 33188,
+        "mtime_ns": "1783869828341802835",
+        "ctime_ns": "1790670864040657335",
+        "mtime_utc": "2026-07-12T15:23:48.341803+00:00"
+      }
+    },
+    {
+      "id": "R16",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/206_TRK013_Q3保单开立日期技术确认_20260715.md",
+      "old_status": "技术风险隔离",
+      "new_status": "技术确认排除",
+      "reason": "必要前缀出现系统字段到数据库字段映射及落库定义，确认技术类型；未访问数据库。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/206_TRK013_Q3保单开立日期技术确认_20260715.md:L10-L16"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 597,
+      "read_chars": 421,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 299,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 299,
+          "read_chars": 199,
+          "fragment_sha256": "693d418142fb9b17695258cf09b581394370312559136dcf4c67f2228ef41098",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753248,
+            "size": 2626,
+            "mode": 33188,
+            "mtime_ns": "1784110255795089800",
+            "ctime_ns": "1784266960008966914",
+            "mtime_utc": "2026-07-15T10:10:55.795090+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753248,
+            "size": 2626,
+            "mode": 33188,
+            "mtime_ns": "1784110255795089800",
+            "ctime_ns": "1784266960008966914",
+            "mtime_utc": "2026-07-15T10:10:55.795090+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 299,
+          "byte_end_exclusive": 597,
+          "line_start": 9,
+          "line_end": 17,
+          "read_bytes": 298,
+          "read_chars": 222,
+          "fragment_sha256": "d79b7288a5445d2e4c8b7263b8677d47f9b1b60e9549fcb98d69ba6522934f0f",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753248,
+            "size": 2626,
+            "mode": 33188,
+            "mtime_ns": "1784110255795089800",
+            "ctime_ns": "1784266960008966914",
+            "mtime_utc": "2026-07-15T10:10:55.795090+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753248,
+            "size": 2626,
+            "mode": 33188,
+            "mtime_ns": "1784110255795089800",
+            "ctime_ns": "1784266960008966914",
+            "mtime_utc": "2026-07-15T10:10:55.795090+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,299)",
+        "L9-L17; bytes[299,597)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-15T05:10:55.795090-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753248,
+        "size": 2626,
+        "mode": 33188,
+        "mtime_ns": "1784110255795089800",
+        "ctime_ns": "1784266960008966914",
+        "mtime_utc": "2026-07-15T10:10:55.795090+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753248,
+        "size": 2626,
+        "mode": 33188,
+        "mtime_ns": "1784110255795089800",
+        "ctime_ns": "1784266960008966914",
+        "mtime_utc": "2026-07-15T10:10:55.795090+00:00"
+      },
+      "status": "技术确认排除",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 597,
+          "read_chars": 421
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753248,
+        "size": 2626,
+        "mode": 33188,
+        "mtime_ns": "1784110255795089800",
+        "ctime_ns": "1784266960008966914",
+        "mtime_utc": "2026-07-15T10:10:55.795090+00:00"
+      }
+    },
+    {
+      "id": "R17",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/216A_OBG7_G7B_数据结构预设计_v0.1_20260720.md",
+      "old_status": "技术风险隔离",
+      "new_status": "技术确认排除",
+      "reason": "正文自定为技术预备/数据结构预设计，并说明不代表解锁；停止。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/216A_OBG7_G7B_数据结构预设计_v0.1_20260720.md:L4-L5"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 174,
+      "read_chars": 100,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 174,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 174,
+          "read_chars": 100,
+          "fragment_sha256": "31592af60e221ef285c432fe8137092f57ce12160d1de0185ef90d684170df92",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 4748200,
+            "size": 5028,
+            "mode": 33188,
+            "mtime_ns": "1784530210911295175",
+            "ctime_ns": "1790670881695253516",
+            "mtime_utc": "2026-07-20T06:50:10.911295+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 4748200,
+            "size": 5028,
+            "mode": 33188,
+            "mtime_ns": "1784530210911295175",
+            "ctime_ns": "1790670881695253516",
+            "mtime_utc": "2026-07-20T06:50:10.911295+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,174)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-20T01:50:10.911295-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 4748200,
+        "size": 5028,
+        "mode": 33188,
+        "mtime_ns": "1784530210911295175",
+        "ctime_ns": "1790670881695253516",
+        "mtime_utc": "2026-07-20T06:50:10.911295+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 4748200,
+        "size": 5028,
+        "mode": 33188,
+        "mtime_ns": "1784530210911295175",
+        "ctime_ns": "1790670881695253516",
+        "mtime_utc": "2026-07-20T06:50:10.911295+00:00"
+      },
+      "status": "技术确认排除",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 174,
+          "read_chars": 100
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 4748200,
+        "size": 5028,
+        "mode": 33188,
+        "mtime_ns": "1784530210911295175",
+        "ctime_ns": "1790670881695253516",
+        "mtime_utc": "2026-07-20T06:50:10.911295+00:00"
+      }
+    },
+    {
+      "id": "R18",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/221A_toi_evidence_index_DB建表草案_v0.1_20260720.md",
+      "old_status": "技术风险隔离",
+      "new_status": "技术确认排除",
+      "reason": "正文明确DB预设计草案、不创建真实数据库、不代表解锁；停止。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/221A_toi_evidence_index_DB建表草案_v0.1_20260720.md:L4-L5"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 405,
+      "read_chars": 253,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 405,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 405,
+          "read_chars": 253,
+          "fragment_sha256": "99c1dd1de9c70107dbfdfb112feaf18d61b82b4d8656376f8b943abcf040d224",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 4748186,
+            "size": 3445,
+            "mode": 33188,
+            "mtime_ns": "1784533003433971000",
+            "ctime_ns": "1785467633252567624",
+            "mtime_utc": "2026-07-20T07:36:43.433971+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 4748186,
+            "size": 3445,
+            "mode": 33188,
+            "mtime_ns": "1784533003433971000",
+            "ctime_ns": "1785467633252567624",
+            "mtime_utc": "2026-07-20T07:36:43.433971+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,405)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-20T02:36:43.433971-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 4748186,
+        "size": 3445,
+        "mode": 33188,
+        "mtime_ns": "1784533003433971000",
+        "ctime_ns": "1785467633252567624",
+        "mtime_utc": "2026-07-20T07:36:43.433971+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 4748186,
+        "size": 3445,
+        "mode": 33188,
+        "mtime_ns": "1784533003433971000",
+        "ctime_ns": "1785467633252567624",
+        "mtime_utc": "2026-07-20T07:36:43.433971+00:00"
+      },
+      "status": "技术确认排除",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 405,
+          "read_chars": 253
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 4748186,
+        "size": 3445,
+        "mode": 33188,
+        "mtime_ns": "1784533003433971000",
+        "ctime_ns": "1785467633252567624",
+        "mtime_utc": "2026-07-20T07:36:43.433971+00:00"
+      }
+    },
+    {
+      "id": "R19",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/221_Carrie_step5_DB建表草案完成记录_20260720.md",
+      "old_status": "技术风险隔离",
+      "new_status": "技术确认排除",
+      "reason": "正文执行范围为DB建表及导入校验草案；completed仅文内声称，不验证执行。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/221_Carrie_step5_DB建表草案完成记录_20260720.md:L4-L5"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 297,
+      "read_chars": 153,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 297,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 297,
+          "read_chars": 153,
+          "fragment_sha256": "dd8b8be9651a32062cc29bf511f354bc81304cf9fb57f2a8e167116130393aec",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 4748248,
+            "size": 1805,
+            "mode": 33188,
+            "mtime_ns": "1784533008623580800",
+            "ctime_ns": "1785467640040744267",
+            "mtime_utc": "2026-07-20T07:36:48.623581+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 4748248,
+            "size": 1805,
+            "mode": 33188,
+            "mtime_ns": "1784533008623580800",
+            "ctime_ns": "1785467640040744267",
+            "mtime_utc": "2026-07-20T07:36:48.623581+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,297)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-20T02:36:48.623581-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 4748248,
+        "size": 1805,
+        "mode": 33188,
+        "mtime_ns": "1784533008623580800",
+        "ctime_ns": "1785467640040744267",
+        "mtime_utc": "2026-07-20T07:36:48.623581+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 4748248,
+        "size": 1805,
+        "mode": 33188,
+        "mtime_ns": "1784533008623580800",
+        "ctime_ns": "1785467640040744267",
+        "mtime_utc": "2026-07-20T07:36:48.623581+00:00"
+      },
+      "status": "技术确认排除",
+      "analysis_scope": "未作业务分析",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 297,
+          "read_chars": 153
+        },
+        "business_fragment": {
+          "read_bytes": 0,
+          "read_chars": 0
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 4748248,
+        "size": 1805,
+        "mode": 33188,
+        "mtime_ns": "1784533008623580800",
+        "ctime_ns": "1785467640040744267",
+        "mtime_utc": "2026-07-20T07:36:48.623581+00:00"
+      }
+    },
+    {
+      "id": "R20",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/42_Codex验收_Phase0_TOB_TOI输出复核.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "仅提取匿名汇总内部用途、正式报表缺源、财务确认及外发门禁，不采信结构复核计数。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/42_Codex验收_Phase0_TOB_TOI输出复核.md:L34-L45"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 2461,
+      "read_chars": 1397,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 173,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 173,
+          "read_chars": 107,
+          "fragment_sha256": "ed1dae9ca1231bf29ff1ac3266a930b14ad2e6d4edf76fe5e5846a2e3c6ed5dc",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753293,
+            "size": 2962,
+            "mode": 33188,
+            "mtime_ns": "1783161425374110700",
+            "ctime_ns": "1784266915099069412",
+            "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753293,
+            "size": 2962,
+            "mode": 33188,
+            "mtime_ns": "1783161425374110700",
+            "ctime_ns": "1784266915099069412",
+            "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 173,
+          "byte_end_exclusive": 1507,
+          "line_start": 9,
+          "line_end": 34,
+          "read_bytes": 1334,
+          "read_chars": 844,
+          "fragment_sha256": "2637f23a3fdefebbc71635f8a15147f41ee7bde0be40ff2a9947c4a13a39b5f1",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753293,
+            "size": 2962,
+            "mode": 33188,
+            "mtime_ns": "1783161425374110700",
+            "ctime_ns": "1784266915099069412",
+            "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753293,
+            "size": 2962,
+            "mode": 33188,
+            "mtime_ns": "1783161425374110700",
+            "ctime_ns": "1784266915099069412",
+            "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 1507,
+          "byte_end_exclusive": 2461,
+          "line_start": 35,
+          "line_end": 50,
+          "read_bytes": 954,
+          "read_chars": 446,
+          "fragment_sha256": "ba250e82938f8a658e4f9d0663ad221d21416f0f51629a4b18ddaf7bf1d01fb7",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753293,
+            "size": 2962,
+            "mode": 33188,
+            "mtime_ns": "1783161425374110700",
+            "ctime_ns": "1784266915099069412",
+            "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753293,
+            "size": 2962,
+            "mode": 33188,
+            "mtime_ns": "1783161425374110700",
+            "ctime_ns": "1784266915099069412",
+            "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+          },
+          "stable": true,
+          "purpose": "business_fragment"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,173)",
+        "L9-L34; bytes[173,1507)",
+        "L35-L50; bytes[1507,2461)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-04T05:37:05.374111-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753293,
+        "size": 2962,
+        "mode": 33188,
+        "mtime_ns": "1783161425374110700",
+        "ctime_ns": "1784266915099069412",
+        "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753293,
+        "size": 2962,
+        "mode": 33188,
+        "mtime_ns": "1783161425374110700",
+        "ctime_ns": "1784266915099069412",
+        "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 1507,
+          "read_chars": 951
+        },
+        "business_fragment": {
+          "read_bytes": 954,
+          "read_chars": 446
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753293,
+        "size": 2962,
+        "mode": 33188,
+        "mtime_ns": "1783161425374110700",
+        "ctime_ns": "1784266915099069412",
+        "mtime_utc": "2026-07-04T10:37:05.374111+00:00"
+      }
+    },
+    {
+      "id": "R21",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/44_Codex验收_TOI正式匿名汇总报表源补齐复核.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "通过仅指正式报表缺源已如实记载；模板/字典工作不等于正式保司报表可外发。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/44_Codex验收_TOI正式匿名汇总报表源补齐复核.md:L30-L32"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1673,
+      "read_chars": 1023,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 206,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 206,
+          "read_chars": 118,
+          "fragment_sha256": "5e220e42ca9deaaf2813e021139e1ad03e8dcfca38f467fb3459fadd62af7b9f",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753298,
+            "size": 2208,
+            "mode": 33188,
+            "mtime_ns": "1783168027926524162",
+            "ctime_ns": "1790670855670430192",
+            "mtime_utc": "2026-07-04T12:27:07.926524+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753298,
+            "size": 2208,
+            "mode": 33188,
+            "mtime_ns": "1783168027926524162",
+            "ctime_ns": "1790670855670430192",
+            "mtime_utc": "2026-07-04T12:27:07.926524+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 206,
+          "byte_end_exclusive": 1673,
+          "line_start": 9,
+          "line_end": 36,
+          "read_bytes": 1467,
+          "read_chars": 905,
+          "fragment_sha256": "b81ff8b0ce8d4caae20310c69d06f1d4e67d7904f528eb14925a925fed54025e",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753298,
+            "size": 2208,
+            "mode": 33188,
+            "mtime_ns": "1783168027926524162",
+            "ctime_ns": "1790670855670430192",
+            "mtime_utc": "2026-07-04T12:27:07.926524+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753298,
+            "size": 2208,
+            "mode": 33188,
+            "mtime_ns": "1783168027926524162",
+            "ctime_ns": "1790670855670430192",
+            "mtime_utc": "2026-07-04T12:27:07.926524+00:00"
+          },
+          "stable": true,
+          "purpose": "business_fragment"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,206)",
+        "L9-L36; bytes[206,1673)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-04T07:27:07.926524-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753298,
+        "size": 2208,
+        "mode": 33188,
+        "mtime_ns": "1783168027926524162",
+        "ctime_ns": "1790670855670430192",
+        "mtime_utc": "2026-07-04T12:27:07.926524+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753298,
+        "size": 2208,
+        "mode": 33188,
+        "mtime_ns": "1783168027926524162",
+        "ctime_ns": "1790670855670430192",
+        "mtime_utc": "2026-07-04T12:27:07.926524+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 206,
+          "read_chars": 118
+        },
+        "business_fragment": {
+          "read_bytes": 1467,
+          "read_chars": 905
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753298,
+        "size": 2208,
+        "mode": 33188,
+        "mtime_ns": "1783168027926524162",
+        "ctime_ns": "1790670855670430192",
+        "mtime_utc": "2026-07-04T12:27:07.926524+00:00"
+      }
+    },
+    {
+      "id": "R22",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/46_Codex验收_Phase0_TOB_TOI项目化配置包v0.2复核.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "项目配置包属于内部工作基线，source_absent及Gate仍限制客户/商业/对外使用；未复验数量。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/46_Codex验收_Phase0_TOB_TOI项目化配置包v0.2复核.md:L22;L28-L33"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1903,
+      "read_chars": 940,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 203,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 203,
+          "read_chars": 125,
+          "fragment_sha256": "da45b283a80c96f3b5c9c88413423147b57fe23ac049a88cfe87f556ea4c17a5",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753305,
+            "size": 2615,
+            "mode": 33188,
+            "mtime_ns": "1783167914798510500",
+            "ctime_ns": "1784266892134683887",
+            "mtime_utc": "2026-07-04T12:25:14.798511+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753305,
+            "size": 2615,
+            "mode": 33188,
+            "mtime_ns": "1783167914798510500",
+            "ctime_ns": "1784266892134683887",
+            "mtime_utc": "2026-07-04T12:25:14.798511+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 203,
+          "byte_end_exclusive": 1868,
+          "line_start": 9,
+          "line_end": 33,
+          "read_bytes": 1700,
+          "read_chars": 815,
+          "fragment_sha256": "9567011401853043aea54b473f114a16c86fbf35592b32d1f24a15951daaaeb6",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753305,
+            "size": 2615,
+            "mode": 33188,
+            "mtime_ns": "1783167914798510500",
+            "ctime_ns": "1784266892134683887",
+            "mtime_utc": "2026-07-04T12:25:14.798511+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753305,
+            "size": 2615,
+            "mode": 33188,
+            "mtime_ns": "1783167914798510500",
+            "ctime_ns": "1784266892134683887",
+            "mtime_utc": "2026-07-04T12:25:14.798511+00:00"
+          },
+          "stable": true,
+          "purpose": "business_fragment"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,203)",
+        "L9-L33; bytes[203,1868)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-04T07:25:14.798511-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753305,
+        "size": 2615,
+        "mode": 33188,
+        "mtime_ns": "1783167914798510500",
+        "ctime_ns": "1784266892134683887",
+        "mtime_utc": "2026-07-04T12:25:14.798511+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753305,
+        "size": 2615,
+        "mode": 33188,
+        "mtime_ns": "1783167914798510500",
+        "ctime_ns": "1784266892134683887",
+        "mtime_utc": "2026-07-04T12:25:14.798511+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 203,
+          "read_chars": 125
+        },
+        "business_fragment": {
+          "read_bytes": 1700,
+          "read_chars": 815
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753305,
+        "size": 2615,
+        "mode": 33188,
+        "mtime_ns": "1783167914798510500",
+        "ctime_ns": "1784266892134683887",
+        "mtime_utc": "2026-07-04T12:25:14.798511+00:00"
+      }
+    },
+    {
+      "id": "R23",
+      "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/AGENTS.md",
+      "old_status": "技术风险隔离",
+      "new_status": "业务必要片段已分析",
+      "reason": "正文是Phase0交付治理、SSOT及任务验收约束；源AGENTS不构成本轮扩权指令。",
+      "evidence_locator": [
+        "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动/AGENTS.md:L5-L11;L17-L27"
+      ],
+      "requires_user": false,
+      "question": null,
+      "analysis_needed": true,
+      "analysis_completed": true,
+      "project_admitted_for_type_probe": true,
+      "source_hash": null,
+      "read_bytes": 1842,
+      "read_chars": 1500,
+      "content_read": true,
+      "fragments": [
+        {
+          "byte_start": 0,
+          "byte_end_exclusive": 274,
+          "line_start": 1,
+          "line_end": 8,
+          "read_bytes": 274,
+          "read_chars": 274,
+          "fragment_sha256": "626db41e76901685a12541404bc9e23f1acedf507b91b885d6d8addce6a6a1a6",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753379,
+            "size": 1843,
+            "mode": 33188,
+            "mtime_ns": "1783141957992835521",
+            "ctime_ns": "1790670874754020808",
+            "mtime_utc": "2026-07-04T05:12:37.992836+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753379,
+            "size": 1843,
+            "mode": 33188,
+            "mtime_ns": "1783141957992835521",
+            "ctime_ns": "1790670874754020808",
+            "mtime_utc": "2026-07-04T05:12:37.992836+00:00"
+          },
+          "stable": true,
+          "purpose": "type_identification"
+        },
+        {
+          "byte_start": 274,
+          "byte_end_exclusive": 1570,
+          "line_start": 9,
+          "line_end": 30,
+          "read_bytes": 1568,
+          "read_chars": 1226,
+          "fragment_sha256": "54dc6583a424df1873d0ad50faa447331f6094010e127de2273ee4ec3a1bb355",
+          "hash_scope": "仅实际保留前缀字节，非完整文件hash",
+          "stat_before": {
+            "dev": 16777231,
+            "ino": 1753379,
+            "size": 1843,
+            "mode": 33188,
+            "mtime_ns": "1783141957992835521",
+            "ctime_ns": "1790670874754020808",
+            "mtime_utc": "2026-07-04T05:12:37.992836+00:00"
+          },
+          "stat_after": {
+            "dev": 16777231,
+            "ino": 1753379,
+            "size": 1843,
+            "mode": 33188,
+            "mtime_ns": "1783141957992835521",
+            "ctime_ns": "1790670874754020808",
+            "mtime_utc": "2026-07-04T05:12:37.992836+00:00"
+          },
+          "stable": true,
+          "purpose": "business_fragment"
+        }
+      ],
+      "locators": [
+        "L1-L8; bytes[0,274)",
+        "L9-L30; bytes[274,1570)"
+      ],
+      "token_count": null,
+      "token_estimate": null,
+      "old_mtime": "2026-07-04T00:12:37.992836-05:00",
+      "stat_before": {
+        "dev": 16777231,
+        "ino": 1753379,
+        "size": 1843,
+        "mode": 33188,
+        "mtime_ns": "1783141957992835521",
+        "ctime_ns": "1790670874754020808",
+        "mtime_utc": "2026-07-04T05:12:37.992836+00:00"
+      },
+      "project_scope": "RW既有准入目录内；本次仅授权安全类型复核，不继承旧content_read_allowed=false为语义判定",
+      "stability": "stable",
+      "stat_after": {
+        "dev": 16777231,
+        "ino": 1753379,
+        "size": 1843,
+        "mode": 33188,
+        "mtime_ns": "1783141957992835521",
+        "ctime_ns": "1790670874754020808",
+        "mtime_utc": "2026-07-04T05:12:37.992836+00:00"
+      },
+      "status": "业务必要片段已分析",
+      "analysis_scope": "仅所列业务片段；非全文核定",
+      "read_metrics": {
+        "type_identification": {
+          "read_bytes": 274,
+          "read_chars": 274
+        },
+        "business_fragment": {
+          "read_bytes": 1568,
+          "read_chars": 1226
+        }
+      },
+      "path_guard_audit": {
+        "ancestors": [
+          {
+            "path": "/",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目",
+            "is_symlink": false,
+            "dev": 16777231
+          },
+          {
+            "path": "/Users/a112233/Desktop/Rw权益项目/07_项目立项启动",
+            "is_symlink": false,
+            "dev": 16777231
+          }
+        ],
+        "all_ancestors_non_symlink": true,
+        "timing": "事后仅元数据核查；不能追认先前读取具备dirfd防竞态保障",
+        "prior_reads_dirfd_guarded": false,
+        "mount_check": "本轮mount显示源路径所经卷为local APFS，无网络挂载；不追读正文"
+      },
+      "final_metadata": {
+        "dev": 16777231,
+        "ino": 1753379,
+        "size": 1843,
+        "mode": 33188,
+        "mtime_ns": "1783141957992835521",
+        "ctime_ns": "1790670874754020808",
+        "mtime_utc": "2026-07-04T05:12:37.992836+00:00"
+      }
+    }
+  ],
+  "additional_records": [
+    {
+      "id": "A01",
+      "path": "/Users/a112233/Desktop/Rw权益项目/03_AMANDA/荻邦香港-TOC权益包/续签档案/TOC续签证据完整字段映射图-V5.html",
+      "old_status": "类型证据不足待核（原分片3为待核）",
+      "new_status": "类型与敏感边界证据不足_保持隔离",
+      "reason": "vault旧记录明确未读正文，仅由名称提出技术/个人证据字段可能；不足以断言技术或证明无个人实例，不能为了辨型打开潜在个人字段。",
+      "evidence_locator": [
+        "MOC/OB本地清单/分片3_处置.json:index=23;semantic_review;project_scope;read_bytes=0;source_hash=null",
+        "MOC/RW业务主题_批量3.md:L86;L136-L138",
+        "MOC/RW业务主题_批量1.md:主题二的客户画像/证据分层"
+      ],
+    "requires_user": false,
+    "question": null,
+    "missing_evidence": "缺少纯脱敏字段定义、无真实个人实例及具体业务项目用途的安全证据；名称不足以判断技术类型。",
+      "analysis_needed": false,
+      "analysis_completed": false,
+      "content_read": false,
+      "read_bytes": 0,
+      "read_chars": 0,
+      "locators": [],
+      "source_hash": null,
+      "fragments": [],
+      "token_count": null,
+      "token_estimate": null,
+      "stability": "not_probed_sensitivity_boundary_unresolved",
+      "mtime_source": "仅旧vault元数据，未stat或打开源",
+      "historical_mtime_ns": "1787413880262485718",
+      "historical_size": 42380,
+      "project_scope": "RW父目录归属已知，具体文档用途及无个人实例边界未证明；不自动准入",
+    "next_condition": "本轮仅保持隔离，不申请新读取权限；交James判断现有证据与旁路结论，不追加源读取。其余旧17项未触碰。",
+      "status": "类型与敏感边界证据不足_保持隔离",
+      "sidecar_only": true,
+      "old_hash_overwritten": false
+    }
+  ],
+  "governance": [
+    "MOC/OB执行与独立核查协议_2026-11-10.md",
+    "MOC/OB本地清单/项目入口队列.json:decision=保留筛类型;reason=既有RW准入目录",
+    "MOC/RW业务主题_批量1.md:主题一与主题二",
+    "MOC/RW规则与交付治理MOC_2026-08-13.md:L39-L95",
+    "MOC/RW风险升级与复核MOC_2026-08-13.md:L44-L88"
+  ],
+  "counts": {
+    "records": 23,
+    "additional_records": 1,
+    "by_status": {
+      "业务必要片段已分析": 12,
+      "低复用仅溯源": 1,
+      "项目归属待核_未读正文": 2,
+      "类型证据不足待核": 1,
+      "技术确认排除": 6,
+      "混合技术隔离": 1
+    },
+    "business_analysis_files": 12,
+    "source_read_files": 21,
+    "full_source_hash_reads": 0
+  },
+  "read_metrics": {
+    "type_identification": {
+      "read_bytes": 25273,
+      "read_chars": 9571,
+      "fragment_reads": 30,
+      "file_count": 21
+    },
+    "business_fragment": {
+      "read_bytes": 10312,
+      "read_chars": 5766,
+      "fragment_reads": 8,
+      "file_count": 8
+    },
+    "total_read_bytes": 35585,
+    "total_read_chars": 15337,
+    "additional_read_bytes": 0,
+    "additional_read_chars": 0,
+    "token_count": null,
+    "scope": "本轮源读取I/O；不含vault治理资料。按读取目的互斥计量，类型片段复用于业务判断不重复计费。字符为保留完整文本字符，HTML过滤扫描只计可见字符；字节含截断和重叠实读，非唯一字节数。"
+  },
+  "historical_boundary": "均为历史设计/报告文内声称；未验证现实执行、审批、财务、外发或验收；不晋升现行基线。",
+  "independent_review": {
+    "reviewer": "James",
+    "status": "待送审_当前工具未定位接收会话",
+    "notification_sent": false
+  },
+  "finalized_utc": "2026-11-13T03:55:19.546417+00:00",
+  "self_check": "23原队列集合相等且无重复；附项独立；字段完整；21读取项元数据稳定；无全文源hash；非独立核查"
+}

@@ -1,0 +1,50 @@
+{
+  "checked_utc": "2026-11-13T03:35:27.245Z",
+  "expected": 338,
+  "processed": 338,
+  "unprocessed": 0,
+  "shard_counts": {
+    "A": {
+      "已分析": 32,
+      "低复用仅溯源": 36,
+      "待核": 3,
+      "已有分析关联": 8
+    },
+    "B": {
+      "业务片段已分析_候选": 38,
+      "敏感标识隔离_未作业务分析": 2,
+      "工程混合隔离_仅类型识别": 23,
+      "低复用仅溯源_未作业务分析": 35,
+      "技术排除_未读正文": 2,
+      "重复片段仅溯源_未新增分析": 7
+    },
+    "C": {
+      "已分析": 94,
+      "低复用仅溯源": 38,
+      "敏感隔离": 9,
+      "技术排除": 8,
+      "待核": 3
+    }
+  },
+  "failures": [],
+  "source_ledger_before_hash": "2ae7d2e1681d69855120d73d3f1c3539eff4e050b3b759e5868e25df46469f3a",
+  "frozen_cohort_hash": "066ebd5afe0fa699e020b9b7e54e0017d975097277a7aa6f3ca163448bf9001d",
+  "input_ledgers": [
+    {
+      "name": "模型续批_A.json",
+      "sha256": "44fb1be3768086d9e33ff0671bb00fdd53e7e7b075e4395a1d14b05800874dbf"
+    },
+    {
+      "name": "模型续批_B.json",
+      "sha256": "13305fb72ef23172b23591b516899ea5ff3c19b7a62ba21c3f79957872feeed0"
+    },
+    {
+      "name": "模型续批_C.json",
+      "sha256": "4307068a7beedeadb1914f4d5b960e08dd680d806827b2d279ce1bac3150fcbb"
+    }
+  ],
+  "source_files_read": 0,
+  "token_usage": null,
+  "check_scope": "Vault disposition coverage only, not semantic acceptance",
+  "source_ledger_after_hash": "d631039e251297a30ada010f646ceb44f89f83f3715726fdb7bf589551d886fe"
+}

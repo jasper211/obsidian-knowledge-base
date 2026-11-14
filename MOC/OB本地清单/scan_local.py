@@ -44,7 +44,10 @@ def walk(p):
             files.append(r)
 for name in roots:
     p=BASE/name
-    projects.append(row(p,'限定保留' if name in {'Rw权益项目','流程架构项目_jasper'} else '待核','既有最大范围；EA仅价值链价值流'))
+    reason = ('用户确认RW本地主源，仍需文件类型与窗口筛选' if name=='Rw权益项目'
+              else 'EA仅价值链价值流，传统流程排除' if name=='流程架构项目_jasper'
+              else '既有候选外边界，项目准入按独立核定证据，不因存在而保留')
+    projects.append(row(p,'限定保留' if name in {'Rw权益项目','流程架构项目_jasper'} else '待核',reason))
     for child in entries(p):
         keep=name=='Rw权益项目' and child.name in allowed and not child.is_symlink()
         projects.append(row(child,'保留筛类型' if keep else '待核不递归','既有RW准入目录' if keep else '项目状态/主源/敏感/技术边界未核'))
@@ -57,7 +60,7 @@ for child in entries(BASE):
         projects.append(row(child,'待核不递归','桌面剩余入口，归属未核，不读正文'))
 for r in projects:
     n=Path(r['path']).name.lower()
-    if any(t in n for t in ['p&l','eg-','ob知识库','fixture','obsidian-mcp','process-db-mcp']) or n in {'ob','scratch','tmp'} or n.startswith('.'):
+    if any(t in n for t in ['p&l','eg-','ob知识库','fixture','obsidian-mcp','process-db-mcp']) or n in {'ob','scratch','tmp','项目：eg','dw ro邮件同步'} or n.startswith('.'):
         r.update(decision='排除',reason='既有排除/测试工程/OB自身/隐藏入口')
 summary={'checked':now.isoformat(),'project_rows':len(projects),'file_rows':len(files),'failures':failures,'content_candidates':sum(r['decision']=='待核内容类型' for r in files),'reference_rows':sum(r['decision']=='仅引用' for r in files),'scope':'7个既有根直接入口；仅RW八个已准入子树递归；其余待核不递归，非本地全量验收'}
 batch=now.strftime('%Y%m%dT%H%M%S%f')
@@ -71,7 +74,8 @@ for name,data in [('项目入口队列.json',projects),('文件准入队列.json
         prev=old.get(r['path'],{})
         r['discovered']=prev.get('discovered',prev.get('checked',now.isoformat()))
         r['batch']=batch
-        for key in ['analysis_status','manual_decision','review_notes']:
+        # Retain adjudication evidence separately; a fresh scan never grants body access.
+        for key in ['analysis_status','manual_decision','review_notes','admission_review','admission_history','reassessment_review','reassessment_history']:
             if key in prev:r[key]=prev[key]
     unseen=[dict(r,scan_presence='本次未覆盖或未找到，不证明删除',content_read_allowed=False,review_status='待核',batch=batch,discovered=r.get('discovered',r.get('checked'))) for p,r in old.items() if p not in {x['path'] for x in data}]
     data.extend(unseen)

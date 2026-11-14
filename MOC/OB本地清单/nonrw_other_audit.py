@@ -45,7 +45,7 @@ preview_names = ['2026年8月热点Top10_五大类别.html','2026年9月热点To
 rows=[]
 for p in sorted(paths):
     n=Path(p).name
-    r=dict(path=p,old_queue_path=p in old,old_decision=old.get(p,{}).get('decision'),status='待核',reason='归属/项目状态未证实，不以文件名推定准入',source_hash=None,read_bytes=0,read_chars=0,locators=[],token_count=None,token_proxy=0,project_admission='待核',analysis_performed=False)
+    r=dict(path=p,old_queue_path=p in old,old_decision=old.get(p,{}).get('decision'),status='待核',reason='归属/项目状态未证实，不以文件名推定准入',source_hash=None,read_bytes=0,read_chars=0,locators=[],token_count=None,project_admission='待核',analysis_performed=False)
     rel=Path(p).relative_to(D); top=rel.parts[0]
     prohibited = top in ['P&L_EA小组Jasper','DW RO邮件同步','RW产品体系设计及Uniwin新动力协议方案.zip'] or 'KYC' in n or n=='钟明秀.xlsx' or '畅学' in n or 'CL_' in n or 'CL的' in n or any(w in n for w in ['账号','公钥','给运维','SFTP','Syncthing','同步设置','同步项目'])
     tool=top in ['workbuddy','梯子','画板_DrawBoard'] or any(w in n for w in ['Jev配置','JEV盲测','Claude Code工作全貌'])
@@ -95,6 +95,6 @@ for p in sorted(paths):
             for ln,t in parts:
                 if length>=1500: break
                 t=t[:1500-length]; chosen.append((ln,t)); length+=len(t)
-            r.update(read_bytes=len(data),read_chars=length,locators=[{'line':ln,'chars':len(t)} for ln,t in chosen],fragment_hash=hashlib.sha256(data).hexdigest(),hash_scope='prefix bytes only; not whole-source hash',stat_after=after,stat_stable=True,token_proxy=(length+3)//4,governance_preview=chosen,reason='最小治理片段辨归属；不作业务知识分析',read_purpose='最小项目/类型辨识，不是准入后业务分析')
+            r.update(read_bytes=len(data),read_chars=length,locators=[{'line':ln,'chars':len(t)} for ln,t in chosen],fragment_hash=hashlib.sha256(data).hexdigest(),hash_scope='prefix bytes only; not whole-source hash',stat_after=after,stat_stable=True,governance_preview=chosen,reason='最小治理片段辨归属；不作业务知识分析',read_purpose='最小项目/类型辨识，不是准入后业务分析')
     rows.append(r)
 print(json.dumps(dict(queue_total=len(Q),old_scope_count=len(old),window=['2026-05-10T05:00:00Z','2026-11-11T06:00:00Z'],listings=listings,rows=rows),ensure_ascii=False))
