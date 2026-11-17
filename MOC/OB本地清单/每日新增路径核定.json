@@ -2,7 +2,8 @@
   "checked": "2026-11-15T19:48:07.203401-06:00",
   "processed_paths": 608,
   "counts": {
-    "范围证据待核": 601,
+    "范围证据待核": 600,
+    "工程OB范围排除": 1,
     "敏感隔离": 3,
     "技术排除": 2,
     "实验排除": 1,
@@ -14,7 +15,7 @@
   },
   "remaining_groups": {
     "/Users/a112233/Desktop": 6,
-    "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎": 2,
+    "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎": 1,
     "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区": 7,
     "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/自动续保提醒及例行客户通信项目工作区": 6,
     "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区": 7,
@@ -128,27 +129,44 @@
     },
     {
       "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Agent运行仪表盘.md",
-      "checked": "2026-11-15T19:48:07.203401-06:00",
+      "checked": "2026-11-15T23:43:53.118035-06:00",
       "kind": "file",
-      "status": "范围证据待核",
-      "reason": "既有治理入口元数据出现差异；项目仅范围容器，不自动准入正文，待最小治理用途核定",
+      "status": "工程OB范围排除",
+      "reason": "E021既有治理识别明确仪表盘属工程OB；沿用用户范围排除，不因mtime变化重读，不证明当前正文内容或用途已独立复验",
       "source_body_bytes": 0,
       "content_read_allowed": false,
-      "review_status": "pending independent review",
+      "review_status": "独立核查限定通过：范围处置，不是当前正文核实",
       "evidence": {
         "ledger": "非RW_Jasper核定.json",
-        "array": "governance_reads",
-        "id": "G014",
-        "prior_stat": {
-          "dev": "16777231",
-          "ino": "18212749",
-          "size": 1248,
-          "mtime_ns": "1794537335359915575",
-          "ctime_ns": "1794537752458418545"
-        }
+        "entry_id": "E021",
+        "governance_id": "G014"
       },
       "metadata_difference": true,
-      "parent_group": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎"
+      "parent_group": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎",
+      "previous_reconciliation": {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Agent运行仪表盘.md",
+        "checked": "2026-11-15T19:48:07.203401-06:00",
+        "kind": "file",
+        "status": "范围证据待核",
+        "reason": "既有治理入口元数据出现差异；项目仅范围容器，不自动准入正文，待最小治理用途核定",
+        "source_body_bytes": 0,
+        "content_read_allowed": false,
+        "review_status": "pending independent review",
+        "evidence": {
+          "ledger": "非RW_Jasper核定.json",
+          "array": "governance_reads",
+          "id": "G014",
+          "prior_stat": {
+            "dev": "16777231",
+            "ino": "18212749",
+            "size": 1248,
+            "mtime_ns": "1794537335359915575",
+            "ctime_ns": "1794537752458418545"
+          }
+        },
+        "metadata_difference": true,
+        "parent_group": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎"
+      }
     },
     {
       "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/Rw权益项目工作区/daily_sensing_state.json",
@@ -6790,6 +6808,24 @@
   "new_business_analyses": 0,
   "actual_tokens": null,
   "review_status": "独立核查限定通过：608路径覆盖及7条关联一致，不代表范围待核解除",
-  "independent_review": {"agent_id": "01a1deb2-0e65-73e3-b5b1-efb774497155", "coverage": 608, "missing": 0, "extra": 0, "duplicates": 0, "scope_matches": 6, "governance_matches": 1, "pending_paths": 601, "parent_groups": 34, "source_read": false},
-  "local_acceptance": false
+  "independent_review": {
+    "agent_id": "01a1deb2-0e65-73e3-b5b1-efb774497155",
+    "coverage": 608,
+    "missing": 0,
+    "extra": 0,
+    "duplicates": 0,
+    "scope_matches": 6,
+    "governance_matches": 1,
+    "pending_paths": 601,
+    "parent_groups": 34,
+    "source_read": false
+  },
+  "local_acceptance": false,
+  "g014_scope_resolution": {
+    "checked": "2026-11-15T23:43:53.118035-06:00",
+    "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Agent运行仪表盘.md",
+    "source_read_bytes": 0,
+    "review_agent": "01a1deb2-0e65-73e3-b5b1-efb774497155",
+    "boundary": "one path only; parent container not excluded"
+  }
 }

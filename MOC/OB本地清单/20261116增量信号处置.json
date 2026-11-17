@@ -1,0 +1,137 @@
+{
+  "batch": "2026-11-16-nine-signals",
+  "scan_checked": "2026-11-16T13:58:09.355059-06:00",
+  "processed_signals": 9,
+  "records": [
+    {
+      "path": "/Users/a112233/Desktop/截屏2026-11-15 22.10.19.png",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/截屏2026-11-15 22.10.19.png",
+        "signal": "new_inventory_entry",
+        "decision": "待核不递归"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 0,
+      "status": "项目归属待核",
+      "reason": "桌面截图未获项目准入；不解析图片，不因文件新增摄入"
+    },
+    {
+      "path": "/Users/a112233/Desktop/截屏2026-11-16 04.02.25.png",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/截屏2026-11-16 04.02.25.png",
+        "signal": "new_inventory_entry",
+        "decision": "待核不递归"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 0,
+      "status": "项目归属待核",
+      "reason": "桌面截图未获项目准入；不解析图片，不因文件新增摄入"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎",
+        "signal": "metadata_changed",
+        "admission": "requires type/window recheck; not body authorization"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 0,
+      "status": "容器信号处置",
+      "reason": "目录mtime变化不说明子项目在用；不继承正文准入"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/.syncthing.Agent健康报告.md.tmp",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/.syncthing.Agent健康报告.md.tmp",
+        "checked": "2026-11-16T13:58:09.355059-06:00",
+        "signal": "not_observed_in_direct_listing",
+        "source_body_read": false,
+        "meaning": "not proof of deletion; prior admission retained as historical only"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 0,
+      "status": "未见信号保留",
+      "reason": "只说明直接列表未见，不证明删除；隐藏同步临时不摄入，缺失项目入口不自行判作废"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/.syncthing.Agent运行仪表盘.md.tmp",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/.syncthing.Agent运行仪表盘.md.tmp",
+        "checked": "2026-11-16T13:58:09.355059-06:00",
+        "signal": "not_observed_in_direct_listing",
+        "source_body_read": false,
+        "meaning": "not proof of deletion; prior admission retained as historical only"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 0,
+      "status": "未见信号保留",
+      "reason": "只说明直接列表未见，不证明删除；隐藏同步临时不摄入，缺失项目入口不自行判作废"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Agent健康报告.md",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Agent健康报告.md",
+        "signal": "metadata_changed",
+        "admission": "requires type/window recheck; not body authorization"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 0,
+      "status": "范围待核",
+      "reason": "未获业务项目/类型准入，不凭邻近仪表盘推断或读取"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Agent运行仪表盘.md",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/Jasper AI协同经验引擎/Agent运行仪表盘.md",
+        "signal": "metadata_changed",
+        "admission": "requires type/window recheck; not body authorization"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 0,
+      "status": "沿用工程OB排除",
+      "reason": "E021/G014既有范围处置不因mtime变化解除；不重读正文"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/合规引擎本体项目工作区",
+        "checked": "2026-11-16T13:58:09.355059-06:00",
+        "signal": "not_observed_in_direct_listing",
+        "source_body_read": false,
+        "meaning": "not proof of deletion; prior admission retained as historical only"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 0,
+      "status": "未见信号保留",
+      "reason": "只说明直接列表未见，不证明删除；隐藏同步临时不摄入，缺失项目入口不自行判作废"
+    },
+    {
+      "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/README.md",
+      "original_signal": {
+        "path": "/Users/a112233/Desktop/Jasper工作文档（不含EA项目）/项目工作区/蓝象合规引擎项目工作区/README.md",
+        "signal": "metadata_changed",
+        "admission": "requires type/window recheck; not body authorization"
+      },
+      "content_read_allowed": false,
+      "source_read_bytes": 768,
+      "status": "治理片段识别后暂缓",
+      "reason": "E065限定历史设计/观点用途；必要入口出现待确认股权安排即停止，不跟链接，不作现行批准或业务条款结论",
+      "source_read_locator": "UTF-8 byte range [0,768), incomplete trailing character ignored",
+      "observed_at": "2026-11-16T19:35:10.100619-06:00",
+      "mtime_ns": "1794808416040092551",
+      "size": 36709,
+      "stat_stable": true,
+      "declared_business_date": "frontmatter updated 2026-11-05; source declaration only",
+      "source_claim": "合作筹备、存在待确认事项；非当前状态独立核验",
+      "continuation": "仅取得可分离、非敏感业务片段范围证据后继续；不自动读取链接目标"
+    }
+  ],
+  "source_body_bytes": 768,
+  "source_files_read": 1,
+  "new_business_analyses": 0,
+  "actual_tokens": null,
+  "review_status": "独立核查认可拟议范围处置口径；源读取数据为主控记录，未独立核源",
+  "review_agent": "01a1deb2-0e65-73e3-b5b1-efb774497155",
+  "local_acceptance": false,
+  "remaining": "Scope and safe-content gaps retained; signal disposition does not resolve them"
+}
